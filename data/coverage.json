@@ -1,0 +1,119 @@
+{
+  "generated_at": "2026-08-30T21:43:41.512264Z",
+  "total_rows": 34087,
+  "free_rows": 34087,
+  "new_ids_this_run": 34087,
+  "delay_hours": 48,
+  "states": {
+    "AZ": {
+      "rows": 618,
+      "raw_rows": 636,
+      "status": "ok"
+    },
+    "CA": {
+      "rows": 16526,
+      "raw_rows": 17399,
+      "status": "ok"
+    },
+    "CT": {
+      "rows": 27,
+      "raw_rows": 27,
+      "status": "ok"
+    },
+    "IA": {
+      "rows": 415,
+      "raw_rows": 429,
+      "status": "ok"
+    },
+    "IL": {
+      "rows": 4032,
+      "raw_rows": 4885,
+      "status": "ok"
+    },
+    "IN": {
+      "rows": 1180,
+      "raw_rows": 1221,
+      "status": "ok"
+    },
+    "KY": {
+      "rows": 804,
+      "raw_rows": 832,
+      "status": "ok"
+    },
+    "MD": {
+      "rows": 1273,
+      "raw_rows": 1417,
+      "status": "ok"
+    },
+    "MT": {
+      "rows": 46,
+      "raw_rows": 46,
+      "status": "ok"
+    },
+    "NE": {
+      "rows": 845,
+      "raw_rows": 960,
+      "status": "ok"
+    },
+    "NJ": {
+      "rows": 2320,
+      "raw_rows": 2366,
+      "status": "ok"
+    },
+    "NY": {
+      "rows": 141,
+      "raw_rows": 193,
+      "status": "ok"
+    },
+    "OK": {
+      "rows": 169,
+      "raw_rows": 219,
+      "status": "ok"
+    },
+    "OR": {
+      "rows": 1363,
+      "raw_rows": 1363,
+      "status": "ok"
+    },
+    "RI": {
+      "rows": 126,
+      "raw_rows": 126,
+      "status": "ok"
+    },
+    "SC": {
+      "rows": 601,
+      "raw_rows": 608,
+      "status": "ok"
+    },
+    "SD": {
+      "rows": 80,
+      "raw_rows": 80,
+      "status": "ok"
+    },
+    "TN": {
+      "rows": 1060,
+      "raw_rows": 1062,
+      "status": "ok"
+    },
+    "UT": {
+      "rows": 282,
+      "raw_rows": 282,
+      "status": "ok"
+    },
+    "VT": {
+      "rows": 70,
+      "raw_rows": 70,
+      "status": "ok"
+    },
+    "WA": {
+      "rows": 1492,
+      "raw_rows": 1498,
+      "status": "ok"
+    },
+    "WI": {
+      "rows": 617,
+      "raw_rows": 635,
+      "status": "ok"
+    }
+  }
+}
