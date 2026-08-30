@@ -1,8 +1,9 @@
 {
-  "generated_at": "2026-08-30T21:43:41.512264Z",
+  "generated_at": "2026-08-30T21:48:26.704009Z",
   "total_rows": 34087,
-  "free_rows": 34087,
-  "new_ids_this_run": 34087,
+  "free_rows": 10115,
+  "free_window_start": "2024-01-01",
+  "new_ids_this_run": 0,
   "delay_hours": 48,
   "states": {
     "AZ": {

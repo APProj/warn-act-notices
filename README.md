@@ -1,6 +1,6 @@
 # US WARN Act Layoff Notices — normalized, daily-updated dataset
 
-**34,087 layoff notices · 22 states · one clean schema · CSV + JSON · updated 2026-08-30**
+**10,115 layoff notices since 2024 · 22 states · one clean schema · CSV + JSON · updated 2026-08-30**
 
 Every US state publishes WARN Act layoff notices differently — different sites,
 formats, column names, and date conventions. This repo normalizes them into one
@@ -13,8 +13,11 @@ deduplicated dataset, refreshed daily.
 - Coverage/freshness metadata: [`data/coverage.json`](data/coverage.json)
 - Stats page: https://approj.github.io/warn-act-notices/
 
-No login, no API key. This free dataset is **48h-delayed**: newly scraped
-notices appear here 48 hours after our pipeline first sees them.
+No login, no API key. Scope of the free dataset, stated plainly: notices from
+**2024-01-01** onward, **48h-delayed** (newly scraped notices appear here 48 hours
+after our pipeline first sees them). The full archive back to 1988
+(34,087 notices) and the zero-delay feed are the commercial products
+that fund the pipeline.
 
 ## Schema
 
@@ -67,8 +70,10 @@ If you use layoff notices as sales/recruiting triggers, the 48h delay is the
 expensive part. Commercial options:
 
 - **Real-time feed** — the same dataset with zero delay, including notices seen
-  in the last 48h, refreshed on every pipeline run.
-- **Full historical archive** — one-time purchase, all states, full depth.
+  in the last 48h, refreshed on every pipeline run. Delivered as a private
+  GitHub repo you can pull/watch.
+- **Full historical archive** — one-time purchase: every notice we have back to
+  1988 (34,087 rows, all 22 states), CSV + JSON.
 
 Available at **https://approj.gumroad.com** — or [open an issue](https://github.com/APProj/warn-act-notices/issues) with the
 label `commercial` and we'll get you set up.
