@@ -1355,12 +1355,12 @@
 {
 "company": "SMBC MANUBANK",
 "location": "New York",
-"employees_affected": 23,
+"employees_affected": "",
 "notice_date": "2026-08-11",
 "effective_date": "",
 "notice_type": "WARN",
 "state": "AZ",
-"id": "69bcf5581b0db0e4",
+"id": "caa26c065eb5b5ab",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -1757,28 +1757,6 @@
 "notice_type": "CL",
 "state": "WI",
 "id": "983bd1a3888bd3b3",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
-"company": "Essendant",
-"location": "Phoenix",
-"employees_affected": 53,
-"notice_date": "2026-08-04",
-"effective_date": "",
-"notice_type": "WARN",
-"state": "AZ",
-"id": "cd0d1c5c75d2ca8a",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
-"company": "Salad and Go",
-"location": "Phoenix",
-"employees_affected": "",
-"notice_date": "2026-08-04",
-"effective_date": "",
-"notice_type": "WARN",
-"state": "AZ",
-"id": "6dec32aaefbe7b1b",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -3300,17 +3278,6 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
-"company": "Select Medical Corporation",
-"location": "Tucson",
-"employees_affected": "",
-"notice_date": "2026-07-09",
-"effective_date": "",
-"notice_type": "WARN",
-"state": "AZ",
-"id": "e390cd952565c365",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
 "company": "Xpress Delivery LLC (DSJ9)",
 "location": "Alameda County",
 "employees_affected": 80,
@@ -3905,17 +3872,6 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
-"company": "Conduent Commercial Solutions, LLC",
-"location": "Florham Park",
-"employees_affected": 3,
-"notice_date": "2026-06-29",
-"effective_date": "",
-"notice_type": "WARN",
-"state": "AZ",
-"id": "80fc9b2c22a77bc6",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
 "company": "VCA Corporate Support Office",
 "location": "Los Angeles County",
 "employees_affected": 100,
@@ -4444,17 +4400,6 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
-"company": "Central Admixture Pharmacy Services, Inc.",
-"location": "Phoenix",
-"employees_affected": 116,
-"notice_date": "2026-06-25",
-"effective_date": "",
-"notice_type": "WARN",
-"state": "AZ",
-"id": "6c6b16933c963969",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
 "company": "Bungie, Inc/Sony Interactive Entertainment",
 "location": "Bellevue",
 "employees_affected": 292,
@@ -4463,17 +4408,6 @@
 "notice_type": "Layoff",
 "state": "WA",
 "id": "baf541c20cc550b4",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
-"company": "Ingram Micro Services LLC",
-"location": "Chandler",
-"employees_affected": "",
-"notice_date": "2026-06-24",
-"effective_date": "",
-"notice_type": "WARN",
-"state": "AZ",
-"id": "5d9adf4d931c5209",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -5368,17 +5302,6 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
-"company": "University of Vermont Health",
-"location": "Burlington",
-"employees_affected": "",
-"notice_date": "2026-06-09",
-"effective_date": "",
-"notice_type": "WARN",
-"state": "VT",
-"id": "1f99da2a792d7b67",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
 "company": "Verily Health Inc.",
 "location": "San Mateo County",
 "employees_affected": 58,
@@ -5530,17 +5453,6 @@
 "notice_type": "Layoff",
 "state": "NY",
 "id": "a6e01322780535b5",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
-"company": "SMBC MANUBANK",
-"location": "New York",
-"employees_affected": "",
-"notice_date": "2026-06-04",
-"effective_date": "",
-"notice_type": "WARN",
-"state": "AZ",
-"id": "caa26c065eb5b5ab",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -6025,17 +5937,6 @@
 "notice_type": "Mass Layoff - No Recall: Note: Performing work at SBYA facility",
 "state": "MD",
 "id": "56e220fe9b352241",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
-"company": "Federal Express Corporation",
-"location": "Phoenix",
-"employees_affected": "",
-"notice_date": "2026-06-02",
-"effective_date": "",
-"notice_type": "WARN",
-"state": "AZ",
-"id": "00be2ba7d79be923",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -7502,17 +7403,6 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
-"company": "SDH Education West, LLC",
-"location": "Phoenix",
-"employees_affected": 489,
-"notice_date": "2026-05-14",
-"effective_date": "",
-"notice_type": "WARN",
-"state": "AZ",
-"id": "d00163f963211542",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
 "company": "Stepping Stone",
 "location": "Los Angeles County",
 "employees_affected": 8,
@@ -8954,17 +8844,6 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
-"company": "Northpoint Expeditionary Learning Academy",
-"location": "Prescott",
-"employees_affected": 21,
-"notice_date": "2026-04-29",
-"effective_date": "",
-"notice_type": "WARN",
-"state": "AZ",
-"id": "adceb636d5d63722",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
 "company": "Benchmark",
 "location": "Phoenix",
 "employees_affected": 75,
@@ -10084,17 +9963,6 @@
 "notice_type": "Layoff",
 "state": "WA",
 "id": "843d78a970b914d8",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
-"company": "Marsden Services, LLC",
-"location": "Tucson",
-"employees_affected": "",
-"notice_date": "2026-04-15",
-"effective_date": "",
-"notice_type": "WARN",
-"state": "AZ",
-"id": "97984ec38dbf58f0",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -15510,17 +15378,6 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
-"company": "Lowe's Companies, Inc.",
-"location": "Mooresville",
-"employees_affected": 12,
-"notice_date": "2026-02-16",
-"effective_date": "",
-"notice_type": "WARN",
-"state": "AZ",
-"id": "33a8b2bc90bc378e",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
 "company": "Peshastin Pear Packers, LLC.",
 "location": "Peshastin",
 "employees_affected": 31,
@@ -17135,17 +16992,6 @@
 "notice_type": "WR",
 "state": "WI",
 "id": "c8ffe0d16ed31bb4",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
-"company": "Shell Recharge Solutions",
-"location": "Los Angeles",
-"employees_affected": "",
-"notice_date": "2026-01-29",
-"effective_date": "",
-"notice_type": "WARN",
-"state": "AZ",
-"id": "1a36f379d7abd9cc",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -19195,17 +19041,6 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
-"company": "SMBC Group - JeniusBank",
-"location": "Scottsdale",
-"employees_affected": "",
-"notice_date": "2026-01-08",
-"effective_date": "",
-"notice_type": "WARN",
-"state": "AZ",
-"id": "60ee9ffd8d75c7c8",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
 "company": "Alameda Health System - Wilma Chan Highland Hospital",
 "location": "Alameda County",
 "employees_affected": 128,
@@ -19324,17 +19159,6 @@
 "notice_type": "Layoff",
 "state": "WA",
 "id": "c870f92d64e86d7b",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
-"company": "GNC Distribution Center",
-"location": "Phoenix",
-"employees_affected": 66,
-"notice_date": "2026-01-07",
-"effective_date": "",
-"notice_type": "WARN",
-"state": "AZ",
-"id": "27bfc11409950c36",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -26881,17 +26705,6 @@
 "notice_type": "Temporary Mass Layoff Update: Temporary, 2 week layoff for necessary maintenance",
 "state": "MD",
 "id": "b490c0e9a858140a",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
-"company": "HP Hood",
-"location": "Barre",
-"employees_affected": 70,
-"notice_date": "2025-09-24",
-"effective_date": "",
-"notice_type": "WARN",
-"state": "VT",
-"id": "576ea6606c1ac27a",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -40558,17 +40371,6 @@
 },
 {
 "company": "LUKE Holding Inc.",
-"location": "Nogales",
-"employees_affected": "",
-"notice_date": "2025-02-28",
-"effective_date": "",
-"notice_type": "WARN",
-"state": "AZ",
-"id": "8ce6751e19797a47",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
-"company": "LUKE Holding Inc.",
 "location": "Yuma",
 "employees_affected": 54,
 "notice_date": "2025-02-28",
@@ -41159,28 +40961,6 @@
 "notice_type": "WARN",
 "state": "AZ",
 "id": "06f4b1e4594dca35",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
-"company": "Nikola Corporation",
-"location": "Coolidge",
-"employees_affected": "",
-"notice_date": "2025-02-19",
-"effective_date": "",
-"notice_type": "WARN",
-"state": "AZ",
-"id": "4464739449127da8",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
-"company": "Behavioral Health Link",
-"location": "Atlanta",
-"employees_affected": 2,
-"notice_date": "2025-02-19",
-"effective_date": "",
-"notice_type": "WARN",
-"state": "AZ",
-"id": "93b02603f1c921e2",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
