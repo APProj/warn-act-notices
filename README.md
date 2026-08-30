@@ -92,14 +92,15 @@ never invent values.
 If you use layoff notices as sales/recruiting triggers, the 48h delay is the
 expensive part. Commercial options:
 
-- **Real-time feed** — the same dataset with zero delay, including notices seen
-  in the last 48h, refreshed on every pipeline run. Delivered as a private
-  GitHub repo you can pull/watch.
-- **Full historical archive** — one-time purchase: every notice we have back to
-  1988 (34,899 rows, all 24 states), CSV + JSON.
+- **[Real-time feed — $49/mo](https://approj.gumroad.com/l/warn-realtime)** — the same dataset with zero
+  delay, including notices seen in the last 48h, refreshed on every pipeline
+  run. Delivered as a private GitHub repo you can pull/watch.
+- **[Full historical archive — $199 one-time](https://approj.gumroad.com/l/warn-archive)** — every notice
+  we have back to 1988 (34,899 rows, all 24 states), CSV + JSON.
 
-Available at **https://approj.gumroad.com** — or [open an issue](https://github.com/APProj/warn-act-notices/issues) with the
-label `commercial` and we'll get you set up.
+Delivery is automatic: enter your GitHub username at checkout and you're
+invited to the private repo. Questions first? [Open an issue](https://github.com/APProj/warn-act-notices/issues)
+with the label `commercial`.
 
 ## Sources & attribution
 
