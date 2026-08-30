@@ -1,0 +1,39 @@
+id,state,company,location,employees_affected,notice_date,effective_date,notice_type,first_seen
+26885c4c11ce7b3a,KY,SMBC Manubank,Out of the State County,1,2026-08-10,2026-10-09,Closure,2026-08-30T21:43:41.512264Z
+5b725905bb751808,KY,80 Acres Farm,Boone,127,2026-08-03,2026-08-03,Closure,2026-08-30T21:43:41.512264Z
+a74369c4d0195958,KY,Battelle Memorial Institute E3,Madison,1,2026-07-23,2026-09-24,Closure,2026-08-30T21:43:41.512264Z
+b80cd328ee6fed12,KY,Geodis,Boone,73,2026-07-10,2026-09-08,Layoff,2026-08-30T21:43:41.512264Z
+4d8e4ccd37fff918,KY,Levi Strauss & Co,Boone,303,2026-06-30,2026-08-30,Closure,2026-08-30T21:43:41.512264Z
+a63554d6ae54bd22,KY,Conduent (Corporate),Jefferson County - Louisville,24,2026-06-29,2026-08-28,Layoff,2026-08-30T21:43:41.512264Z
+98d0e7a159f779ac,KY,"Congo Brands (Alani, Prime, 3D Energy)",Jefferson,28,2026-06-26,2026-08-26,Layoff,2026-08-30T21:43:41.512264Z
+aab1121542eb6da2,KY,"RNDC of Kentucky, LLC",Jefferson County - Louisville,174,2026-06-18,2026-08-17,Closure,2026-08-30T21:43:41.512264Z
+fb50ecd8a267d2f0,KY,Vestis,Fayette,32,2026-06-16,2026-08-15,Closure,2026-08-30T21:43:41.512264Z
+2fa6a580469eda12,KY,Carrier Corporation (Franklin Operation),Simpson,70,2026-06-12,2026-08-30,Closure,2026-08-30T21:43:41.512264Z
+ca42bad86723bea7,KY,Battelle Memorial Institute E3,Madison,3,2026-05-07,2026-07-06,Closure,2026-08-30T21:43:41.512264Z
+2aeefb7ee81f7e8e,KY,"University of Kentucky College of Medicine, Department of Behavioral Science",Fayette,36,2026-05-05,2026-06-30,,2026-08-30T21:43:41.512264Z
+6d73c0edefe72626,KY,UK HealthCare-HIV Program Operations (KIRP),Fayette,61,2026-05-05,2026-06-30,Closure,2026-08-30T21:43:41.512264Z
+6ee01a5634daf973,KY,Stella-Jones Corporation,Fulton,67,2026-04-30,2026-07-01,Closure,2026-08-30T21:43:41.512264Z
+8372b1f589029349,KY,"Aramark Campus, LLC (University of Kentucky)",Fayette,923,2026-04-29,2026-06-30,Closure,2026-08-30T21:43:41.512264Z
+8442631430d6bf04,KY,Marsden Services LLC,Jefferson County - Louisville,106,2026-04-16,2026-05-10,Layoff,2026-08-30T21:43:41.512264Z
+41f37eace48ad099,KY,Legacy Supply Chain,Jefferson County - Louisville,123,2026-04-01,2026-06-06,Closure,2026-08-30T21:43:41.512264Z
+cb31da79a4663687,KY,Bluegrass UPS Facility,Jefferson County - Louisville,65,2026-04-01,2026-06-02,Closure,2026-08-30T21:43:41.512264Z
+a11830b1bd7ec97b,KY,CC Metals and Alloys,Marshall,114,2026-03-17,2026-03-24,Layoff,2026-08-30T21:43:41.512264Z
+876d2271e64f93db,KY,C2 Technologies,Out of the State County,2,2026-03-06,2026-03-06,Layoff,2026-08-30T21:43:41.512264Z
+adba1e67baeed12c,KY,Battelle Memorial Institute E3,Madison,5,2026-03-05,2026-05-06,Closure,2026-08-30T21:43:41.512264Z
+f8667aefe3dd31d4,KY,"FRAM First Brands Group, LLC",Boone,76,2026-02-24,2026-04-30,Closure,2026-08-30T21:43:41.512264Z
+3dacb61aaa067baa,KY,HGS CX TECHNOLOGIES INC.,Franklin,1,2026-02-04,2026-03-31,Layoff,2026-08-30T21:43:41.512264Z
+5505a9a5caee0daa,KY,PARSONS CORPORATION,Madison,8,2026-02-03,2026-04-16,Closure,2026-08-30T21:43:41.512264Z
+073fe477c17abc31,KY,"T-Mobile USA, Inc.",Jefferson County - Louisville,74,2026-01-31,2026-04-02,Layoff,2026-08-30T21:43:41.512264Z
+b842b515971dd6f0,KY,Battelle Memorial Institute E3,Madison,30,2026-01-29,2026-04-02,Closure,2026-08-30T21:43:41.512264Z
+1b9970951dfe1d11,KY,Bechtel Parsons Blue Grass,Madison,33,2026-01-19,2026-03-20,Closure,2026-08-30T21:43:41.512264Z
+da59323ac7798e68,KY,PARSONS CORPORATION,Madison,42,2026-01-12,2026-03-26,Closure,2026-08-30T21:43:41.512264Z
+fe2c6f85b55687c4,KY,Battelle Memorial Institute E3,Madison,60,2026-01-05,2026-03-05,Closure,2026-08-30T21:43:41.512264Z
+4dd52e8aab7f4ad1,KY,Battelle Memorial Institute E3,Madison,17,2025-12-17,2026-02-18,Closure,2026-08-30T21:43:41.512264Z
+c9028f30c4057e2f,KY,Blue Oval SK Group/Battery Plant,Hardin,1514,2025-12-16,2026-03-31,Closure,2026-08-30T21:43:41.512264Z
+69f4169e30a246ef,KY,Thyssenkrupp,Boone,77,2025-12-15,2026-02-13,Closure,2026-08-30T21:43:41.512264Z
+a23301e612af1f09,KY,PARSONS CORPORATION,Madison,32,2025-12-15,2026-01-16,Closure,2026-08-30T21:43:41.512264Z
+fb06644fb4ea9084,KY,Commonwealth General Corp..,Jefferson,360,,,,2026-08-30T21:43:41.512264Z
+fa0f0052635c1f2b,KY,"Kentucky Apparel, L.L.P.",Warren,61,,,Layoff,2026-08-30T21:43:41.512264Z
+a5d4da065dcf8330,KY,Mountain Coals Corporation Star Fire Mine Buckhorn Processing Plant,Perry,79,,,Layoff,2026-08-30T21:43:41.512264Z
+dbae6de252d7188f,KY,Philip Morris,Jefferson,260,,,,2026-08-30T21:43:41.512264Z
+945fb47ef9ccda80,KY,Martinrea Heavy Stamping,,,,,,2026-08-30T21:43:41.512264Z

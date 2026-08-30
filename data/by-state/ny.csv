@@ -1,0 +1,142 @@
+id,state,company,location,employees_affected,notice_date,effective_date,notice_type,first_seen
+30a7bc8f7ed7cd0c,NY,"Sky Chefs, LLC",Queens,471,2026-08-04,2026-10-07,Layoff,2026-08-30T21:43:41.512264Z
+1ed516fe0fca5280,NY,Novanta Corporation,Onondaga,49,2026-07-21,2027-03-31,Closure,2026-08-30T21:43:41.512264Z
+ca44dcdd5972d26b,NY,Buffalo Newspress Inc. d/b/a BNP Empowered Print,Erie,81,2026-07-09,2026-07-09,Closure,2026-08-30T21:43:41.512264Z
+278a765f5bb515d5,NY,"Pomonok Home Services, Inc.",Queens,226,2026-07-09,2026-10-08,Closure,2026-08-30T21:43:41.512264Z
+4969d431aff76a74,NY,LIV Golf Incorporated and Affiliates,New York,162,2026-07-08,2026-10-06,Layoff,2026-08-30T21:43:41.512264Z
+2707eef208f88cf5,NY,"Ferraro Foods of New York North, LLC.",Oneida,62,2026-07-07,2026-07-07,Closure,2026-08-30T21:43:41.512264Z
+2e2590f89e10bdd9,NY,NYY Steak LLC,Bronx,21,2026-07-02,2026-09-30,Closure,2026-08-30T21:43:41.512264Z
+308021b86e60faad,NY,Alray Car Parts Supply & Mfg. Corp.d/b/a Tinker Auto Parts,Suffolk,20,2026-07-01,2026-08-30,Closure,2026-08-30T21:43:41.512264Z
+11aae7ae92c110ef,NY,Alray Car Parts Supply & Mfg. Corp.d/b/a Tinker Auto Parts,Suffolk,31,2026-07-01,2026-08-30,Closure,2026-08-30T21:43:41.512264Z
+545e96ca20d54e3e,NY,Hyatt Corporation,New York,52,2026-07-01,2026-09-29,Layoff,2026-08-30T21:43:41.512264Z
+567faf6937ed55ab,NY,"Brinker International Payroll Company, L.P.",Nassau,57,2026-06-30,2026-09-28,Closure,2026-08-30T21:43:41.512264Z
+fd6bce6b891f4378,NY,"Diageo North America, Inc",New York,305,2026-06-30,2026-09-30,Layoff,2026-08-30T21:43:41.512264Z
+d6a829ea71c0b9a4,NY,"Springer Nature America, Inc.",New York,24,2026-06-23,2026-06-23,Closure,2026-08-30T21:43:41.512264Z
+3381b2f4fba416b3,NY,"Piedmont Airlines, Inc.",Onondaga,88,2026-06-12,2026-09-10,Closure,2026-08-30T21:43:41.512264Z
+57c62e673f910090,NY,"Resideo, LLC. D/B/A ADI",Albany,55,2026-06-12,2026-09-15,Closure,2026-08-30T21:43:41.512264Z
+a6e01322780535b5,NY,"H&M Fashion USA, Inc.",New York,76,2026-06-05,2026-09-04,Layoff,2026-08-30T21:43:41.512264Z
+6a39ae85041c9556,NY,Jennie B. Richmond Nursing Home,Erie,37,2026-06-02,2026-08-31,Closure,2026-08-30T21:43:41.512264Z
+33d30415654a9a5c,NY,Allied Aviation Service Company of New York Inc.,Queens,42,2026-05-29,2026-08-02,Closure,2026-08-30T21:43:41.512264Z
+8e297967e905fdad,NY,"Oswego Beverage Company, LLC.",Oswego,59,2026-05-29,2026-08-28,Closure,2026-08-30T21:43:41.512264Z
+8ea95d849d73be2f,NY,"Oswego Beverage Company, LLC.",Jefferson,42,2026-05-29,2026-08-28,Closure,2026-08-30T21:43:41.512264Z
+045e342c84cfa182,NY,"Flagship Logistics, LLC.",Steuben,43,2026-05-28,2026-06-30,Closure,2026-08-30T21:43:41.512264Z
+c797202c133f71ec,NY,Bronx Parent Housing Network,Bronx,44,2026-05-27,2026-08-31,Layoff,2026-08-30T21:43:41.512264Z
+f72d1159972c8727,NY,"Saint-Gobain Ceramics & Plastics, Inc. (Monofrax, LLC.)",Chautauqua,79,2026-05-27,2026-09-01,Layoff,2026-08-30T21:43:41.512264Z
+cf33321b6316bd51,NY,"SY SEIT, LLC.",Queens,13,2026-05-26,2026-08-31,Closure,2026-08-30T21:43:41.512264Z
+d1cedf2f22657902,NY,Meta,New York,417,2026-05-20,2026-08-20,Layoff,2026-08-30T21:43:41.512264Z
+332be68e559b2389,NY,Meta,New York,354,2026-05-20,2026-08-20,Layoff,2026-08-30T21:43:41.512264Z
+75d229da72d2bf1d,NY,Meta,New York,389,2026-05-20,2026-08-20,Layoff,2026-08-30T21:43:41.512264Z
+7ce3fe46a303a4f3,NY,"Van Trans, LLC.",Westchester,297,2026-05-15,2026-09-01,Layoff,2026-08-30T21:43:41.512264Z
+ba648b2c608d4a8d,NY,"OceanFirst Bank, N.A.",Nassau,174,2026-05-11,2026-08-10,Layoff,2026-08-30T21:43:41.512264Z
+af7fdc8ca2030ba3,NY,"AVI Foodsystems, Inc.",Allegany,45,2026-05-08,2026-05-31,Closure,2026-08-30T21:43:41.512264Z
+d6a37e55f810276f,NY,"Etain, LLC.",Warren,37,2026-05-05,2026-08-03,Closure,2026-08-30T21:43:41.512264Z
+03084ca91ec60848,NY,"Spirit Airlines, LLC",New York,186,2026-05-02,2026-05-02,Closure,2026-08-30T21:43:41.512264Z
+689065a3dec93b56,NY,Independence Care System,Bronx,89,2026-05-01,2026-07-30,Closure,2026-08-30T21:43:41.512264Z
+bb6c94a931198aab,NY,"Republic National Distributing Company New York, LLC.",New York,86,2026-05-01,2026-07-31,Closure,2026-08-30T21:43:41.512264Z
+68676f7151ce9076,NY,"Republic National Distributing Company New York, LLC.",Onondaga,46,2026-05-01,2026-07-31,Closure,2026-08-30T21:43:41.512264Z
+af180358dca8e1dd,NY,Apple Bank,Westchester,26,2026-04-30,2026-08-31,Layoff,2026-08-30T21:43:41.512264Z
+85fcf7c9f450782c,NY,Bush Industries Inc. d/b/a eSolutions Group,Chautauqua,237,2026-04-30,2026-04-30,Closure,2026-08-30T21:43:41.512264Z
+62506fec73e21aae,NY,"Coral Graphic Services, Inc.",Nassau,85,2026-04-30,2026-07-30,Closure,2026-08-30T21:43:41.512264Z
+abbc815d05cd8b39,NY,Saks & Company LLC,New York,136,2026-04-30,2026-05-01,Closure,2026-08-30T21:43:41.512264Z
+299f978928b14016,NY,Saks & Company LLC,New York,3,2026-04-30,2026-05-01,Closure,2026-08-30T21:43:41.512264Z
+658640a5a471a9d9,NY,Saks & Company LLC,Nassau,2,2026-04-30,2026-05-01,Closure,2026-08-30T21:43:41.512264Z
+152f04fe4ee3223b,NY,Saks & Company LLC,New York,8,2026-04-30,2026-05-01,Closure,2026-08-30T21:43:41.512264Z
+4e5c75f716764d4b,NY,"International Imaging Materials, Inc. (Armor-IIMAK)",Erie,199,2026-04-27,2026-07-31,Closure,2026-08-30T21:43:41.512264Z
+b8befc2c912a3d50,NY,"Medical Care at Home, P.C.",New York,28,2026-04-27,2026-07-24,Closure,2026-08-30T21:43:41.512264Z
+6a804a5903af291a,NY,"Recreational Equipment, Inc.",New York,72,2026-04-24,2026-07-23,Closure,2026-08-30T21:43:41.512264Z
+489e61211ef0d0ae,NY,"Knight Facilities Management, Inc.",New York,2,2026-04-22,2026-04-30,Closure,2026-08-30T21:43:41.512264Z
+53389ceb97a56d21,NY,"Knight Facilities Management, Inc.",New York,1,2026-04-22,2026-04-30,Closure,2026-08-30T21:43:41.512264Z
+064cfece65ea47af,NY,"Knight Facilities Management, Inc.",Queens,0,2026-04-22,2026-04-30,Closure,2026-08-30T21:43:41.512264Z
+101cf68e04febeab,NY,"Knight Facilities Management, Inc.",Queens,3,2026-04-22,2026-04-30,Closure,2026-08-30T21:43:41.512264Z
+d456bbeeb3a89ae1,NY,"Durham School Services, LP./Monroe School Transportation, Inc.",Monroe,180,2026-04-21,2026-07-12,Closure,2026-08-30T21:43:41.512264Z
+f1d9b5efb19a871d,NY,Saks & Company LLC,New York,24,2026-04-20,2026-05-01,Closure,2026-08-30T21:43:41.512264Z
+f3ae71e91adf6fb5,NY,G&L Restaurant LLC,New York,37,2026-04-14,2026-07-14,Closure,2026-08-30T21:43:41.512264Z
+33b1b11eb276bb9b,NY,"Durham School Services, LP./Monroe School Transportation, Inc.",Albany,78,2026-04-13,2026-07-12,Closure,2026-08-30T21:43:41.512264Z
+de8e835b46f55dc4,NY,420 Park FB LLC,New York,42,2026-04-06,2026-07-06,Closure,2026-08-30T21:43:41.512264Z
+66da2dc90248dd0b,NY,"Oracle America, Inc.",Westchester,62,2026-04-02,2026-07-01,Layoff,2026-08-30T21:43:41.512264Z
+51cb73cf256365ba,NY,The Rockefeller University,New York,27,2026-04-02,2026-06-30,Closure,2026-08-30T21:43:41.512264Z
+a8bac5d08fc1fc35,NY,Cayuga Home for Children,Albany,1,2026-04-01,2026-06-30,Closure,2026-08-30T21:43:41.512264Z
+1707f71f141448a7,NY,Cayuga Home for Children,Cayuga,14,2026-04-01,2026-06-30,Closure,2026-08-30T21:43:41.512264Z
+6ed1e9971cfafd01,NY,Cayuga Home for Children,New York,319,2026-04-01,2026-06-30,Closure,2026-08-30T21:43:41.512264Z
+390ae21c29af12e6,NY,"College Association at Delhi, Inc.- SUNY Delhi",Delaware,53,2026-04-01,2026-06-30,Layoff,2026-08-30T21:43:41.512264Z
+b3a8ffc6dc39f75b,NY,Lutheran Social Services of New York,Kings,20,2026-04-01,2026-06-30,Closure,2026-08-30T21:43:41.512264Z
+bcb1b0bdee99051b,NY,Lutheran Social Services of New York,Kings,30,2026-04-01,2026-06-30,Closure,2026-08-30T21:43:41.512264Z
+1471805ccff42ec7,NY,Lutheran Social Services of New York,Queens,38,2026-04-01,2026-06-30,Closure,2026-08-30T21:43:41.512264Z
+c26ef186881ba625,NY,The Children's Village,Westchester,200,2026-04-01,2026-06-30,Closure,2026-08-30T21:43:41.512264Z
+384b42e1f33628d1,NY,"USIC Locating Services, LLC. d/b/a Reconn Utility Services",Suffolk,72,2026-04-01,2026-04-06,Layoff,2026-08-30T21:43:41.512264Z
+17e5e632e8d4f6ca,NY,"Maximus, Inc.",Monroe,176,2026-03-31,2026-06-30,Layoff,2026-08-30T21:43:41.512264Z
+79d04b1d0fa28c7d,NY,"Sparus Holdings, LLC. & Southern Cross, LLC",Westchester,19,2026-03-31,2026-06-30,Layoff,2026-08-30T21:43:41.512264Z
+209e5e149e62b797,NY,Unique Care Ltd,New York,59,2026-03-30,2026-06-30,Closure,2026-08-30T21:43:41.512264Z
+393793c9af8fef02,NY,Federal Express Corporation (Multiple Regions),Erie,36,2026-03-27,2026-08-03,Closure,2026-08-30T21:43:41.512264Z
+25916e427c866073,NY,"University of Rochester (Children’s Institute, Inc.)",Monroe,34,2026-03-27,2026-06-30,Layoff,2026-08-30T21:43:41.512264Z
+918f3b8f78c76610,NY,"Finger Lakes On Wheels, LLC.",Steuben,85,2026-03-25,2026-06-23,Closure,2026-08-30T21:43:41.512264Z
+abec5fa713029681,NY,"NHS U.S., LLC.",Suffolk,31,2026-03-25,2026-07-03,Layoff,2026-08-30T21:43:41.512264Z
+ab1cc347f8b63922,NY,"Sardi's Enterprises, Ltd.",New York,62,2026-03-25,2026-06-24,Closure,2026-08-30T21:43:41.512264Z
+e9a457323d359d3d,NY,Federal Express Corporation (Multiple Regions),Tompkins,12,2026-03-24,2026-08-03,Closure,2026-08-30T21:43:41.512264Z
+4dbc875d99ef803d,NY,Federal Express Corporation (Multiple Regions),Onondaga,22,2026-03-24,2026-08-03,Closure,2026-08-30T21:43:41.512264Z
+6d0f4fd0f0f871de,NY,Federal Express Corporation (Multiple Regions),Oneida,31,2026-03-23,2026-08-03,Closure,2026-08-30T21:43:41.512264Z
+ac656e6af333a5c4,NY,Federal Express Corporation (Multiple Regions),Chemung,32,2026-03-23,2026-08-03,Closure,2026-08-30T21:43:41.512264Z
+d74864e1dc98d511,NY,"PharmaCann, Inc.",Orange,130,2026-03-20,2026-06-20,Closure,2026-08-30T21:43:41.512264Z
+569ae9074a43a01b,NY,Bank of America,Erie,170,2026-03-19,2026-06-24,Closure,2026-08-30T21:43:41.512264Z
+73beac72eabad237,NY,Dice Lion Technology LLC,New York,37,2026-03-17,2026-06-15,Layoff,2026-08-30T21:43:41.512264Z
+09f8999afd8899a8,NY,NeuLion USA LLC,New York,7,2026-03-17,2026-06-15,Layoff,2026-08-30T21:43:41.512264Z
+30632049fdec5b0a,NY,"NBCUniversal Media, LLC",New York,123,2026-03-13,2026-06-11,Closure,2026-08-30T21:43:41.512264Z
+01f34d46c33eb681,NY,"NY HEAT, LLC. (The Lambs Club)",New York,75,2026-03-11,2026-07-27,Layoff,2026-08-30T21:43:41.512264Z
+30059284bf4c8c2e,NY,Villa Mary Immaculate d/b/a St. Peter’s Nursing and Rehabilitation Center (SPNRC),Albany,133,2026-03-06,2026-06-30,Closure,2026-08-30T21:43:41.512264Z
+fa8b77bbdd500904,NY,"HNI Workplace Furnishings, LLC.",Steuben,123,2026-03-05,2026-08-16,Closure,2026-08-30T21:43:41.512264Z
+20d7d115c036dba4,NY,Morgan Stanley,New York,7,2026-03-05,2026-05-27,Layoff,2026-08-30T21:43:41.512264Z
+910a32180fc91e6c,NY,Morgan Stanley,New York,1,2026-03-05,2026-05-27,Layoff,2026-08-30T21:43:41.512264Z
+bfdf193c3ca32099,NY,Morgan Stanley,New York,2,2026-03-05,2026-05-27,Layoff,2026-08-30T21:43:41.512264Z
+1e0552cbdc466a19,NY,Morgan Stanley,New York,82,2026-03-05,2026-05-27,Layoff,2026-08-30T21:43:41.512264Z
+e744d71610c61051,NY,Morgan Stanley,New York,120,2026-03-05,2026-05-27,Layoff,2026-08-30T21:43:41.512264Z
+f05e2bc8b19fd9b0,NY,Morgan Stanley,New York,61,2026-03-05,2026-05-27,Layoff,2026-08-30T21:43:41.512264Z
+20c94cc7df5f2cd7,NY,Enthuse LLC,New York,13,2026-03-03,2026-03-10,Closure,2026-08-30T21:43:41.512264Z
+e4f4c4e6390a43d4,NY,DF NY One Inc. d/b/a Dreamfields,Westchester,13,2026-03-02,2026-03-13,Layoff,2026-08-30T21:43:41.512264Z
+66f0a48f66f1eae9,NY,The Coca-Cola Company,Queens,41,2026-03-02,2026-05-31,Layoff,2026-08-30T21:43:41.512264Z
+4b45f8f8646db586,NY,The Rockefeller University Hospital,New York,41,2026-03-02,2026-05-31,Layoff,2026-08-30T21:43:41.512264Z
+8c26e211bd610d87,NY,Amazon (Western),Erie,542,2026-02-27,2026-05-30,Closure,2026-08-30T21:43:41.512264Z
+7dae95010e4d19ce,NY,"SDH Education West, LLC d/b/a Sodexo - Binghamton University",Broome,3,2026-02-26,2026-05-31,Closure,2026-08-30T21:43:41.512264Z
+177ac31590883841,NY,"SDH Education West, LLC d/b/a Sodexo - Binghamton University",Broome,144,2026-02-26,2026-05-31,Closure,2026-08-30T21:43:41.512264Z
+f7b2745b83dfd9e3,NY,"SDH Education West, LLC d/b/a Sodexo - Binghamton University",Broome,542,2026-02-26,2026-05-31,Closure,2026-08-30T21:43:41.512264Z
+901d40209a3a1268,NY,"Ultrepet, LLC. d/b/a Evergreen Recycling, LLC.",Albany,59,2026-02-24,2026-02-24,Closure,2026-08-30T21:43:41.512264Z
+ed0d2be9524f2721,NY,VanDeMark Chemical Inc.,Niagara,0,2026-02-24,2026-05-25,Closure,2026-08-30T21:43:41.512264Z
+8e44d13496fa5f3a,NY,"IPIC Theaters, LLC.",New York,58,2026-02-23,2026-05-28,Closure,2026-08-30T21:43:41.512264Z
+20d1583ffec8dbb2,NY,Seaport Entertainment Management LLC,New York,93,2026-02-23,2026-02-23,Closure,2026-08-30T21:43:41.512264Z
+b0c33dbda6cd6725,NY,Pinnacle Managing Co LLC,New York,64,2026-02-20,2026-04-30,Closure,2026-08-30T21:43:41.512264Z
+b32f5d7ea925b379,NY,Rising Ground Inc.,Queens,43,2026-02-20,2026-05-21,Layoff,2026-08-30T21:43:41.512264Z
+bf1ba52cf593dc7f,NY,Rising Ground Inc.,Westchester,27,2026-02-20,2026-05-21,Layoff,2026-08-30T21:43:41.512264Z
+5b781ec9014d60f6,NY,Rising Ground Inc.,Kings,17,2026-02-20,2026-05-21,Layoff,2026-08-30T21:43:41.512264Z
+fd6ead3678014c7f,NY,Rising Ground Inc.,New York,15,2026-02-20,2026-05-21,Layoff,2026-08-30T21:43:41.512264Z
+9e7fe73d9dd3f09c,NY,Rising Ground Inc.,Westchester,29,2026-02-20,2026-05-21,Layoff,2026-08-30T21:43:41.512264Z
+0c70b47e549adecb,NY,Rising Ground Inc.,Kings,24,2026-02-20,2026-05-21,Layoff,2026-08-30T21:43:41.512264Z
+7bf902deafef4f7b,NY,Rising Ground Inc.,New York,5,2026-02-20,2026-05-21,Layoff,2026-08-30T21:43:41.512264Z
+b32b1096580accf9,NY,Rising Ground Inc.,Bronx,68,2026-02-20,2026-05-21,Layoff,2026-08-30T21:43:41.512264Z
+8ac53d912d642379,NY,Tourmaline Bio Inc.,New York,60,2026-02-19,2026-05-29,Closure,2026-08-30T21:43:41.512264Z
+46b851546a255cf8,NY,"PT OPCO, LLC d/b/a Pink Taco",New York,36,2026-02-17,2026-02-18,Closure,2026-08-30T21:43:41.512264Z
+a793ab2455cddc3f,NY,"Glossier, Inc.",New York,41,2026-02-13,2026-02-13,Layoff,2026-08-30T21:43:41.512264Z
+36fb44af9c1d1ce4,NY,"Main Street Sports Group, LLC",New York,66,2026-02-13,2026-05-14,Closure,2026-08-30T21:43:41.512264Z
+eb9ae6d9b2cc5caf,NY,The Bank of Nova Scotia,New York,15,2026-02-11,2026-06-30,Closure,2026-08-30T21:43:41.512264Z
+631e963e15aa4246,NY,McKesson,Erie,78,2026-02-10,2026-05-18,Closure,2026-08-30T21:43:41.512264Z
+dd8d2e3a348c9884,NY,"Mizkan America, Inc.",Orleans,30,2026-02-10,2026-05-11,Layoff,2026-08-30T21:43:41.512264Z
+15c44b3228dfef45,NY,Liberty Dental Plan Corporation,Nassau,2,2026-02-05,2026-05-06,Layoff,2026-08-30T21:43:41.512264Z
+b75cd43e9ad195ce,NY,"WP Company, LLC",New York,47,2026-02-04,2026-05-08,Layoff,2026-08-30T21:43:41.512264Z
+f9a7b242e0ff8d13,NY,Cazar Logistics,New York,37,2026-01-31,2026-05-03,Closure,2026-08-30T21:43:41.512264Z
+757c0d5961322250,NY,"BMC Benchmark Management Company, LLC. (Edith Macy Center Hotel)",Westchester,49,2026-01-29,2026-04-30,Closure,2026-08-30T21:43:41.512264Z
+c8c3a42c79d0ee8f,NY,Lutheran Social Services of New York,Bronx,37,2026-01-29,2026-03-31,Layoff,2026-08-30T21:43:41.512264Z
+aa2e88b9d8424ec4,NY,Lutheran Social Services of New York,Bronx,20,2026-01-29,2026-03-31,Layoff,2026-08-30T21:43:41.512264Z
+92e1e8e50c9211fb,NY,Amazon,New York,135,2026-01-28,2026-04-28,Layoff,2026-08-30T21:43:41.512264Z
+c063ca5e744dad11,NY,"Fresenius USA Manufacturing, Inc.",Orange,56,2026-01-28,2026-04-28,Layoff,2026-08-30T21:43:41.512264Z
+52cd3866d99b535e,NY,Amazon (Long Island),Nassau,71,2026-01-27,2026-04-28,Closure,2026-08-30T21:43:41.512264Z
+62d5a13019404137,NY,Amazon (Long Island),Suffolk,44,2026-01-27,2026-04-28,Closure,2026-08-30T21:43:41.512264Z
+a37c79e0cf0cb6c8,NY,"Elevate NY, LLC.",Rockland,99,2026-01-27,2026-05-06,Layoff,2026-08-30T21:43:41.512264Z
+7e1ba896803ba485,NY,Krispy Kreme Doughnut Corporation,Bronx,52,2026-01-27,2026-04-30,Layoff,2026-08-30T21:43:41.512264Z
+1a15aee75c201489,NY,Vimeo.com Inc.,New York,133,2026-01-20,2026-04-20,Layoff,2026-08-30T21:43:41.512264Z
+c15895e03a3b0bfa,NY,GoGo Bus Tours Inc .d/b/a 2gobus,Kings,75,2026-01-15,2026-03-31,Layoff,2026-08-30T21:43:41.512264Z
+037a5ff35767214f,NY,"Citibank, N.A.",New York,820,2026-01-14,2026-04-14,Layoff,2026-08-30T21:43:41.512264Z
+792bfd1a425040da,NY,"Citigroup Global Markets, Inc.",New York,58,2026-01-14,2026-04-14,Layoff,2026-08-30T21:43:41.512264Z
+3749c200a4f30952,NY,"Citigroup Technology, Inc.",New York,3,2026-01-14,2026-04-18,Layoff,2026-08-30T21:43:41.512264Z
+cfd52ee1039516a7,NY,Federal Express Corporation (Capital Region),Albany,43,2026-01-13,2026-01-31,Layoff,2026-08-30T21:43:41.512264Z
+54b407269c17b751,NY,Nespresso,New York,46,2026-01-13,2026-04-13,Layoff,2026-08-30T21:43:41.512264Z
+3049192427c55119,NY,Catholic Guardian Services (Rescission),Bronx,0,2026-01-12,2026-04-12,Closure,2026-08-30T21:43:41.512264Z
+4c0fd819989f2fd7,NY,TL Cannon Management Corp. - Applebee's (Capital),Schenectady,15,2026-01-12,2026-04-12,Closure,2026-08-30T21:43:41.512264Z
+a6916a55b140abfd,NY,Lincoln Hall,Westchester,123,2026-01-06,2026-04-06,Closure,2026-08-30T21:43:41.512264Z

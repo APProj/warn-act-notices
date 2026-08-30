@@ -1,0 +1,329 @@
+id,state,company,location,employees_affected,notice_date,effective_date,notice_type,first_seen
+b130ed8f3f03be65,MD,Crosby Marketing Communications,"705 Melvin Avenue Annapolis, MD 21401",20,2026-08-25,2026-10-30,Mass Layoff- No Recall,2026-08-30T21:43:41.512264Z
+350a0f88acc41db8,MD,Stanley Black & Decker,"625 Hanover Pike Hampstead, MD 21074",55,2026-08-19,2026-10-23,Plant Closure,2026-08-30T21:43:41.512264Z
+dda80ee07f73cd64,MD,Amentum,"7710 Milestone Parkway Hanover, MD 21076",65,2026-08-18,2026-11-13,Mass Layoff- No Recall,2026-08-30T21:43:41.512264Z
+551d9a4569da702c,MD,Amentum,"7710 Milestone Parkway Hanover, MD 21076",317,2026-08-18,2026-10-31,Mass Layoff- No Recall,2026-08-30T21:43:41.512264Z
+732337044e4761f5,MD,"Mulford Construction Co., Inc.","PO Box 60 Barstow, MD 20610",69,2026-08-14,2026-08-17,Plant Closure,2026-08-30T21:43:41.512264Z
+619f6d8568405c46,MD,"Kolon TissueGene, Inc.","9713 Key West Avenue, Rockville Maryland 20850",37,2026-08-14,2026-08-31,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+8e9fd5bdc4e6ad76,MD,"Savista, LLC","4920 Elm Street Bethesda, MD 20814",39,2026-08-14,2026-10-15,Mass Layoff- No Recall,2026-08-30T21:43:41.512264Z
+a44b21dea994b64f,MD,SMBC Manubank,"277 Park Avenue New York, NY 10172",2,2026-08-10,2026-10-09,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+60b5e925264ed8d2,MD,Grassroots Crisis Intervention Center,"8990 Old Annapolis Road, Ste. A, Columbia, MD 21045",60,2026-08-06,2026-09-29,Mass-Layoff - No Recall,2026-08-30T21:43:41.512264Z
+2a26cc47d8f4aecf,MD,"Karna, LLC","6404 Ivy Lane, Suite 620, Greenbelt, MD 20770",38,2026-08-06,2026-11-30,Plant Closure,2026-08-30T21:43:41.512264Z
+0265d86f9aa17750,MD,"Emergent Biosolutions, Inc.","300 Professional Drive, Gaithersburg, MD 20879",34,2026-08-05,2026-10-04,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+685da67f55375222,MD,EchoStar Corporation (Lakewood facility),"100 Lakeforest Blvd.Gaithersburg, MD 20877",42,2026-07-24,2026-09-22,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+4eded103ce3a5796,MD,EchoStar Corporation (Germantown EXM facility),"11717 Exploration LaneGermantown, MD 20876",48,2026-07-24,2026-09-22,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+d44f90e5953558fd,MD,EchoStar Corporation (Germantown EXP facility),"19710 Observation DriveGermantown, MD 20876",240,2026-07-24,2026-09-22,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+bad72f7f7537db9e,MD,RP Professional Services LLC,"44927 George Washington Blvd. Ashburn, VA 20147",4,2026-07-24,2026-09-24,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+7d09809761f93c6e,MD,"Taft Broadcasting, LLC",6700 Taylor Avenue,2,2026-07-20,2026-09-30,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+509dcdaaf830120b,MD,Dejana Truck and Utility Equipment,"6901 Rolling Mill Road Baltimore, MD 21224",39,2026-07-07,2026-07-08,Temporary Furlough,2026-08-30T21:43:41.512264Z
+3035aadcc669957d,MD,ZeniMax Online Studios,"200 International Circle Cockeysville, MD 21030",213,2026-07-06,2026-09-04,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+bb383562f4b99f69,MD,ZeniMax Media Inc.,"1370 Piccard Drive Rockville, MD 21030",166,2026-07-06,2026-09-04,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+11cbcef3233a2ebc,MD,"Pioneer Cladding & Glazing Systems, Inc.","1407 Parker Road Halethorpe, MD 21227",17,2026-07-06,2026-09-04,Mass Layoff - Temporary,2026-08-30T21:43:41.512264Z
+84efa05a02b43e0c,MD,General Dynamics Information Technology,"19901 Germantown Road Germantown, MD 20874",32,2026-07-02,2026-08-31,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+cba32dc37b5a194c,MD,Kirson Medical LLC,"8801 Kelso Drive Essex, MD 21221",20,2026-07-01,2026-07-26,Plant Closure,2026-08-30T21:43:41.512264Z
+84efbb2c743c7c0b,MD,"Conduent Commercial Solutions, LLC","100 Campus Drive Florham Park, NJ 07932",5,2026-06-29,2026-08-28,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+64d5af449fffc5ba,MD,The Banner School Inc,"217 Dill Avenue Frederick, MD 21702",19,2026-06-26,2026-06-30,Plant Closure,2026-08-30T21:43:41.512264Z
+a78a7b95dfc82efe,MD,"Vestis Services, LLC","1035 Alpharetta Street, Suite 2100 Roswell, Georgia 30075",3,2026-06-15,2026-08-15,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+30496339e9830910,MD,"F4L TRANS, LLC","5801 Columbia Park Road Hyattsville, MD 20785",33,2026-06-12,2026-06-13,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+bc1f20002c607d0c,MD,"AGI Ground, Inc.","7050 Friendship Rd Baltimore, MD 21240",54,2026-06-08,2026-05-02,Plant Closure,2026-08-30T21:43:41.512264Z
+a7e930e937faba25,MD,Kennedy Krieger Institute,"3901 Greenspring Drive Baltimore, MD 21211",8,2026-06-04,2026-08-07,"Mass Layoff - No Recall Note: Performing work at the Center for Autism Services, Science and Innovation- Classrooms",2026-08-30T21:43:41.512264Z
+6ba78720d71ba398,MD,Kennedy Krieger Institute,"7000 Tudsbury Road Baltimore, MD 21244",18,2026-06-04,2026-08-07,Mass Layoff - No Recall Note: Performing work the Early Childhood Development and Education Center,2026-08-30T21:43:41.512264Z
+56e220fe9b352241,MD,Federal Express Corporation,"5255 Falcon Drive Salisbury, MD 21804",25,2026-06-03,2026-08-03,Mass Layoff - No Recall: Note: Performing work at SBYA facility,2026-08-30T21:43:41.512264Z
+37528034d5e29af5,MD,General Dynamics Information Technology,"6555 Rock Spring Drive, Bethesda, MD 20817",34,2026-05-22,2026-07-22,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+cce4ff471f67d000,MD,U.S. Bank,"4527 Metropolitan Ct Frederick, MD 21704",36,2026-05-20,2026-07-24,Mass Layoff,2026-08-30T21:43:41.512264Z
+be22b6cc078226d3,MD,"DRB Systems, Inc.","7125 Troy Hill Dr, Elkridge, MD 21075",33,2026-05-20,2026-07-27,Plant Closure,2026-08-30T21:43:41.512264Z
+19d82066a0ac2875,MD,ChristianaCare,"106 Bow Street Elkton, MD 21921",31,2026-05-18,2026-07-18,"Mass Layoff - No Recall Note: Performing work at Family Birth Center located in Union Hospital of Cecil County, Inc.",2026-08-30T21:43:41.512264Z
+6e52262bf7871a1d,MD,"Diamond Transportation Services, Inc.","3201 Hubbard Road Landover, MD 20785",571,2026-05-13,2026-05-12,Plant Closure,2026-08-30T21:43:41.512264Z
+a72e88c19b3316c9,MD,"Sibley- Suburban Home Health Agency, Inc. d/b/a Potomac Home Health Care and Potomac Home Support, Inc.","6700A Rockledge Drive, Suite 200 Bethesda, Maryland 20817",163,2026-05-06,2026-07-06,Plant Closure,2026-08-30T21:43:41.512264Z
+a8cf02d7aa942e08,MD,Tishcon Corp.,"2410 Zion Road & 818 Brown Street Salisbury, MD 21801",134,2026-05-04,,Plant Closure,2026-08-30T21:43:41.512264Z
+3ed23a2d05c8395b,MD,Spirit Airlines,"Baltimore Washington International Thurgood Marshall Airport (BWI) 7050 Friendship Rd., Baltimore, MD 21240",13,2026-05-04,2026-05-02,Plant Closure,2026-08-30T21:43:41.512264Z
+ebeaa40329e19e37,MD,"Gilead Sciences, Inc.","800 King Farm Blvd, Suite 600 Rockville, MD 20850",84,2026-04-30,,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+ef371c1f0ca7262c,MD,CBRE Government & Defense Services,"9000 Rockville Pike, Building 10, Room B D19 Bethesda, MD 20892",174,2026-04-29,2026-05-17,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+741fad9a0127db9a,MD,"Tuerk House, Inc.","2700 Rayner Avenue Baltimore, MD 21216",31,2026-04-29,2026-06-30,Plant Closure,2026-08-30T21:43:41.512264Z
+f4a94fabd8600aa4,MD,Crothall Healthcare,"100 E. Carroll St Salisbury, MD 21801",109,2026-04-29,2026-07-01,"Mass Layoff - No Recall Note: Work performed at the client’s facility, TidalHealth Peninsula Regional",2026-08-30T21:43:41.512264Z
+48f867ad194a3335,MD,Apple Inc.,"825 Dulaney Valley Road Towson, Maryland 21204",78,2026-04-23,2026-06-24,Plant Closure Note: Store located in Towson Town Center Mall,2026-08-30T21:43:41.512264Z
+b56fca41f13a260b,MD,"Republic National Distributing Company, LLC","8201 Stayton Drive Jessup, MD 20794",318,2026-04-23,2026-06-21,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+eb7d20195df769c8,MD,"Trulite Glass & Aluminum Services, LLC","2190 Urbana Pike Ijamsville, MD 21754",21,2026-04-21,2026-06-19,Plant Closure,2026-08-30T21:43:41.512264Z
+50ace7b73cecc36e,MD,Stoney River Steakhouse & Grill,"825 Dulaney Valley Road Towson, MD 21204",68,2026-04-20,2026-06-26,Plant Closure,2026-08-30T21:43:41.512264Z
+44e9e2c038ae8a0c,MD,Hendall Inc.,"1803 Research Blvd, Suite 300 Rockville, MD 20850",50,2026-04-14,2026-06-10,"Mass Layoff - No RecallNote: Temporary, may become permanent",2026-08-30T21:43:41.512264Z
+1988f4a68b2b6689,MD,Leidos,"3300 Lord Baltimore Drive Windsor Mill, MD 21244",156,2026-04-06,2026-06-05,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+63df47f291f5178e,MD,"Cox Automotive Corp Svc., LLC","4805 Philadelphia Road Belcamp, MD 21014",70,2026-04-03,2026-06-05,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+8303fb9508dc924a,MD,Leidos,"6910 Cooper Ave Fort Meade, MD 20755",71,2026-04-02,2026-05-31,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+a455cf4c3ba0c90e,MD,"Tyto Athene, LLC","6910 Cooper Ave Fort Meade, MD 20755",39,2026-04-02,2026-05-31,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+fa7efe6b1468f0f2,MD,Legacy Supply Chain,"238 Belvidere Road Perryville, MD 21903",21,2026-04-01,2026-06-06,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+97b155e291ac30c5,MD,General Dynamics Information Technology,"5601 Fishers Lane Rockville, MD 20852",74,2026-04-01,2026-06-01,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+4eccb6a37da9476e,MD,"*RESCINDED* Advanced Packaging, Inc.","4818 Seton Drive Baltimore, MD 21215",18,2026-03-31,2026-06-01,Plant Closure,2026-08-30T21:43:41.512264Z
+4567c373b0929c90,MD,Carnegie Institution for Science,"3520 San Martin Drive Baltimore, MD 21218",15,2026-03-30,2026-06-30,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+5df6fe98708a5fa0,MD,General Dynamics Information Technology,"4600 Sangamore Road Bethesda, MD 20816",21,2026-03-27,2026-05-29,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+17689757dd2adecb,MD,"Maryland and Virginia Milk Producers Cooperative Association, Inc. d/b/a Maola","8321 Leishear Road Laurel, Maryland 20723",72,2026-03-26,2026-06-01,Plant Closure,2026-08-30T21:43:41.512264Z
+3ce4798806bc0372,MD,Evonik Corporation,"701 Fountain Street Havre De Grace, MD 21078",34,2026-03-25,2026-06-30,Plant Closure,2026-08-30T21:43:41.512264Z
+48d5c66497ac84b8,MD,"PedalPoint EvTerra Recycling, LLC","7118 Geoffrey Way, Unit E Frederick, MD 21704",17,2026-03-19,2026-05-19,Plant Closure,2026-08-30T21:43:41.512264Z
+dee753ccb8c13ca8,MD,"Panera, LLC","7801 Dorsey Run Jessup, MD 20794",118,2026-03-17,2026-05-20,Plant Closure,2026-08-30T21:43:41.512264Z
+173613a562038def,MD,"Bering Global Solutions, LLC (BGS) - CBD","5813 Bayside Rd Chesapeake Beach, MD 20732",21,2026-03-13,2026-03-31,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+ca9319d8e5cd216e,MD,"Bering Global Solutions, LLC (BGS) - Carderock","9500 Macarthur Blvd. Bethesda, MD 20817",6,2026-03-13,2026-03-31,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+f685fb80e3ccddde,MD,"Bering Global Solutions, LLC (BGS) - Bethesda","8901 Rockville Pike Bethesda, MD 20889",5,2026-03-13,2026-03-31,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+ae4fd60b736ae26f,MD,United Source One,"4610 Mercedes Drive, Suite 110 Belcamp, MD 21017",8,2026-03-11,2026-03-04,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+214a61ee8572d6ee,MD,Amentum,"10530 Riverview Road Fort Washington, MD 20744",9,2026-03-09,2026-05-03,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+6288a3896855dfbb,MD,Amentum,"4251 Suitland Road Suitland, MD 20746",27,2026-03-09,2026-05-03,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+dedf78d0dce9282f,MD,"Horizon Therapeutics USA, Inc.","9605 Medical Center Drive, Suite 325 Rockville, MD 20850",22,2026-03-09,2026-05-08,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+5cc5a52fcf4d9470,MD,Saks & Company LLC,"5555 Wisconsin Avenue Chevy Chase, MD 20815",75,2026-03-06,2026-05-06,Plant Closure,2026-08-30T21:43:41.512264Z
+af45806387425720,MD,C2 Technologies,"7601 Lewinsville Road, Suite 200 McLean, Virginia 22102",1,2026-03-06,2026-03-06,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+18685db33099088d,MD,Excelitas,"910 Clopper Road Gaithersburg, MD 20878",30,2026-03-03,2026-05-15,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+55f589b66ecea920,MD,"IPIC Theaters, LLC","11830 Grand Park Avenue North Bethesda, MD 20852",116,2026-03-02,2026-04-28,Plant Closure,2026-08-30T21:43:41.512264Z
+fda8173e3bd20c3b,MD,Viskon-Aire Corporation,"410 Winfield Avenue Salisbury, MD 21801",51,2026-02-24,2026-04-13,Plant Closure,2026-08-30T21:43:41.512264Z
+faf077d196d02e97,MD,Duality Ventures LLC,"16604 Industrial Lane Williamsport, MD 21795",98,2026-02-23,2026-03-21,Plant Closure,2026-08-30T21:43:41.512264Z
+50c4943ae42c449f,MD,"Hornblower Cruises and Events, LLC","575 S. Charles Street, Suite 506, Baltimore, MD 21201",51,2026-02-19,2026-04-25,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+4d151a479e72c64e,MD,"Catalent Maryland, Inc.","7555 Harmans Road Harmans, MD 21077",93,2026-02-19,2026-04-19,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+32f0a827f8c4b3bc,MD,"Catalent Maryland, Inc.","801 West Baltimore Street Suite 302 Baltimore, MD 21201",3,2026-02-19,2026-04-19,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+f965c549a58052de,MD,Breakthru Beverage Group,"525 Progress Drive, Suite K, Linthicum Heights, MD 21090",35,2026-02-17,2026-04-18,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+192dc37101b911c7,MD,"Lowe’s Companies, Inc.","1000 Lowe’s Blvd. Mooresville, NC 28117",5,2026-02-17,2026-04-19,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+a9b7690291d4610b,MD,T. Rowe Price,"1307 Point Street Baltimore, MD 21231",54,2026-02-12,2026-02-06,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+95525e161e68137f,MD,Savage Infrastructure LLC,"354 Table Rock Road Oakland, MD 21550",72,2026-02-09,2026-04-07,Plant Closure,2026-08-30T21:43:41.512264Z
+befa7b15aacd8061,MD,"LifeBridge Suburban Staffing, LLC","2850 N. Ridge Road Ellicott City, MD",23,2026-02-06,2026-03-07,"Plant Closure Note: Work performed at Ellicott City Ambulatory Surgery Center, L.L.L.P)",2026-08-30T21:43:41.512264Z
+d3bdf25b20c7d3f3,MD,"NFI Interactive Technologies, LLC (NFI)","81 Belvedere Road Perryville, MD 21903",40,2026-02-04,2026-03-30,Plant Closure,2026-08-30T21:43:41.512264Z
+9c04de405a94b002,MD,"HGS CX Technologies, Inc. f/k/a HGS USA","12120 Rojas Drive El Paso, Texas",92,2026-02-04,,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+ac47458a0b3489f0,MD,"Charles River Laboratories, Inc.",3600 Cabover Drive Hanover MD 21076,20,2026-02-02,2026-03-23,Plant Closure,2026-08-30T21:43:41.512264Z
+33d8a5c322b8b126,MD,"MUFG Investor Services (US), LLC (MUIS)","805 King Farm Boulevard, Suite 600 Rockville,MD 20850",86,2026-01-30,2026-03-31,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+a7382ff92f4b9433,MD,Saks & Company LLC,"22705 Clarksburg Road Clarksburg, MD 20871",15,2026-01-29,2026-04-30,Plant Closure,2026-08-30T21:43:41.512264Z
+24cfc306e3a36267,MD,Saks & Company LLC,"7000 Arundel Mills Circle Hanover, MD 21076",16,2026-01-29,2026-04-30,Plant Closure,2026-08-30T21:43:41.512264Z
+7a8fe16eebdcf80f,MD,Amazon - MAF1 facility,"5463 Wisconsin Ave. Chevy Chase, MD 20815",129,2026-01-28,2026-04-28,Plant Closure,2026-08-30T21:43:41.512264Z
+48891b8bca0a04dd,MD,Amazon - MAG5 facility,"8525 Chevy Chase Lake Terrace Chevy Chase, MD 20815",118,2026-01-28,2026-04-28,Plant Closure,2026-08-30T21:43:41.512264Z
+3a8236fa564765e2,MD,Amazon - MAH5 facility,"15790 Shady Grove Road Gaithersburg, MD 20877",155,2026-01-28,2026-04-28,Plant Closure,2026-08-30T21:43:41.512264Z
+e5b665cc26046d4c,MD,Amazon - MAT8 facility,"6711 Ritchie Highway Glen Burnie, MD 21061",156,2026-01-28,2026-04-28,Plant Closure,2026-08-30T21:43:41.512264Z
+cf5870813d659d17,MD,Amazon - MAV2 facility,"12263 Prosperity Drive Silver Spring, MD 20904",184,2026-01-28,2026-04-28,Plant Closure,2026-08-30T21:43:41.512264Z
+23b631761f4b2d30,MD,Weis Store #291,"15300 McMullen Highway Cumberland, MD 21502",52,2026-01-15,2026-03-16,Plant Closure,2026-08-30T21:43:41.512264Z
+0b6dd30a13a5f3e3,MD,Home Depot Design Center,"12087 Rockville Pike Rockville, MD 20852",85,2026-01-14,2026-03-14,Plant Closure,2026-08-30T21:43:41.512264Z
+b9731901169c59ce,MD,Peraton,"6201 Security Blvd Woodlawn, MD 21207",35,2026-01-14,2026-02-28,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+888a90a82808f943,MD,"BAE Systems, Inc.","306 Sentinel Drive, Suite 500, Annapolis Junction, MD 20701",55,2026-01-02,2026-03-02,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+aff44b9ad07a6048,MD,"Crockett & Sons Concrete, Inc.","61 Marian Drive Port Deposit, MD 21904",4,2025-12-29,2025-12-26,Layoff - due to temporary reduction in work,2026-08-30T21:43:41.512264Z
+b597689c7191a852,MD,"Value Village Thrift Stores, Inc.","3424 Eastern Avenue Baltimore, MD 21224",30,2025-12-19,2026-02-21,"Plant ClosureUpdate: There are 5 Maryland locations. New owner is expected to hire all workers, with the exception of 46 workers, due to transportation issues",2026-08-30T21:43:41.512264Z
+6b8ae9dc1b837b7a,MD,"Value Village Thrift Stores, Inc.","3702 Bank Street Baltimore, MD 21224",9,2025-12-19,2026-02-21,"Plant ClosureUpdate: There are 5 Maryland locations. New owner is expected to hire all workers, with the exception of 46 workers, due to transportation issues",2026-08-30T21:43:41.512264Z
+bffa63a3acfbc80e,MD,"Value Village Thrift Stores, Inc.","1955 Pulaski Highway Edgewood, MD 21040",42,2025-12-19,2026-02-21,"Plant ClosureUpdate: There are 5 Maryland locations. New owner is expected to hire all workers, with the exception of 46 workers, due to transportation issues",2026-08-30T21:43:41.512264Z
+e9aa2fe956fede2b,MD,"Thrift Stores of Washington, D. C. (under Value Village Thrift Stores, Inc.)","9880 Washington Blvd Laurel, MD 20723",41,2025-12-19,2026-02-21,"Plant ClosureUpdate: There are 5 Maryland locations. New owner is expected to hire all workers, with the exception of 46 workers, due to transportation issues",2026-08-30T21:43:41.512264Z
+ee3fccf6af3b9afd,MD,"Value Village Thrift Stores, Inc.","2100 Crain Highway Waldorf, MD 20601",25,2025-12-19,2026-02-21,"Plant ClosureUpdate: There are 5 Maryland locations. New owner is expected to hire all workers, with the exception of 46 workers, due to transportation issues",2026-08-30T21:43:41.512264Z
+e88b4611e2b60a62,MD,The Charleston Senior Community,"45 St. Patrick’s Drive Waldorf, MD 20603",74,2025-12-17,2026-02-14,Plant Closure,2026-08-30T21:43:41.512264Z
+be0b7f939c2d0024,MD,General Dynamics Information Technology,"5600-5601 Fishers Lane Rockville, MD 20852",54,2025-12-16,2026-02-13,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+47eba3083fb7654e,MD,"The Cheesecake Factory Restaurants, Inc.","201 E. Pratt Street Baltimore, MD 21202",115,2025-12-04,2026-01-24,Plant Closure,2026-08-30T21:43:41.512264Z
+96970282cd5f0325,MD,Peraton’s Environmental Integration Services III (“ETIS”),"8800 Greenbelt Road Greenbelt, MD 20771",130,2025-12-02,2026-01-31,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+af0ea2526d401246,MD,"S3 Shared Service Solutions, LLC","1501 S. Clinton Street, 14th Floor Baltimore, MD 21224",92,2025-12-01,2026-02-01,Mass Layoff - No Recall Update: Partner Credit Unions have hired 72 of the impacted workers,2026-08-30T21:43:41.512264Z
+54bcb7efbd687baa,MD,Kroger Fulfillment Network LLC,"7106 Geoffrey Way Frederick, MD 21704",83,2025-11-24,2026-02-01,Plant Closure,2026-08-30T21:43:41.512264Z
+9a92467d477a6b5b,MD,Fulfillment Center (for Harris Teeter),"7106 Geoffrey Way Frederick, MD 21704",80,2025-11-19,2026-02-01,Plant Closure,2026-08-30T21:43:41.512264Z
+3a714e79659b8ff6,MD,Bond 45 National Harbor Restaurant,"149 Waterfront Street #1138 Oxon Hill, MD 20745",58,2025-11-17,2026-01-31,Plant Closure,2026-08-30T21:43:41.512264Z
+04e912fe05071b72,MD,"BWW Law Group, LLC","6001 Executive Blvd., Suite 200 Rockville, MD 20852",94,2025-11-17,2026-01-31,Plant Closure Note: Layoff averted; employees retained by acquiring firm,2026-08-30T21:43:41.512264Z
+b825414f5950b4e1,MD,Shoppers Food Warehouse Corp.,"Shoppers College Park 4720 Cherry Hill Road College Park, MD 20740",58,2025-11-14,2025-11-08,Plant Closure,2026-08-30T21:43:41.512264Z
+4d6aefcacb795ee4,MD,Shoppers Food Warehouse Corp.,"Shoppers Coral Hills 4801 Marlboro Pike Capitol Heights, MD 20743",22,2025-11-14,2025-11-08,Plant Closure,2026-08-30T21:43:41.512264Z
+a995cb21d8246107,MD,Shoppers Food Warehouse Corp.,"Shoppers Germantown 18066 Mateny Road Germantown, MD 20874",59,2025-11-14,2025-11-08,Plant Closure,2026-08-30T21:43:41.512264Z
+5b7e38fd2bc9976c,MD,Shoppers Food Warehouse Corp.,"Shoppers Laurel Contee 13600 Baltimore Ave, #100 Laurel, MD 20707",46,2025-11-14,2025-11-08,Plant Closure,2026-08-30T21:43:41.512264Z
+3e83da25a623cc5d,MD,"Diamond Transportation Services, Inc.","8261 Central Avenue Capital Heights, MD 20743",194,2025-11-10,2025-11-30,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+c8dd9fdd5867ae5c,MD,"Diamond Transportation Services, Inc.","3201 Hubbard Road Landover, MD 20685",182,2025-11-10,2025-11-30,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+94865b5564b8a3a0,MD,Recruitment Partners LLC,"5416 White Mane Columbia, MD 21045",2,2025-11-10,2025-12-15,Plant Closure,2026-08-30T21:43:41.512264Z
+3a0283322767f0f9,MD,MAPC (Maritime Applied Physics Corporation),"1600 E. Patapsco Avenue Baltimore, MD 21226",64,2025-11-10,2026-01-10,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+d6f51cddaf50bec9,MD,"Catalent, Maryland, Inc.","7555 Harmans Road Harmans, MD 21077",61,2025-11-06,2026-01-05,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+d6cba5f2ed911ece,MD,"Catalent, Maryland, Inc.","801 West Baltimore Street, Suite 302 Baltimore, MD 21201",14,2025-11-06,2026-01-05,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+b05d9d0a26f2118f,MD,"Catalent, Maryland, Inc.","7031 Ridge Road Hanover, MD 21076",2,2025-11-06,2026-01-05,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+98f5602442316866,MD,"WWL Vehicle Services Americas, Inc.","1500 Shipyard Road Sparrows Point, MD 21219",50,2025-11-04,2026-01-31,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+4a7d5b7bc2a03466,MD,Sheraton Operating LLC dba Sheraton Inner Harbor Hotel,"300 South Charles Street Baltimore, MD 21201",69,2025-11-03,2025-12-31,Plant Closure,2026-08-30T21:43:41.512264Z
+99aed009eae6e4fd,MD,ChristianaCare Lab and X-Ray,"123 Singerly Avenue Elkton, MD 21921",7,2025-11-03,2025-12-22,Plant Closure Update: Relocation; no job loss anticipated,2026-08-30T21:43:41.512264Z
+fdef0a94646556f5,MD,"Spirit Airlines, BWI","883 Airport Park Rd, Suite C Glen Burnie, MD 21061",28,2025-10-31,,Plant Closure Update: 16 (AMFA) employees will be furloughed; 12 non-union employees will be laid of,2026-08-30T21:43:41.512264Z
+3ecbeef0b951e157,MD,Woodmont Grill,"7715 Woodmont Avenue, Bethesda, MD 20814",65,2025-10-30,2025-12-30,Plant Closure,2026-08-30T21:43:41.512264Z
+5501eb6983b46eb2,MD,Fred L. Hawkins Co. Inc.,"1315 Pulaski Highway, Havre de Grace, MD 21078",7,2025-10-30,2025-10-24,Temporary Mass Layoff,2026-08-30T21:43:41.512264Z
+96135036834fb1b1,MD,Red Run Corporation T/A Food Depot,"2401 Belair Road, Baltimore, MD 21213",80,2025-10-30,2026-01-31,Plant Closure,2026-08-30T21:43:41.512264Z
+8140a3c8f25bb08c,MD,Goetze’s Candy Co. Inc.,"3900 E. Monument St Baltimore, MD 21205",74,2025-10-22,2025-12-22,"Temporary Mass Layoff Update: Temporary, 2 week layoff for annual maintenance and cleaning",2026-08-30T21:43:41.512264Z
+80e9770913fb7ccc,MD,"Parsons Technical Services, Inc.","133 National Business Parkway, Suite 250 Annapolis Junction, MD 20701",17,2025-10-20,2025-12-19,Plant Closure,2026-08-30T21:43:41.512264Z
+7a09311b59312e39,MD,"Sodexo Services East, LLC","NSA 9800 Savage Road Fort George G Meade, MD 20755",145,2025-10-15,2025-12-19,Plant Closure,2026-08-30T21:43:41.512264Z
+fd06bc9434a12fe6,MD,"AccelerEd, LLC","7315 Wisconsin Avenue, Suite 400 Bethesda, MD 20814",108,2025-10-14,2025-12-31,Plant Closure,2026-08-30T21:43:41.512264Z
+4d2be40e65775567,MD,"Johnson Controls, Inc.","412 Railroad Avenue Federalsburg, MD 21632",61,2025-10-14,2025-12-15,Plant Closure,2026-08-30T21:43:41.512264Z
+8a2f237e513e80a7,MD,Comcast Corporation (Beltway Integrated Supply Chain Operations),"8210 Penn Randall PL, Suite C Upper Marlboro, MD 20772",42,2025-10-07,2025-12-05,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+423db2e4ec341439,MD,"Bell Nursery USA, LLC","2509 Busic Church Road Marydel, MD 21649",21,2025-10-01,2025-11-28,Plant Closure,2026-08-30T21:43:41.512264Z
+24c0fb6aa8c2b8f8,MD,"Bell Nursery USA, LLC","7111 Troy Hill Drive Elkridge, MD 21075",42,2025-09-25,2025-09-26,Plant Closure,2026-08-30T21:43:41.512264Z
+b490c0e9a858140a,MD,Dreyer’s Grand Ice Cream,"9090 Whiskey Bottom Road Laurel, MD 20723",20,2025-09-24,2025-11-24,"Temporary Mass Layoff Update: Temporary, 2 week layoff for necessary maintenance",2026-08-30T21:43:41.512264Z
+162c9748efd4bdb6,MD,"MaxCyte, Inc. (MaxCyte Headquarters)","9713 Key West Avenue Rockville, MD 20850",20,2025-09-23,2025-11-21,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+8444786a579152b2,MD,KIRA Aerospace LLC and KIRA Government Services LLC,"8800 Greenbelt Road Greenbelt, MD 20771",21,2025-09-19,2025-09-30,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+687734550744cbbc,MD,Elme Support Services LLC,"7550 Wisconsin Avenue Ste 900 Bethesda, MD 20814",22,2025-09-08,2025-11-07,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+ef4bed44cc1ee405,MD,"Rivian, LLC","8787 Snouffer School Road Gaithersburg, MD 20879",19,2025-09-05,2025-11-03,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+a25f302ed82d5d5c,MD,York International Corporation,"9104 Yellow Brick Road Baltimore, MD 21237",54,2025-09-05,2025-11-14,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+aeb9d90532a1d721,MD,Aluma Systems Baltimore,"1945 Reservoir Road Sparrows Point, MD 21219",24,2025-09-04,2025-11-03,Plant Closure,2026-08-30T21:43:41.512264Z
+df1e6fa5ad5eba0e,MD,"Human Biosciences, Inc.","940 Clopper Road Gaithersburg, MD 20878",30,2025-09-03,2025-11-05,Plant Closure Update: Company relocating to West Virginia; all workers will be offered positions in new facility,2026-08-30T21:43:41.512264Z
+3bf32fa27aef948e,MD,EchoStar Corporation,"8830 Stanford Boulevard Suites 160-180 Columbia, MD 21045",17,2025-09-02,2025-11-01,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+498eda7eb95fba11,MD,"BioLife Plasma Services, LLC","6200 Baltimore Avenue Riverdale, MD 20737",26,2025-09-02,2025-08-25,Plant Closure,2026-08-30T21:43:41.512264Z
+939638e0009d3962,MD,"S3 Shared Service Solutions, LLC","7080 Samuel Morse Drive, Suite 300 Columbia, MD 21213",107,2025-09-02,2025-11-02,Mass Layoff - No Recall (Update: Partner Credit Unions hired 91 of the impacted workers),2026-08-30T21:43:41.512264Z
+a7861dd5261dff3c,MD,"Johns Hopkins University, Historic East Baltimore Community Action Coalition (“HEBCAC”)","1212 N. Wolfe Street Baltimore, MD 21213",20,2025-09-02,2025-11-03,Mass Layoff Update: University advised that most employees will be reemployed by HEBCAC at the same facility,2026-08-30T21:43:41.512264Z
+ba7ff4544bae1010,MD,"CHEP Services, LLC","3030 Waterview Avenue, Ste 200 Baltimore, MD 21230",79,2025-08-29,2025-11-01,Plant Closure,2026-08-30T21:43:41.512264Z
+38e73f13a895a82f,MD,Hudson News Distributors LLC,"6500 Sheriff Road Hyattsville, MD 20785",10,2025-08-28,2025-10-27,Plant Closure,2026-08-30T21:43:41.512264Z
+722711c9c2be0d53,MD,"Catalent Maryland, Inc.","7555 Harmans Road Harmans, MD 21077",316,2025-08-20,2025-10-18,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+b52e4cf9dad9c3a6,MD,"Catalent Maryland, Inc.","801 W. Baltimore Street, Suite 302 Baltimore, MD 21201",32,2025-08-20,2025-10-18,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+6f4d8be8afb5cab6,MD,"Catalent Maryland, Inc.","7031 Ridge Road Hanover, MD 21076",5,2025-08-20,2025-10-18,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+891aa6e110c8bc52,MD,"Zeco Systems, Inc. (DBA Shell Recharge Solutions)","767 S Alameda, Suite 200 Los Angeles, CA 90021",3,2025-08-19,2025-10-31,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+1aa1fa5545ee6e2e,MD,"Synergy Enterprises, Inc.","6116 Executive Boulevard, Suite 111 North Bethesda, MD 20852",13,2025-08-18,2025-09-07,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+b75a9560f4fc76b0,MD,"Zenimax Media, Inc.","200 International Circle Cockeysville, MD 21030",62,2025-08-18,2025-10-15,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+6b9d85d094feaa5a,MD,Atlantic Union Bankshares Corporation (Atlantic Union),"6831 Benjamin Franklin Drive (Columbia Gateway Building) Columbia, MD 21046",51,2025-08-18,2025-10-15,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+0240fd8893375618,MD,"Global Communities, Inc.","7700 Wisconsin Avenue, Suite 1100 Bethesda, MD 20814",44,2025-08-18,2025-09-15,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+30b06d6f7a2c387e,MD,"J.B. Hunt Transport, Inc. (Facility maintained at Bob’s Discount Furniture)","8235 Patuxent Range Road Jessup, MD 20794",5,2025-08-14,2025-10-18,Plant Closure,2026-08-30T21:43:41.512264Z
+fa664b154dd1e67d,MD,CDM Field Services LLC d/b/a Xcite Automotive (“CDM”),"6700 Baltimore National Pike Catonsville, MD 21228",17,2025-08-11,2025-10-06,Plant Closure,2026-08-30T21:43:41.512264Z
+150121a3fb5dbee4,MD,Baltimore Fabrication LLC,"821 North Point Road Baltimore, MD 21237",33,2025-08-08,2025-11-28,Plant Closure,2026-08-30T21:43:41.512264Z
+f7740e00b2939b56,MD,"AccelerEd, LLC","7315 Wisconsin Avenue, Suite 400 Bethesda, MD 20814",57,2025-08-04,2025-10-15,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+2537e1d9df201db9,MD,"a.i. solutions, Inc.","4500 Forbes Blvd., Suite 300 Lanham, MD 20706 and 8800 Greenbelt Road Greenbelt, MD 20771",51,2025-08-01,2025-10-01,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+a768de76fb8dd6e0,MD,"Ethos Veterinary Health Services, Inc. - Pet + ER facility","10000 Old Columbia Road Columbia, MD 21046",42,2025-07-31,2025-09-29,Plant Closure,2026-08-30T21:43:41.512264Z
+2aeca0b4875686a6,MD,Metro Commercial Laundry,"601 South Longwood Street, Baltimore, MD 21223",169,2025-07-28,2025-09-22,Plant Closure Update: Company relocating to a Jessup Facility; actually no job loss anticipated,2026-08-30T21:43:41.512264Z
+fdaa2ee8ef307ab0,MD,BioNTech US Inc.,"25 West Watkins Mill Road Gaithersburg, MD 20878",32,2025-07-18,2025-09-16,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+65ac4e23eb9ec101,MD,"Veyer, LLC","8205 Patuxent Range Road Jessup, MD 20794",46,2025-07-11,2025-09-12,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+6c70d5018ae86514,MD,Shoreline Vinyl Systems,"1114 Park Lane Denton, MD 21629",49,2025-07-09,2025-07-18,Plant Closure,2026-08-30T21:43:41.512264Z
+a03ae15100b7ae18,MD,"Science Systems and Applications, Inc. (SSAI)","10210 Greenbelt Road, Suite 600 Lanham, MD 20706",79,2025-07-07,2025-08-31,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+9539a0032f0e80c2,MD,WMBE Payrolling Inc. dba TCWGlobal (contracted by Zenimax),"1370 Piccard Drive, Suite 120 Rockville, MD 20850",30,2025-07-03,2025-09-01,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+62f161b8bf08c270,MD,"Zenimax Media, Inc.","1370 Piccard Drive, Suite 120 Rockville, MD 20850",164,2025-07-03,2025-09-01,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+692562e07de14729,MD,"Eurofins Lancaster Laboratories Professional Scientific Services, LLC","9021 Bennett Creek Boulevard Frederick, MD 21704",25,2025-07-03,2025-09-03,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+0a93b54ebc8c7732,MD,"L3Harris Technologies, Inc.","7138 Columbia Gateway Drive, Suite 100 and 7130 Columbia Gateway Drive, Columbia, MD 21046",31,2025-07-03,2025-09-10,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+1bdf9314f3979e0a,MD,Design Group Americas and Red Lion LLC,"857 Willow Circle Hagerstown, MD 21740",70,2025-06-30,2025-08-26,Plant Closure,2026-08-30T21:43:41.512264Z
+c1efa62add524aaa,MD,"AirBoss Defense Group, LLC","8261 Preston Court Jessup, MD 20794",23,2025-06-30,2025-09-02,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+45fb07ee74b9ee59,MD,Penney OpCo LLC (“JCPenney”) Store 2102,"Annapolis Mall 1695 Annapolis Mall Annapolis, MD 21401",65,2025-06-16,2025-08-17,Plant Closure,2026-08-30T21:43:41.512264Z
+ec39ae0e8c488e2e,MD,BioNTech Us Inc.,"930 Clopper Road and 948 Clopper Road Gaithersburg, MD 20878",63,2025-06-13,2025-08-09,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+4fbae867525d1b44,MD,"Need It Now Delivers, LLC (NIND) “GEODIS”","7659 Solley Road Glen Burnie, MD 21060",72,2025-06-11,2025-08-09,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+2cc9bf1fec2e50f9,MD,Leidos,"5202 Presidents Court, Suite 110 Frederick, MD 21703",7,2025-06-11,2025-08-05,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+4612e93de83875d3,MD,ADRA International,"12501 Old Columbia Pike Silver Spring, MD 20904",35,2025-06-10,2025-08-16,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+d08e877cb39182cd,MD,Maryland Coalition of Families,"8950 State Route 108, Suite 223 Columbia, MD 21045",35,2025-06-05,2025-06-30,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+8ce024ffe20e71bf,MD,"DAI Global, LLC","7600 Wisconsin Avenue, Suite 200 Bethesda, MD 20814",62,2025-06-02,2025-08-01,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+b96309b78970fd06,MD,American Institutes of Research (AIR),"6003 Executive Blvd, 3rd Floor Rockville, MD 20852",4,2025-06-02,2025-07-07,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+adb97c4cf0543e1c,MD,"Transaxle, LLC","178 Alco Place Baltimore, MD 21227",10,2025-05-16,2025-07-15,Plant Closure,2026-08-30T21:43:41.512264Z
+e003dbca1a342232,MD,"Frito-Lay, Inc.","500 Hickory Drive Aberdeen, MD 21001",56,2025-05-14,2025-07-12,Plant Closure,2026-08-30T21:43:41.512264Z
+e9c16cf6ed86006e,MD,"ASRC Federal Professional Services, LLC","600 Dulaney Street Alexandria, VA 22314 (impacting Maryland Teleworkers)",16,2025-05-14,2025-06-04,Temporary,2026-08-30T21:43:41.512264Z
+009f19ec565c64e6,MD,"Laulima Government Solutions, LLC","NIAID IRF NIH Facility on Ft. Detrick Campus 8200 Research Plaza Frederick, MD 21702",61,2025-05-08,2025-04-30,Mass Layoff due to a Temporary Stop Work Order,2026-08-30T21:43:41.512264Z
+908584bae39c17c3,MD,"Rite Aid of Maryland, Inc. (Rite Aid’s Mid-Atlantic Distribution Center)","601 Chelsea Road Aberdeen, MD 21130",363,2025-05-07,2025-06-19,Plant Closure,2026-08-30T21:43:41.512264Z
+9b314b481fc89069,MD,Leidos,"9737 Washingtonian Boulevard Gaithersburg, MD 20878",19,2025-04-30,2025-06-30,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+eb288e34902ff244,MD,Leidos Biomedical Research,"8560 Progress Drive Frederick, MD 21702",23,2025-04-25,2025-04-24,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+599da19ed23af019,MD,Peraton,"30899 Park Drive Princess Anne, MD 21853",49,2025-04-16,2025-04-30,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+8ae856c9b2b7f9bf,MD,Axient LLC,"880 Greenbelt Road Greenbelt, MD 20771",47,2025-04-15,2025-05-31,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+8c9e265aef6c113d,MD,"USCC Management Services, LLC","12317 Winchester Rd. Ste 300, Lavale, MD 21502",17,2025-04-07,2025-06-02,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+13b2d1fdebc7bcec,MD,"USCC Management Services, LLC","13180 Garrett Highway, Oakland, MD 21550",11,2025-04-07,2025-06-02,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+09a1adcfe10ef11b,MD,Guidehouse Digital LLC’s,"17101 Melford Blvd. Bowie, MD 20715",38,2025-04-07,2025-11-30,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+982fbbce75e7aa6f,MD,Guidehouse Digital LLC’s,"4600 Silver Hill Road Suitland, MD 20746",52,2025-04-07,2025-11-30,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+9c89925f9996c158,MD,American Institutes of Research (AIR),"6003 Executive Blvd, 3rd Floor Rockville, MD 20852",12,2025-04-03,2025-06-01,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+8b20df674b6e36f9,MD,Leidos,"5202 Presidents Court, Suite 110 Frederick, MD 21703",16,2025-04-02,2025-06-01,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+2a622a83d553fe3b,MD,"Charles River Laboratories, Inc.","15 Wormans Mill Court, Suite 1 Frederick, MD 21701",13,2025-04-02,2025-03-28,Plant Closure,2026-08-30T21:43:41.512264Z
+323b32d98a7c3780,MD,Department of Health and Human Services (HHS),"Bethesda, MD",525,2025-03-31,2025-05-30,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+3e4cb39fd959ab78,MD,Department of Health and Human Services (HHS),"Gaithersburg, MD",70,2025-03-31,2025-05-30,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+1905c8a65f41026f,MD,Department of Health and Human Services (HHS),"Germantown, MD",50,2025-03-31,2025-05-30,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+aa1cfcb1235dd134,MD,Department of Health and Human Services (HHS),"Laurel, MD",85,2025-03-31,2025-05-30,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+79c6e5db3197b6f0,MD,Department of Health and Human Services (HHS),"Woodlawn, MD",140,2025-03-31,2025-05-30,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+44917c4fd1996c4a,MD,Department of Health and Human Services (HHS),"Baltimore, MD",90,2025-03-31,2025-05-30,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+befff222a9ed02ec,MD,Department of Health and Human Services (HHS),Upper Marlboro,60,2025-03-31,2025-05-30,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+ef9556d4fd7c2379,MD,Department of Health and Human Services (HHS),"Rockville, MD",925,2025-03-31,2025-05-30,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+4e73362fbfc1d034,MD,Department of Health and Human Services (HHS),"Silver Spring, MD",650,2025-03-31,2025-05-30,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+0570bdd1e003b69d,MD,"Compass Group USA, Inc. d/b/a Chartwells","101 Braddock Road Frostburg, MD 21532",123,2025-03-26,2025-05-23,Plant Closure,2026-08-30T21:43:41.512264Z
+3aa29fa6d37fcff7,MD,"ICF International, Inc., through its subsidiaries ICF Incorporated, LLC, ICF Macro, Inc.","530 Gaither Road, Suite 500 Rockville, MD 20850",14,2025-03-26,2025-03-14,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+77cfed0e8dd87b8b,MD,"S3 Shared Service Solutions, Inc.","1501 S. Clinton Street, 14th Floor Baltimore, MD 21224",84,2025-03-25,2025-06-01,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+588865472f99378f,MD,Broadway Services LLC,"3709 East Monument Street Baltimore, MD 21205",1047,2025-03-24,2025-06-30,Plant Closure,2026-08-30T21:43:41.512264Z
+94fd226874bfd374,MD,"ICS, LLC., d/b/a Mauser Packaging Solutions","1440 Chesapeake Avenue, Bldgs 1-2 Baltimore, MD 21226",22,2025-03-14,2025-05-16,Plant Closure,2026-08-30T21:43:41.512264Z
+8850f9ce6f919fae,MD,"COR Restaurant Services, LLC (Little Blue Menu)","7242 Baltimore Avenue College Park, MD 20740",91,2025-03-14,2025-05-14,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+6d7e92bd7b47dcee,MD,"Johns Hopkins University, Bloomberg School of Public Health (BSPH) Center for Communication Programs","111 Market Place, Suite 310 Baltimore, Maryland 21202",107,2025-03-13,2025-05-12,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+2bca944dad926fd2,MD,Jhpiego Corporation,"1615 Thames St #200 Baltimore, MD 21231",130,2025-03-13,2025-05-12,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+33a70a68cb771b48,MD,"Wilson Creek Energy, LLC","Casselman 865 Durst Road Grantsville, MD 21536",93,2025-03-13,2025-03-28,Plant Closure,2026-08-30T21:43:41.512264Z
+dbd427cb4844e43b,MD,"ICF International, Inc., through its subsidiaries ICF Incorporated, LLC, ICF Macro, Inc.","530 Gaither Road, Suite 500 Rockville, MD 20850",41,2025-03-12,2025-03-04,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+7854936b20c54d47,MD,American Institutes of Research (AIR),"6003 Executive Blvd, 3rd Floor Rockville, MD 20852",34,2025-03-10,2025-05-09,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+868b31d70fa77d8c,MD,"Creative Associates International, Inc.","445 Willard Avenue Chevy Chase, MD 20815",79,2025-03-05,2025-05-03,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+eaf2d0fe77a5a8d1,MD,UPS,"9401 Gaither Road Gaithersburg, MD 20877",69,2025-03-05,2025-05-05,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+0d3e1b78c22f6cd8,MD,Leidos,"3300 Lord Baltimore Drive Baltimore, MD 21244",20,2025-03-04,2025-05-02,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+a95330b41176e54a,MD,Penney OpCo LLC “ JC Penney ” (Store 2102),"1695 Annapolis Mall Annapolis, MD 21401",74,2025-02-27,2025-05-12,Plant Closure Update: Company Rescinded WARN on 5/13/2025,2026-08-30T21:43:41.512264Z
+026601be4924f6a5,MD,UPS,"9401 Gaither Road Gaithersburg, MD 20877",81,2025-02-20,2025-04-22,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+412b4d8b48e13ac5,MD,"DAI Global, LLC","7600 Wisconsin Avenue, Suite 200 Bethesda, MD 20814",124,2025-02-17,2025-02-17,Mass Layoff - Temporary,2026-08-30T21:43:41.512264Z
+35b4c7bfd857bdad,MD,Atlantic Union Bankshares Corporation (Atlantic Union),"17735 Georgia Avenue Olney, MD 20832 (Administrative Center)",28,2025-02-14,2025-04-15,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+ef88d0c8a965fcc3,MD,Atlantic Union Bankshares Corporation (Atlantic Union),"17801 Georgia Avenue Olney, MD 20832 (WHD Building)",21,2025-02-14,2025-04-15,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+40041e15b1a54920,MD,EnCompass LLC,"1100 Wayne Avenue Suite 1200 Silver Spring, MD 20910",194,2025-02-13,2025-02-12,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+bc6bc673aa66ab72,MD,"Creative Associates International, Inc.","445 Willard Avenue Chevy Chase, MD 20815",37,2025-02-11,2025-02-01,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+83a42c7dd7a8ade4,MD,"Science Systems and Applications, Inc. (SSAI)","10210 Greenbelt Road, Suite 600 Lanham, MD 20706",148,2025-02-11,2025-04-08,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+9d16acffaaabc33e,MD,Denison Landscape Inc.,"8911 Oxon Hill Road Ft. Washington, MD 20744",52,2025-02-10,2025-04-11,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+c38d686f1f631e3c,MD,Peraton’s Environmental Test & Integration Services III (ETIS III),"8800 Greenbelt Road Greenbelt, MD 20771",123,2025-02-10,2025-03-31,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+4b36c6b2515c6000,MD,"DAI Global, LLC","7600 Wisconsin Avenue, Suite 200 Bethesda, MD 20814",382,2025-02-03,2025-02-03,Mass Layoff - Temporary,2026-08-30T21:43:41.512264Z
+625c3ceb3fbd830b,MD,"ABT Global, Inc.","6130 Executive Boulevard Rockville, MD 20852",241,2025-02-03,2025-04-01,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+ca3e5f7a24787419,MD,Safeway Store 3257,"1800 Rockville Pike Rockville, MD 20852",85,2025-01-31,2025-04-05,Plant Closure,2026-08-30T21:43:41.512264Z
+764bc34a355100e0,MD,"Charles River Laboratories, Inc.","15 Wormans Mill Court, Suite I Frederick, MD 21701 (Maryland PAI site)",7,2025-01-29,2025-03-28,Plant Closure,2026-08-30T21:43:41.512264Z
+463bb28c97308a09,MD,PharmaCann,"339 Log Canoe Circle Stevensville, MD 21666",19,2025-01-28,2025-01-28,Plant Closure,2026-08-30T21:43:41.512264Z
+b39f5cb4b18e30b2,MD,"Arbor E&T, LLC d/b/a Equus Workforce Solutions (Woodstock JCC)","10900 Old Court Road Baltimore Woodstock, MD 21163",117,2025-01-28,2025-04-01,Plant Closure,2026-08-30T21:43:41.512264Z
+0b858c3fb020fc3e,MD,Grandview Aviation,"701 Wilson Point Road Middle River, MD 21220",27,2025-01-24,2025-03-27,Plant Closure,2026-08-30T21:43:41.512264Z
+21a809c9bb13d389,MD,Grandview Aviation,"425 Williams Court, Suite 100 Middle River, MD 21220",37,2025-01-24,2025-03-27,Plant Closure,2026-08-30T21:43:41.512264Z
+482542258184222f,MD,"Optum Care, Inc.","1741 Dual Highway Hagerstown, MD 21740",18,2025-01-23,2025-03-24,Plant Closure,2026-08-30T21:43:41.512264Z
+91cec2ae6dab6e8e,MD,"Diamond Comic Distributors, Inc.","10150 York Road, Suite 300 Hunt Valley, MD 21030",168,2025-01-21,2025-04-01,Plant Closure,2026-08-30T21:43:41.512264Z
+9b94ea209750af2d,MD,"Fila USA, Inc.","7630 Gambrills Cove Curtis Bay, MD 21226",112,2025-01-08,2025-03-30,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+22575a45b1b8d441,MD,"Fila USA, Inc.","1 West Pennsylvania Avenue, Suite 250 Towson, MD 21204",18,2025-01-08,2025-03-30,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+a2256c6fcfa80fd8,MD,Federal Express Corporation,"12000 Mexico Farms Rd SE Cumberland, MD 21502",18,2025-01-06,2025-03-03,Plant Closure,2026-08-30T21:43:41.512264Z
+8f1b46802f9bf6fe,MD,Lineage,"3946 Federalsburg Highway Federalsburg, MD 21632",37,2025-01-03,2025-03-08,Plant Closure,2026-08-30T21:43:41.512264Z
+79d3b344cce6be94,MD,"Ryder Integrated Logistics, Inc. (Ryder)","7621 Energy Parkway Curtis Bay, MD 21226",87,2024-12-30,2025-02-28,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+ccdd1a5a0bd7fb9c,MD,Party City Store #1096,"295 Kentlands Blvd. Gaithersburg, MD 20878",20,2024-12-20,2025-02-28,Plant Closure,2026-08-30T21:43:41.512264Z
+a2b8f4e4e07c41c5,MD,Party City Store #738,"9101 Woodmore Center Drive, Suite 312 Lanham, MD 20706",22,2024-12-20,2025-02-28,Plant Closure,2026-08-30T21:43:41.512264Z
+90d9ce221e010e5b,MD,Party City Store #1093,"1500 Rockville Pike Rockville, MD 20852",20,2024-12-20,2025-02-28,Plant Closure,2026-08-30T21:43:41.512264Z
+08c520f1f924d071,MD,"Aurinia Pharma U.S., Inc.","77 Upper Rock Circle, Suite 700 Rockville, MD 20850",80,2024-12-17,2025-01-07,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+49ad5ec3cee18660,MD,"Alta Finance Group, LLC","1125 Charles Street Baltimore, MD 21201",2,2024-12-06,2025-02-04,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+db97c38cb11c2829,MD,ASRC Federal Professional Services,"16825 S. Seton Avenue Emmitsburg, MD 21727",21,2024-12-04,2025-01-31,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+14c5c72fb7d9a334,MD,"Sodexo, Inc and Affiliates","Sodexo, Inc and Affiliates Asbury Methodist Maryland Village - Crawford 405 Russell Ave Gaithersburg, MD 20877 Sodexo, Inc and Affiliates Asbury Methodist Village - Hefner 417 Russell Ave Gaithersburg, MD 20877 Sodexo, Inc and Affiliates Asbury Methodist Village - Wilson 333 Russell Ave Gaithersburg, MD 20877 Sodexo, Inc and Affiliates Asbury Methodist Village - Solomons Island 11100 Asbury Cir Solomons, MD 20688",14,2024-11-18,2025-01-15,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+d518abf013287762,MD,"Adidas America, Inc.","495 Premium Outlets Boulevard #570 Hagerstown, MD 21740",11,2024-11-18,2025-01-31,Plant Closure,2026-08-30T21:43:41.512264Z
+26cb3921b52fe78a,MD,"Tate Access Floors, Inc.","7510 Montevideo Rd Jessup, MD 20794",32,2024-11-14,2025-01-08,Plant Closure,2026-08-30T21:43:41.512264Z
+4ac7cae22557e734,MD,"Marriott International, Inc.","7750 Wisconsin Avenue Bethesda, MD 20814",833,2024-11-14,2025-01-03,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+7f16d9581c5c42ec,MD,"Louis Vuitton USA, Inc.","5555 Wisconsin Avenue Chevy Chase, MD 20815",7,2024-11-07,2025-01-06,Plant Closure,2026-08-30T21:43:41.512264Z
+197415697f628371,MD,"Universal Protection Service, LLC d/b/a Allied Universal Security Services","Arundel Mills Mall 7000 Arundel Mills Circle Hanover, MD 21076",18,2024-11-07,2025-01-09,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+cebbc44eacf40ce0,MD,Bowery Farming Inc.,"10000 Franklin Square Drive Suite 300 Nottingham, MD 21236",83,2024-11-01,2024-11-01,Plant Closure,2026-08-30T21:43:41.512264Z
+c383f3aa28765385,MD,Intuitive Machines,"8800 Greenbelt Road Greenbelt, MD 20771",35,2024-10-29,2024-12-01,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+176df95b1876898a,MD,Resolute Forest Products,"19224 Longmeadow Road Hagerstown, MD 21742",75,2024-10-23,2024-10-28,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+7288e1eceda38e8f,MD,"Lancaster Foods, LLC","7700 Conowingo Avenue Jessup, MD 20794",424,2024-10-15,2024-12-14,Plant Closure,2026-08-30T21:43:41.512264Z
+4f4d2305525ae631,MD,BC Graphics,"3030 Waterview Avenue Baltimore, MD 21230",144,2024-09-16,2024-11-15,Plant Closure,2026-08-30T21:43:41.512264Z
+fe458dcef6033607,MD,WM - Waste Management,"7175 Kit Kat Road Elkridge, MD 21075",66,2024-09-13,2024-11-16,Plant Closure,2026-08-30T21:43:41.512264Z
+26089b77da1c781f,MD,"Alta Finance Group, LLC","1125 Charles Street Baltimore, MD 21201",25,2024-08-23,2024-10-22,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+b97e98842a8907e3,MD,"American Signature, Inc. d/b/a Value City Furniture","7735 Eastern Avenue Baltimore, MD 21224",24,2024-08-19,2024-10-22,Plant Closure,2026-08-30T21:43:41.512264Z
+d16a41f7ab02467b,MD,ASM Global at The Lyric,"140 West Mount Royal Avenue Baltimore, MD 21201",233,2024-08-13,2024-09-30,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+5668d3a28ca35034,MD,Pitney Bowes,"1781 Crossroads Dr. Odenton, MD 21113",50,2024-08-10,2024-10-08,Plant Closure,2026-08-30T21:43:41.512264Z
+2834bffbe2a42a57,MD,Charles River Laboratories,"15 Wormans Mill Court Suite 1 Frederick, MD 21701",13,2024-08-02,2024-09-30,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+9a9c0fdd9ae5e393,MD,"Adidas America, Inc.","12741 Ocean Gateway Unit 919 Ocean City, MD 21842",6,2024-07-30,2024-09-17,Plant Closure,2026-08-30T21:43:41.512264Z
+e3be5ce913f51496,MD,"National Aerospace Solutions, LLC (NAS) - Tunnel 9 Facility","10905 New Hampshire Avenue Bldg. 405 Silver Spring, MD 20904",30,2024-07-26,2024-09-30,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+c01897e477f024b0,MD,SpartanNash,"6304 Sheriff Road Landover, MD 20785",141,2024-07-16,2024-09-30,Plant Closure,2026-08-30T21:43:41.512264Z
+947f4b71200b58d6,MD,"Frederick Delights, Inc.","105 N. Market Street Frederick, MD 21701",63,2024-06-24,2024-06-19,Plant Closure,2026-08-30T21:43:41.512264Z
+c1eedb24643c9166,MD,"United Parcel Service, Inc.","3901 Vero Road Baltimore, MD 21227",540,2024-06-20,2024-08-23,Plant Closure,2026-08-30T21:43:41.512264Z
+75abcc2cb1089d19,MD,"Megabus Northeast, LLC","2320 Beaver Road Landover, MD 20785",62,2024-06-20,2024-08-09,Plant Closure,2026-08-30T21:43:41.512264Z
+08c8b29d5266f961,MD,Crown Castle USA Inc.,"10980 Grantchester Way Columbia, MD 21044",20,2024-06-14,2024-08-13,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+b36b46b1149f8243,MD,WillScot Mobile Mini,"7539 Harmans Road Harmans, MD 21077",33,2024-06-13,2024-07-05,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+8c99b3da32c48dcf,MD,"First Transit, Inc.","8621 Central Avenue Capitol Heights, MD 20743",408,2024-06-07,2024-06-30,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+6b5017dfc60bfd7f,MD,"Transdev Services, Inc.","3201 Hubbard Rd Hyattsville, MD 20785",498,2024-06-07,2024-06-30,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+35de1b7218de6050,MD,"Sodexo, Inc and Affiliates","Queen Anne’s County Schools 202 Chesterfield Avenue Centreville, MD 21617",56,2024-05-29,2024-06-30,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+237d2893f4e41f2c,MD,"Cygnus Home Service, LLC d/b/a Yelloh","141 Bugeye Square Prince Frederick, MD 20678",7,2024-05-29,2024-07-27,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+cac08a36f9eea884,MD,"Cygnus Home Service, LLC d/b/a Yelloh","109 Industry Lane Forest Hill, MD 21050",8,2024-05-29,2024-07-27,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+d34d2d0d1a7110b4,MD,"MV Transportation, Inc.","4100 Garden City Drive, 6th Floor Hyattsville, MD 20784",229,2024-05-24,2024-07-24,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+b2b002195d1959e9,MD,"Sylvan Learning, LLC","502 Washington Avenue Towson, MD 21204",48,2024-05-21,2024-05-21,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+afcb61ea0a7e015d,MD,"Emergent Biosolutions, Inc.","9920 Medical Center Drive Rockville, MD 20850",86,2024-05-16,2024-08-02,Plant Closure,2026-08-30T21:43:41.512264Z
+3b30e0071fb98fd7,MD,Oldcastle Infrastructure,"1401 Trimble Road Edgewood, MD 21040",15,2024-05-15,2024-07-05,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+932aa543f7425dd9,MD,"Jason Pharmaceuticals, Inc.","601 Sunshine Avenue Baltimore, MD 21660",62,2024-05-09,2024-07-31,Plant Closure,2026-08-30T21:43:41.512264Z
+8b4cd8ce9ac4a06e,MD,Sodexo Live,"1 W. Pratt Street Baltimore, MD 21201",64,2024-05-02,2024-07-02,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+80bed5254b8b501f,MD,"Emergent Biosolutions, Inc.","300 Professional Drive Gaithersburg, MD 20879",154,2024-05-02,2024-07-01,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+22177aad468f0df1,MD,"National Aerospace Solutions, LLC (NAS) - - Tunnel 9 Facility","10905 New Hampshire Avenue, Bldg 405 Silver Spring, MD 20904",30,2024-05-01,2024-06-30,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+692e7e4f290a660d,MD,Jubilant Cadista Pharmaceuticals,"207 Kiley Drive Salisbury, MD 21801",221,2024-04-17,2024-06-17,Plant Closure,2026-08-30T21:43:41.512264Z
+1ffe89909840d5fd,MD,"Guidehouse Digital, LLC","5830 University Research Court College Park, MD 20740",38,2024-04-11,2024-06-11,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+d63427ffd5164bf0,MD,Jacobs Technology,"Aberdeen Test Center Bldg. 402, Suite 200 Aberdeen Proving Ground, MD 21005",463,2024-04-09,2024-05-31,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+bbbeb58abd0c3dff,MD,"Upper Chesapeake Emergency Medicine Physicians, LLC (“UCEMP”)","250 W. Pratt Street, Suite 1320 Baltimore, MD 21201",190,2024-04-02,2024-06-01,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+6e58bdabef429be9,MD,"Volta Charging Industries, LLC","155 De Haro Street San Francisco, CA 94103",2,2024-04-01,2024-05-31,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+0af5e437dd7ab0c6,MD,"W.F. Delauter & Son, Inc.","2 Creamery Way Emmitsburg, MD 21727",78,2024-03-27,2024-03-29,Plant Closure,2026-08-30T21:43:41.512264Z
+18be4a9a41a772ef,MD,"Penn Parking, Inc. University of Maryland, Baltimore","5 North Paca Street Baltimore, MD 21201",9,2024-03-25,2024-05-31,Plant Closure,2026-08-30T21:43:41.512264Z
+efde695a3dc8d1c5,MD,"Penn Parking, Inc. University of Maryland, Baltimore","500 N. Redwood Street Baltimore, MD 21201",8,2024-03-25,2024-05-31,Plant Closure,2026-08-30T21:43:41.512264Z
+95e8e1b3993de674,MD,"Penn Parking, Inc. University of Maryland, Baltimore","646 West Pratt Street Baltimore, MD 21201",7,2024-03-25,2024-05-31,Plant Closure,2026-08-30T21:43:41.512264Z
+0d1f77d09d129835,MD,"Penn Parking, Inc. University of Maryland, Baltimore","660 West Lexington Street Baltimore, MD 21201",5,2024-03-25,2024-05-31,Plant Closure,2026-08-30T21:43:41.512264Z
+ca8df158f00ef5fa,MD,"AES Warrior Run, Limited Partnership","11600 Mexico Farms Road, SE Cumberland, MD 21502",40,2024-03-22,2024-06-01,Plant Closure,2026-08-30T21:43:41.512264Z
+e4277b6f2c6a3a03,MD,Reimagined Parking,"100 International Drive Baltimore, MD 21202",3,2024-03-19,2024-05-18,Plant Closure,2026-08-30T21:43:41.512264Z
+08a04bad7dd5ea16,MD,Reimagined Parking,"650 Exeter Street (Parking Garage) Baltimore, MD 21202",9,2024-03-19,2024-05-18,Plant Closure,2026-08-30T21:43:41.512264Z
+6053fd87cdac3d2a,MD,Reimagined Parking,"650 Exeter Street (Hilton Valet Parking) Baltimore, MD 21202",14,2024-03-19,2024-05-18,Plant Closure,2026-08-30T21:43:41.512264Z
+c3d20b3d8ffb512d,MD,Reimagined Parking,"600 S. Eden Street Baltimore, MD 21202",2,2024-03-19,2024-05-18,Plant Closure,2026-08-30T21:43:41.512264Z
+859cc5771ee03888,MD,Reimagined Parking,"711 S. Central Avenue Baltimore, MD 21202",1,2024-03-19,2024-05-18,Plant Closure,2026-08-30T21:43:41.512264Z
+ae180142b90a55e4,MD,Reimagined Parking,"1530 Thames Street Baltimore, MD 21231",4,2024-03-19,2024-05-18,Plant Closure,2026-08-30T21:43:41.512264Z
+27662232ff62aa2c,MD,Charles River Laboratories,"15 Wormans Mill Court Suite 1 Frederick, MD 21701",14,2024-03-14,2024-05-13,Plant Closure,2026-08-30T21:43:41.512264Z
+b3ade49ab55536c2,MD,"Adecco USA, Inc.","200 Gateway Drive North East, MD 21901",45,2024-03-11,2024-05-10,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+9cf1d98697097cb0,MD,Essendant Co.,"7441 Candlewood Road Hanover, MD 21076",101,2024-03-11,2024-05-17,Plant Closure,2026-08-30T21:43:41.512264Z
+137899551ade34a1,MD,"Jobandtalent Hirings, LLC d/b/a LGS Staffing","200 Gateway Drive Northeast, MD 21901",125,2024-03-08,2024-05-10,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+fe940f7250ab787e,MD,Walmart,"1238 Putty Hill Avenue Suite 5 Towson, Maryland 21286",213,2024-03-08,2024-04-12,Plant Closure,2026-08-30T21:43:41.512264Z
+e7fadc2c37fbe2ea,MD,ADT Solar,"20403-05 Seneca Meadows Pkwy Germantown, MD 20876",28,2024-03-07,2024-02-23,Plant Closure,2026-08-30T21:43:41.512264Z
+545f10b22630e29f,MD,The Home Depot,"12087 Rockville Pike Rockville, MD 20852",19,2024-02-26,2024-04-23,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+de2237a9753dc231,MD,The Home Depot,"7750 Airpark Road Gaithersburg, MD 20879",21,2024-02-26,2024-04-23,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+d72e35c3188bd6b6,MD,Daifuku Services America Corporation,"2010 Broening Highway Baltimore, MD 21224",67,2024-02-22,2024-04-22,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+a867eb8cc6f94076,MD,"District Photo, Inc.","10501 Rhode Island Avenue Beltsville, MD 20705",64,2024-02-14,2024-04-14,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+5a4f4f02e67796a1,MD,"MON AMI BETHESDA, LLC","7239 Woodmont Avenue Bethesda, MD 20814",55,2024-02-12,2024-04-01,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+26f75a7e43f2d8d3,MD,Exact Sciences,"1812 Ashland Avenue Baltimore, MD 21205",58,2024-01-29,2024-03-31,Plant Closure,2026-08-30T21:43:41.512264Z
+64fbc6b0bdc39924,MD,UPS,"3901 Vero Road Halethorpe, MD 21227",118,2024-01-26,2024-03-26,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+6ab80445b3bccbd9,MD,"CACI, Inc. - Federal","1681 Nelson Street Fort Detrick, MD 21702",61,2024-01-11,2024-03-05,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+6b860f5fd1d82d90,MD,The AMES Company/ ClosetMaid,"1 ClosetMaid Drive Grantsville, MD 21536",123,2024-01-09,2024-03-28,Plant Closure,2026-08-30T21:43:41.512264Z
+5c32efece335cb81,MD,"Adaptive Phage Therapeutics, Inc.","708 Quince Orchard Rd. Suite 205 Gaithersburg, MD 20878",19,2024-01-04,2024-03-05,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+1c25ca0af56bcdd1,MD,"Newbold Services, LLC","600 Principio Pkwy West North East, MD 21901",37,2024-01-04,2024-03-05,Mass Layoff - No Recall,2026-08-30T21:43:41.512264Z
+eaddb7dd9a66cadb,MD,DHL eCommerce,"6670 Business Parkway Ste 103 Elkridge, MD 21075",120,2024-01-01,2024-03-01,Plant Closure,2026-08-30T21:43:41.512264Z
+f15735172b544f8d,MD,Schulte Companies d/b/a Embassy Suites Inner Harbor Hotel,"222 St. Paul Place Baltimore, MD 212020",103,,,1,2026-08-30T21:43:41.512264Z

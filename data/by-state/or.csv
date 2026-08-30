@@ -1,0 +1,197 @@
+id,state,company,location,employees_affected,notice_date,effective_date,notice_type,first_seen
+16e3531338fda588,OR,"Amentum - Hillsboro, OR",Hillsboro,74,2026-08-20,2026-10-19,Large Layoff - 10 or more workers,2026-08-30T21:43:41.512264Z
+60e585a9d4f8d22e,OR,JeniusBank,"New York, NY",105,2026-08-10,2026-10-09,Permanent closure,2026-08-30T21:43:41.512264Z
+a12b2847bfb7a05f,OR,Oregon - Remote Employees,,1,2026-08-10,2026-10-09,Permanent closure,2026-08-30T21:43:41.512264Z
+ded1bb87b30fb352,OR,"TV Hardware Distribution, LLC",Springfield,62,2026-08-03,2026-10-03,Permanent closure,2026-08-30T21:43:41.512264Z
+35a83897f30902f3,OR,"Avamere Health Services, LLC",Tigard,129,2026-08-03,2026-09-01,Large Layoff - 10 or more workers,2026-08-30T21:43:41.512264Z
+6fafb59b355b03d1,OR,Portland Truck Manufacturing Facility,Portland,387,2026-07-30,2026-10-30,Permanent closure,2026-08-30T21:43:41.512264Z
+383b5c1c78532d55,OR,"Bowtech, LLC",Eugene,1,2026-07-27,2027-02-28,Permanent closure,2026-08-30T21:43:41.512264Z
+c7196752a69d54ec,OR,"Bowtech, LLC",Eugene,9,2026-07-27,2026-12-31,Permanent closure,2026-08-30T21:43:41.512264Z
+18c419abbe2ec677,OR,"Bowtech, LLC",Eugene,4,2026-07-27,2026-11-30,Permanent closure,2026-08-30T21:43:41.512264Z
+c7241a12ca472213,OR,"Bowtech, LLC",Eugene,6,2026-07-27,2026-10-31,Permanent closure,2026-08-30T21:43:41.512264Z
+fc52e961ef6b4c21,OR,"Bowtech, LLC",Eugene,23,2026-07-27,2026-09-30,Permanent closure,2026-08-30T21:43:41.512264Z
+42761c0a66a8aa9c,OR,Conduent - Oregon Remote Employees,,17,2026-06-26,2026-08-28,Large Layoff - 10 or more workers,2026-08-30T21:43:41.512264Z
+d7d46a9c888282b5,OR,Adventist Health Tillamook,Tillamook,4,2026-06-24,2026-07-03,Reduction,2026-08-30T21:43:41.512264Z
+3d1c01914f7d28b6,OR,Adventist Health Portland,"Portland,",6,2026-06-24,2026-07-03,Reduction,2026-08-30T21:43:41.512264Z
+bb2f42e60e1a221c,OR,Adventist Health Columbia Gorge,The Dalles,3,2026-06-24,2026-07-03,Reduction,2026-08-30T21:43:41.512264Z
+c014f1ccbc73f987,OR,PacificSource,Springfield,56,2026-05-27,2026-07-31,Large Layoff - 10 or more workers,2026-08-30T21:43:41.512264Z
+fa7635362677984c,OR,PacificSource - Bend,Bend,28,2026-05-27,2026-07-31,Reduction,2026-08-30T21:43:41.512264Z
+bee42fedab02c20d,OR,PacificSource - Portland,Portland,6,2026-05-27,2026-07-31,Reduction,2026-08-30T21:43:41.512264Z
+003927297d0a59ef,OR,PacificSource - Salem,Salem,6,2026-05-27,2026-07-31,Reduction,2026-08-30T21:43:41.512264Z
+644f141a6a50db1a,OR,PacificSource Hood River,Hood River,1,2026-05-27,2026-07-31,Reduction,2026-08-30T21:43:41.512264Z
+d3ac252d0aa4dd57,OR,Safeway Store 0378 - Newport,Newport,69,2026-05-26,2026-07-25,Permanent closure,2026-08-30T21:43:41.512264Z
+51bfd6edb97e4ff7,OR,Bend Depot Facility,Bend,10,2026-05-18,2026-07-31,Large Layoff - 10 or more workers,2026-08-30T21:43:41.512264Z
+c0fe47e5bc907e3b,OR,Eugene Facility,Eugene,15,2026-05-18,2026-07-31,Large Layoff - 10 or more workers,2026-08-30T21:43:41.512264Z
+45529f6b04884981,OR,Medford Facility,Medford,10,2026-05-18,2026-07-31,Large Layoff - 10 or more workers,2026-08-30T21:43:41.512264Z
+9b83d7c90dda7160,OR,Portland Facility,Portland,102,2026-05-18,2026-07-31,Large Layoff - 10 or more workers,2026-08-30T21:43:41.512264Z
+96eacaf11d9856e6,OR,Oregon - Remote Employees,,23,2026-05-18,2026-07-31,Large Layoff - 10 or more workers,2026-08-30T21:43:41.512264Z
+ad5fa391249759d4,OR,Coburg Facility,Coburg,83,2026-05-13,2026-07-17,Permanent closure,2026-08-30T21:43:41.512264Z
+6ec05fed3e07f3bc,OR,"Prineville, OR Facility",Prineville,66,2026-04-29,2026-06-28,Large Layoff - 10 or more workers,2026-08-30T21:43:41.512264Z
+40bb4e2c827fd293,OR,Direct Marketing Solutions,Portland,53,2026-04-06,2026-06-05,Large Layoff - 10 or more workers,2026-08-30T21:43:41.512264Z
+2aeb1d0f8dc8b5a1,OR,Sumner St - Portland,Portland,53,2026-04-06,2026-06-05,Large Layoff - 10 or more workers,2026-08-30T21:43:41.512264Z
+c8d47d8bc98259da,OR,Troutdale Facility,Troutdale,65,2026-04-02,2026-09-30,Large Layoff - 10 or more workers,2026-08-30T21:43:41.512264Z
+fe832fca109f83a9,OR,Sunstone Way,Portland,175,2026-03-27,2026-06-30,Permanent closure,2026-08-30T21:43:41.512264Z
+a31114ebe225f6d3,OR,Horizon Air - Rogue Valley Internationa,Medford,78,2026-03-26,2026-05-31,Large Layoff - 10 or more workers,2026-08-30T21:43:41.512264Z
+1d9ab3421714a51d,OR,Albany/Millersburg,Albany,1,2026-02-13,2026-04-19,Reduction,2026-08-30T21:43:41.512264Z
+41f893b1e31d589a,OR,Oregon - Remote Employees,,2,2026-02-13,2026-04-19,Reduction,2026-08-30T21:43:41.512264Z
+2dbff0efd15ea86e,OR,Riddle Plywood facility,Riddle,146,2026-02-04,2026-04-05,Large Layoff - 10 or more workers,2026-08-30T21:43:41.512264Z
+118e701618856c92,OR,Kroger-00035,Beaverton,3,2026-01-29,2026-04-05,Permanent closure,2026-08-30T21:43:41.512264Z
+3898fc09ffdb280c,OR,Kroger-00040,Portland,4,2026-01-29,2026-04-05,Permanent closure,2026-08-30T21:43:41.512264Z
+1d9a02b6b7384123,OR,Kroger-00063,Clackamas,4,2026-01-29,2026-04-05,Permanent closure,2026-08-30T21:43:41.512264Z
+858df9dcabf5cca0,OR,Kroger-00075-Prime,Portland,4,2026-01-29,2026-04-05,Permanent closure,2026-08-30T21:43:41.512264Z
+390e16be9852097e,OR,Kroger-00090,Salem,4,2026-01-29,2026-04-05,Permanent closure,2026-08-30T21:43:41.512264Z
+f2c2104ef40c6a0d,OR,Kroger-00125-Prime,North Tabor,4,2026-01-29,2026-04-05,Permanent closure,2026-08-30T21:43:41.512264Z
+29d5c03da635b8c4,OR,Kroger-00127-Prime,Powell Valley,4,2026-01-29,2026-04-05,Permanent closure,2026-08-30T21:43:41.512264Z
+59c1bc698ae4f205,OR,Kroger-00128-Prime,Portland,4,2026-01-29,2026-04-05,Permanent closure,2026-08-30T21:43:41.512264Z
+613f68a65b5531fe,OR,Kroger-00135,Portland,4,2026-01-29,2026-04-05,Permanent closure,2026-08-30T21:43:41.512264Z
+2e0c2b93175dbd5c,OR,Kroger-00150-Prime,Portland,4,2026-01-29,2026-04-05,Permanent closure,2026-08-30T21:43:41.512264Z
+945bc14aa6c08a7f,OR,Kroger-00153,Happy Valley,4,2026-01-29,2026-04-05,Permanent closure,2026-08-30T21:43:41.512264Z
+e2a97d5f59ba4bab,OR,Kroger-00240,Milwaukie,4,2026-01-29,2026-04-05,Permanent closure,2026-08-30T21:43:41.512264Z
+7c2b89213cac02b4,OR,Kroger-00255,Portland,4,2026-01-29,2026-04-05,Permanent closure,2026-08-30T21:43:41.512264Z
+55e35b36c2ace506,OR,Kroger-00360-Prime,Portland,4,2026-01-29,2026-04-05,Permanent closure,2026-08-30T21:43:41.512264Z
+613d7379b394f6e8,OR,Kroger-00417,Eugene,3,2026-01-29,2026-04-05,Permanent closure,2026-08-30T21:43:41.512264Z
+582b18b932ef1f94,OR,Kroger-00600-Prime,Portland,4,2026-01-29,2026-04-05,Permanent closure,2026-08-30T21:43:41.512264Z
+2eb400e8a92853f5,OR,Kroger-00516,Wilsonville,3,2026-01-29,2026-04-05,Permanent closure,2026-08-30T21:43:41.512264Z
+9303fd80b771c5bb,OR,Kroger-00660,Wood Village,3,2026-01-29,2026-04-05,Permanent closure,2026-08-30T21:43:41.512264Z
+9d6aec3fc19c2edf,OR,"Lincare-Brookings, OR",Brookings,3,2026-01-29,2026-04-05,Permanent closure,2026-08-30T21:43:41.512264Z
+912157547d4634f8,OR,"Three Pirates, LLC dba Point Blank Dist",Portland,112,2026-01-29,2026-03-31,Permanent closure,2026-08-30T21:43:41.512264Z
+bfb1ca2398b66890,OR,Eugene Location,Eugene,39,2026-01-29,2026-03-31,Permanent closure,2026-08-30T21:43:41.512264Z
+02b3a7509a10a882,OR,Bend Location,Bend,26,2026-01-29,2026-03-31,Permanent closure,2026-08-30T21:43:41.512264Z
+2b9acd890a68004c,OR,Oregon - Remote Employees,,1,2026-01-08,2026-03-10,Permanent closure,2026-08-30T21:43:41.512264Z
+bc752075960dfc3f,OR,Vacuum Technique LLC,Clackamas,78,2025-12-29,2026-04-30,Permanent closure,2026-08-30T21:43:41.512264Z
+538905d0c6be30db,OR,"Solgen Power, LLC dba Purelight Power",Medford,71,2025-12-23,2025-12-23,Permanent closure,2026-08-30T21:43:41.512264Z
+56ae0a3273775e11,OR,Administrative Office,Medford,13,2025-12-23,2025-12-23,Permanent closure,2026-08-30T21:43:41.512264Z
+ae6a1ac4bdf8c5a1,OR,Oregon - Remote Employees,,25,2025-12-23,2025-12-23,Permanent closure,2026-08-30T21:43:41.512264Z
+34706ac6e5710482,OR,Wells Fargo and Company - 5th Ave. Port,Portland,3,2025-12-09,2026-02-06,Reduction,2026-08-30T21:43:41.512264Z
+afcef3e0eeb2ea3d,OR,Nordstrom Portland Rack,Portland,37,2025-12-01,2026-01-31,Permanent closure,2026-08-30T21:43:41.512264Z
+07223837c93b619c,OR,Vibra Specialty Hospital of Portland,Portland,310,2025-12-01,2026-02-01,Permanent closure,2026-08-30T21:43:41.512264Z
+ff4a0452fce8b344,OR,Oregon - Remote Employees,,1,2025-11-20,2026-02-01,Reduction,2026-08-30T21:43:41.512264Z
+ef0fa34d945056f2,OR,Aloha Facility,Aloha,41,2025-11-13,2025-09-16,Large Layoff - 10 or more workers,2026-08-30T21:43:41.512264Z
+3593c3e5e7b252ea,OR,"Century Blvd., Hillsboro",Hillsboro,510,2025-11-13,2025-09-16,Large Layoff - 10 or more workers,2026-08-30T21:43:41.512264Z
+9c2e5620028fa39d,OR,"Elam Young Pkwy., Hillsboro",Hillsboro,42,2025-11-13,2025-09-16,Large Layoff - 10 or more workers,2026-08-30T21:43:41.512264Z
+e9d252887cab5b87,OR,"25th Ave., Hillsboro",Hillsboro,76,2025-11-13,2025-09-16,Large Layoff - 10 or more workers,2026-08-30T21:43:41.512264Z
+3286d5ed605e057d,OR,Wells Fargo and Company - 5th Ave. Port,Portland,34,2025-10-28,2025-12-26,Large Layoff - 10 or more workers,2026-08-30T21:43:41.512264Z
+bc1cac4b22c6cef8,OR,Wells Fargo and Company - Hawthorne Ave,Salem,147,2025-10-28,2025-12-26,Large Layoff - 10 or more workers,2026-08-30T21:43:41.512264Z
+3c54274ec108fa5b,OR,Wells Fargo and Company - Walker Rd. Hi,Hillsboro,2,2025-10-28,2026-03-20,Reduction,2026-08-30T21:43:41.512264Z
+2b42657836b54a60,OR,Wells Fargo and Company - Walker Rd. Hi,Hillsboro,263,2025-10-28,2025-12-26,Permanent closure,2026-08-30T21:43:41.512264Z
+e58e195d2f81bf7c,OR,Pacific Source,Springfield,153,2025-10-24,2025-12-31,Large Layoff - 10 or more workers,2026-08-30T21:43:41.512264Z
+9b7724ae6eb035f3,OR,Pacific Source - Bend,Bend,52,2025-10-24,2025-12-31,Reduction,2026-08-30T21:43:41.512264Z
+7aa4458ea30b2931,OR,Pacific Source - Medford,Medford,1,2025-10-24,2025-12-31,Reduction,2026-08-30T21:43:41.512264Z
+a65b877c3f53d892,OR,Pacific Source - Portland,Portland,38,2025-10-24,2025-12-31,Reduction,2026-08-30T21:43:41.512264Z
+a8585175df3ec858,OR,Pacific Source - Salem,Salem,21,2025-10-24,2025-12-31,Reduction,2026-08-30T21:43:41.512264Z
+4f9f4d9be996e75e,OR,"Bags, A Metropolis Company - Portland",Portland,157,2025-10-13,2025-11-17,Large Layoff - 10 or more workers,2026-08-30T21:43:41.512264Z
+63d0f276be058132,OR,Oregon - Remote Employees,,1,2025-10-03,2025-12-02,Small Layoff 1 – 10 workers,2026-08-30T21:43:41.512264Z
+ba0884247a2b3398,OR,Wells Fargo Center - Portland,Portland,50,2025-09-30,2025-11-28,Large Layoff - 10 or more workers,2026-08-30T21:43:41.512264Z
+b0df684c0b76b675,OR,Dillard Hardwood Plywood Facility,Dillard,7,2025-09-25,2025-10-10,Permanent closure,2026-08-30T21:43:41.512264Z
+e75f8316ff76d882,OR,Dillard Hardwood Plywood Facility,Dillard,100,2025-09-25,2025-09-25,Large Layoff - 10 or more workers,2026-08-30T21:43:41.512264Z
+a62a740a5fa293d3,OR,Pacific Source,Springfield,56,2025-09-17,2025-12-31,Large Layoff - 10 or more workers,2026-08-30T21:43:41.512264Z
+3874b7e1889a0b8e,OR,Hillsboro Facility,Hillsboro,128,2025-09-16,2025-11-15,Large Layoff - 10 or more workers,2026-08-30T21:43:41.512264Z
+80cdce0b8737f2bc,OR,Oregon - Remote Employees,,1,2025-09-16,2025-11-15,Small Layoff 1 – 10 workers,2026-08-30T21:43:41.512264Z
+f36b2644a99d7cdf,OR,Nike World Headquarters,Beaverton,69,2025-09-15,2025-12-15,Large Layoff - 10 or more workers,2026-08-30T21:43:41.512264Z
+0356cae9304d3697,OR,Remote Workers,,16,2025-08-20,2025-10-19,Permanent closure,2026-08-30T21:43:41.512264Z
+dedfd7ceb8010b2f,OR,Remote Workers - Oregon,,9,2025-08-20,2025-10-19,Permanent closure,2026-08-30T21:43:41.512264Z
+0cf58cfa39da6456,OR,"Zeco Systems, Inc. dba Shell EV Chargin","Los Angeles, CA",,2025-08-18,,Large Layoff - 10 or more workers,2026-08-30T21:43:41.512264Z
+1f61844875b29684,OR,Oregon - Remote Employees,,23,2025-08-12,2025-10-13,Large Layoff - 10 or more workers,2026-08-30T21:43:41.512264Z
+dc88f9e336e5b2ab,OR,Portland - Production Facility,Portland,90,2025-07-29,2025-08-05,Large Layoff - 10 or more workers,2026-08-30T21:43:41.512264Z
+304a8cc85bbbf49c,OR,Store #128,Portland,249,2025-07-16,2025-09-20,Permanent closure,2026-08-30T21:43:41.512264Z
+f380ea76696ce6eb,OR,Oregon Mutual,McMinnville,10,2025-07-11,2025-09-12,Reduction,2026-08-30T21:43:41.512264Z
+60aeb51bf7107d68,OR,Oregon - Remote Employees,,32,2025-07-11,2025-09-12,Reduction,2026-08-30T21:43:41.512264Z
+ebe1a29a7ef5f379,OR,"Outside Van, LLC",Portland,56,2025-07-08,2025-09-12,Permanent closure,2026-08-30T21:43:41.512264Z
+bbb357b2d03ba4b5,OR,Aloha Facility,Aloha,194,2025-07-07,2025-07-15,Reduction,2026-08-30T21:43:41.512264Z
+b225e26358666b0e,OR,"Century Blvd., Hillsboro",Hillsboro,1544,2025-07-07,2025-07-15,Reduction,2026-08-30T21:43:41.512264Z
+a206cae5117a37e1,OR,"Elam Young Pkwy., Hillsboro",Hillsboro,174,2025-07-07,2025-07-15,Reduction,2026-08-30T21:43:41.512264Z
+ecb68e41ef1d18c5,OR,"25th Ave., Hillsboro",Hillsboro,597,2025-07-07,2025-07-15,Reduction,2026-08-30T21:43:41.512264Z
+00a77f9310a16fa6,OR,Pilot Rock Sawmill,Pilot Rock,62,2025-07-01,2025-09-01,Permanent closure,2026-08-30T21:43:41.512264Z
+0b375efd3456b4e9,OR,Prineville Facility,Prineville,52,2025-06-24,2025-11-21,Permanent closure,2026-08-30T21:43:41.512264Z
+8e77854799b37e4a,OR,Prineville Facility,Prineville,51,2025-06-24,2025-11-07,Permanent closure,2026-08-30T21:43:41.512264Z
+463bc57e15e7d033,OR,Prineville Facility,Prineville,81,2025-06-24,2025-08-25,Permanent closure,2026-08-30T21:43:41.512264Z
+71fe84163d189d34,OR,Rogue Valley Transportation District,Medford,82,2025-06-23,2025-08-30,Large Layoff - 10 or more workers,2026-08-30T21:43:41.512264Z
+9a827fdfba79e7bb,OR,PIVOT Job Corps Center Facility,Portland,12,2025-06-09,2025-06-30,Permanent closure,2026-08-30T21:43:41.512264Z
+0272dc1fb2f79c1c,OR,Springdale Job Corps Center,Troutdale,77,2025-06-09,2025-06-30,Permanent closure,2026-08-30T21:43:41.512264Z
+6149316e8779e95e,OR,Tongue Point Job Corps Center,Astoria,168,2025-06-04,2025-06-06,Large Layoff - 10 or more workers,2026-08-30T21:43:41.512264Z
+f1670408a7c13dcc,OR,Powin LLC,Tualatin,96,2025-05-29,2025-07-28,Large Layoff - 10 or more workers,2026-08-30T21:43:41.512264Z
+35ba341606ca76d3,OR,Remote Workers,,149,2025-05-29,2025-07-28,Large Layoff - 10 or more workers,2026-08-30T21:43:41.512264Z
+9206b1eb15e8697c,OR,"ESS Tech, Inc.",Wilsonville,195,2025-05-27,2025-05-30,Permanent closure,2026-08-30T21:43:41.512264Z
+696dd2dc892fcc77,OR,Chiloquin Facility,Chiloquin,128,2025-05-01,2025-06-30,Permanent closure,2026-08-30T21:43:41.512264Z
+94d46f3f0275d8b3,OR,Store 0505 - Portland,Portland,87,2025-04-30,2025-07-01,Permanent closure,2026-08-30T21:43:41.512264Z
+9786bdbdbd63a8bb,OR,Portland Facility,Portland,47,2025-04-27,2025-06-26,Large Layoff - 10 or more workers,2026-08-30T21:43:41.512264Z
+bae3ad156a5abe8e,OR,Oregon - Remote Employees,Portand,16,2025-04-22,2025-04-22,Large Layoff - 10 or more workers,2026-08-30T21:43:41.512264Z
+697acd1145ba7c3a,OR,"Lignetics, Inc. - Cascade Locks Facilit",Cascade Locks,11,2025-04-21,2025-06-30,Temporary Layoff,2026-08-30T21:43:41.512264Z
+a368947edc221e13,OR,"Navajo Incorprated, Portland Facility",Portland,11,2025-04-16,2025-06-30,Large Layoff - 10 or more workers,2026-08-30T21:43:41.512264Z
+04ec7026bbd1fc47,OR,"Portland, Oregon Facility",Portland,72,2025-04-08,2025-05-31,Permanent closure,2026-08-30T21:43:41.512264Z
+018ced68f27bbcfb,OR,UPS,"Atlanta, GA",244,2025-03-28,2025-06-30,Temporary Layoff,2026-08-30T21:43:41.512264Z
+ce255a458bea4fb4,OR,Safeway Store 4381,Baker City,82,2025-03-26,2025-05-25,Permanent closure,2026-08-30T21:43:41.512264Z
+2b2609ff493c43d5,OR,Oregon - Statewide,,105,2025-03-26,2025-06-02,Large Layoff - 10 or more workers,2026-08-30T21:43:41.512264Z
+8e08b6eee6bfc984,OR,Portland - Site,Portland,96,2025-02-18,2025-02-18,Permanent closure,2026-08-30T21:43:41.512264Z
+4b07cd2d0afe8218,OR,Macy's - Salem Center,Salem,56,2025-01-09,2025-03-18,Permanent closure,2026-08-30T21:43:41.512264Z
+44f7279605d0e9e6,OR,"Vimo, Inc. dba GetInsured","Mountain View, CA",429,2024-12-20,2025-02-19,Reduction,2026-08-30T21:43:41.512264Z
+88ed2be30e0c254f,OR,Oregon - Remote Employees,,1,2024-12-20,2025-02-19,Reduction,2026-08-30T21:43:41.512264Z
+9a61aabb60d95950,OR,"Natural Fiber Welding, Inc.","Peoria, IL",90,2024-12-10,2025-02-08,Reduction,2026-08-30T21:43:41.512264Z
+1c272ceba38e233a,OR,Remote Workers - Oregon,Portland,1,2024-12-10,2025-02-08,Reduction,2026-08-30T21:43:41.512264Z
+69bf4601f2106050,OR,Albertsons Store 0515,Roseburg,87,2024-12-06,2025-02-07,Permanent closure,2026-08-30T21:43:41.512264Z
+6ecb721bbd50dcb5,OR,Wells Fargo N.A. William Barnhart Cente,Hillsboro,500,2024-12-03,2025-10-01,Permanent closure,2026-08-30T21:43:41.512264Z
+5e9519f1e2883ee1,OR,Hawthorne Ave - Salem,Salem,221,2024-12-03,2025-10-01,Permanent closure,2026-08-30T21:43:41.512264Z
+58b5b454220175fa,OR,Cabinet Door Service,Salem,60,2024-11-19,2024-11-20,Large Layoff - 10 or more workers,2026-08-30T21:43:41.512264Z
+c215823625f33db4,OR,The Boeing Company - Oregon Location,Portland,50,2024-11-15,2025-01-17,Reduction,2026-08-30T21:43:41.512264Z
+fff552496b485c2c,OR,#4184 - Portland,Portland,13,2024-11-14,2025-03-10,Permanent closure,2026-08-30T21:43:41.512264Z
+1c86b2ae35f7d3ee,OR,#4324 - Sandy,Sandy,16,2024-11-14,2025-03-10,Permanent closure,2026-08-30T21:43:41.512264Z
+61337a43b65154c1,OR,#3573 - Gresham,Gresham,12,2024-11-14,2025-03-09,Permanent closure,2026-08-30T21:43:41.512264Z
+eedd0fbd2d592eb1,OR,#3911 - Milwaukie,Milwaukie,14,2024-11-14,2025-03-09,Permanent closure,2026-08-30T21:43:41.512264Z
+ac4aaf9e13da06b4,OR,#3574 - Gresham,Gresham,9,2024-11-14,2025-03-05,Permanent closure,2026-08-30T21:43:41.512264Z
+1c0e4cd00a3c998c,OR,#3113 - Beaverton,Beaverton,9,2024-11-14,2025-03-05,Permanent closure,2026-08-30T21:43:41.512264Z
+1d9e2ff5553f8fe9,OR,#9938 - Portland,Portland,9,2024-11-14,2025-03-05,Permanent closure,2026-08-30T21:43:41.512264Z
+79c3f50742672371,OR,#7866 - Beaverton,Beaverton,8,2024-11-14,2025-02-27,Permanent closure,2026-08-30T21:43:41.512264Z
+318291545afc4e0f,OR,#4181 - Portland,Portland,9,2024-11-14,2025-02-26,Permanent closure,2026-08-30T21:43:41.512264Z
+bbd3384fef0b9114,OR,Distribution Center - Portland,Portland,80,2024-11-14,2025-02-15,Permanent closure,2026-08-30T21:43:41.512264Z
+9c9ce7d9268bab16,OR,#3612 - Hillsboro,Hillsboro,6,2024-11-14,2025-02-02,Permanent closure,2026-08-30T21:43:41.512264Z
+cf93d4fce159f214,OR,Hillsboro Client Site,Hillsboro,205,2024-11-05,2024-12-31,Large Layoff - 10 or more workers,2026-08-30T21:43:41.512264Z
+3919635d474a589a,OR,"Misfits Markets, Inc.",Clackamas,64,2024-10-30,2024-12-31,Permanent closure,2026-08-30T21:43:41.512264Z
+0d74d2d2d05c57fe,OR,DENNIS Uniform,Portland,111,2024-10-19,2024-10-19,Large Layoff - 10 or more workers,2026-08-30T21:43:41.512264Z
+0db95d0ad0a11fcf,OR,Portland - Production and Maintenance P,Portland,49,2024-10-17,2025-01-07,Permanent closure,2026-08-30T21:43:41.512264Z
+3d57e193601455a0,OR,"True Value Company, L.L.C.",Springfield,98,2024-10-15,2024-12-14,Permanent closure,2026-08-30T21:43:41.512264Z
+c7fa9c46893d61e1,OR,Aloha Facility,Aloha,28,2024-10-15,2024-11-15,Large Layoff - 10 or more workers,2026-08-30T21:43:41.512264Z
+b1024612e37f38e5,OR,"Century Blvd., Hillsboro",Hillsboro,514,2024-10-15,2024-11-15,Large Layoff - 10 or more workers,2026-08-30T21:43:41.512264Z
+29c7bb28abea11c4,OR,"Elam Young Pkwy., Hillsboro",Hillsboro,124,2024-10-15,2024-11-15,Large Layoff - 10 or more workers,2026-08-30T21:43:41.512264Z
+1666440f1e998867,OR,"25th Ave., Hillsboro",Hillsboro,634,2024-10-15,2024-11-15,Large Layoff - 10 or more workers,2026-08-30T21:43:41.512264Z
+dc3d33ef96c7303d,OR,Cornerstone Building Brands,Tualatin,76,2024-10-15,2024-12-20,Permanent closure,2026-08-30T21:43:41.512264Z
+f44d9a61ba30eed6,OR,Hillsboro Worksite,Hillsboro,150,2024-09-26,2024-11-25,Permanent closure,2026-08-30T21:43:41.512264Z
+42ef980f86dfd497,OR,"Lost Boys Interactive, LLC","Madison, WI",134,2024-09-06,2024-09-09,Large Layoff - 10 or more workers,2026-08-30T21:43:41.512264Z
+ad54c39320ad80be,OR,Oregon - Remote Employees,,5,2024-09-06,2024-09-09,Reduction,2026-08-30T21:43:41.512264Z
+729cd33e21b3b47a,OR,Willamette Falls Paper Company,West Linn,158,2024-08-06,2024-08-09,Large Layoff - 10 or more workers,2026-08-30T21:43:41.512264Z
+bc6466c02c10405f,OR,Walker Rd - Hillsboro,"Hillsboro,",37,2024-07-23,2024-12-28,Large Layoff - 10 or more workers,2026-08-30T21:43:41.512264Z
+8318348f39d11e80,OR,Walker Rd - Hillsboro,"Hillsboro,",16,2024-07-23,2024-11-16,Large Layoff - 10 or more workers,2026-08-30T21:43:41.512264Z
+803a7cd00654b965,OR,Walker Rd - Hillsboro,"Hillsboro,",1,2024-07-23,2024-10-19,Reduction,2026-08-30T21:43:41.512264Z
+36ba01cc5625a0c8,OR,Walker Rd - Hillsboro,"Hillsboro,",2,2024-07-23,2024-10-04,Reduction,2026-08-30T21:43:41.512264Z
+40b8b785b325d31e,OR,Walker Rd - Hillsboro,"Hillsboro,",95,2024-07-23,2024-09-20,Permanent closure,2026-08-30T21:43:41.512264Z
+3cf847b918ed3f58,OR,Hazelnut Growers of Oregon,Aurora,4,2024-07-02,2024-12-27,Permanent closure,2026-08-30T21:43:41.512264Z
+a00974d8a2d756d2,OR,Hazelnut Growers of Oregon,Aurora,65,2024-07-02,2024-08-01,Large Layoff - 10 or more workers,2026-08-30T21:43:41.512264Z
+3141fcbd5849b1c4,OR,OHSU,Portland,297,2024-07-01,2024-08-30,Large Layoff - 10 or more workers,2026-08-30T21:43:41.512264Z
+cc027180dec7553f,OR,OHSU,Portland,142,2024-06-07,2024-08-09,Large Layoff - 10 or more workers,2026-08-30T21:43:41.512264Z
+7efc9eeb4513f06e,OR,Oregon - Remote Employees,Portland,37,2024-05-29,2024-07-31,Large Layoff - 10 or more workers,2026-08-30T21:43:41.512264Z
+3062e3b0c4ac4a42,OR,"Campbell Soup Supply Company, LLC",Tualatin,200,2024-05-28,2026-07-26,Large Layoff - 10 or more workers,2026-08-30T21:43:41.512264Z
+5ac1b693adbd2c2f,OR,"Campbell Soup Supply Company, LLC",Tualatin,10,2024-05-28,2025-01-31,Large Layoff - 10 or more workers,2026-08-30T21:43:41.512264Z
+fc4ca7db4b5d62d3,OR,"Campbell Soup Supply Company, LLC",Tualatin,120,2024-05-28,2024-08-02,Large Layoff - 10 or more workers,2026-08-30T21:43:41.512264Z
+35127e830e7fbb6d,OR,Lignetics,Cascade Locks,5,2024-05-10,2024-07-10,Reduction,2026-08-30T21:43:41.512264Z
+f20bc145c7923524,OR,Lignetics,Cascade Locks,1,2024-05-10,2024-04-19,Reduction,2026-08-30T21:43:41.512264Z
+ea19a0cf41f248b1,OR,Lignetics,Cascade Locks,2,2024-05-10,2024-03-15,Reduction,2026-08-30T21:43:41.512264Z
+750e497f366c6be4,OR,Multnomah University,Portland,88,2024-05-07,2024-06-30,Large Layoff - 10 or more workers,2026-08-30T21:43:41.512264Z
+055848ea5b094dfe,OR,Portland Manufacturing Site,Portland,75,2024-04-22,2024-06-28,Large Layoff - 10 or more workers,2026-08-30T21:43:41.512264Z
+33b855714dff084a,OR,"NIKE, Inc.",Beaverton,740,2024-04-19,2024-06-28,Reduction,2026-08-30T21:43:41.512264Z
+5204bce574109ce3,OR,"Block, Inc.","Oakland, CA",20,2024-04-02,2024-06-03,Large Layoff - 10 or more workers,2026-08-30T21:43:41.512264Z
+c9ed32246ad533c6,OR,"Volta Charging Industries, LLC","San Francisco, CA",171,2024-03-29,2024-05-31,Permanent closure,2026-08-30T21:43:41.512264Z
+834f722838b4f7a7,OR,"Osso VR, Inc.","San Francisco, CA",67,2024-03-28,2024-05-27,Large Layoff - 10 or more workers,2026-08-30T21:43:41.512264Z
+b9b87c14dc991313,OR,"Bornstein Seafoods, Inc - Newport Facil",Newport,50,2024-03-22,2024-05-21,Permanent closure,2026-08-30T21:43:41.512264Z
+78e0024a2473aa38,OR,"Bionano Genomics, Inc.","San Diego, CA",76,2024-03-21,2024-05-24,Reduction,2026-08-30T21:43:41.512264Z
+6e94a31667ee0ff2,OR,Adventist Health of Tillamook,Tillamook,22,2024-03-07,2024-05-05,Reduction,2026-08-30T21:43:41.512264Z
+0791aac7c13d020b,OR,Wieden + Kennedy,Portland,87,2024-02-23,2024-03-01,Reduction,2026-08-30T21:43:41.512264Z
+bdefd42cad7edaa2,OR,Interfor U.S. Inc,Philomath,42,2024-02-15,2024-02-15,Large Layoff - 10 or more workers,2026-08-30T21:43:41.512264Z
+2b851f7cc18dc35f,OR,Philomath Division - Industrial Way Mil,Philomath,58,2024-02-15,2024-02-15,Large Layoff - 10 or more workers,2026-08-30T21:43:41.512264Z
+f28fcae2cf452045,OR,Portland Day Sort,Portland,350,2024-02-13,2024-04-19,Large Layoff - 10 or more workers,2026-08-30T21:43:41.512264Z
+0bc45153fde67e0a,OR,Remote Workers - Oregon,,46,2024-01-30,2024-03-30,Large Layoff - 10 or more workers,2026-08-30T21:43:41.512264Z
+670f7ef08a2c7ca9,OR,RNDC - Portland Location,Portland,67,2024-01-30,2024-03-31,Permanent closure,2026-08-30T21:43:41.512264Z
+46069b1b81ef17b1,OR,RNDC - Bend Location,Bend,4,2024-01-30,2024-03-31,Permanent closure,2026-08-30T21:43:41.512264Z
+b69f24b605253588,OR,RNDC - Medford Location #1,Medford,1,2024-01-30,2024-03-31,Permanent closure,2026-08-30T21:43:41.512264Z
+b6f54d4e0d7666b7,OR,RNDC - Medford Location #2,Medford,3,2024-01-30,2024-03-31,Permanent closure,2026-08-30T21:43:41.512264Z
+c7c62bb4eac2ee72,OR,RNDC - Eugene Location,Eugene,3,2024-01-30,2024-03-31,Permanent closure,2026-08-30T21:43:41.512264Z
+53cff79724c0147d,OR,"Lost Boys Interactive, LLC","Madison, WI",121,2024-01-11,2024-03-15,Large Layoff - 10 or more workers,2026-08-30T21:43:41.512264Z
+19c2b8c6efd7bd42,OR,Oregon - Remote Employees,,4,2024-01-11,2024-03-15,Reduction,2026-08-30T21:43:41.512264Z

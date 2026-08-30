@@ -1,0 +1,52 @@
+id,state,company,location,employees_affected,notice_date,effective_date,notice_type,first_seen
+381b874dbcf5ef5d,UT,Point Designs,Bountiful,8,2026-10-30,,,2026-08-30T21:43:41.512264Z
+e2fe9aa82bde0143,UT,Tyson Fresh Meats,Eagle Mountain,723,2026-08-13,,,2026-08-30T21:43:41.512264Z
+b641dff13e1ccb3a,UT,Provo Canyon School,Provo and Springville,303,2026-07-09,,,2026-08-30T21:43:41.512264Z
+e2363b0b95ec3377,UT,Notions Marketing,Lindon,3,2026-07-06,,,2026-08-30T21:43:41.512264Z
+f064d86674a7fc60,UT,Milestone Technologies Inc.,Eagle Mountain,50,2026-04-29,,,2026-08-30T21:43:41.512264Z
+4c06f367d5bd3968,UT,"Bright Planet Solar, Inc.",Provo,60,2026-04-24,,,2026-08-30T21:43:41.512264Z
+a1e4b8dd62eadd3e,UT,"ProFrac Services, LLC",Vernal,157,2026-03-27,,,2026-08-30T21:43:41.512264Z
+df2a8973950e3532,UT,Genpak,Cedar City,200,2026-03-25,,,2026-08-30T21:43:41.512264Z
+7655fe2668ff3a4f,UT,Crimson Heights,"St. George, Cedar City, Spanish Fork",15,2026-03-23,,,2026-08-30T21:43:41.512264Z
+b2278a56cda73519,UT,Nordstrom Card Services,State of Utah,15,2026-02-21,,,2026-08-30T21:43:41.512264Z
+8dc67d52978c0b75,UT,Sheraton,Salt Lake City,100,2026-02-15,,,2026-08-30T21:43:41.512264Z
+64a0d204d907b55c,UT,Sumaria Systems Inc.,Ogden,59,2026-01-13,,,2026-08-30T21:43:41.512264Z
+50e38013cecd8535,UT,SMBC Manubank,Sandy,1,2026-01-08,,,2026-08-30T21:43:41.512264Z
+82723ccf4dcc15ca,UT,De La Rue Authentication Solutions inc.,Utah,50,2025-12-05,,,2026-08-30T21:43:41.512264Z
+2a7f05c1d98fa7a7,UT,"Insurance Office of America, Inc.",State of Utah,11,2025-12-02,,,2026-08-30T21:43:41.512264Z
+01f0998800f57a80,UT,Actavis Laboratories,Salt Lake City,205,2025-11-18,,,2026-08-30T21:43:41.512264Z
+55602e8e22e1ab73,UT,Revere Health,Provo,177,2025-11-03,,,2026-08-30T21:43:41.512264Z
+d2666e3ef85c3ae6,UT,Vector Defense,Draper and Bluffdale,54,2025-10-30,,,2026-08-30T21:43:41.512264Z
+21f14ef5d8872540,UT,Owens Corning,Nephi,67,2025-10-27,,,2026-08-30T21:43:41.512264Z
+539a41f9db4f06a5,UT,Red Mountain Resort,Ivans,97,2025-09-29,,,2026-08-30T21:43:41.512264Z
+876b139c5eb94feb,UT,Sundance Holdings,Salt Lake City,63,2025-09-21,,,2026-08-30T21:43:41.512264Z
+04cf0affde309e15,UT,Mau Workforce Solutions,Ogden,74,2025-08-18,,,2026-08-30T21:43:41.512264Z
+626cefb3a165af2f,UT,Teva Pharmaceuticals,Salt Lake City,54,2025-06-20,,,2026-08-30T21:43:41.512264Z
+0232125575981274,UT,U.S. Gypsum,Sigurd,55,2025-06-16,,,2026-08-30T21:43:41.512264Z
+c9e72062f2fa5369,UT,Clearfield Job Corps,Clearfield,370,2025-06-02,,,2026-08-30T21:43:41.512264Z
+5ca32f8fcdf22fe3,UT,American Crafts,Orem,92,2025-04-25,,,2026-08-30T21:43:41.512264Z
+0bc72ccdd30e886a,UT,Actavis Laboratories,Salt Lake City,78,2025-04-18,,,2026-08-30T21:43:41.512264Z
+e81bc8cd7553a7c7,UT,Athena Services International,Statewide,170,2025-03-15,,,2026-08-30T21:43:41.512264Z
+f1db6d080fbb5497,UT,Boostability,Lehi,57,2025-03-14,,,2026-08-30T21:43:41.512264Z
+b719e1a5c4203011,UT,"Vimo, Inc",Logan (nationwide),430,2025-02-19,,,2026-08-30T21:43:41.512264Z
+c71943ee9fbcfc2c,UT,CompTia,Lehi,42,2025-01-09,,,2026-08-30T21:43:41.512264Z
+419351de0f2e3233,UT,Straight Smile,Lehi,166,2025-01-06,,,2026-08-30T21:43:41.512264Z
+e7589177a2fda6ea,UT,Xanterra,Hurricane,116,2024-12-31,,,2026-08-30T21:43:41.512264Z
+d084f6cc4e3b361f,UT,U.S. Magnesium,Salt Lake City,186,2024-11-25,,,2026-08-30T21:43:41.512264Z
+4908ace6a1d169ea,UT,Cygnus Home Services,Salt Lake City,12,2024-11-22,,,2026-08-30T21:43:41.512264Z
+6c4bbc5fe6d23f40,UT,Smead,Cedar City,77,2024-11-10,,,2026-08-30T21:43:41.512264Z
+c71e5addca2a42e2,UT,Blue Raven,Orem,766,2024-11-10,,,2026-08-30T21:43:41.512264Z
+cee0e3ca3876e0e5,UT,Purple Innovation,Salt Lake City,328,2024-10-22,,,2026-08-30T21:43:41.512264Z
+e3474275a8f1eb43,UT,StubHub,Salt Lake City,297,2024-10-01,,,2026-08-30T21:43:41.512264Z
+c03ece7d16d06e8e,UT,Ben Group Inc,Salt Lake City,72,2024-07-23,,,2026-08-30T21:43:41.512264Z
+0c0bc5040849409f,UT,Summit Hill Foods dba Whole Foods,Salt Lake City,46,2024-05-31,,,2026-08-30T21:43:41.512264Z
+6fddfb212467391b,UT,Academy Mortgage,Statewide,250,2024-04-15,,,2026-08-30T21:43:41.512264Z
+a9f2e8476f182179,UT,ABM Industry Groups,Salt Lake City,106,2024-03-30,,,2026-08-30T21:43:41.512264Z
+d74185510dec7687,UT,Lost Boys Interactive,Bluffdale,1,2024-03-15,,,2026-08-30T21:43:41.512264Z
+736f1b770ca8d235,UT,Smithfield Foods LLC,Milford,75,2024-03-04,,,2026-08-30T21:43:41.512264Z
+5e5c6e587e5b255f,UT,Emery County Coal Resourcesaka - Lila Canyon Mine,East Carbon,150,2024-01-19,,,2026-08-30T21:43:41.512264Z
+494a8b0bbd0e824a,UT,Sarcos,Salt Lake City,70,2024-01-16,,,2026-08-30T21:43:41.512264Z
+204a838acfc3036a,UT,"DDSC, INC",West Jordan,39,,,,2026-08-30T21:43:41.512264Z
+7aa7a20fffea37f6,UT,Medly Health Inc,Ogden,76,,,,2026-08-30T21:43:41.512264Z
+af41d45fc35b8350,UT,Deseret News Publishing Co.,Salt Lake City,85,,,,2026-08-30T21:43:41.512264Z
+758b6cfa69493774,UT,Lozier Corporation,Cedar City,82,,,,2026-08-30T21:43:41.512264Z

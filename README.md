@@ -11,6 +11,7 @@ deduplicated dataset, refreshed daily.
 - CSV: [`data/warn_notices.csv`](data/warn_notices.csv)
 - JSON: [`data/warn_notices.json`](data/warn_notices.json)
 - Coverage/freshness metadata: [`data/coverage.json`](data/coverage.json)
+- Per-state CSVs: [`data/by-state/`](data/by-state/) — see table below
 - Stats page: https://approj.github.io/warn-act-notices/
 
 No login, no API key. Scope of the free dataset, stated plainly: notices from
@@ -35,30 +36,50 @@ that fund the pipeline.
 
 ## Coverage
 
-| State | Notices | Source status |
-|---|---:|---|
-| Arizona (AZ) | 619 | ok |
-| California (CA) | 16,526 | ok |
-| Connecticut (CT) | 27 | ok |
-| Iowa (IA) | 415 | ok |
-| Illinois (IL) | 4,032 | ok |
-| Indiana (IN) | 1,180 | ok |
-| Kentucky (KY) | 804 | ok |
-| Maryland (MD) | 1,273 | ok |
-| Montana (MT) | 46 | ok |
-| Nebraska (NE) | 845 | ok |
-| New Jersey (NJ) | 2,320 | ok |
-| New York (NY) | 141 | ok |
-| Oklahoma (OK) | 169 | ok |
-| Oregon (OR) | 1,363 | ok |
-| Rhode Island (RI) | 126 | ok |
-| South Carolina (SC) | 601 | ok |
-| South Dakota (SD) | 80 | ok |
-| Tennessee (TN) | 1,060 | ok |
-| Utah (UT) | 282 | ok |
-| Vermont (VT) | 70 | ok |
-| Washington (WA) | 1,492 | ok |
-| Wisconsin (WI) | 617 | ok |
+| State | Notices | CSV | Source status |
+|---|---:|---|---|
+| Arizona (AZ) | 619 | [az.csv](data/by-state/az.csv) | ok |
+| California (CA) | 16,526 | [ca.csv](data/by-state/ca.csv) | ok |
+| Connecticut (CT) | 27 | [ct.csv](data/by-state/ct.csv) | ok |
+| Iowa (IA) | 415 | [ia.csv](data/by-state/ia.csv) | ok |
+| Illinois (IL) | 4,032 | [il.csv](data/by-state/il.csv) | ok |
+| Indiana (IN) | 1,180 | [in.csv](data/by-state/in.csv) | ok |
+| Kentucky (KY) | 804 | [ky.csv](data/by-state/ky.csv) | ok |
+| Maryland (MD) | 1,273 | [md.csv](data/by-state/md.csv) | ok |
+| Montana (MT) | 46 | [mt.csv](data/by-state/mt.csv) | ok |
+| Nebraska (NE) | 845 | [ne.csv](data/by-state/ne.csv) | ok |
+| New Jersey (NJ) | 2,320 | [nj.csv](data/by-state/nj.csv) | ok |
+| New York (NY) | 141 | [ny.csv](data/by-state/ny.csv) | ok |
+| Oklahoma (OK) | 169 | [ok.csv](data/by-state/ok.csv) | ok |
+| Oregon (OR) | 1,363 | [or.csv](data/by-state/or.csv) | ok |
+| Rhode Island (RI) | 126 | [ri.csv](data/by-state/ri.csv) | ok |
+| South Carolina (SC) | 601 | [sc.csv](data/by-state/sc.csv) | ok |
+| South Dakota (SD) | 80 | [sd.csv](data/by-state/sd.csv) | ok |
+| Tennessee (TN) | 1,060 | [tn.csv](data/by-state/tn.csv) | ok |
+| Utah (UT) | 282 | [ut.csv](data/by-state/ut.csv) | ok |
+| Vermont (VT) | 70 | [vt.csv](data/by-state/vt.csv) | ok |
+| Washington (WA) | 1,492 | [wa.csv](data/by-state/wa.csv) | ok |
+| Wisconsin (WI) | 617 | [wi.csv](data/by-state/wi.csv) | ok |
+
+Each state also ships as its own CSV in [`data/by-state/`](data/by-state/) —
+e.g. California layoff notices: [`data/by-state/ca.csv`](data/by-state/ca.csv).
+
+## Monthly trend (last 12 months, this dataset)
+
+| Month | Notices | Workers affected |
+|---|---:|---:|
+| 2025-09 | 166 | 18,603 |
+| 2025-10 | 295 | 29,830 |
+| 2025-11 | 218 | 13,248 |
+| 2025-12 | 79 | 6,757 |
+| 2026-01 | 252 | 20,972 |
+| 2026-02 | 202 | 14,361 |
+| 2026-03 | 220 | 12,956 |
+| 2026-04 | 264 | 15,447 |
+| 2026-05 | 216 | 28,910 |
+| 2026-06 | 208 | 12,569 |
+| 2026-07 | 147 | 11,080 |
+| 2026-08 | 134 | 9,459 |
 
 More states are added as their sources are verified. Some states publish
 incomplete fields (e.g. NJ omits notice dates); we normalize what exists and
