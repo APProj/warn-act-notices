@@ -506,17 +506,6 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
-"company": "Amentum",
-"location": "Chandler",
-"employees_affected": 75,
-"notice_date": "2026-08-21",
-"effective_date": "",
-"notice_type": "WARN",
-"state": "AZ",
-"id": "65572467c3f4f7db",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
 "company": "Blue Shield of California",
 "location": "Alameda County",
 "employees_affected": 25,
@@ -946,17 +935,6 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
-"company": "Pinnacle Transplant Technologies, LLC",
-"location": "Phoenix",
-"employees_affected": 90,
-"notice_date": "2026-08-17",
-"effective_date": "",
-"notice_type": "WARN",
-"state": "AZ",
-"id": "ff0690d3c24dd946",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
 "company": "Roskam Baking Company dba Organic Milling",
 "location": "Los Angeles County",
 "employees_affected": 115,
@@ -1350,17 +1328,6 @@
 "notice_type": "CL",
 "state": "WI",
 "id": "212a611aaa9b3621",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
-"company": "SMBC MANUBANK",
-"location": "New York",
-"employees_affected": "",
-"notice_date": "2026-08-11",
-"effective_date": "",
-"notice_type": "WARN",
-"state": "AZ",
-"id": "caa26c065eb5b5ab",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -1856,17 +1823,6 @@
 "notice_type": "WR",
 "state": "WI",
 "id": "f9adc4f5704d3927",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
-"company": "Infineon Technologies America Corp",
-"location": "Mesa",
-"employees_affected": 98,
-"notice_date": "2026-08-03",
-"effective_date": "",
-"notice_type": "WARN",
-"state": "AZ",
-"id": "983ef1bece24e755",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -3872,6 +3828,17 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Conduent Commercial Solutions, LLC",
+"location": "Florham Park",
+"employees_affected": 3,
+"notice_date": "2026-06-29",
+"effective_date": "",
+"notice_type": "WARN",
+"state": "AZ",
+"id": "80fc9b2c22a77bc6",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
 "company": "VCA Corporate Support Office",
 "location": "Los Angeles County",
 "employees_affected": 100,
@@ -4631,17 +4598,6 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
-"company": "Lucid USA, Inc.",
-"location": "Casa Grande",
-"employees_affected": 705,
-"notice_date": "2026-06-22",
-"effective_date": "",
-"notice_type": "WARN",
-"state": "AZ",
-"id": "9e2f5f30f9405ba4",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
 "company": "Lucid Group, Inc.",
 "location": "Alameda County",
 "employees_affected": 136,
@@ -5082,17 +5038,6 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
-"company": "Leona Arizona Employment Group, Inc.",
-"location": "Phoenix",
-"employees_affected": 66,
-"notice_date": "2026-06-16",
-"effective_date": "",
-"notice_type": "WARN",
-"state": "AZ",
-"id": "369093ab5a0a6eb3",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
 "company": "United Natural Foods West",
 "location": "Los Angeles County",
 "employees_affected": 11,
@@ -5299,6 +5244,17 @@
 "notice_type": "Mass Layoff",
 "state": "IA",
 "id": "c4f65381834eac43",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "University of Vermont Health",
+"location": "Burlington",
+"employees_affected": "",
+"notice_date": "2026-06-09",
+"effective_date": "",
+"notice_type": "WARN",
+"state": "VT",
+"id": "1f99da2a792d7b67",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -6633,17 +6589,6 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
-"company": "National Distribution Centers, LLC",
-"location": "Waddell",
-"employees_affected": 90,
-"notice_date": "2026-05-21",
-"effective_date": "",
-"notice_type": "WARN",
-"state": "AZ",
-"id": "8b0184370fe9f503",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
 "company": "Intuit Inc.",
 "location": "Los Angeles County",
 "employees_affected": 90,
@@ -7400,6 +7345,17 @@
 "notice_type": "CL",
 "state": "WI",
 "id": "c086cc597a727c55",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "SDH Education West, LLC",
+"location": "Phoenix",
+"employees_affected": 489,
+"notice_date": "2026-05-14",
+"effective_date": "",
+"notice_type": "WARN",
+"state": "AZ",
+"id": "d00163f963211542",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -8346,17 +8302,6 @@
 "notice_type": "Closure",
 "state": "NY",
 "id": "03084ca91ec60848",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
-"company": "Advanced Call Center Technologies (ACT)",
-"location": "San Luis",
-"employees_affected": 232,
-"notice_date": "2026-05-01",
-"effective_date": "",
-"notice_type": "WARN",
-"state": "AZ",
-"id": "405d3f44e5fc70ec",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -10469,17 +10414,6 @@
 "notice_type": "Closure",
 "state": "WA",
 "id": "9cd7417ab429f5fa",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
-"company": "VisionQuest National LTD",
-"location": "Tucson",
-"employees_affected": 203,
-"notice_date": "2026-04-09",
-"effective_date": "",
-"notice_type": "WARN",
-"state": "AZ",
-"id": "aa2db9243dafaac5",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -15642,17 +15576,6 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
-"company": "Saks & Company LLC",
-"location": "Phoenix",
-"employees_affected": 67,
-"notice_date": "2026-02-10",
-"effective_date": "",
-"notice_type": "WARN",
-"state": "AZ",
-"id": "50357ec23174180d",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
 "company": "Riot Games",
 "location": "Los Angeles County",
 "employees_affected": 56,
@@ -15837,17 +15760,6 @@
 "notice_type": "",
 "state": "NJ",
 "id": "446d65a47d091425",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
-"company": "Liberty Dental Plan",
-"location": "Tustin",
-"employees_affected": 1,
-"notice_date": "2026-02-05",
-"effective_date": "",
-"notice_type": "WARN",
-"state": "AZ",
-"id": "313f874897373954",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -16508,17 +16420,6 @@
 "notice_type": "",
 "state": "SC",
 "id": "68b6c48628290c4e",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
-"company": "Automated Harvesting, LLC.",
-"location": "Yuma",
-"employees_affected": 46,
-"notice_date": "2026-01-30",
-"effective_date": "",
-"notice_type": "WARN",
-"state": "AZ",
-"id": "61cb1ca38155af48",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -19162,6 +19063,17 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "GNC Distribution Center",
+"location": "Phoenix",
+"employees_affected": 66,
+"notice_date": "2026-01-07",
+"effective_date": "",
+"notice_type": "WARN",
+"state": "AZ",
+"id": "27bfc11409950c36",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
 "company": "Avelo Airlines",
 "location": "Mesa",
 "employees_affected": 97,
@@ -19965,17 +19877,6 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
-"company": "Franklin Foods, Inc.",
-"location": "Casa Grande",
-"employees_affected": "",
-"notice_date": "2025-12-05",
-"effective_date": "",
-"notice_type": "WARN",
-"state": "AZ",
-"id": "48e2979c1e738351",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
 "company": "Intel Corporation (Robert Noyce Building)",
 "location": "Santa Clara County",
 "employees_affected": 45,
@@ -20748,12 +20649,12 @@
 {
 "company": "Nordstrom",
 "location": "Centennial",
-"employees_affected": 34,
+"employees_affected": "",
 "notice_date": "2025-11-17",
 "effective_date": "",
 "notice_type": "WARN",
 "state": "AZ",
-"id": "c01e52babb477c89",
+"id": "547fa50a4835960f",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -28666,17 +28567,6 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
-"company": "Nordstrom",
-"location": "Centennial",
-"employees_affected": "",
-"notice_date": "2025-08-21",
-"effective_date": "",
-"notice_type": "WARN",
-"state": "AZ",
-"id": "547fa50a4835960f",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
 "company": "Farmers Group, Inc.",
 "location": "Los Angeles County",
 "employees_affected": 62,
@@ -28960,17 +28850,6 @@
 "notice_type": "Closure",
 "state": "WA",
 "id": "480c2251cd2c617a",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
-"company": "Zeco Systems, Inc.",
-"location": "Los Angeles",
-"employees_affected": "",
-"notice_date": "2025-08-18",
-"effective_date": "",
-"notice_type": "WARN",
-"state": "AZ",
-"id": "3ffe055ed286584c",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -29554,17 +29433,6 @@
 "notice_type": "Closure Permanent",
 "state": "CA",
 "id": "a9fd9d400ec58c55",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
-"company": "Southwest Key Programs",
-"location": "Phoenix",
-"employees_affected": "",
-"notice_date": "2025-08-06",
-"effective_date": "",
-"notice_type": "WARN",
-"state": "AZ",
-"id": "fdb39339bdd83161",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -30239,17 +30107,6 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
-"company": "Nordstrom Credit Bank",
-"location": "Englewood",
-"employees_affected": 16,
-"notice_date": "2025-07-29",
-"effective_date": "",
-"notice_type": "WARN",
-"state": "AZ",
-"id": "7c7112f623326943",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
 "company": "Kaiser Foundation Hospitals",
 "location": "Alameda County",
 "employees_affected": 6,
@@ -30580,17 +30437,6 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
-"company": "Gannett Publishing Services",
-"location": "Phoenix",
-"employees_affected": "",
-"notice_date": "2025-07-22",
-"effective_date": "",
-"notice_type": "WARN",
-"state": "AZ",
-"id": "1f89a9b1c93924fe",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
 "company": "Kaiser Foundation Hospitals",
 "location": "Alameda County",
 "employees_affected": 3,
@@ -30896,17 +30742,6 @@
 "notice_type": "Layoff Permanent",
 "state": "CA",
 "id": "510caa7c6d230e2a",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
-"company": "WeDriveU, Inc.",
-"location": "Tucson",
-"employees_affected": 138,
-"notice_date": "2025-07-16",
-"effective_date": "",
-"notice_type": "WARN",
-"state": "AZ",
-"id": "3cc90ff6cd948353",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -31886,17 +31721,6 @@
 "notice_type": "WARN",
 "state": "AZ",
 "id": "83f31ad09a7a9358",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
-"company": "Intel Corporation",
-"location": "Chandler",
-"employees_affected": "",
-"notice_date": "2025-07-07",
-"effective_date": "",
-"notice_type": "WARN",
-"state": "AZ",
-"id": "2bea551e62f067dc",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -34353,17 +34177,6 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
-"company": "iQor Holdings US LLC",
-"location": "Tempe",
-"employees_affected": "",
-"notice_date": "2025-05-30",
-"effective_date": "",
-"notice_type": "WARN",
-"state": "AZ",
-"id": "43fcb7af9e616081",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
 "company": "Memorial Care Long Beach Medical Center and Miller Children's and Women's Hospital",
 "location": "Los Angeles County",
 "employees_affected": 22,
@@ -34738,17 +34551,6 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
-"company": "US Cellular Corporation",
-"location": "Chicago",
-"employees_affected": 205,
-"notice_date": "2025-05-22",
-"effective_date": "",
-"notice_type": "WARN",
-"state": "AZ",
-"id": "24f858a6f7dae4ff",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
 "company": "AAPC Lounge Services",
 "location": "Los Angeles County",
 "employees_affected": 130,
@@ -34999,17 +34801,6 @@
 "notice_type": "",
 "state": "NE",
 "id": "0994f7017c6c711c",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
-"company": "Florence Immigrant & Refugee Rights Project",
-"location": "Phoenix",
-"employees_affected": 47,
-"notice_date": "2025-05-16",
-"effective_date": "",
-"notice_type": "WARN",
-"state": "AZ",
-"id": "d8f21f0217ff397c",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -35659,17 +35450,6 @@
 "notice_type": "Closure Permanent",
 "state": "CA",
 "id": "8b3293ce74002cec",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
-"company": "Tilson Technology Management, Inc.",
-"location": "Chandler",
-"employees_affected": "",
-"notice_date": "2025-05-05",
-"effective_date": "",
-"notice_type": "WARN",
-"state": "AZ",
-"id": "ba2acfea2831bbb6",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -38907,17 +38687,6 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
-"company": "General Dynamics Information Technology",
-"location": "Falls Church",
-"employees_affected": 110,
-"notice_date": "2025-03-28",
-"effective_date": "",
-"notice_type": "WARN",
-"state": "AZ",
-"id": "5dd448e7670d3d00",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
 "company": "UPS",
 "location": "Atlanta, GA",
 "employees_affected": 244,
@@ -40372,12 +40141,12 @@
 {
 "company": "LUKE Holding Inc.",
 "location": "Yuma",
-"employees_affected": 54,
+"employees_affected": "",
 "notice_date": "2025-02-28",
 "effective_date": "",
 "notice_type": "WARN",
 "state": "AZ",
-"id": "99f377dbe93fd094",
+"id": "8ce6751e19797a47",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -42149,17 +41918,6 @@
 "notice_type": "",
 "state": "TN",
 "id": "8e519729b3de92b4",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
-"company": "Cruise LLC",
-"location": "Phoenix",
-"employees_affected": 93,
-"notice_date": "2025-02-04",
-"effective_date": "",
-"notice_type": "WARN",
-"state": "AZ",
-"id": "851efe6c6fdb1653",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {

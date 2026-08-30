@@ -1,5 +1,6 @@
 id,state,company,location,employees_affected,notice_date,effective_date,notice_type,first_seen
 6845073274151ee5,VT,"St. Albans Creamery, LLC",Saint Albans,81,2026-06-17,,WARN,2026-08-30T21:43:41.512264Z
+1f99da2a792d7b67,VT,University of Vermont Health,Burlington,,2026-06-09,,WARN,2026-08-30T21:43:41.512264Z
 543c3150e35d39c7,VT,Franklin Foods,Enosburg Falls,99,2026-05-28,,WARN,2026-08-30T21:43:41.512264Z
 211423455381daf4,VT,Perrigo Company,Georgia,162,2026-04-28,,WARN,2026-08-30T21:43:41.512264Z
 3683ecdea25d617b,VT,Maple Ridge Memory Care and Lodge,Essex Junction,126,2026-01-30,,WARN,2026-08-30T21:43:41.512264Z
