@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-30T22:08:13.838017Z",
-  "total_rows": 34088,
+  "generated_at": "2026-08-30T22:16:36.831610Z",
+  "total_rows": 34899,
   "free_rows": 10095,
   "free_window_start": "2024-01-01",
-  "new_ids_this_run": 20,
+  "new_ids_this_run": 811,
   "delay_hours": 48,
   "states": {
     "AZ": {
@@ -36,6 +36,11 @@
       "raw_rows": 1221,
       "status": "ok"
     },
+    "KS": {
+      "rows": 699,
+      "raw_rows": 791,
+      "status": "ok"
+    },
     "KY": {
       "rows": 804,
       "raw_rows": 832,
@@ -44,6 +49,11 @@
     "MD": {
       "rows": 1273,
       "raw_rows": 1417,
+      "status": "ok"
+    },
+    "MI": {
+      "rows": 112,
+      "raw_rows": 112,
       "status": "ok"
     },
     "MT": {

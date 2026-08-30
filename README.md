@@ -1,6 +1,6 @@
 # US WARN Act Layoff Notices — normalized, daily-updated dataset
 
-**10,095 layoff notices since 2024 · 22 states · one clean schema · CSV + JSON · updated 2026-08-30**
+**10,095 layoff notices since 2024 · 24 states · one clean schema · CSV + JSON · updated 2026-08-30**
 
 Every US state publishes WARN Act layoff notices differently — different sites,
 formats, column names, and date conventions. This repo normalizes them into one
@@ -17,7 +17,7 @@ deduplicated dataset, refreshed daily.
 No login, no API key. Scope of the free dataset, stated plainly: notices from
 **2024-01-01** onward, **48h-delayed** (newly scraped notices appear here 48 hours
 after our pipeline first sees them). The full archive back to 1988
-(34,088 notices) and the zero-delay feed are the commercial products
+(34,899 notices) and the zero-delay feed are the commercial products
 that fund the pipeline.
 
 ## Schema
@@ -44,8 +44,10 @@ that fund the pipeline.
 | Iowa (IA) | 415 | [ia.csv](data/by-state/ia.csv) | ok |
 | Illinois (IL) | 4,032 | [il.csv](data/by-state/il.csv) | ok |
 | Indiana (IN) | 1,180 | [in.csv](data/by-state/in.csv) | ok |
+| Kansas (KS) | 699 | — | ok |
 | Kentucky (KY) | 804 | [ky.csv](data/by-state/ky.csv) | ok |
 | Maryland (MD) | 1,273 | [md.csv](data/by-state/md.csv) | ok |
+| Michigan (MI) | 112 | — | ok |
 | Montana (MT) | 46 | [mt.csv](data/by-state/mt.csv) | ok |
 | Nebraska (NE) | 845 | [ne.csv](data/by-state/ne.csv) | ok |
 | New Jersey (NJ) | 2,320 | [nj.csv](data/by-state/nj.csv) | ok |
@@ -94,7 +96,7 @@ expensive part. Commercial options:
   in the last 48h, refreshed on every pipeline run. Delivered as a private
   GitHub repo you can pull/watch.
 - **Full historical archive** — one-time purchase: every notice we have back to
-  1988 (34,088 rows, all 22 states), CSV + JSON.
+  1988 (34,899 rows, all 24 states), CSV + JSON.
 
 Available at **https://approj.gumroad.com** — or [open an issue](https://github.com/APProj/warn-act-notices/issues) with the
 label `commercial` and we'll get you set up.
