@@ -1900,7 +1900,7 @@
 {
 "company": "Infineon Technologies America Corp",
 "location": "Mesa",
-"employees_affected": "",
+"employees_affected": 98,
 "notice_date": "2026-08-03",
 "effective_date": "",
 "notice_type": "WARN",
@@ -5527,7 +5527,7 @@
 {
 "company": "Lucid USA, Inc.",
 "location": "Casa Grande",
-"employees_affected": "",
+"employees_affected": 705,
 "notice_date": "2026-06-22",
 "effective_date": "",
 "notice_type": "WARN",
@@ -5917,7 +5917,7 @@
 {
 "company": "Leona Arizona Employment Group, Inc.",
 "location": "Phoenix",
-"employees_affected": "",
+"employees_affected": 66,
 "notice_date": "2026-06-16",
 "effective_date": "",
 "notice_type": "WARN",
@@ -6060,7 +6060,7 @@
 {
 "company": "Paragon Space Development Corporation",
 "location": "Tucson",
-"employees_affected": "",
+"employees_affected": 77,
 "notice_date": "2026-06-12",
 "effective_date": "",
 "notice_type": "WARN",
@@ -6177,7 +6177,7 @@
 {
 "company": "University of Vermont Health",
 "location": "Burlington",
-"employees_affected": 142,
+"employees_affected": "",
 "notice_date": "2026-06-09",
 "effective_date": "",
 "notice_type": "WARN",
@@ -6996,7 +6996,7 @@
 {
 "company": "Federal Express Corporation",
 "location": "Phoenix",
-"employees_affected": 101,
+"employees_affected": "",
 "notice_date": "2026-06-02",
 "effective_date": "",
 "notice_type": "WARN",
@@ -7711,7 +7711,7 @@
 {
 "company": "Honeywell AZ0Y",
 "location": "Chandler",
-"employees_affected": 60,
+"employees_affected": "",
 "notice_date": "2026-05-27",
 "effective_date": "",
 "notice_type": "WARN",
@@ -10857,7 +10857,7 @@
 {
 "company": "Benchmark",
 "location": "Phoenix",
-"employees_affected": "",
+"employees_affected": 75,
 "notice_date": "2026-04-29",
 "effective_date": "",
 "notice_type": "WARN",
@@ -11897,7 +11897,7 @@
 {
 "company": "DLH Solutions",
 "location": "Tucson",
-"employees_affected": "",
+"employees_affected": 312,
 "notice_date": "2026-04-17",
 "effective_date": "",
 "notice_type": "WARN",
@@ -12872,7 +12872,7 @@
 {
 "company": "Catholic Community Services of Southern Arizona, Inc.",
 "location": "Tucson",
-"employees_affected": 74,
+"employees_affected": "",
 "notice_date": "2026-04-08",
 "effective_date": "",
 "notice_type": "WARN",
@@ -19203,7 +19203,7 @@
 {
 "company": "Saks & Company LLC",
 "location": "Phoenix",
-"employees_affected": "",
+"employees_affected": 67,
 "notice_date": "2026-02-10",
 "effective_date": "",
 "notice_type": "WARN",
@@ -22167,7 +22167,7 @@
 {
 "company": "Benchmark",
 "location": "Phoenix",
-"employees_affected": 65,
+"employees_affected": "",
 "notice_date": "2026-01-27",
 "effective_date": "",
 "notice_type": "WARN",
@@ -25079,7 +25079,7 @@
 {
 "company": "DHM Payroll - Fiesta Tempe, LLC,",
 "location": "Tempe",
-"employees_affected": 114,
+"employees_affected": "",
 "notice_date": "2025-11-26",
 "effective_date": "",
 "notice_type": "WARN",
@@ -25625,7 +25625,7 @@
 {
 "company": "Nordstrom",
 "location": "Centennial",
-"employees_affected": "",
+"employees_affected": 34,
 "notice_date": "2025-11-17",
 "effective_date": "",
 "notice_type": "WARN",
@@ -28316,7 +28316,7 @@
 {
 "company": "Arizona Autism",
 "location": "Phoenix",
-"employees_affected": "",
+"employees_affected": 2792,
 "notice_date": "2025-10-30",
 "effective_date": "",
 "notice_type": "WARN",
@@ -28576,7 +28576,7 @@
 {
 "company": "Microchip",
 "location": "Tempe",
-"employees_affected": 63,
+"employees_affected": "",
 "notice_date": "2025-10-29",
 "effective_date": "",
 "notice_type": "WARN",
@@ -32502,7 +32502,7 @@
 {
 "company": "ITC Federal",
 "location": "Essex Junction",
-"employees_affected": 60,
+"employees_affected": "",
 "notice_date": "2025-09-30",
 "effective_date": "",
 "notice_type": "WARN",
@@ -35440,7 +35440,7 @@
 {
 "company": "Intel Corporation",
 "location": "Chandler",
-"employees_affected": "",
+"employees_affected": 97,
 "notice_date": "2025-08-25",
 "effective_date": "",
 "notice_type": "WARN",
@@ -35648,7 +35648,7 @@
 {
 "company": "Nordstrom",
 "location": "Centennial",
-"employees_affected": 10,
+"employees_affected": "",
 "notice_date": "2025-08-21",
 "effective_date": "",
 "notice_type": "WARN",
@@ -37598,7 +37598,7 @@
 {
 "company": "Nordstrom Credit Bank",
 "location": "Englewood",
-"employees_affected": "",
+"employees_affected": 16,
 "notice_date": "2025-07-29",
 "effective_date": "",
 "notice_type": "WARN",
@@ -37637,7 +37637,7 @@
 {
 "company": "University of Vermont Health Network",
 "location": "Burlington",
-"employees_affected": "",
+"employees_affected": 60,
 "notice_date": "2025-07-29",
 "effective_date": "",
 "notice_type": "WARN",
@@ -42902,7 +42902,7 @@
 {
 "company": "Meyer Burger Americas",
 "location": "Goodyear",
-"employees_affected": 355,
+"employees_affected": "",
 "notice_date": "2025-05-22",
 "effective_date": "",
 "notice_type": "WARN",
@@ -42928,7 +42928,7 @@
 {
 "company": "US Cellular Corporation",
 "location": "Chicago",
-"employees_affected": "",
+"employees_affected": 205,
 "notice_date": "2025-05-22",
 "effective_date": "",
 "notice_type": "WARN",
@@ -43266,7 +43266,7 @@
 {
 "company": "Florence Immigrant & Refugee Rights Project",
 "location": "Phoenix",
-"employees_affected": "",
+"employees_affected": 47,
 "notice_date": "2025-05-16",
 "effective_date": "",
 "notice_type": "WARN",
@@ -45073,7 +45073,7 @@
 {
 "company": "TXP - Transfer Express, Inc.",
 "location": "Chandler",
-"employees_affected": 53,
+"employees_affected": "",
 "notice_date": "2025-04-29",
 "effective_date": "",
 "notice_type": "WARN",
@@ -47777,7 +47777,7 @@
 {
 "company": "Berger Logistics",
 "location": "Phoenix",
-"employees_affected": 121,
+"employees_affected": "",
 "notice_date": "2025-04-01",
 "effective_date": "",
 "notice_type": "WARN",
@@ -48206,7 +48206,7 @@
 {
 "company": "General Dynamics Information Technology",
 "location": "Falls Church",
-"employees_affected": "",
+"employees_affected": 110,
 "notice_date": "2025-03-28",
 "effective_date": "",
 "notice_type": "WARN",
@@ -50143,7 +50143,7 @@
 {
 "company": "LUKE Holding Inc.",
 "location": "Yuma",
-"employees_affected": "",
+"employees_affected": 54,
 "notice_date": "2025-02-28",
 "effective_date": "",
 "notice_type": "WARN",
@@ -50858,7 +50858,7 @@
 {
 "company": "Nikola Corporation",
 "location": "Coolidge",
-"employees_affected": 315,
+"employees_affected": "",
 "notice_date": "2025-02-19",
 "effective_date": "",
 "notice_type": "WARN",

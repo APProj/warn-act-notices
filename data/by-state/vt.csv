@@ -1,13 +1,13 @@
 id,state,company,company_canonical,company_dba,location,employees_affected,notice_date,effective_date,notice_type,first_seen
 2d1d410d1fdf70a9,VT,"St. Albans Creamery, LLC",St. Albans Creamery,,Saint Albans,81,2026-06-17,,WARN,2026-08-30T21:43:41.512264Z
-9dd9573944dab4b0,VT,University of Vermont Health,University of Vermont Health,,Burlington,142,2026-06-09,,WARN,2026-08-30T21:43:41.512264Z
+9dd9573944dab4b0,VT,University of Vermont Health,University of Vermont Health,,Burlington,,2026-06-09,,WARN,2026-08-30T21:43:41.512264Z
 21b8cd909dde7d0d,VT,Franklin Foods,Franklin Foods,,Enosburg Falls,99,2026-05-28,,WARN,2026-08-30T21:43:41.512264Z
 a0c9dbc3abbdddee,VT,Perrigo Company,Perrigo,,Georgia,162,2026-04-28,,WARN,2026-08-30T21:43:41.512264Z
 d61a273883159682,VT,Maple Ridge Memory Care and Lodge,Maple Ridge Memory Care and Lodge,,Essex Junction,126,2026-01-30,,WARN,2026-08-30T21:43:41.512264Z
 ee8fc24cd52f4159,VT,Calmont Beverage,Calmont Beverage,,Barre,67,2026-01-22,,WARN,2026-08-30T21:43:41.512264Z
-230cf9e9222c5f8a,VT,ITC Federal,ITC Federal,,Essex Junction,60,2025-09-30,,WARN,2026-08-30T21:43:41.512264Z
+230cf9e9222c5f8a,VT,ITC Federal,ITC Federal,,Essex Junction,,2025-09-30,,WARN,2026-08-30T21:43:41.512264Z
 11c6782dadb28a8e,VT,HP Hood,HP Hood,,Barre,70,2025-09-24,,WARN,2026-08-30T21:43:41.512264Z
-64f00986ad90a460,VT,University of Vermont Health Network,University of Vermont Health Network,,Burlington,,2025-07-29,,WARN,2026-08-30T21:43:41.512264Z
+64f00986ad90a460,VT,University of Vermont Health Network,University of Vermont Health Network,,Burlington,60,2025-07-29,,WARN,2026-08-30T21:43:41.512264Z
 b1a5c31d43e1e1e1,VT,"America's Gardening Resouces inc, dba Gardeners supply",America's Gardening Resouces,Gardeners supply,Burlington,60,2025-07-24,,WARN,2026-08-30T21:43:41.512264Z
 241a86d020ba13cf,VT,The Orvis Company,The Orvis,,Arlington,56,2025-06-18,,WARN,2026-08-30T21:43:41.512264Z
 a575b039404fe85e,VT,Fed Ex Corporation,Fed Ex,,Williston,55,2025-04-30,,WARN,2026-08-30T21:43:41.512264Z
