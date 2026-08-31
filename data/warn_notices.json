@@ -1328,7 +1328,7 @@
 {
 "company": "SMBC MANUBANK",
 "location": "New York",
-"employees_affected": 23,
+"employees_affected": "",
 "notice_date": "2026-08-11",
 "effective_date": "",
 "notice_type": "WARN",
@@ -6177,7 +6177,7 @@
 {
 "company": "University of Vermont Health",
 "location": "Burlington",
-"employees_affected": "",
+"employees_affected": 142,
 "notice_date": "2026-06-09",
 "effective_date": "",
 "notice_type": "WARN",
@@ -6398,7 +6398,7 @@
 {
 "company": "SMBC MANUBANK",
 "location": "New York",
-"employees_affected": 12,
+"employees_affected": "",
 "notice_date": "2026-06-04",
 "effective_date": "",
 "notice_type": "WARN",
@@ -7711,7 +7711,7 @@
 {
 "company": "Honeywell AZ0Y",
 "location": "Chandler",
-"employees_affected": "",
+"employees_affected": 60,
 "notice_date": "2026-05-27",
 "effective_date": "",
 "notice_type": "WARN",
@@ -13899,7 +13899,7 @@
 {
 "company": "Aramark Campus, LLC",
 "location": "Vail",
-"employees_affected": 108,
+"employees_affected": "",
 "notice_date": "2026-04-01",
 "effective_date": "",
 "notice_type": "WARN",
@@ -19411,7 +19411,7 @@
 {
 "company": "Liberty Dental Plan",
 "location": "Tustin",
-"employees_affected": 1,
+"employees_affected": "",
 "notice_date": "2026-02-05",
 "effective_date": "",
 "notice_type": "WARN",
@@ -22167,7 +22167,7 @@
 {
 "company": "Benchmark",
 "location": "Phoenix",
-"employees_affected": "",
+"employees_affected": 65,
 "notice_date": "2026-01-27",
 "effective_date": "",
 "notice_type": "WARN",
@@ -23415,7 +23415,7 @@
 {
 "company": "SMBC Group - JeniusBank",
 "location": "Scottsdale",
-"employees_affected": 33,
+"employees_affected": "",
 "notice_date": "2026-01-08",
 "effective_date": "",
 "notice_type": "WARN",
@@ -40978,7 +40978,7 @@
 {
 "company": "The Orvis Company",
 "location": "Arlington",
-"employees_affected": 56,
+"employees_affected": "",
 "notice_date": "2025-06-18",
 "effective_date": "",
 "notice_type": "WARN",
@@ -45073,7 +45073,7 @@
 {
 "company": "TXP - Transfer Express, Inc.",
 "location": "Chandler",
-"employees_affected": "",
+"employees_affected": 53,
 "notice_date": "2025-04-29",
 "effective_date": "",
 "notice_type": "WARN",
@@ -45307,7 +45307,7 @@
 {
 "company": "District Medical Group (Children's Rehabilitative Services)",
 "location": "Phoenix",
-"employees_affected": 118,
+"employees_affected": "",
 "notice_date": "2025-04-25",
 "effective_date": "",
 "notice_type": "WARN",
@@ -50143,7 +50143,7 @@
 {
 "company": "LUKE Holding Inc.",
 "location": "Yuma",
-"employees_affected": 54,
+"employees_affected": "",
 "notice_date": "2025-02-28",
 "effective_date": "",
 "notice_type": "WARN",
@@ -50858,7 +50858,7 @@
 {
 "company": "Nikola Corporation",
 "location": "Coolidge",
-"employees_affected": "",
+"employees_affected": 315,
 "notice_date": "2025-02-19",
 "effective_date": "",
 "notice_type": "WARN",
@@ -53276,7 +53276,7 @@
 {
 "company": "ManpowerGroup US Inc.",
 "location": "Goodyear",
-"employees_affected": 564,
+"employees_affected": "",
 "notice_date": "2025-01-27",
 "effective_date": "",
 "notice_type": "WARN",
