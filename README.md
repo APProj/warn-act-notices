@@ -23,7 +23,7 @@ deduplicated dataset, refreshed daily.
 No login, no API key. Scope of the free dataset, stated plainly: notices from
 **2024-01-01** onward, **48h-delayed** (newly scraped notices appear here 48 hours
 after our pipeline first sees them). The full archive back to 1988
-(40,257 notices) and the zero-delay feed are the commercial products
+(40,258 notices) and the zero-delay feed are the commercial products
 that fund the pipeline.
 
 ## Schema
@@ -51,7 +51,7 @@ that fund the pipeline.
 | [Colorado](https://approj.github.io/warn-act-notices/states/colorado.html) (CO) | 835 | — | ok |
 | [Connecticut](https://approj.github.io/warn-act-notices/states/connecticut.html) (CT) | 27 | [ct.csv](data/by-state/ct.csv) | ok |
 | [Florida](https://approj.github.io/warn-act-notices/states/florida.html) (FL) | 3,115 | — | ok |
-| [Georgia](https://approj.github.io/warn-act-notices/states/georgia.html) (GA) | 281 | — | ok |
+| [Georgia](https://approj.github.io/warn-act-notices/states/georgia.html) (GA) | 282 | — | ok |
 | [Iowa](https://approj.github.io/warn-act-notices/states/iowa.html) (IA) | 415 | [ia.csv](data/by-state/ia.csv) | ok |
 | [Illinois](https://approj.github.io/warn-act-notices/states/illinois.html) (IL) | 4,842 | [il.csv](data/by-state/il.csv) | ok |
 | [Indiana](https://approj.github.io/warn-act-notices/states/indiana.html) (IN) | 1,180 | [in.csv](data/by-state/in.csv) | ok |
@@ -103,7 +103,7 @@ e.g. California layoff notices: [`data/by-state/ca.csv`](data/by-state/ca.csv).
 
 | Month | Notices | Workers affected |
 |---|---:|---:|
-| 2025-09 | 188 | 21,619 |
+| 2025-09 | 188 | 21,689 |
 | 2025-10 | 321 | 35,345 |
 | 2025-11 | 230 | 15,889 |
 | 2025-12 | 90 | 8,159 |
@@ -138,7 +138,7 @@ expensive part. Commercial options:
   delay, including notices seen in the last 48h, refreshed on every pipeline
   run. Delivered as a private GitHub repo you can pull/watch.
 - **[Full historical archive — $199 one-time](https://approj.gumroad.com/l/warn-archive)** — every notice
-  we have back to 1988 (40,257 rows, all 29 states), CSV + JSON.
+  we have back to 1988 (40,258 rows, all 29 states), CSV + JSON.
 
 Delivery is automatic: enter your GitHub username at checkout and you're
 invited to the private repo. Questions first? [Open an issue](https://github.com/APProj/warn-act-notices/issues)
