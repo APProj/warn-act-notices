@@ -1,6 +1,6 @@
 # US WARN Act Layoff Notices — normalized, daily-updated dataset
 
-**6,694 layoff notices since 2024 · 25 states · one clean schema · CSV + JSON · updated 2026-08-31**
+**6,695 layoff notices since 2024 · 25 states · one clean schema · CSV + JSON · updated 2026-08-31**
 
 Every US state publishes WARN Act layoff notices differently — different sites,
 formats, column names, and date conventions. This repo normalizes them into one
@@ -17,7 +17,7 @@ deduplicated dataset, refreshed daily.
 No login, no API key. Scope of the free dataset, stated plainly: notices from
 **2024-01-01** onward, **48h-delayed** (newly scraped notices appear here 48 hours
 after our pipeline first sees them). The full archive back to 1988
-(35,975 notices) and the zero-delay feed are the commercial products
+(36,025 notices) and the zero-delay feed are the commercial products
 that fund the pipeline.
 
 ## Schema
@@ -55,7 +55,7 @@ that fund the pipeline.
 | Nebraska (NE) | 845 | [ne.csv](data/by-state/ne.csv) | ok |
 | New Jersey (NJ) | 2,320 | [nj.csv](data/by-state/nj.csv) | ok |
 | New York (NY) | 141 | [ny.csv](data/by-state/ny.csv) | ok |
-| Oklahoma (OK) | 169 | [ok.csv](data/by-state/ok.csv) | ok |
+| Oklahoma (OK) | 219 | [ok.csv](data/by-state/ok.csv) | ok |
 | Oregon (OR) | 1,363 | [or.csv](data/by-state/or.csv) | ok |
 | Rhode Island (RI) | 126 | [ri.csv](data/by-state/ri.csv) | ok |
 | South Carolina (SC) | 601 | [sc.csv](data/by-state/sc.csv) | ok |
@@ -102,7 +102,7 @@ expensive part. Commercial options:
   delay, including notices seen in the last 48h, refreshed on every pipeline
   run. Delivered as a private GitHub repo you can pull/watch.
 - **[Full historical archive — $199 one-time](https://approj.gumroad.com/l/warn-archive)** — every notice
-  we have back to 1988 (35,975 rows, all 25 states), CSV + JSON.
+  we have back to 1988 (36,025 rows, all 25 states), CSV + JSON.
 
 Delivery is automatic: enter your GitHub username at checkout and you're
 invited to the private repo. Questions first? [Open an issue](https://github.com/APProj/warn-act-notices/issues)

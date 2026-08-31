@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-31T06:19:41.617720Z",
-  "total_rows": 35975,
-  "free_rows": 6694,
+  "generated_at": "2026-08-31T06:22:43.928395Z",
+  "total_rows": 36025,
+  "free_rows": 6695,
   "free_window_start": "2024-01-01",
-  "new_ids_this_run": 17,
+  "new_ids_this_run": 0,
   "delay_hours": 48,
   "states": {
     "AZ": {
@@ -82,7 +82,7 @@
       "status": "ok"
     },
     "OK": {
-      "rows": 169,
+      "rows": 219,
       "raw_rows": 219,
       "status": "ok"
     },
