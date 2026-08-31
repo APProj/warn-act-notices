@@ -18,7 +18,14 @@ covers 2024-present. Zero-delay + full 1988+ history are the
 | One state (CSV) | `https://raw.githubusercontent.com/APProj/warn-act-notices/main/data/by-state/ca.csv` (any covered state's 2-letter code) |
 | Coverage + freshness metadata | `https://raw.githubusercontent.com/APProj/warn-act-notices/main/data/coverage.json` |
 | Monthly trends, last 24 months | `https://raw.githubusercontent.com/APProj/warn-act-notices/main/data/trends.json` |
+| Newly added, last 7 days (CSV) | `https://raw.githubusercontent.com/APProj/warn-act-notices/main/data/latest.csv` |
+| Newly added, last 7 days (JSON + metadata) | `https://raw.githubusercontent.com/APProj/warn-act-notices/main/data/latest.json` |
 | New-notice RSS feed | `https://approj.github.io/warn-act-notices/feed.xml` |
+
+`latest.json` carries `count` and `generated_at`, so an alerting script can poll
+it daily and act only when `count` changes — the cheapest possible "new layoff
+notices" trigger. It is empty when no rows cleared the 48h delay window in the
+last 7 days (the paid real-time tier has no delay).
 
 Schema for every record is documented in the [README](README.md#schema) and in
 machine-readable form in [`datapackage.json`](datapackage.json).

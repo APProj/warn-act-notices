@@ -12,6 +12,7 @@ deduplicated dataset, refreshed daily.
 - JSON: [`data/warn_notices.json`](data/warn_notices.json)
 - Coverage/freshness metadata: [`data/coverage.json`](data/coverage.json)
 - Per-state CSVs: [`data/by-state/`](data/by-state/) — see table below
+- **Newly added in the last 7 days:** [`data/latest.csv`](data/latest.csv) / [`data/latest.json`](data/latest.json) — stable raw URLs for "new WARN notices" alerting and dashboards (48h-delayed; real-time tier available)
 - Stats page: https://approj.github.io/warn-act-notices/
 - RSS feed of newly-published notices: https://approj.github.io/warn-act-notices/feed.xml (48h-delayed)
 - Weekly summaries (biggest layoffs, per-state totals, one page per week): https://approj.github.io/warn-act-notices/weekly/
