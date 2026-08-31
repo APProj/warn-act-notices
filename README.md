@@ -17,7 +17,7 @@ deduplicated dataset, refreshed daily.
 No login, no API key. Scope of the free dataset, stated plainly: notices from
 **2024-01-01** onward, **48h-delayed** (newly scraped notices appear here 48 hours
 after our pipeline first sees them). The full archive back to 1988
-(35,007 notices) and the zero-delay feed are the commercial products
+(35,181 notices) and the zero-delay feed are the commercial products
 that fund the pipeline.
 
 ## Schema
@@ -41,7 +41,7 @@ that fund the pipeline.
 | Arizona (AZ) | 621 | [az.csv](data/by-state/az.csv) | ok |
 | California (CA) | 16,526 | [ca.csv](data/by-state/ca.csv) | ok |
 | Connecticut (CT) | 27 | [ct.csv](data/by-state/ct.csv) | ok |
-| GA (GA) | 107 | — | ok |
+| GA (GA) | 281 | — | ok |
 | Iowa (IA) | 415 | [ia.csv](data/by-state/ia.csv) | ok |
 | Illinois (IL) | 4,032 | [il.csv](data/by-state/il.csv) | ok |
 | Indiana (IN) | 1,180 | [in.csv](data/by-state/in.csv) | ok |
@@ -97,7 +97,7 @@ expensive part. Commercial options:
   delay, including notices seen in the last 48h, refreshed on every pipeline
   run. Delivered as a private GitHub repo you can pull/watch.
 - **[Full historical archive — $199 one-time](https://approj.gumroad.com/l/warn-archive)** — every notice
-  we have back to 1988 (35,007 rows, all 25 states), CSV + JSON.
+  we have back to 1988 (35,181 rows, all 25 states), CSV + JSON.
 
 Delivery is automatic: enter your GitHub username at checkout and you're
 invited to the private repo. Questions first? [Open an issue](https://github.com/APProj/warn-act-notices/issues)
