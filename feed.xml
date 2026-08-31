@@ -4,7 +4,7 @@
 <title>US WARN Act layoff notices — new notices (free tier)</title>
 <link>https://approj.github.io/warn-act-notices/</link>
 <atom:link href="https://approj.github.io/warn-act-notices/feed.xml" rel="self" type="application/rss+xml"/>
-<description>Newly published US WARN Act layoff notices, normalized across 29 states: employer, location, workers affected, notice and layoff dates. Free tier, 48h-delayed; refreshed daily. CC BY 4.0 — credit WARN Feed. Full dataset: https://github.com/APProj/warn-act-notices</description>
+<description>Newly published US WARN Act layoff notices, normalized across 29 states: employer, location, workers affected, notice and layoff dates. Free tier, 48h-delayed; refreshed daily. CC BY 4.0 — credit WARN Feed. Full dataset: https://github.com/APProj/warn-act-notices · Weekly summaries: https://approj.github.io/warn-act-notices/weekly/</description>
 <language>en-us</language>
 <lastBuildDate>Sun, 30 Aug 2026 21:43:41 +0000</lastBuildDate>
 <item><title>Electrolux Consumer Products — SC: WARN notice, 10 workers</title><link>https://approj.github.io/warn-act-notices/states/south-carolina.html</link><guid isPermaLink="false">05ab3e8e7e6ee2d2</guid><pubDate>Sun, 30 Aug 2026 21:43:41 +0000</pubDate><description>WARN layoff notice: Electrolux Consumer Products, Anderson, SC. 10 workers. Notice date: 2026-12-22; layoff/closure date: n/a. This free feed is 48h-delayed — zero-delay feed: https://approj.gumroad.com/l/warn-realtime</description></item>
