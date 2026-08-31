@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-31T10:16:59.704587Z",
-  "total_rows": 36991,
+  "generated_at": "2026-08-31T10:29:52.309603Z",
+  "total_rows": 40142,
   "free_rows": 6705,
   "free_window_start": "2024-01-01",
-  "new_ids_this_run": 0,
+  "new_ids_this_run": 3151,
   "delay_hours": 48,
   "states": {
     "AZ": {
@@ -24,6 +24,11 @@
     "CT": {
       "rows": 27,
       "raw_rows": 27,
+      "status": "ok"
+    },
+    "FL": {
+      "rows": 3113,
+      "raw_rows": 3245,
       "status": "ok"
     },
     "GA": {
@@ -54,6 +59,11 @@
     "KY": {
       "rows": 804,
       "raw_rows": 832,
+      "status": "ok"
+    },
+    "LA": {
+      "rows": 38,
+      "raw_rows": 38,
       "status": "ok"
     },
     "MD": {
