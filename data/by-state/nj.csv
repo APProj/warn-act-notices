@@ -1,313 +1,313 @@
 id,state,company,company_canonical,company_dba,location,employees_affected,notice_date,effective_date,notice_type,first_seen
 21bef2f0a89576ea,NJ,UBS,UBS,,Weehawken,58,2026-11-01,2026-11-04,,2026-08-30T21:43:41.512264Z
 adc1a8caea67c5f3,NJ,"Citibank, N.A.",Citibank,,Hudson County,59,2026-08-01,2026-10-31,,2026-08-30T21:43:41.512264Z
-650a8bbff7914f8b,NJ,Gerresheimer,Gerresheimer,,Vineland,139,2026-08-01,2026-09-01,,2026-08-30T21:43:41.512264Z
-9b61640123acf6da,NJ,"Grocery Delivery E-Services USA, Inc DBA Hello Fresh",Grocery Delivery E-Services,Hello Fresh,Swedesboro,374,2026-08-01,2026-11-17,,2026-08-30T21:43:41.512264Z
 a0f8bf1b093f7fd5,NJ,JP Morgan Chase,JP Morgan Chase,,Jersey City,63,2026-08-01,2026-08-19,,2026-08-30T21:43:41.512264Z
+9b61640123acf6da,NJ,"Grocery Delivery E-Services USA, Inc DBA Hello Fresh",Grocery Delivery E-Services,Hello Fresh,Swedesboro,374,2026-08-01,2026-11-17,,2026-08-30T21:43:41.512264Z
 97e8510b309bfa5a,NJ,Optum,Optum,,Basking Ridge,57,2026-08-01,2026-12-07,,2026-08-30T21:43:41.512264Z
+650a8bbff7914f8b,NJ,Gerresheimer,Gerresheimer,,Vineland,139,2026-08-01,2026-09-01,,2026-08-30T21:43:41.512264Z
 47d3d8f683a05060,NJ,Cenlar FSB,Cenlar FSB,,Ewing Twp.,50,2026-08-01,2026-08-21,,2026-08-30T21:43:41.512264Z
 1576568849d9234e,NJ,"Enablx, INC",Enablx,,Rockaway Township,187,2026-08-01,2026-12-31,,2026-08-30T21:43:41.512264Z
-c3bd0ab44eb8c598,NJ,"Headquarters Hotel Mgmt, LLC d/b/a Sheraton Atlantic City Convention Center Hotel",Headquarters Hotel Mgmt,Sheraton Atlantic City Convention Center Hotel,Atlantic City,99,2026-07-01,2026-10-01,,2026-08-30T21:43:41.512264Z
-34a76d6521e478fa,NJ,Fusion Transport LLC,Fusion Transport,,Piscataway,79,2026-07-01,2026-10-01,,2026-08-30T21:43:41.512264Z
 f73988fe2340e6b3,NJ,Notions Marketing,Notions Marketing,,Gloucester,179,2026-07-01,2026-07-02,,2026-08-30T21:43:41.512264Z
+c3bd0ab44eb8c598,NJ,"Headquarters Hotel Mgmt, LLC d/b/a Sheraton Atlantic City Convention Center Hotel",Headquarters Hotel Mgmt,Sheraton Atlantic City Convention Center Hotel,Atlantic City,99,2026-07-01,2026-10-01,,2026-08-30T21:43:41.512264Z
+a436fdbe7fc178b1,NJ,"Mars WrigleyConfectionary US, LLC",Mars WrigleyConfectionary US,,Newark,307,2026-07-01,2026-10-16,,2026-08-30T21:43:41.512264Z
+979e5e35fbe196bb,NJ,Prudential Insurance Company of America,Prudential Insurance Company of America,,Newark,89,2026-07-01,2026-09-18,,2026-08-30T21:43:41.512264Z
+834c7b44434e6a4c,NJ,"Samsung Electronics America, Inc.",Samsung Electronics America,,Englewood Cliffs,739,2026-07-01,2026-09-30,,2026-08-30T21:43:41.512264Z
+5d86fc8f0fa29b30,NJ,Petvet Care Centers LLC,Petvet Care Centers,,Egg Harbor Twp,18,2026-07-01,2026-10-08,,2026-08-30T21:43:41.512264Z
+34a76d6521e478fa,NJ,Fusion Transport LLC,Fusion Transport,,Piscataway,79,2026-07-01,2026-10-01,,2026-08-30T21:43:41.512264Z
+3491c0e0b9c95117,NJ,BASF Corporation,BASF,,Florham Park,62,2026-07-01,2026-11-01,,2026-08-30T21:43:41.512264Z
 2e51dd911bd6bb05,NJ,Winfit LLC,Winfit,,Mercer County,5,2026-07-01,2026-07-05,,2026-08-30T21:43:41.512264Z
 2ca0ad019612c62f,NJ,Novartis Pharmaceuticals Corporation,Novartis Pharmaceuticals,,East Hanover,322,2026-07-01,2026-10-02,,2026-08-30T21:43:41.512264Z
 2a74b4992b2f02c2,NJ,JP Morgan Chase,JP Morgan Chase,,Jersey City,173,2026-07-01,2026-07-08,,2026-08-30T21:43:41.512264Z
-18d2c9df6f8666d1,NJ,The Cannabist Company,Cannabist,,Vineland,86,2026-07-01,2026-10-11,,2026-08-30T21:43:41.512264Z
-a436fdbe7fc178b1,NJ,"Mars WrigleyConfectionary US, LLC",Mars WrigleyConfectionary US,,Newark,307,2026-07-01,2026-10-16,,2026-08-30T21:43:41.512264Z
-834c7b44434e6a4c,NJ,"Samsung Electronics America, Inc.",Samsung Electronics America,,Englewood Cliffs,739,2026-07-01,2026-09-30,,2026-08-30T21:43:41.512264Z
 1d81e3dde821e894,NJ,Verizon Corp Resources Group LLC,Verizon Corp Resources Group,,Basking Ridge,282,2026-07-01,2026-10-16,,2026-08-30T21:43:41.512264Z
-979e5e35fbe196bb,NJ,Prudential Insurance Company of America,Prudential Insurance Company of America,,Newark,89,2026-07-01,2026-09-18,,2026-08-30T21:43:41.512264Z
-5d86fc8f0fa29b30,NJ,Petvet Care Centers LLC,Petvet Care Centers,,Egg Harbor Twp,18,2026-07-01,2026-10-08,,2026-08-30T21:43:41.512264Z
-3491c0e0b9c95117,NJ,BASF Corporation,BASF,,Florham Park,62,2026-07-01,2026-11-01,,2026-08-30T21:43:41.512264Z
-22c74c90d4a79c44,NJ,Merck & Co,Merck &,,Rahway,88,2026-06-01,2026-09-04,,2026-08-30T21:43:41.512264Z
-253ababab722cd3a,NJ,Optum Select Management Inc.,Optum Select Management,,Somerset,17,2026-06-01,2026-08-26,,2026-08-30T21:43:41.512264Z
+18d2c9df6f8666d1,NJ,The Cannabist Company,Cannabist,,Vineland,86,2026-07-01,2026-10-11,,2026-08-30T21:43:41.512264Z
+e6dccab17b30de74,NJ,"Samsung SDS America, Inc",Samsung SDS America,,Ridgefield Park,179,2026-06-01,2026-10-01,,2026-08-30T21:43:41.512264Z
 e50ebf8d44685e62,NJ,Optum Care Inc.,Optum Care,,Rutherford,5,2026-06-01,2026-08-26,,2026-08-30T21:43:41.512264Z
-4e56c4c9c76c4c01,NJ,Optum Services Inc.,Optum Services,,Basking Ridge,36,2026-06-01,2026-08-26,,2026-08-30T21:43:41.512264Z
-7172cff33d0d1553,NJ,UBS,UBS,,Weehawken,65,2026-06-01,2026-08-26,,2026-08-30T21:43:41.512264Z
-540344697961779f,NJ,"Citibank, N.A.",Citibank,,Hudson and Bergen Counties,68,2026-06-01,2026-06-28,,2026-08-30T21:43:41.512264Z
-04c1c54a15ec0a82,NJ,AT&T,AT&T,,Cumberland County,138,2026-06-01,2026-09-15,,2026-08-30T21:43:41.512264Z
-4984fd4aea44b275,NJ,Digital Room LLC,Digital Room,,Saddle Brook,69,2026-06-01,2026-09-16,,2026-08-30T21:43:41.512264Z
-13ee5ba7cbafb80f,NJ,Verizon Corp Resources Group LLC,Verizon Corp Resources Group,,Basking Ridge,35,2026-06-01,2026-09-18,,2026-08-30T21:43:41.512264Z
-1fdb1ccae7458c45,NJ,Verizon Corp Resources Group LLC,Verizon Corp Resources Group,,Basking Ridge,156,2026-06-01,2026-08-07,,2026-08-30T21:43:41.512264Z
 d97a1e4ebcb832a2,NJ,"Automatic Data Processing, Inc.",Automatic Data Processing,,Roseland,76,2026-06-01,2026-09-25,,2026-08-30T21:43:41.512264Z
 aa1626b0d44dcd92,NJ,"International Paper, Barrington Box Plant","International Paper, Barrington Box Plant",,Barrington,126,2026-06-01,2026-09-24,,2026-08-30T21:43:41.512264Z
-e6dccab17b30de74,NJ,"Samsung SDS America, Inc",Samsung SDS America,,Ridgefield Park,179,2026-06-01,2026-10-01,,2026-08-30T21:43:41.512264Z
-97304e15080eaa80,NJ,Fulton Bank,Fulton Bank,,Parsippany,95,2026-05-01,2026-07-31,,2026-08-30T21:43:41.512264Z
-31c47e7b1a59c798,NJ,Accupac,Accupac,,Lakewood,260,2026-05-01,2026-08-03,,2026-08-30T21:43:41.512264Z
-0840088ee8c19b5d,NJ,Danone North America,Danone North America,,Bridgeton,114,2026-05-01,2026-08-04,,2026-08-30T21:43:41.512264Z
-7bf669c552148dfc,NJ,DoubleTree by Hilton,DoubleTree by Hilton,,Somerset,90,2026-05-01,2026-08-01,,2026-08-30T21:43:41.512264Z
-11a392b9e364107d,NJ,Verizon,Verizon,,Basking Ridge,121,2026-05-01,2026-08-07,,2026-08-30T21:43:41.512264Z
-b931c7ff64707687,NJ,Spirit Airlines,Spirit Airlines,,Newark,201,2026-05-01,2026-05-02,,2026-08-30T21:43:41.512264Z
-a74fa7c166e10e6b,NJ,Embassy Suites by Hilton,Embassy Suites by Hilton,,Parsippany,54,2026-05-01,2026-08-14,,2026-08-30T21:43:41.512264Z
+7172cff33d0d1553,NJ,UBS,UBS,,Weehawken,65,2026-06-01,2026-08-26,,2026-08-30T21:43:41.512264Z
+540344697961779f,NJ,"Citibank, N.A.",Citibank,,Hudson and Bergen Counties,68,2026-06-01,2026-06-28,,2026-08-30T21:43:41.512264Z
+4e56c4c9c76c4c01,NJ,Optum Services Inc.,Optum Services,,Basking Ridge,36,2026-06-01,2026-08-26,,2026-08-30T21:43:41.512264Z
+4984fd4aea44b275,NJ,Digital Room LLC,Digital Room,,Saddle Brook,69,2026-06-01,2026-09-16,,2026-08-30T21:43:41.512264Z
+253ababab722cd3a,NJ,Optum Select Management Inc.,Optum Select Management,,Somerset,17,2026-06-01,2026-08-26,,2026-08-30T21:43:41.512264Z
+22c74c90d4a79c44,NJ,Merck & Co,Merck &,,Rahway,88,2026-06-01,2026-09-04,,2026-08-30T21:43:41.512264Z
+1fdb1ccae7458c45,NJ,Verizon Corp Resources Group LLC,Verizon Corp Resources Group,,Basking Ridge,156,2026-06-01,2026-08-07,,2026-08-30T21:43:41.512264Z
+13ee5ba7cbafb80f,NJ,Verizon Corp Resources Group LLC,Verizon Corp Resources Group,,Basking Ridge,35,2026-06-01,2026-09-18,,2026-08-30T21:43:41.512264Z
+04c1c54a15ec0a82,NJ,AT&T,AT&T,,Cumberland County,138,2026-06-01,2026-09-15,,2026-08-30T21:43:41.512264Z
+eb68ed7e7d9dc1be,NJ,Acme Markets Inc.,Acme Markets,,Edgewater,115,2026-05-01,2026-08-15,,2026-08-30T21:43:41.512264Z
 db03008e9a05d0a1,NJ,JP Morgan Chase,JP Morgan Chase,,Jersey City,51,2026-05-01,2026-08-03,,2026-08-30T21:43:41.512264Z
 d301e9031741bd5c,NJ,Amicus Therapeutics,Amicus Therapeutics,,Princeton,58,2026-05-01,2026-08-07,,2026-08-30T21:43:41.512264Z
-eb68ed7e7d9dc1be,NJ,Acme Markets Inc.,Acme Markets,,Edgewater,115,2026-05-01,2026-08-15,,2026-08-30T21:43:41.512264Z
-3088edab55367ddf,NJ,Novartis Group,Novartis Group,,East Hanover,76,2026-05-01,2026-08-21,,2026-08-30T21:43:41.512264Z
-559edd2c40a2b21f,NJ,Prudential Insurance Company of America,Prudential Insurance Company of America,,Newark,53,2026-05-01,2026-07-17,,2026-08-30T21:43:41.512264Z
 bd5df773690752b5,NJ,Meta,Meta,,Statewide,74,2026-05-01,2026-08-20,,2026-08-30T21:43:41.512264Z
+b931c7ff64707687,NJ,Spirit Airlines,Spirit Airlines,,Newark,201,2026-05-01,2026-05-02,,2026-08-30T21:43:41.512264Z
 b770266c633c2ef2,NJ,Johnson & Johnson,Johnson & Johnson,,New Brunswick,86,2026-05-01,2026-08-21,,2026-08-30T21:43:41.512264Z
+a74fa7c166e10e6b,NJ,Embassy Suites by Hilton,Embassy Suites by Hilton,,Parsippany,54,2026-05-01,2026-08-14,,2026-08-30T21:43:41.512264Z
+97304e15080eaa80,NJ,Fulton Bank,Fulton Bank,,Parsippany,95,2026-05-01,2026-07-31,,2026-08-30T21:43:41.512264Z
+7bf669c552148dfc,NJ,DoubleTree by Hilton,DoubleTree by Hilton,,Somerset,90,2026-05-01,2026-08-01,,2026-08-30T21:43:41.512264Z
+559edd2c40a2b21f,NJ,Prudential Insurance Company of America,Prudential Insurance Company of America,,Newark,53,2026-05-01,2026-07-17,,2026-08-30T21:43:41.512264Z
+31c47e7b1a59c798,NJ,Accupac,Accupac,,Lakewood,260,2026-05-01,2026-08-03,,2026-08-30T21:43:41.512264Z
+3088edab55367ddf,NJ,Novartis Group,Novartis Group,,East Hanover,76,2026-05-01,2026-08-21,,2026-08-30T21:43:41.512264Z
+11a392b9e364107d,NJ,Verizon,Verizon,,Basking Ridge,121,2026-05-01,2026-08-07,,2026-08-30T21:43:41.512264Z
+0840088ee8c19b5d,NJ,Danone North America,Danone North America,,Bridgeton,114,2026-05-01,2026-08-04,,2026-08-30T21:43:41.512264Z
 cb49104cbbdaf177,NJ,"Alan Ritchey, Inc.",Alan Ritchey,,Phillipsburg,176,2026-04-01,2026-07-17,,2026-08-30T21:43:41.512264Z
-4731fa1cb174c968,NJ,Bristol Myers Squibb,Bristol Myers Squibb,,Lawrence Twp,206,2026-04-01,2026-07-16,,2026-08-30T21:43:41.512264Z
 b59561f4b3c50624,NJ,AT&T,AT&T,,Bedminster,87,2026-04-01,2026-05-04,,2026-08-30T21:43:41.512264Z
-4bb96622ae04928e,NJ,Novartis,Novartis,,East Hanover,60,2026-04-01,2026-07-24,,2026-08-30T21:43:41.512264Z
 604d97a719baaa69,NJ,"FreshRealm, Inc.",FreshRealm,,Linden,628,2026-04-01,2026-07-27,,2026-08-30T21:43:41.512264Z
 55e9d47c494d961f,NJ,Federal Express Corporation,Federal Express,,Union,50,2026-04-01,2026-08-03,,2026-08-30T21:43:41.512264Z
-2af58d6957751b1a,NJ,Luna Foods dba Joey's Fine Foods,Luna Foods,Joey's Fine Foods,Newark,61,2026-03-01,2026-06-19,,2026-08-30T21:43:41.512264Z
-2b19e1094e82ee17,NJ,Prudential,Prudential,,Newark,54,2026-03-01,2026-05-07,,2026-08-30T21:43:41.512264Z
-c10de201b57c15f9,NJ,Reckitt Benckiser,Reckitt Benckiser,,Parsippany,62,2026-03-01,2026-03-02,,2026-08-30T21:43:41.512264Z
-04d5f840a8775a05,NJ,RB Health,RB Health,,Parsippany,14,2026-03-01,2026-03-02,,2026-08-30T21:43:41.512264Z
+4bb96622ae04928e,NJ,Novartis,Novartis,,East Hanover,60,2026-04-01,2026-07-24,,2026-08-30T21:43:41.512264Z
+4731fa1cb174c968,NJ,Bristol Myers Squibb,Bristol Myers Squibb,,Lawrence Twp,206,2026-04-01,2026-07-16,,2026-08-30T21:43:41.512264Z
 e101ced1507456a7,NJ,Mead Johnson,Mead Johnson,,Parsippany,18,2026-03-01,2026-03-02,,2026-08-30T21:43:41.512264Z
-75843daff02baf3e,NJ,Heights University Hospital,Heights University Hospital,,Jersey City,65,2026-03-01,2026-03-16,,2026-08-30T21:43:41.512264Z
-8bf081d585d49027,NJ,Fiserv Solutions LLC,Fiserv Solutions,,Berkeley Heights,118,2026-03-01,2026-03-31,,2026-08-30T21:43:41.512264Z
-c099c794c4e4778f,NJ,OTB Hospitality,OTB Hospitality,,Paramus,62,2026-03-01,2026-03-13,,2026-08-30T21:43:41.512264Z
 dbaa3a2039291229,NJ,UBS,UBS,,Weehawken,103,2026-03-01,2026-06-22,,2026-08-30T21:43:41.512264Z
-d87301a374d89058,NJ,JP Morgan Chase,JP Morgan Chase,,Jersey City,134,2026-03-01,2026-06-20,,2026-08-30T21:43:41.512264Z
 d8cc295fc7b74811,NJ,Labcorp Raritan,Labcorp Raritan,,Raritan,83,2026-03-01,2026-07-03,,2026-08-30T21:43:41.512264Z
+d87301a374d89058,NJ,JP Morgan Chase,JP Morgan Chase,,Jersey City,134,2026-03-01,2026-06-20,,2026-08-30T21:43:41.512264Z
+c10de201b57c15f9,NJ,Reckitt Benckiser,Reckitt Benckiser,,Parsippany,62,2026-03-01,2026-03-02,,2026-08-30T21:43:41.512264Z
+c099c794c4e4778f,NJ,OTB Hospitality,OTB Hospitality,,Paramus,62,2026-03-01,2026-03-13,,2026-08-30T21:43:41.512264Z
+8bf081d585d49027,NJ,Fiserv Solutions LLC,Fiserv Solutions,,Berkeley Heights,118,2026-03-01,2026-03-31,,2026-08-30T21:43:41.512264Z
+75843daff02baf3e,NJ,Heights University Hospital,Heights University Hospital,,Jersey City,65,2026-03-01,2026-03-16,,2026-08-30T21:43:41.512264Z
+2b19e1094e82ee17,NJ,Prudential,Prudential,,Newark,54,2026-03-01,2026-05-07,,2026-08-30T21:43:41.512264Z
+2af58d6957751b1a,NJ,Luna Foods dba Joey's Fine Foods,Luna Foods,Joey's Fine Foods,Newark,61,2026-03-01,2026-06-19,,2026-08-30T21:43:41.512264Z
 23be2e8741aea49e,NJ,Novartis,Novartis,,East Hanover,114,2026-03-01,2026-06-26,,2026-08-30T21:43:41.512264Z
-1e696875598e4997,NJ,Walmart,Walmart,,Hoboken,100,2026-02-01,2026-05-01,,2026-08-30T21:43:41.512264Z
-7c22144396982fac,NJ,Eddie Bauer,Eddie Bauer,,"Bergen, Morris, Camden, Monmouth, Somerset",58,2026-02-01,2026-02-02,,2026-08-30T21:43:41.512264Z
+04d5f840a8775a05,NJ,RB Health,RB Health,,Parsippany,14,2026-03-01,2026-03-02,,2026-08-30T21:43:41.512264Z
+fc146d91e1ffd7e5,NJ,Saks & Company,Saks &,,East Rutherford,58,2026-02-01,2026-05-11,,2026-08-30T21:43:41.512264Z
 c7789ad43b2b4cd1,NJ,Target,Target,,"Burlington, Gloucester, Middlesex, Monmouth",107,2026-02-01,2026-05-17,,2026-08-30T21:43:41.512264Z
 a488774da5436acd,NJ,Integra Life Sciences,Integra Life Sciences,,Princeton,65,2026-02-01,2026-05-01,,2026-08-30T21:43:41.512264Z
-70028ec52461db96,NJ,JP Morgan Chase,JP Morgan Chase,,Jersey City,120,2026-02-01,2026-05-03,,2026-08-30T21:43:41.512264Z
-fc146d91e1ffd7e5,NJ,Saks & Company,Saks &,,East Rutherford,58,2026-02-01,2026-05-11,,2026-08-30T21:43:41.512264Z
 9d3132ebc60a0c44,NJ,Scudetto Logistics,Scudetto Logistics,,Trenton,120,2026-02-01,2026-05-14,,2026-08-30T21:43:41.512264Z
 8f9368484fb555d1,NJ,Imperia Foods,Imperia Foods,,Fairfield,82,2026-02-01,2026-05-22,,2026-08-30T21:43:41.512264Z
-42f64641a1f2afe8,NJ,AT&T,AT&T,,Bedminster,75,2026-02-01,2026-05-19,,2026-08-30T21:43:41.512264Z
+7c22144396982fac,NJ,Eddie Bauer,Eddie Bauer,,"Bergen, Morris, Camden, Monmouth, Somerset",58,2026-02-01,2026-02-02,,2026-08-30T21:43:41.512264Z
+70028ec52461db96,NJ,JP Morgan Chase,JP Morgan Chase,,Jersey City,120,2026-02-01,2026-05-03,,2026-08-30T21:43:41.512264Z
 5dbd886e6486f414,NJ,Macy's,Macy's,,Statewide,79,2026-02-01,2026-03-07,,2026-08-30T21:43:41.512264Z
-26e40cca59676f41,NJ,IPIC Theaters,IPIC Theaters,,Fort Lee,97,2026-02-01,2026-05-28,,2026-08-30T21:43:41.512264Z
+42f64641a1f2afe8,NJ,AT&T,AT&T,,Bedminster,75,2026-02-01,2026-05-19,,2026-08-30T21:43:41.512264Z
 3518f07f14906afd,NJ,MarketSource,MarketSource,,Jersey City,57,2026-02-01,2026-05-30,,2026-08-30T21:43:41.512264Z
-ac2ec7e1a2b9e302,NJ,The Fresh Market,Fresh Market,,Montvale,55,2026-01-01,2026-04-12,,2026-08-30T21:43:41.512264Z
-b949b108bca00562,NJ,International Real Estate Partners US Corp,International Real Estate Partners US,,New Providence,61,2026-01-01,2026-03-31,,2026-08-30T21:43:41.512264Z
-601c332eb13abf32,NJ,Lifetime Brands,Lifetime Brands,,Robbinsville,140,2026-01-01,2026-04-10,,2026-08-30T21:43:41.512264Z
+26e40cca59676f41,NJ,IPIC Theaters,IPIC Theaters,,Fort Lee,97,2026-02-01,2026-05-28,,2026-08-30T21:43:41.512264Z
+1e696875598e4997,NJ,Walmart,Walmart,,Hoboken,100,2026-02-01,2026-05-01,,2026-08-30T21:43:41.512264Z
 ee1f3962c3b80a32,NJ,SFC Global Supply Chain,SFC Global Supply Chain,,Robbinsville,170,2026-01-01,2026-04-10,,2026-08-30T21:43:41.512264Z
-792428561dce854b,NJ,ERMC,ERMC,,"Atlanta, GA (work location: Newark International Airport)",205,2026-01-01,2026-04-11,,2026-08-30T21:43:41.512264Z
-31c5396efa78fbdc,NJ,Macy's Retail Holdings,Macy's Retail Holdings,,"Paramus, Livingston, Ramsey",89,2026-01-01,2026-03-31,,2026-08-30T21:43:41.512264Z
 c3914a5ee51c7ea9,NJ,T-Mobile USA,T-Mobile,,"Bellevue, WA (Statewide in NJ)",78,2026-01-01,2026-04-21,,2026-08-30T21:43:41.512264Z
-2e66fa56b045386c,NJ,Blue Cross Blue Shield of NJ,Blue Cross Blue Shield of NJ,,Newark,242,2026-01-01,2026-04-26,,2026-08-30T21:43:41.512264Z
-68824ee5890b43a6,NJ,Amazon,Amazon,,"Passaic, Bergen, Monmouth, Hudson, Statewide",240,2026-01-01,2026-04-28,,2026-08-30T21:43:41.512264Z
+b949b108bca00562,NJ,International Real Estate Partners US Corp,International Real Estate Partners US,,New Providence,61,2026-01-01,2026-03-31,,2026-08-30T21:43:41.512264Z
+ac2ec7e1a2b9e302,NJ,The Fresh Market,Fresh Market,,Montvale,55,2026-01-01,2026-04-12,,2026-08-30T21:43:41.512264Z
 91bff76b2fa0c146,NJ,Saks & Company,Saks &,,Statewide,69,2026-01-01,2026-05-04,,2026-08-30T21:43:41.512264Z
+792428561dce854b,NJ,ERMC,ERMC,,"Atlanta, GA (work location: Newark International Airport)",205,2026-01-01,2026-04-11,,2026-08-30T21:43:41.512264Z
+68824ee5890b43a6,NJ,Amazon,Amazon,,"Passaic, Bergen, Monmouth, Hudson, Statewide",240,2026-01-01,2026-04-28,,2026-08-30T21:43:41.512264Z
+601c332eb13abf32,NJ,Lifetime Brands,Lifetime Brands,,Robbinsville,140,2026-01-01,2026-04-10,,2026-08-30T21:43:41.512264Z
+31c5396efa78fbdc,NJ,Macy's Retail Holdings,Macy's Retail Holdings,,"Paramus, Livingston, Ramsey",89,2026-01-01,2026-03-31,,2026-08-30T21:43:41.512264Z
+2e66fa56b045386c,NJ,Blue Cross Blue Shield of NJ,Blue Cross Blue Shield of NJ,,Newark,242,2026-01-01,2026-04-26,,2026-08-30T21:43:41.512264Z
+dd53f8c75db94788,NJ,Pioneer Credit Recovery,Pioneer Credit Recovery,,Burlington,180,2025-12-01,2026-03-31,,2026-08-30T21:43:41.512264Z
 831a0401009200ae,NJ,CMC Energy Services,CMC Energy Services,,Hamilton,89,2025-12-01,2026-03-02,,2026-08-30T21:43:41.512264Z
 63981c52b5aba39c,NJ,Anheuser Busch LLC,Anheuser Busch,,Newark,151,2025-12-01,2026-03-11,,2026-08-30T21:43:41.512264Z
 446d65a47d091425,NJ,Hudson News Distributors,Hudson News Distributors,,Parsippany,236,2025-12-01,2026-02-06,,2026-08-30T21:43:41.512264Z
-dd53f8c75db94788,NJ,Pioneer Credit Recovery,Pioneer Credit Recovery,,Burlington,180,2025-12-01,2026-03-31,,2026-08-30T21:43:41.512264Z
-307ea696ed95e543,NJ,Barclays Services Corporation,Barclays Services,,Whippany,80,2025-11-01,2026-02-18,,2026-08-30T21:43:41.512264Z
-cf4706ed8a7a57d8,NJ,Acme,Acme,,Sussex,71,2025-11-01,2026-02-07,,2026-08-30T21:43:41.512264Z
 f32c64fe8fad42cd,NJ,Bristol Myers Squibb (BMS),Bristol Myers Squibb (BMS),,Lawrence Twp,110,2025-11-01,2026-02-12,,2026-08-30T21:43:41.512264Z
-3831104762da67c6,NJ,Prudential,Prudential,,Newark,63,2025-11-01,2026-01-09,,2026-08-30T21:43:41.512264Z
+cf4706ed8a7a57d8,NJ,Acme,Acme,,Sussex,71,2025-11-01,2026-02-07,,2026-08-30T21:43:41.512264Z
 7d82c9b010644257,NJ,Verizon,Verizon,,Basking Ridge,1319,2025-11-01,2026-02-20,,2026-08-30T21:43:41.512264Z
 70b5485a5a91b5dc,NJ,Wonder Group,Wonder Group,,Englewood,121,2025-11-01,2026-02-19,,2026-08-30T21:43:41.512264Z
-e1ccb9b211e89368,NJ,Club Wyndham Atlantic City Skyline,Club Wyndham Atlantic City Skyline,,Atlantic City,116,2025-10-01,2025-12-31,,2026-08-30T21:43:41.512264Z
-a84f2ba1a884915d,NJ,The Park Hotel at Meadowlands,Park Hotel at Meadowlands,,East Rutherford,167,2025-10-01,2025-11-19,,2026-08-30T21:43:41.512264Z
-4d1065fb875b1fc2,NJ,Becton Dickinson and Company,Becton Dickinson and,,Franklin Lakes,86,2025-10-01,2025-10-30,,2026-08-30T21:43:41.512264Z
-200a723d0b574f6e,NJ,Heights University Hospital,Heights University Hospital,,Jersey City,206,2025-10-01,2025-10-25,,2026-08-30T21:43:41.512264Z
+3831104762da67c6,NJ,Prudential,Prudential,,Newark,63,2025-11-01,2026-01-09,,2026-08-30T21:43:41.512264Z
+307ea696ed95e543,NJ,Barclays Services Corporation,Barclays Services,,Whippany,80,2025-11-01,2026-02-18,,2026-08-30T21:43:41.512264Z
 feb36a17aff244b4,NJ,Harrison Sportservice Inc.,Harrison Sportservice,,Harrison,467,2025-10-01,2026-01-01,,2026-08-30T21:43:41.512264Z
 fd7c4ea18cca6d5b,NJ,Starbucks Coffee Company,Starbucks Coffee,,"West New York, Fort Lee, Morristown, Whiting Commons",47,2025-10-01,2026-01-25,,2026-08-30T21:43:41.512264Z
-7bb2547116e830f9,NJ,Jefferson Health,Jefferson Health,,Cherry Hill,108,2025-10-01,2026-01-13,,2026-08-30T21:43:41.512264Z
-1c760bba3f7704bd,NJ,Audible,Audible,,Newark,67,2025-10-01,2026-01-26,,2026-08-30T21:43:41.512264Z
-acac725ff9575d09,NJ,TTEC Government Solutions,TTEC Government Solutions,,Egg Harbor,120,2025-10-01,2026-01-26,,2026-08-30T21:43:41.512264Z
-82753de3a3a7ef8c,NJ,Amazon,Amazon,,Jersey City,72,2025-10-01,2026-01-26,,2026-08-30T21:43:41.512264Z
+e1ccb9b211e89368,NJ,Club Wyndham Atlantic City Skyline,Club Wyndham Atlantic City Skyline,,Atlantic City,116,2025-10-01,2025-12-31,,2026-08-30T21:43:41.512264Z
 cc72a5b545e391b7,NJ,Optum Services,Optum Services,,"Eden Prairie, Minnesota (Offices throughout NJ)",49,2025-10-01,2026-02-02,,2026-08-30T21:43:41.512264Z
 c95555f3a624aa06,NJ,Optum Select Management,Optum Select Management,,"Eden Prairie, Minnesota (Offices throughout NJ)",11,2025-10-01,2026-02-02,,2026-08-30T21:43:41.512264Z
-1d2a051ed72304e9,NJ,JP Morgan Chase,JP Morgan Chase,,Jersey City,58,2025-09-01,2025-11-24,,2026-08-30T21:43:41.512264Z
-832454dfebdcbdd0,NJ,YNAP Corporation,YNAP,,Mahwah,68,2025-09-01,2025-11-15,,2026-08-30T21:43:41.512264Z
-241705e57015e763,NJ,Essendant,Essendant,,Cranbury,171,2025-09-01,2025-12-01,,2026-08-30T21:43:41.512264Z
-79d58d505f7b097d,NJ,"Alstom Transportation, Inc.",Alstom Transportation,,Camden,117,2025-09-01,2025-12-12,,2026-08-30T21:43:41.512264Z
-48e273502883a313,NJ,Novo Nordisk,Novo Nordisk,,Plainsboro,811,2025-09-01,2025-12-31,,2026-08-30T21:43:41.512264Z
+acac725ff9575d09,NJ,TTEC Government Solutions,TTEC Government Solutions,,Egg Harbor,120,2025-10-01,2026-01-26,,2026-08-30T21:43:41.512264Z
+a84f2ba1a884915d,NJ,The Park Hotel at Meadowlands,Park Hotel at Meadowlands,,East Rutherford,167,2025-10-01,2025-11-19,,2026-08-30T21:43:41.512264Z
+82753de3a3a7ef8c,NJ,Amazon,Amazon,,Jersey City,72,2025-10-01,2026-01-26,,2026-08-30T21:43:41.512264Z
+7bb2547116e830f9,NJ,Jefferson Health,Jefferson Health,,Cherry Hill,108,2025-10-01,2026-01-13,,2026-08-30T21:43:41.512264Z
+4d1065fb875b1fc2,NJ,Becton Dickinson and Company,Becton Dickinson and,,Franklin Lakes,86,2025-10-01,2025-10-30,,2026-08-30T21:43:41.512264Z
+200a723d0b574f6e,NJ,Heights University Hospital,Heights University Hospital,,Jersey City,206,2025-10-01,2025-10-25,,2026-08-30T21:43:41.512264Z
+1c760bba3f7704bd,NJ,Audible,Audible,,Newark,67,2025-10-01,2026-01-26,,2026-08-30T21:43:41.512264Z
+db7c674a508d6e35,NJ,BASF,BASF,,Florham Park,66,2025-09-01,2025-12-31,,2026-08-30T21:43:41.512264Z
 bed16d3866379440,NJ,Prudential,Prudential,,Newark,63,2025-09-01,2025-11-16,,2026-08-30T21:43:41.512264Z
+832454dfebdcbdd0,NJ,YNAP Corporation,YNAP,,Mahwah,68,2025-09-01,2025-11-15,,2026-08-30T21:43:41.512264Z
+79d58d505f7b097d,NJ,"Alstom Transportation, Inc.",Alstom Transportation,,Camden,117,2025-09-01,2025-12-12,,2026-08-30T21:43:41.512264Z
 72126decb092b667,NJ,BioReference Health,BioReference Health,,Elmwood Park,118,2025-09-01,2025-09-18,,2026-08-30T21:43:41.512264Z
 4e0940fa8c3b5723,NJ,OceanFirst Bank,OceanFirst Bank,,Toms River,114,2025-09-01,2025-12-18,,2026-08-30T21:43:41.512264Z
-db7c674a508d6e35,NJ,BASF,BASF,,Florham Park,66,2025-09-01,2025-12-31,,2026-08-30T21:43:41.512264Z
+48e273502883a313,NJ,Novo Nordisk,Novo Nordisk,,Plainsboro,811,2025-09-01,2025-12-31,,2026-08-30T21:43:41.512264Z
+241705e57015e763,NJ,Essendant,Essendant,,Cranbury,171,2025-09-01,2025-12-01,,2026-08-30T21:43:41.512264Z
+1d2a051ed72304e9,NJ,JP Morgan Chase,JP Morgan Chase,,Jersey City,58,2025-09-01,2025-11-24,,2026-08-30T21:43:41.512264Z
 bbd292621d8cc3b5,NJ,Claire's Boutiques Inc.,Claire's Boutiques,,"Bergen, Burlington, Camden, Cumberland, Essex, Gloucester, Hudson, Mercer, Middlesex, Monmouth, Morris, Ocean, Passaic, Somerset, and Union Counties",155,2025-08-01,2025-11-03,,2026-08-30T21:43:41.512264Z
 89d6039059943da8,NJ,Ernst & Young,Ernst & Young,,Hudson & Middlesex Counties,130,2025-08-01,2025-10-31,,2026-08-30T21:43:41.512264Z
 77b5b04ef91b5901,NJ,Merck & Co.,Merck &,,Rahway,58,2025-08-01,2025-11-14,,2026-08-30T21:43:41.512264Z
 4b1594d68ac45246,NJ,Mark Anthony Brewing,Mark Anthony Brewing,,Hillside,143,2025-08-01,2025-09-26,,2026-08-30T21:43:41.512264Z
-734131c752671459,NJ,Prudential,Prudential,,Newark,57,2025-07-01,2025-07-31,,2026-08-30T21:43:41.512264Z
 fddc5e9e297acce2,NJ,Rocket Pharmaceuticals,Rocket Pharmaceuticals,,Cranbury,80,2025-07-01,2025-10-23,,2026-08-30T21:43:41.512264Z
 c46e258e25a850d9,NJ,Spiral Binding,Spiral Binding,,Totowa,137,2025-07-01,2025-10-27,,2026-08-30T21:43:41.512264Z
-61636228e29ce214,NJ,Edison Job Corps - ON HOLD,Edison Job Corps - ON HOLD,,Edison,176,2025-06-01,2025-06-06,,2026-08-30T21:43:41.512264Z
-7e0de6064a5e09e3,NJ,KRP Transport,KRP Transport,,Burlington,298,2025-06-01,2025-09-15,,2026-08-30T21:43:41.512264Z
-5ff3acb463c3d6db,NJ,USA DBA Charwells,USA,Charwells,Orange,73,2025-06-01,2025-06-27,,2026-08-30T21:43:41.512264Z
+734131c752671459,NJ,Prudential,Prudential,,Newark,57,2025-07-01,2025-07-31,,2026-08-30T21:43:41.512264Z
 ac1e5e2e396008e1,NJ,At Home,At Home,,"Princeton, Ledgewood, Middletown Township",77,2025-06-01,2025-09-30,,2026-08-30T21:43:41.512264Z
-31b6154aa6777140,NJ,Summit BHC New Jersey,Summit BHC New Jersey,,Bridgeton,96,2025-05-01,2025-07-30,,2026-08-30T21:43:41.512264Z
-07934165abd4a7ca,NJ,Rite Aid,Rite Aid,,"Company Location: Philadelphia, PA Affected Employees: Throughout NJ",1122,2025-05-01,2025-06-04,,2026-08-30T21:43:41.512264Z
-5fc26bf8835eb2f3,NJ,JP Morgan Chase,JP Morgan Chase,,Jersey City,63,2025-05-01,2025-08-04,,2026-08-30T21:43:41.512264Z
-6a9f32b0edbfde9b,NJ,TEKsystems,TEKsystems,,Secaucus,58,2025-05-01,2025-08-12,,2026-08-30T21:43:41.512264Z
-6991a8cf0482c449,NJ,Accenture,Accenture,,Morristown,71,2025-05-01,2025-08-29,,2026-08-30T21:43:41.512264Z
-46d8dede76c41516,NJ,Seviroli Foods,Seviroli Foods,,Bellmawr,77,2025-05-01,2025-08-13,,2026-08-30T21:43:41.512264Z
-4b4e89cc3dd2155c,NJ,GMRI Inc. T/A Bahama Breeze,GMRI Inc. T/A Bahama Breeze,,"Company Location: Orlando, FL Affected Employees: Woodbridge, Toms River, Wayne, Paramus",327,2025-05-01,2025-05-15,,2026-08-30T21:43:41.512264Z
-bae028acd6047161,NJ,Kinkisharyo International,Kinkisharyo International,,Jersey City,72,2025-05-01,2025-06-13,,2026-08-30T21:43:41.512264Z
-a30c0db11640ce5d,NJ,TransAxle,TransAxle,,Cinnaminson,129,2025-05-01,2025-08-15,,2026-08-30T21:43:41.512264Z
+7e0de6064a5e09e3,NJ,KRP Transport,KRP Transport,,Burlington,298,2025-06-01,2025-09-15,,2026-08-30T21:43:41.512264Z
+61636228e29ce214,NJ,Edison Job Corps - ON HOLD,Edison Job Corps - ON HOLD,,Edison,176,2025-06-01,2025-06-06,,2026-08-30T21:43:41.512264Z
+5ff3acb463c3d6db,NJ,USA DBA Charwells,USA,Charwells,Orange,73,2025-06-01,2025-06-27,,2026-08-30T21:43:41.512264Z
 e805978b095c3480,NJ,Walmart,Walmart,,Hoboken,187,2025-05-01,2025-08-22,,2026-08-30T21:43:41.512264Z
 cc0935971f0aaa59,NJ,Ranstad US,Ranstad US,,Secaucus,236,2025-05-01,2025-08-12,,2026-08-30T21:43:41.512264Z
-ad40335a2ac1bcb2,NJ,Reckitt Benckiser LLC,Reckitt Benckiser,,Nutley,57,2025-04-01,2026-03-02,,2026-08-30T21:43:41.512264Z
-5a5ebb5add3a2d1d,NJ,JP Morgan Chase Bank,JP Morgan Chase Bank,,Jersey City,145,2025-04-01,2025-06-23,,2026-08-30T21:43:41.512264Z
+bae028acd6047161,NJ,Kinkisharyo International,Kinkisharyo International,,Jersey City,72,2025-05-01,2025-06-13,,2026-08-30T21:43:41.512264Z
+a30c0db11640ce5d,NJ,TransAxle,TransAxle,,Cinnaminson,129,2025-05-01,2025-08-15,,2026-08-30T21:43:41.512264Z
+6a9f32b0edbfde9b,NJ,TEKsystems,TEKsystems,,Secaucus,58,2025-05-01,2025-08-12,,2026-08-30T21:43:41.512264Z
+6991a8cf0482c449,NJ,Accenture,Accenture,,Morristown,71,2025-05-01,2025-08-29,,2026-08-30T21:43:41.512264Z
+5fc26bf8835eb2f3,NJ,JP Morgan Chase,JP Morgan Chase,,Jersey City,63,2025-05-01,2025-08-04,,2026-08-30T21:43:41.512264Z
+4b4e89cc3dd2155c,NJ,GMRI Inc. T/A Bahama Breeze,GMRI Inc. T/A Bahama Breeze,,"Company Location: Orlando, FL Affected Employees: Woodbridge, Toms River, Wayne, Paramus",327,2025-05-01,2025-05-15,,2026-08-30T21:43:41.512264Z
+46d8dede76c41516,NJ,Seviroli Foods,Seviroli Foods,,Bellmawr,77,2025-05-01,2025-08-13,,2026-08-30T21:43:41.512264Z
+31b6154aa6777140,NJ,Summit BHC New Jersey,Summit BHC New Jersey,,Bridgeton,96,2025-05-01,2025-07-30,,2026-08-30T21:43:41.512264Z
+07934165abd4a7ca,NJ,Rite Aid,Rite Aid,,"Company Location: Philadelphia, PA Affected Employees: Throughout NJ",1122,2025-05-01,2025-06-04,,2026-08-30T21:43:41.512264Z
 f363ea49361a73c8,NJ,Dufry by Avolta,Dufry by Avolta,,East Rutherford,80,2025-04-01,2025-07-09,,2026-08-30T21:43:41.512264Z
+ad40335a2ac1bcb2,NJ,Reckitt Benckiser LLC,Reckitt Benckiser,,Nutley,57,2025-04-01,2026-03-02,,2026-08-30T21:43:41.512264Z
 7a3f6fa78c75a110,NJ,Whitsons Food Service,Whitsons Food Service,,Edison,66,2025-04-01,2025-04-18,,2026-08-30T21:43:41.512264Z
-9d8c696f98e8d239,NJ,JoAnn Stores Support Center,JoAnn Stores Support Center,,"Company Location: Hudson, OH Affected Employees: Atlantic, Bergen, Burlington, Camden, Gloucester, Mercer, Middlesex, Monmouth, Morris, and Ocean Counties",262,2025-03-01,2025-05-29,,2026-08-30T21:43:41.512264Z
+5a5ebb5add3a2d1d,NJ,JP Morgan Chase Bank,JP Morgan Chase Bank,,Jersey City,145,2025-04-01,2025-06-23,,2026-08-30T21:43:41.512264Z
 fce83380f7433952,NJ,GEODIS Logistics,GEODIS Logistics,,Monroe Township,334,2025-03-01,2025-07-31,,2026-08-30T21:43:41.512264Z
-3c05f5e56e97928d,NJ,Henry Bayonne LLC,Henry Bayonne,,Bayonne,84,2025-03-01,2025-03-13,,2026-08-30T21:43:41.512264Z
-61f856c6290e55b9,NJ,Henry RAC Holding Corp,Henry RAC Holding,,Bayonne,62,2025-03-01,2025-03-13,,2026-08-30T21:43:41.512264Z
-8289559c2f10d5ef,NJ,Novartis,Novartis,,East Hanover,427,2025-03-01,2025-06-13,,2026-08-30T21:43:41.512264Z
-cecd700e49f65c51,NJ,Forever 21,Forever 21,,"Company Location: Los Angeles, CA Affected Employees: Multiple NJ cities",59,2025-03-01,2025-06-11,,2026-08-30T21:43:41.512264Z
-be0da2cc9a8d75d1,NJ,Brinks Home,Brinks Home,,"Company Location: Lancaster, PA Affected Employees: Monmouth County, NJ",61,2025-03-01,2025-06-30,,2026-08-30T21:43:41.512264Z
-538504372854940b,NJ,Barclays Services Corporation,Barclays Services,,Whippany,78,2025-03-01,2025-06-23,,2026-08-30T21:43:41.512264Z
 f361865c9a70b5b1,NJ,UBS,UBS,,Weehawken,50,2025-03-01,2025-03-25,,2026-08-30T21:43:41.512264Z
 d491a2b0f20e923f,NJ,"Barrette Outdoor Living, Inc",Barrette Outdoor Living,,Egg Harbor City,120,2025-03-01,2025-07-01,,2026-08-30T21:43:41.512264Z
+cecd700e49f65c51,NJ,Forever 21,Forever 21,,"Company Location: Los Angeles, CA Affected Employees: Multiple NJ cities",59,2025-03-01,2025-06-11,,2026-08-30T21:43:41.512264Z
+be0da2cc9a8d75d1,NJ,Brinks Home,Brinks Home,,"Company Location: Lancaster, PA Affected Employees: Monmouth County, NJ",61,2025-03-01,2025-06-30,,2026-08-30T21:43:41.512264Z
+9d8c696f98e8d239,NJ,JoAnn Stores Support Center,JoAnn Stores Support Center,,"Company Location: Hudson, OH Affected Employees: Atlantic, Bergen, Burlington, Camden, Gloucester, Mercer, Middlesex, Monmouth, Morris, and Ocean Counties",262,2025-03-01,2025-05-29,,2026-08-30T21:43:41.512264Z
+8289559c2f10d5ef,NJ,Novartis,Novartis,,East Hanover,427,2025-03-01,2025-06-13,,2026-08-30T21:43:41.512264Z
+61f856c6290e55b9,NJ,Henry RAC Holding Corp,Henry RAC Holding,,Bayonne,62,2025-03-01,2025-03-13,,2026-08-30T21:43:41.512264Z
+538504372854940b,NJ,Barclays Services Corporation,Barclays Services,,Whippany,78,2025-03-01,2025-06-23,,2026-08-30T21:43:41.512264Z
+3c05f5e56e97928d,NJ,Henry Bayonne LLC,Henry Bayonne,,Bayonne,84,2025-03-01,2025-03-13,,2026-08-30T21:43:41.512264Z
+f6fe02bef5d19076,NJ,JP Morgan Chase Bank,JP Morgan Chase Bank,,Jersey City,121,2025-02-01,2025-05-05,,2026-08-30T21:43:41.512264Z
 f2a1177b21367ead,NJ,Compass Inc.,Compass,,Madison,110,2025-02-01,2026-01-09,,2026-08-30T21:43:41.512264Z
+c4f1cbe74c4cbc46,NJ,Planitroi,Planitroi,,Denville,100,2025-02-01,2025-02-11,,2026-08-30T21:43:41.512264Z
+b3dc82312592a79e,NJ,BetMGM,BetMGM,,Jersey City,83,2025-02-01,2025-05-27,,2026-08-30T21:43:41.512264Z
+ab2e85f1c44e0dc5,NJ,Boehringer Ingelheim Animal Health,Boehringer Ingelheim Animal Health,,New Brunswick,90,2025-02-01,2025-06-30,,2026-08-30T21:43:41.512264Z
 7d79d957259e39d0,NJ,Walmart,Walmart,,Hoboken,481,2025-02-01,2025-06-13,,2026-08-30T21:43:41.512264Z
 2e20eb519c240764,NJ,RCHP (Reformed Church of Highland Park Affordable Housing Corporation),RCHP (Reformed Church of Highland Park Affordable Housing Corporation),,Highland Park,195,2025-02-01,2025-02-10,,2026-08-30T21:43:41.512264Z
-c4f1cbe74c4cbc46,NJ,Planitroi,Planitroi,,Denville,100,2025-02-01,2025-02-11,,2026-08-30T21:43:41.512264Z
-ab2e85f1c44e0dc5,NJ,Boehringer Ingelheim Animal Health,Boehringer Ingelheim Animal Health,,New Brunswick,90,2025-02-01,2025-06-30,,2026-08-30T21:43:41.512264Z
-f6fe02bef5d19076,NJ,JP Morgan Chase Bank,JP Morgan Chase Bank,,Jersey City,121,2025-02-01,2025-05-05,,2026-08-30T21:43:41.512264Z
-b3dc82312592a79e,NJ,BetMGM,BetMGM,,Jersey City,83,2025-02-01,2025-05-27,,2026-08-30T21:43:41.512264Z
-29ddfd83e405c9b8,NJ,Bihler of America,Bihler of America,,Phillipsburg,75,2024-12-01,2025-04-04,,2026-08-30T21:43:41.512264Z
 77c5aff2c0b90898,NJ,Big Lots,Big Lots,,"Somers Point, Edgewater Park, North Cape May, Toms River, Clifton, Brickton, South Plainfield, West Deptford, Sicklerville, Middletown, Dover, Barnegat, Cape May Court House, Lumberton, Millville, Hamilton",385,2024-12-01,2025-02-28,,2026-08-30T21:43:41.512264Z
-4ad5fd8362daa266,NJ,Prudential Financial Inc.,Prudential Financial,,Newark,108,2024-11-01,2024-12-27,,2026-08-30T21:43:41.512264Z
-72d2d8a710b5d657,NJ,Walmart,Walmart,,Swedesboro,113,2024-11-01,2025-03-07,,2026-08-30T21:43:41.512264Z
-5b034ed7d6b56c80,NJ,Novartis Group,Novartis Group,,East Hanover,53,2024-11-01,2025-02-21,,2026-08-30T21:43:41.512264Z
-6207e9d5a4a81d60,NJ,AT&T,AT&T,,Bedminster,51,2024-11-01,2025-02-20,,2026-08-30T21:43:41.512264Z
+29ddfd83e405c9b8,NJ,Bihler of America,Bihler of America,,Phillipsburg,75,2024-12-01,2025-04-04,,2026-08-30T21:43:41.512264Z
 bf0bc51eb4b9504b,NJ,Unilever,Unilever,,Englewood Cliffs,149,2024-11-01,2024-12-31,,2026-08-30T21:43:41.512264Z
-40c0926ccec4dec3,NJ,DraftKings Inc.,DraftKings,,Atlantic City,101,2024-10-01,2025-01-31,,2026-08-30T21:43:41.512264Z
+72d2d8a710b5d657,NJ,Walmart,Walmart,,Swedesboro,113,2024-11-01,2025-03-07,,2026-08-30T21:43:41.512264Z
+6207e9d5a4a81d60,NJ,AT&T,AT&T,,Bedminster,51,2024-11-01,2025-02-20,,2026-08-30T21:43:41.512264Z
+5b034ed7d6b56c80,NJ,Novartis Group,Novartis Group,,East Hanover,53,2024-11-01,2025-02-21,,2026-08-30T21:43:41.512264Z
+4ad5fd8362daa266,NJ,Prudential Financial Inc.,Prudential Financial,,Newark,108,2024-11-01,2024-12-27,,2026-08-30T21:43:41.512264Z
 c5346c1cfc70d535,NJ,Newark Morning Ledger LLC,Newark Morning Ledger,,Pinebrook,154,2024-10-01,2025-02-02,,2026-08-30T21:43:41.512264Z
-ac0fa4b35fe9ff6c,NJ,BioReference Health,BioReference Health,,Elmwood Park,68,2024-09-01,2025-07-14,,2026-08-30T21:43:41.512264Z
-4771fe5390f2c045,NJ,ICIMS,Icims,,Holmdel,54,2024-09-01,2025-02-15,,2026-08-30T21:43:41.512264Z
-3a3146c0051b3720,NJ,Cornerstone Building Brands,Cornerstone Building Brands,,North Brunswick,86,2024-09-01,2024-09-13,,2026-08-30T21:43:41.512264Z
-5c1409a35a9bcd1c,NJ,for IJK Opco LLC (CarePoint Health),for IJK Opco LLC (CarePoint Health),,Bayonne,859,2024-09-01,2024-12-12,,2026-08-30T21:43:41.512264Z
-69c269943c440092,NJ,Hudson Hospital Opco LLC (CarePoint Health),Hudson Hospital Opco LLC (CarePoint Health),,Jersey City,843,2024-09-01,2024-12-12,,2026-08-30T21:43:41.512264Z
-70afab327f9ff28d,NJ,"HUMC Opco LLC (CarePoint Health),",HUMC Opco LLC (CarePoint Health),,Hoboken,900,2024-09-01,2024-12-12,,2026-08-30T21:43:41.512264Z
-2513b6d671ac7b83,NJ,FR Park Services,FR Park Services,,Freehold,93,2024-09-01,2024-12-12,,2026-08-30T21:43:41.512264Z
-f7299c109dbdce08,NJ,"SDH Services East, LLC",SDH Services East,,Bridgewater,54,2024-09-01,2024-12-31,,2026-08-30T21:43:41.512264Z
-3eb69e372fb867c1,NJ,Millennium Account Services,Millennium Account Services,,Sewell,80,2024-09-01,2024-12-31,,2026-08-30T21:43:41.512264Z
-4149f331dbf3801a,NJ,Prudential,Prudential,,Newark,238,2024-09-01,2025-04-16,,2026-08-30T21:43:41.512264Z
-1f3a2ea02b09d830,NJ,for Samsung Electronics America,for Samsung Electronics America,,Ridgefield Park,125,2024-09-01,2024-12-26,,2026-08-30T21:43:41.512264Z
-7cd4537a5c603c7e,NJ,Verizon,Verizon,,Basking Ridge,50,2024-09-01,2024-12-31,,2026-08-30T21:43:41.512264Z
-18375e9838d8c665,NJ,Johnson & Johnson Services,Johnson & Johnson Services,,New Brunswick,231,2024-09-01,2024-12-27,,2026-08-30T21:43:41.512264Z
-857e19721f2a3254,NJ,Kiss Distribution Corp,Kiss Distribution,,Piscataway,105,2024-09-01,2024-12-26,,2026-08-30T21:43:41.512264Z
+40c0926ccec4dec3,NJ,DraftKings Inc.,DraftKings,,Atlantic City,101,2024-10-01,2025-01-31,,2026-08-30T21:43:41.512264Z
 faa2fb23ebbd542c,NJ,CVS Health,CVS Health,,Florham Park,111,2024-09-01,2025-01-03,,2026-08-30T21:43:41.512264Z
+f7299c109dbdce08,NJ,"SDH Services East, LLC",SDH Services East,,Bridgewater,54,2024-09-01,2024-12-31,,2026-08-30T21:43:41.512264Z
+ac0fa4b35fe9ff6c,NJ,BioReference Health,BioReference Health,,Elmwood Park,68,2024-09-01,2025-07-14,,2026-08-30T21:43:41.512264Z
+857e19721f2a3254,NJ,Kiss Distribution Corp,Kiss Distribution,,Piscataway,105,2024-09-01,2024-12-26,,2026-08-30T21:43:41.512264Z
+7cd4537a5c603c7e,NJ,Verizon,Verizon,,Basking Ridge,50,2024-09-01,2024-12-31,,2026-08-30T21:43:41.512264Z
+70afab327f9ff28d,NJ,"HUMC Opco LLC (CarePoint Health),",HUMC Opco LLC (CarePoint Health),,Hoboken,900,2024-09-01,2024-12-12,,2026-08-30T21:43:41.512264Z
+69c269943c440092,NJ,Hudson Hospital Opco LLC (CarePoint Health),Hudson Hospital Opco LLC (CarePoint Health),,Jersey City,843,2024-09-01,2024-12-12,,2026-08-30T21:43:41.512264Z
+5c1409a35a9bcd1c,NJ,for IJK Opco LLC (CarePoint Health),for IJK Opco LLC (CarePoint Health),,Bayonne,859,2024-09-01,2024-12-12,,2026-08-30T21:43:41.512264Z
+4771fe5390f2c045,NJ,ICIMS,Icims,,Holmdel,54,2024-09-01,2025-02-15,,2026-08-30T21:43:41.512264Z
+4149f331dbf3801a,NJ,Prudential,Prudential,,Newark,238,2024-09-01,2025-04-16,,2026-08-30T21:43:41.512264Z
+3eb69e372fb867c1,NJ,Millennium Account Services,Millennium Account Services,,Sewell,80,2024-09-01,2024-12-31,,2026-08-30T21:43:41.512264Z
+3a3146c0051b3720,NJ,Cornerstone Building Brands,Cornerstone Building Brands,,North Brunswick,86,2024-09-01,2024-09-13,,2026-08-30T21:43:41.512264Z
+2513b6d671ac7b83,NJ,FR Park Services,FR Park Services,,Freehold,93,2024-09-01,2024-12-12,,2026-08-30T21:43:41.512264Z
+1f3a2ea02b09d830,NJ,for Samsung Electronics America,for Samsung Electronics America,,Ridgefield Park,125,2024-09-01,2024-12-26,,2026-08-30T21:43:41.512264Z
+18375e9838d8c665,NJ,Johnson & Johnson Services,Johnson & Johnson Services,,New Brunswick,231,2024-09-01,2024-12-27,,2026-08-30T21:43:41.512264Z
 07ad418a6ccd3086,NJ,JP Morgan Chase,JP Morgan Chase,,Jersey City,56,2024-09-01,2024-12-22,,2026-08-30T21:43:41.512264Z
-a506c9f6bb7c52a5,NJ,Valley National Bank,Valley National Bank,,Morristown,59,2024-08-01,2025-06-13,,2026-08-30T21:43:41.512264Z
-b0ce368f0c50b5b5,NJ,Metropolitan YMCA,Metropolitan YMCA,,Wayne,157,2024-08-01,2024-11-01,,2026-08-30T21:43:41.512264Z
-0472daf4ac812bb7,NJ,iCIMS,iCIMS,,Holmdel,69,2024-08-01,2024-10-30,,2026-08-30T21:43:41.512264Z
 fc80474cfa5beab6,NJ,Pitney Bowes,Pitney Bowes,,Monroe,413,2024-08-01,2024-11-07,,2026-08-30T21:43:41.512264Z
+b0ce368f0c50b5b5,NJ,Metropolitan YMCA,Metropolitan YMCA,,Wayne,157,2024-08-01,2024-11-01,,2026-08-30T21:43:41.512264Z
+a506c9f6bb7c52a5,NJ,Valley National Bank,Valley National Bank,,Morristown,59,2024-08-01,2025-06-13,,2026-08-30T21:43:41.512264Z
 69203451689fd6ca,NJ,Furnishare Inc,Furnishare,,Teterboro,171,2024-08-01,2024-08-23,,2026-08-30T21:43:41.512264Z
+0472daf4ac812bb7,NJ,iCIMS,iCIMS,,Holmdel,69,2024-08-01,2024-10-30,,2026-08-30T21:43:41.512264Z
 67e8a1d409bddbbd,NJ,Broadstep Academy,Broadstep Academy,,Sparta,56,2024-07-01,2024-10-01,,2026-08-30T21:43:41.512264Z
 ddccc0e1cd38f2ff,NJ,Acme Markets,Acme Markets,,Chatham,61,2024-06-01,2024-09-01,,2026-08-30T21:43:41.512264Z
-56357577ab6bb3bc,NJ,Sodexo,Sodexo,,Piscataway,58,2024-06-01,2024-06-30,,2026-08-30T21:43:41.512264Z
-630c86a2efe9690f,NJ,"One Bus: Orange-Newark-Elizabeth Bus, Inc",One Bus: Orange-Newark-Elizabeth Bus,,Elizabeth,131,2024-06-01,2024-09-08,,2026-08-30T21:43:41.512264Z
-2d2e08137923da3a,NJ,"Megabus Northeast, LLC",Megabus Northeast,,Elizabeth,108,2024-06-01,2024-09-08,,2026-08-30T21:43:41.512264Z
-3c909643c2bf3a53,NJ,"Community Transit Lines, Inc",Community Transit Lines,,Paramus,123,2024-06-01,2024-09-08,,2026-08-30T21:43:41.512264Z
-012f10c4889259fc,NJ,Automatic Data Processing,Automatic Data Processing,,Roseland,93,2024-06-01,2024-09-10,,2026-08-30T21:43:41.512264Z
-894b5c8af964fb28,NJ,Wayne Board of Education/Sodexo,Wayne Board of Education/Sodexo,,Wayne,70,2024-06-01,2024-06-28,,2026-08-30T21:43:41.512264Z
-53a0331bc33f9907,NJ,NEXDINE Hospitality,NEXDINE Hospitality,,Voorhees,109,2024-06-01,2024-09-30,,2026-08-30T21:43:41.512264Z
 a8d9a95725947240,NJ,Staples,Staples,,Various locations throughout New Jersey,124,2024-06-01,2024-08-16,,2026-08-30T21:43:41.512264Z
-9ea2035ba9227cf5,NJ,Gabriel Brothers Inc.,Gabriel Brothers,,"Mount Laurel, Cherry Hill,",52,2024-05-01,2024-08-12,,2026-08-30T21:43:41.512264Z
-9f77eb745d125393,NJ,RR Donnelly & Sons,RR Donnelly & Sons,,Caldwell,201,2024-05-01,2024-09-06,,2026-08-30T21:43:41.512264Z
-d72745adaf198a54,NJ,Walmart Inc.,Walmart,,Pedtricktown,271,2024-05-01,2024-09-09,,2026-08-30T21:43:41.512264Z
+894b5c8af964fb28,NJ,Wayne Board of Education/Sodexo,Wayne Board of Education/Sodexo,,Wayne,70,2024-06-01,2024-06-28,,2026-08-30T21:43:41.512264Z
+630c86a2efe9690f,NJ,"One Bus: Orange-Newark-Elizabeth Bus, Inc",One Bus: Orange-Newark-Elizabeth Bus,,Elizabeth,131,2024-06-01,2024-09-08,,2026-08-30T21:43:41.512264Z
+56357577ab6bb3bc,NJ,Sodexo,Sodexo,,Piscataway,58,2024-06-01,2024-06-30,,2026-08-30T21:43:41.512264Z
+53a0331bc33f9907,NJ,NEXDINE Hospitality,NEXDINE Hospitality,,Voorhees,109,2024-06-01,2024-09-30,,2026-08-30T21:43:41.512264Z
+3c909643c2bf3a53,NJ,"Community Transit Lines, Inc",Community Transit Lines,,Paramus,123,2024-06-01,2024-09-08,,2026-08-30T21:43:41.512264Z
+2d2e08137923da3a,NJ,"Megabus Northeast, LLC",Megabus Northeast,,Elizabeth,108,2024-06-01,2024-09-08,,2026-08-30T21:43:41.512264Z
+012f10c4889259fc,NJ,Automatic Data Processing,Automatic Data Processing,,Roseland,93,2024-06-01,2024-09-10,,2026-08-30T21:43:41.512264Z
 f555ee1afe65f11c,NJ,Red Lobster Co,Red Lobster,,Ledgewood,60,2024-05-01,2024-05-13,,2026-08-30T21:43:41.512264Z
-6b650becda46ea97,NJ,Havana Central NJ1 LLC,Havana Central NJ1,,Edison,65,2024-05-01,2024-08-20,,2026-08-30T21:43:41.512264Z
 e61c0d50ba1c9ccf,NJ,Coherent Corp,Coherent,,Warren,16,2024-05-01,2024-08-20,,2026-08-30T21:43:41.512264Z
-49c4f33156fe555d,NJ,Bayer,Bayer,,Whippany,35,2024-05-01,2024-08-29,,2026-08-30T21:43:41.512264Z
+d72745adaf198a54,NJ,Walmart Inc.,Walmart,,Pedtricktown,271,2024-05-01,2024-09-09,,2026-08-30T21:43:41.512264Z
 a1dc8c5eb5713d7c,NJ,ETS,ETS,,Princeton,7,2024-05-01,2024-08-21,,2026-08-30T21:43:41.512264Z
+9f77eb745d125393,NJ,RR Donnelly & Sons,RR Donnelly & Sons,,Caldwell,201,2024-05-01,2024-09-06,,2026-08-30T21:43:41.512264Z
+9ea2035ba9227cf5,NJ,Gabriel Brothers Inc.,Gabriel Brothers,,"Mount Laurel, Cherry Hill,",52,2024-05-01,2024-08-12,,2026-08-30T21:43:41.512264Z
+6b650becda46ea97,NJ,Havana Central NJ1 LLC,Havana Central NJ1,,Edison,65,2024-05-01,2024-08-20,,2026-08-30T21:43:41.512264Z
 674b4b2e4d091ee3,NJ,Catapult Learning,Catapult Learning,,Trenton,138,2024-05-01,2024-08-30,,2026-08-30T21:43:41.512264Z
+49c4f33156fe555d,NJ,Bayer,Bayer,,Whippany,35,2024-05-01,2024-08-29,,2026-08-30T21:43:41.512264Z
 015a2cf589347e2a,NJ,The Beverage Works,Beverage Works,,Wall,122,2024-05-01,2024-06-03,,2026-08-30T21:43:41.512264Z
-45a0ea71221d16c0,NJ,"Mead Johnson, RB Health, and Reckitt Benckiser","Mead Johnson, RB Health, and Reckitt Benckiser",,Parsippany,190,2024-04-01,2024-09-08,,2026-08-30T21:43:41.512264Z
-e6f3f98f539bd16d,NJ,JP Morgan Chase Bank,JP Morgan Chase Bank,,Jersey City,91,2024-04-01,2024-06-24,,2026-08-30T21:43:41.512264Z
 e83f90c0f8a8bb36,NJ,ETS,ETS,,Prinecton,62,2024-04-01,2024-07-11,,2026-08-30T21:43:41.512264Z
+e6f3f98f539bd16d,NJ,JP Morgan Chase Bank,JP Morgan Chase Bank,,Jersey City,91,2024-04-01,2024-06-24,,2026-08-30T21:43:41.512264Z
 b7540fe7e099b2c5,NJ,Cornerstone Building Brands Inc.,Cornerstone Building Brands,,North Brunswick,72,2024-04-01,2024-07-18,,2026-08-30T21:43:41.512264Z
 b5c6c40aab67b824,NJ,Express Fashion Operations LLC,Express Fashion Operations,,Multiple Locations Throughout NJ,161,2024-04-01,2024-05-27,,2026-08-30T21:43:41.512264Z
-1f3380b1327f3360,NJ,BioReference Health,BioReference Health,,Elmwood Park,84,2024-03-01,2025-01-01,,2026-08-30T21:43:41.512264Z
+45a0ea71221d16c0,NJ,"Mead Johnson, RB Health, and Reckitt Benckiser","Mead Johnson, RB Health, and Reckitt Benckiser",,Parsippany,190,2024-04-01,2024-09-08,,2026-08-30T21:43:41.512264Z
 9b50e1ec90f9722f,NJ,Regal Logistics,Regal Logistics,,Middlesex,157,2024-03-01,2024-05-30,,2026-08-30T21:43:41.512264Z
 9733bbed9a08df2a,NJ,Family Dollar stores,Family Dollar stores,,Various locations throughout New Jersey,94,2024-03-01,2024-04-20,,2026-08-30T21:43:41.512264Z
-13fe6e7b2d05bb1f,NJ,Courier Post,Courier Post,,Cherry Hill,139,2024-03-01,2024-06-23,,2026-08-30T21:43:41.512264Z
+1f3380b1327f3360,NJ,BioReference Health,BioReference Health,,Elmwood Park,84,2024-03-01,2025-01-01,,2026-08-30T21:43:41.512264Z
 1e4890f0420e5c10,NJ,BedaBox LLC dba ShipMonk,BedaBox,ShipMonk,Dayton,148,2024-03-01,2024-06-30,,2026-08-30T21:43:41.512264Z
+13fe6e7b2d05bb1f,NJ,Courier Post,Courier Post,,Cherry Hill,139,2024-03-01,2024-06-23,,2026-08-30T21:43:41.512264Z
 9bf47d74ef26650b,NJ,"CWS (Church World Service, Inc.)","CWS (Church World Service, Inc.)",,Jersey City,79,2024-02-01,2025-01-31,,2026-08-30T21:43:41.512264Z
 93e3398e929cee6d,NJ,Prudential Financial Inc.,Prudential Financial,,Newark,145,2024-02-01,2024-04-15,,2026-08-30T21:43:41.512264Z
 0764c109bbc3437a,NJ,Flight Centre Travel Group (USA) Inc.,Flight Centre Travel Group (USA),,Montvale,84,2024-02-01,2024-06-01,,2026-08-30T21:43:41.512264Z
-0d5616b68ebbffd5,NJ,ACME Markets Inc.,ACME Markets,,Milltown,70,2024-01-01,2024-04-01,,2026-08-30T21:43:41.512264Z
-3e6741e19965e7af,NJ,Newbold Services,Newbold Services,,East Windsor,36,2024-01-01,2024-04-06,,2026-08-30T21:43:41.512264Z
-85367c5f16366b61,NJ,Audible Inc.,Audible,,Newark,62,2024-01-01,2024-04-10,,2026-08-30T21:43:41.512264Z
 b5f82650daacbaf5,NJ,The Bank of New York Mellon Corporation,Bank of New York Mellon,,"Pennington, Jersey City, Woodland Park",62,2024-01-01,2024-01-22,,2026-08-30T21:43:41.512264Z
 afa08f292ea7554d,NJ,TD Bank,TD Bank,,Cherry Hill,54,2024-01-01,2024-01-12,,2026-08-30T21:43:41.512264Z
-95e6ff6787b9e5a0,NJ,Spectra Laboratories,Spectra Laboratories,,Rockleigh,57,,,,2026-08-30T21:43:41.512264Z
-7839f5dde235b81d,NJ,Arrow Fastener,Arrow Fastener,,Saddle Brook,140,,,,2026-08-30T21:43:41.512264Z
-4c0e972c44519f63,NJ,Bristol Myers Squibb,Bristol Myers Squibb,,Lawrence Twp,247,,,,2026-08-30T21:43:41.512264Z
-54781fd3c9b16765,NJ,Cigna Evernorth Services,Cigna Evernorth Services,,Morris Plains,134,,,,2026-08-30T21:43:41.512264Z
-a443129e55c3cc28,NJ,Citibank,Citibank,,Statewide,141,,,,2026-08-30T21:43:41.512264Z
-b86fe442c5d3cf3e,NJ,Barclays,Barclays,,Whippany,64,,,,2026-08-30T21:43:41.512264Z
-ee51629f0e0942b4,NJ,Bristol Myers Squibb (BMS),Bristol Myers Squibb (BMS),,Lawrence Twp,67,,,,2026-08-30T21:43:41.512264Z
-eec23d4d43303544,NJ,Eisai,Eisai,,Nutley,57,,,,2026-08-30T21:43:41.512264Z
-28800665e5465575,NJ,Bristol Myers Squibb (BMS),Bristol Myers Squibb (BMS),,Lawrence Twp,223,,,,2026-08-30T21:43:41.512264Z
-9cc9b9d7827280c7,NJ,TD Bank N.A.,TD Bank,,Cherry Hill,52,,,,2026-08-30T21:43:41.512264Z
-17958326eee1b353,NJ,Organon,Organon,,Jersey City,93,,,,2026-08-30T21:43:41.512264Z
-8d0e2da1c7985f0e,NJ,"Cigna Evernorth Services, Inc.",Cigna Evernorth Services,,Morris Plains,62,,,,2026-08-30T21:43:41.512264Z
-5499eeacb44cf2ad,NJ,Bristol Myers Squibb (BMS),Bristol Myers Squibb (BMS),,Lawrence Twp,516,,,,2026-08-30T21:43:41.512264Z
-7c27e75e790c60fc,NJ,PHV Corp,PHV,,Bridgewater,59,,,,2026-08-30T21:43:41.512264Z
-bb85ccf169e5235e,NJ,Panera,Panera,,Fairfield,201,,,,2026-08-30T21:43:41.512264Z
-0889e47316ac8d8b,NJ,PVH Corp.,PVH,,Bridgewater,51,,,,2026-08-30T21:43:41.512264Z
-c8e6ce4d43499cc1,NJ,Kenvue,Kenvue,,Summit,69,,,,2026-08-30T21:43:41.512264Z
-d4aa7b93037edea9,NJ,Bristol Myers Squibb (BMS),Bristol Myers Squibb (BMS),,Lawrence Twp,68,,,,2026-08-30T21:43:41.512264Z
-dd3c5e48c230a3b7,NJ,Ashland Inc.,Ashland,,Sayreville,55,,,,2026-08-30T21:43:41.512264Z
-9c7ea96db4d32aa5,NJ,Citibank,Citibank,,Jersey City,52,,,,2026-08-30T21:43:41.512264Z
-ae9b05698c9cd40a,NJ,Novartis,Novartis,,East Hanover,60,,,,2026-08-30T21:43:41.512264Z
-3bf005e7a568991b,NJ,Bristol Myers Squibb (BMS),Bristol Myers Squibb (BMS),,Lawrence Twp,282,,,,2026-08-30T21:43:41.512264Z
-c0d001274411c99a,NJ,Spectra Labs,Spectra Labs,,Rockleigh,96,,,,2026-08-30T21:43:41.512264Z
+85367c5f16366b61,NJ,Audible Inc.,Audible,,Newark,62,2024-01-01,2024-04-10,,2026-08-30T21:43:41.512264Z
+3e6741e19965e7af,NJ,Newbold Services,Newbold Services,,East Windsor,36,2024-01-01,2024-04-06,,2026-08-30T21:43:41.512264Z
+0d5616b68ebbffd5,NJ,ACME Markets Inc.,ACME Markets,,Milltown,70,2024-01-01,2024-04-01,,2026-08-30T21:43:41.512264Z
 fd15e0ebc51b66eb,NJ,Citibank,Citibank,,Jersey City,67,,,,2026-08-30T21:43:41.512264Z
-6bdad8fcb761b37f,NJ,Iron hill Brewery,Iron hill Brewery,,Maple Shade,108,,,,2026-08-30T21:43:41.512264Z
-5b6d7540fd546724,NJ,GAF Materials,GAF Materials,,Parsippany,130,,,,2026-08-30T21:43:41.512264Z
-3fdbc0b5e26423d3,NJ,DOW Jones & Company,DOW Jones &,,Princeton,50,,,,2026-08-30T21:43:41.512264Z
-759f6f0b49e973d5,NJ,Ferring Pharmaceuticals,Ferring Pharmaceuticals,,Parsippany,64,,,,2026-08-30T21:43:41.512264Z
-1773b5da30ac37f5,NJ,Optum Care,Optum Care,,"Eden Prairie, Minnesota (Offices throughout NJ)",390,,,,2026-08-30T21:43:41.512264Z
-180555abaae03b43,NJ,Optum Medical Care,Optum Medical Care,,Secaucus,122,,,,2026-08-30T21:43:41.512264Z
-baba0634c232b759,NJ,TD Bank N.A.,TD Bank,,Mount Laurel,74,,,,2026-08-30T21:43:41.512264Z
-b413fe34ca7f6aa2,NJ,CVS,CVS,,Parsippany,61,,,,2026-08-30T21:43:41.512264Z
-dc6f48fa2c79bc57,NJ,Merck,Merck,,Rahway,204,,,,2026-08-30T21:43:41.512264Z
-d99e7dbec12ec08d,NJ,Intercept Pharmaceuticals,Intercept Pharmaceuticals,,Morristown,146,,,,2026-08-30T21:43:41.512264Z
-552a9528f5335119,NJ,Everest Group,Everest Group,,Warren,110,,,,2026-08-30T21:43:41.512264Z
-7a04364e5fdeabe7,NJ,RWJ Barnabas Health,RWJ Barnabas Health,,West Orange,79,,,,2026-08-30T21:43:41.512264Z
-d6aa7f9333c9cbd0,NJ,Kenvue Inc.,Kenvue,,Skillman,51,,,,2026-08-30T21:43:41.512264Z
-63a2bf4d8020c382,NJ,Sealed Air Corporation,Sealed Air,,Saddle Brook,83,,,,2026-08-30T21:43:41.512264Z
-980357ca7c0a4f31,NJ,Fresh Pro Food Distributors,Fresh Pro Food Distributors,,West Caldwell,100,,,,2026-08-30T21:43:41.512264Z
-7a1cac9ccf844e1b,NJ,Siemens Healthcare Diagnostics Inc.,Siemens Healthcare Diagnostics,,Flanders,197,,,,2026-08-30T21:43:41.512264Z
-a30525539c8285cc,NJ,Sickles Market LLC,Sickles Market,,Little Silver,117,,,,2026-08-30T21:43:41.512264Z
-4033864f3c6fd1d4,NJ,Bristol Myers Squibb,Bristol Myers Squibb,,Lawrenceville,75,,,,2026-08-30T21:43:41.512264Z
 fcfa2cf245a4d9da,NJ,Japan Tobacco International USA Inc.,Japan Tobacco International,,Teaneck,80,,,,2026-08-30T21:43:41.512264Z
 f86713c4cc377ce0,NJ,UBS,UBS,,Weehawken,51,,,,2026-08-30T21:43:41.512264Z
-e6b08859f05ac85b,NJ,Walmart Inc,Walmart,,Acme Markets,237,,,,2026-08-30T21:43:41.512264Z
-db7614eb9766537d,NJ,"Reckitt Benckiser, Mead Johnson, and RB Health,","Reckitt Benckiser, Mead Johnson, and RB Health",,Parsippany,100,,,,2026-08-30T21:43:41.512264Z
-4fea586609f4403c,NJ,Bristol Myers Squibb,Bristol Myers Squibb,,Lawrenceville,87,,,,2026-08-30T21:43:41.512264Z
-7fb7ead1236ac2ad,NJ,Bristol Myers Squibb,Bristol Myers Squibb,,Lawrenceville,776,,,,2026-08-30T21:43:41.512264Z
-0faa9a1143c98694,NJ,Barclays,Barclays,,Whippany,70,,,,2026-08-30T21:43:41.512264Z
-c98afd0a6e2a9aa1,NJ,Novartis Group,Novartis Group,,East Hanover,96,,,,2026-08-30T21:43:41.512264Z
-ba39d1a49dccf321,NJ,Mauser Packaging Solutions,Mauser Packaging Solutions,,Lawrenceville,77,,,,2026-08-30T21:43:41.512264Z
-77af9f24ab96d46a,NJ,Prudential Financial,Prudential Financial,,Newark,146,,,,2026-08-30T21:43:41.512264Z
-9b8ea4f8984a5239,NJ,Bristol Myers Squibb,Bristol Myers Squibb,,Lawrenceville,117,,,,2026-08-30T21:43:41.512264Z
-b671d24d16d50fb0,NJ,Fulton Bank,Fulton Bank,,Mt. Laurel,111,,,,2026-08-30T21:43:41.512264Z
-6e3cff777c499dc2,NJ,AT&T,AT&T,,Bedminster,100,,,,2026-08-30T21:43:41.512264Z
-52b08676b112711f,NJ,S&S Activewear,S&S Activewear,,Robbinsville,154,,,,2026-08-30T21:43:41.512264Z
-ddd181151e1c5b77,NJ,OptumCare,OptumCare,,Baskin Ridge,160,,,,2026-08-30T21:43:41.512264Z
-f334af704ee16127,NJ,Bristol Myers Squibb,Bristol Myers Squibb,,Lawrenceville,79,,,,2026-08-30T21:43:41.512264Z
-25de8999dccf02c4,NJ,Getinge,Getinge,,Wayne,85,,,,2026-08-30T21:43:41.512264Z
-b5b8c76a8972edf9,NJ,Bayer,Bayer,,Whippany,75,,,,2026-08-30T21:43:41.512264Z
-0cecd08d915cc6b0,NJ,Siemens Healthcare Diagnostics Inc.,Siemens Healthcare Diagnostics,,Flanders,62,,,,2026-08-30T21:43:41.512264Z
-a3382bd2c2e2e6c1,NJ,Qualfon - Brian Unlimited Distribution Co.,Qualfon - Brian Unlimited Distribution,,Robinsville,44,,,,2026-08-30T21:43:41.512264Z
-aa5fca4e1a806cd8,NJ,Novartis Group,Novartis Group,,East Hanover,86,,,,2026-08-30T21:43:41.512264Z
-b16aa6feac438026,NJ,Bristol Myers Squibb,Bristol Myers Squibb,,Lawrenceville,195,,,,2026-08-30T21:43:41.512264Z
-83b7d3cc6aa5dcfb,NJ,Spirit Airlines,Spirit Airlines,,Newark,80,,,,2026-08-30T21:43:41.512264Z
-ed40f0a404db125e,NJ,Morgan Stanley,Morgan Stanley,,Multiple Locations - NJ,61,,,,2026-08-30T21:43:41.512264Z
-63e3040d05104267,NJ,Xtend Healthcare LLC,Xtend Healthcare,,Remote Locations Throughout NJ,63,,,,2026-08-30T21:43:41.512264Z
-32231c9bcee89911,NJ,Christmas Tree Shops - Location 9,Christmas Tree Shops - Location 9,,Rockaway,40,,,,2026-08-30T21:43:41.512264Z
-3e6d8fc74b7b858d,NJ,PVH Corp.,PVH,,Bridgewater,56,,,,2026-08-30T21:43:41.512264Z
-769d27e6878ac40c,NJ,Siemens Healthcare Diagnostics Inc.,Siemens Healthcare Diagnostics,,Morris,300,,,,2026-08-30T21:43:41.512264Z
-326aeff4189e306a,NJ,John Wiley & Sons,John Wiley & Sons,,Hoboken,103,,,,2026-08-30T21:43:41.512264Z
-807c7ea181766566,NJ,Verizon Corp. Resources Group LLC & other VZ Affiliates,Verizon Corp. Resources Group LLC & other VZ Affiliates,,Basking Ridge,80,,,,2026-08-30T21:43:41.512264Z
-955d73b7c8eed93d,NJ,Barclays Service Corporation,Barclays Service,,Whippany,244,,,,2026-08-30T21:43:41.512264Z
-0ae8291a260e4608,NJ,"Gilead Sciences, Inc",Gilead Sciences,,Morris Plains,114,,,,2026-08-30T21:43:41.512264Z
-38dcc5f68ed4b595,NJ,burlington woods nursing home,burlington woods nursing home,,burlington,20,,,,2026-08-30T21:43:41.512264Z
-1f904c63841fc65e,NJ,CHRIST HOSPITAL,Christ Hospital,,Jersey City,433,,,,2026-08-30T21:43:41.512264Z
-ee7fd4501971ec87,NJ,BROOKS BROTHERS CUST SVC,Brooks Brothers Cust SVC,,EDISON,96,,,,2026-08-30T21:43:41.512264Z
-b4c9c475611f8bdc,NJ,"GERRESHEIMER GLASS, INC",Gerresheimer Glass,,MILLVILLE,150,,,,2026-08-30T21:43:41.512264Z
-50fc1bd5a7264194,NJ,* Most employees of companies marked with asterisk will be rehired by buyer,Most employees of companies marked with asterisk will be rehired by buyer,,,,,,,2026-08-30T21:43:41.512264Z
-0df710c926bb9140,NJ,GENESIS LOGISTICS,Genesis Logistics,,BURLINGTON,106,,,,2026-08-30T21:43:41.512264Z
-e87fc87490ee8f06,NJ,UPS SUPPLY CHAIN,UPS Supply Chain,,CRANBURY,94,,,,2026-08-30T21:43:41.512264Z
 f6d57d97c45d45f6,NJ,AEGIS CORRESPONDENT,Aegis Correspondent,,TOMS RIVER,23,,,,2026-08-30T21:43:41.512264Z
+f334af704ee16127,NJ,Bristol Myers Squibb,Bristol Myers Squibb,,Lawrenceville,79,,,,2026-08-30T21:43:41.512264Z
+eec23d4d43303544,NJ,Eisai,Eisai,,Nutley,57,,,,2026-08-30T21:43:41.512264Z
+ee7fd4501971ec87,NJ,BROOKS BROTHERS CUST SVC,Brooks Brothers Cust SVC,,EDISON,96,,,,2026-08-30T21:43:41.512264Z
+ee51629f0e0942b4,NJ,Bristol Myers Squibb (BMS),Bristol Myers Squibb (BMS),,Lawrence Twp,67,,,,2026-08-30T21:43:41.512264Z
+ed40f0a404db125e,NJ,Morgan Stanley,Morgan Stanley,,Multiple Locations - NJ,61,,,,2026-08-30T21:43:41.512264Z
+e87fc87490ee8f06,NJ,UPS SUPPLY CHAIN,UPS Supply Chain,,CRANBURY,94,,,,2026-08-30T21:43:41.512264Z
+e6b08859f05ac85b,NJ,Walmart Inc,Walmart,,Acme Markets,237,,,,2026-08-30T21:43:41.512264Z
+ddd181151e1c5b77,NJ,OptumCare,OptumCare,,Baskin Ridge,160,,,,2026-08-30T21:43:41.512264Z
+dd3c5e48c230a3b7,NJ,Ashland Inc.,Ashland,,Sayreville,55,,,,2026-08-30T21:43:41.512264Z
+dc6f48fa2c79bc57,NJ,Merck,Merck,,Rahway,204,,,,2026-08-30T21:43:41.512264Z
+db7614eb9766537d,NJ,"Reckitt Benckiser, Mead Johnson, and RB Health,","Reckitt Benckiser, Mead Johnson, and RB Health",,Parsippany,100,,,,2026-08-30T21:43:41.512264Z
+d99e7dbec12ec08d,NJ,Intercept Pharmaceuticals,Intercept Pharmaceuticals,,Morristown,146,,,,2026-08-30T21:43:41.512264Z
+d6aa7f9333c9cbd0,NJ,Kenvue Inc.,Kenvue,,Skillman,51,,,,2026-08-30T21:43:41.512264Z
+d4aa7b93037edea9,NJ,Bristol Myers Squibb (BMS),Bristol Myers Squibb (BMS),,Lawrence Twp,68,,,,2026-08-30T21:43:41.512264Z
+c98afd0a6e2a9aa1,NJ,Novartis Group,Novartis Group,,East Hanover,96,,,,2026-08-30T21:43:41.512264Z
+c8e6ce4d43499cc1,NJ,Kenvue,Kenvue,,Summit,69,,,,2026-08-30T21:43:41.512264Z
+c0d001274411c99a,NJ,Spectra Labs,Spectra Labs,,Rockleigh,96,,,,2026-08-30T21:43:41.512264Z
+bb85ccf169e5235e,NJ,Panera,Panera,,Fairfield,201,,,,2026-08-30T21:43:41.512264Z
+baba0634c232b759,NJ,TD Bank N.A.,TD Bank,,Mount Laurel,74,,,,2026-08-30T21:43:41.512264Z
+ba39d1a49dccf321,NJ,Mauser Packaging Solutions,Mauser Packaging Solutions,,Lawrenceville,77,,,,2026-08-30T21:43:41.512264Z
+b86fe442c5d3cf3e,NJ,Barclays,Barclays,,Whippany,64,,,,2026-08-30T21:43:41.512264Z
+b671d24d16d50fb0,NJ,Fulton Bank,Fulton Bank,,Mt. Laurel,111,,,,2026-08-30T21:43:41.512264Z
+b5b8c76a8972edf9,NJ,Bayer,Bayer,,Whippany,75,,,,2026-08-30T21:43:41.512264Z
+b4c9c475611f8bdc,NJ,"GERRESHEIMER GLASS, INC",Gerresheimer Glass,,MILLVILLE,150,,,,2026-08-30T21:43:41.512264Z
+b413fe34ca7f6aa2,NJ,CVS,CVS,,Parsippany,61,,,,2026-08-30T21:43:41.512264Z
+b16aa6feac438026,NJ,Bristol Myers Squibb,Bristol Myers Squibb,,Lawrenceville,195,,,,2026-08-30T21:43:41.512264Z
+ae9b05698c9cd40a,NJ,Novartis,Novartis,,East Hanover,60,,,,2026-08-30T21:43:41.512264Z
+aa5fca4e1a806cd8,NJ,Novartis Group,Novartis Group,,East Hanover,86,,,,2026-08-30T21:43:41.512264Z
+a443129e55c3cc28,NJ,Citibank,Citibank,,Statewide,141,,,,2026-08-30T21:43:41.512264Z
+a3382bd2c2e2e6c1,NJ,Qualfon - Brian Unlimited Distribution Co.,Qualfon - Brian Unlimited Distribution,,Robinsville,44,,,,2026-08-30T21:43:41.512264Z
+a30525539c8285cc,NJ,Sickles Market LLC,Sickles Market,,Little Silver,117,,,,2026-08-30T21:43:41.512264Z
+9cc9b9d7827280c7,NJ,TD Bank N.A.,TD Bank,,Cherry Hill,52,,,,2026-08-30T21:43:41.512264Z
+9c7ea96db4d32aa5,NJ,Citibank,Citibank,,Jersey City,52,,,,2026-08-30T21:43:41.512264Z
+9b8ea4f8984a5239,NJ,Bristol Myers Squibb,Bristol Myers Squibb,,Lawrenceville,117,,,,2026-08-30T21:43:41.512264Z
+980357ca7c0a4f31,NJ,Fresh Pro Food Distributors,Fresh Pro Food Distributors,,West Caldwell,100,,,,2026-08-30T21:43:41.512264Z
+95e6ff6787b9e5a0,NJ,Spectra Laboratories,Spectra Laboratories,,Rockleigh,57,,,,2026-08-30T21:43:41.512264Z
+955d73b7c8eed93d,NJ,Barclays Service Corporation,Barclays Service,,Whippany,244,,,,2026-08-30T21:43:41.512264Z
+8d0e2da1c7985f0e,NJ,"Cigna Evernorth Services, Inc.",Cigna Evernorth Services,,Morris Plains,62,,,,2026-08-30T21:43:41.512264Z
+83b7d3cc6aa5dcfb,NJ,Spirit Airlines,Spirit Airlines,,Newark,80,,,,2026-08-30T21:43:41.512264Z
+807c7ea181766566,NJ,Verizon Corp. Resources Group LLC & other VZ Affiliates,Verizon Corp. Resources Group LLC & other VZ Affiliates,,Basking Ridge,80,,,,2026-08-30T21:43:41.512264Z
+7fb7ead1236ac2ad,NJ,Bristol Myers Squibb,Bristol Myers Squibb,,Lawrenceville,776,,,,2026-08-30T21:43:41.512264Z
+7c27e75e790c60fc,NJ,PHV Corp,PHV,,Bridgewater,59,,,,2026-08-30T21:43:41.512264Z
+7a1cac9ccf844e1b,NJ,Siemens Healthcare Diagnostics Inc.,Siemens Healthcare Diagnostics,,Flanders,197,,,,2026-08-30T21:43:41.512264Z
+7a04364e5fdeabe7,NJ,RWJ Barnabas Health,RWJ Barnabas Health,,West Orange,79,,,,2026-08-30T21:43:41.512264Z
+7839f5dde235b81d,NJ,Arrow Fastener,Arrow Fastener,,Saddle Brook,140,,,,2026-08-30T21:43:41.512264Z
+77af9f24ab96d46a,NJ,Prudential Financial,Prudential Financial,,Newark,146,,,,2026-08-30T21:43:41.512264Z
+769d27e6878ac40c,NJ,Siemens Healthcare Diagnostics Inc.,Siemens Healthcare Diagnostics,,Morris,300,,,,2026-08-30T21:43:41.512264Z
+759f6f0b49e973d5,NJ,Ferring Pharmaceuticals,Ferring Pharmaceuticals,,Parsippany,64,,,,2026-08-30T21:43:41.512264Z
+6e3cff777c499dc2,NJ,AT&T,AT&T,,Bedminster,100,,,,2026-08-30T21:43:41.512264Z
+6bdad8fcb761b37f,NJ,Iron hill Brewery,Iron hill Brewery,,Maple Shade,108,,,,2026-08-30T21:43:41.512264Z
+63e3040d05104267,NJ,Xtend Healthcare LLC,Xtend Healthcare,,Remote Locations Throughout NJ,63,,,,2026-08-30T21:43:41.512264Z
+63a2bf4d8020c382,NJ,Sealed Air Corporation,Sealed Air,,Saddle Brook,83,,,,2026-08-30T21:43:41.512264Z
+5b6d7540fd546724,NJ,GAF Materials,GAF Materials,,Parsippany,130,,,,2026-08-30T21:43:41.512264Z
+552a9528f5335119,NJ,Everest Group,Everest Group,,Warren,110,,,,2026-08-30T21:43:41.512264Z
+5499eeacb44cf2ad,NJ,Bristol Myers Squibb (BMS),Bristol Myers Squibb (BMS),,Lawrence Twp,516,,,,2026-08-30T21:43:41.512264Z
+54781fd3c9b16765,NJ,Cigna Evernorth Services,Cigna Evernorth Services,,Morris Plains,134,,,,2026-08-30T21:43:41.512264Z
+52b08676b112711f,NJ,S&S Activewear,S&S Activewear,,Robbinsville,154,,,,2026-08-30T21:43:41.512264Z
+50fc1bd5a7264194,NJ,* Most employees of companies marked with asterisk will be rehired by buyer,Most employees of companies marked with asterisk will be rehired by buyer,,,,,,,2026-08-30T21:43:41.512264Z
+4fea586609f4403c,NJ,Bristol Myers Squibb,Bristol Myers Squibb,,Lawrenceville,87,,,,2026-08-30T21:43:41.512264Z
+4c0e972c44519f63,NJ,Bristol Myers Squibb,Bristol Myers Squibb,,Lawrence Twp,247,,,,2026-08-30T21:43:41.512264Z
+4033864f3c6fd1d4,NJ,Bristol Myers Squibb,Bristol Myers Squibb,,Lawrenceville,75,,,,2026-08-30T21:43:41.512264Z
+3fdbc0b5e26423d3,NJ,DOW Jones & Company,DOW Jones &,,Princeton,50,,,,2026-08-30T21:43:41.512264Z
+3e6d8fc74b7b858d,NJ,PVH Corp.,PVH,,Bridgewater,56,,,,2026-08-30T21:43:41.512264Z
+3bf005e7a568991b,NJ,Bristol Myers Squibb (BMS),Bristol Myers Squibb (BMS),,Lawrence Twp,282,,,,2026-08-30T21:43:41.512264Z
+38dcc5f68ed4b595,NJ,burlington woods nursing home,burlington woods nursing home,,burlington,20,,,,2026-08-30T21:43:41.512264Z
+326aeff4189e306a,NJ,John Wiley & Sons,John Wiley & Sons,,Hoboken,103,,,,2026-08-30T21:43:41.512264Z
+32231c9bcee89911,NJ,Christmas Tree Shops - Location 9,Christmas Tree Shops - Location 9,,Rockaway,40,,,,2026-08-30T21:43:41.512264Z
+28800665e5465575,NJ,Bristol Myers Squibb (BMS),Bristol Myers Squibb (BMS),,Lawrence Twp,223,,,,2026-08-30T21:43:41.512264Z
+25de8999dccf02c4,NJ,Getinge,Getinge,,Wayne,85,,,,2026-08-30T21:43:41.512264Z
+1f904c63841fc65e,NJ,CHRIST HOSPITAL,Christ Hospital,,Jersey City,433,,,,2026-08-30T21:43:41.512264Z
+180555abaae03b43,NJ,Optum Medical Care,Optum Medical Care,,Secaucus,122,,,,2026-08-30T21:43:41.512264Z
+17958326eee1b353,NJ,Organon,Organon,,Jersey City,93,,,,2026-08-30T21:43:41.512264Z
+1773b5da30ac37f5,NJ,Optum Care,Optum Care,,"Eden Prairie, Minnesota (Offices throughout NJ)",390,,,,2026-08-30T21:43:41.512264Z
+0faa9a1143c98694,NJ,Barclays,Barclays,,Whippany,70,,,,2026-08-30T21:43:41.512264Z
+0df710c926bb9140,NJ,GENESIS LOGISTICS,Genesis Logistics,,BURLINGTON,106,,,,2026-08-30T21:43:41.512264Z
+0cecd08d915cc6b0,NJ,Siemens Healthcare Diagnostics Inc.,Siemens Healthcare Diagnostics,,Flanders,62,,,,2026-08-30T21:43:41.512264Z
+0ae8291a260e4608,NJ,"Gilead Sciences, Inc",Gilead Sciences,,Morris Plains,114,,,,2026-08-30T21:43:41.512264Z
+0889e47316ac8d8b,NJ,PVH Corp.,PVH,,Bridgewater,51,,,,2026-08-30T21:43:41.512264Z

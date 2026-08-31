@@ -6,9 +6,9 @@ id,state,company,company_canonical,company_dba,location,employees_affected,notic
 915c995ff299e5f9,IL,"TV Hardware Distribution, LLC",TV Hardware Distribution,,"Chicago, 8600 W Bryn Mawr Ave.",116,2026-08-10,,State,2026-08-30T21:43:41.512264Z
 bbbcb2f4f28fbc9c,IL,Nordstrom,Nordstrom,,"Lombard, 100 Yorktown Center",101,2026-08-07,,State,2026-08-30T21:43:41.512264Z
 8b7343144f7d276d,IL,"GreenWood, Inc.",GreenWood,,"Hanover Park, 850 Central Ave.",28,2026-08-04,,State,2026-08-30T21:43:41.512264Z
+b40e78ce14c8cf3f,IL,Silver Star Protection Group,Silver Star Protection Group,,"Rolling Meadows, 3601 Algonquin Rd.",64,2026-08-03,,State,2026-08-30T21:43:41.512264Z
 b33f5cb956186f0e,IL,Essendant Co.,Essendant,,"Carol Stream, 230 Lies Rd E",134,2026-08-03,,State,2026-08-30T21:43:41.512264Z
 4e82e56dada3171a,IL,Essendant Co.,Essendant,,"Lincolnshire, 200 Tri-State Dr., Suite 400",510,2026-08-03,,State,2026-08-30T21:43:41.512264Z
-b40e78ce14c8cf3f,IL,Silver Star Protection Group,Silver Star Protection Group,,"Rolling Meadows, 3601 Algonquin Rd.",64,2026-08-03,,State,2026-08-30T21:43:41.512264Z
 ec71bff2233e00c5,IL,SCR Medical Transportation LLC,SCR Medical Transportation,,"Chicago, 8835 S Greenwood Ave.",241,2026-07-31,,State,2026-08-30T21:43:41.512264Z
 04c67269ed45bd25,IL,"Niagara Bottling, LLC and Waters of America","Niagara Bottling, LLC and Waters of America",,"Woodridge, 10220 Werch Dr",57,2026-07-15,,State,2026-08-30T21:43:41.512264Z
 8f1f70e567111222,IL,"Simon Bros. Bakery, LLC",Simon Bros. Bakery,,"Skokie, 4820 Washington St",89,2026-07-14,,State,2026-08-30T21:43:41.512264Z
@@ -19,8 +19,8 @@ f534ab950be4ccf1,IL,INEOS Styrolution America LLC,INEOS Styrolution America,,"Ch
 ba61372b01b8f2ea,IL,Precision Practice Management,Precision Practice Management,,"Waukegan, 1324 N. Sheridan Rd.",34,2026-07-01,,State,2026-08-30T21:43:41.512264Z
 97dd1446f3f3280f,IL,Sunrise Transportation (Rockford Public Schools),Sunrise Transportation (Rockford Public Schools),,"Rockford, 5235 26th Ave.",204,2026-06-30,,State,2026-08-30T21:43:41.512264Z
 e0d613087c5f291a,IL,"Techmer PM, LLC",Techmer PM,,"Elk Grove Village, 2245 & 2239 Pratt Blvd.",68,2026-06-26,,State,2026-08-30T21:43:41.512264Z
-1d0a2d3db2b06635,IL,"Republic National Distributing Company, LLC",Republic National Distributing,,"Niles, 6600 W. Howard Street",180,2026-06-18,,State,2026-08-30T21:43:41.512264Z
 c05f1edd271bc88a,IL,"Republic National Distributing Company, LLC",Republic National Distributing,,"Romeoville, 1301 N. Abbott Road",100,2026-06-18,,State,2026-08-30T21:43:41.512264Z
+1d0a2d3db2b06635,IL,"Republic National Distributing Company, LLC",Republic National Distributing,,"Niles, 6600 W. Howard Street",180,2026-06-18,,State,2026-08-30T21:43:41.512264Z
 f063d45cd7feb9a1,IL,Saddle Creek Corporation,Saddle Creek,,"Edwardsville, 12 Gateway Commerce Center Dr E",78,2026-06-11,,State,2026-08-30T21:43:41.512264Z
 866e7c5a275f478a,IL,Eklind Tool Co.,Eklind Tool,,"Franklin Park, 11040 King St",112,2026-06-10,,State,2026-08-30T21:43:41.512264Z
 e04249725b0fd754,IL,"Optum Services, Inc,",Optum Services,,"Moline, 4300 44th Ave.",98,2026-06-05,,State,2026-08-30T21:43:41.512264Z
@@ -28,24 +28,24 @@ c22e755d879e8d23,IL,Hawthorne Race Course,Hawthorne Race Course,,"Stickney, 3501
 04f03e96d9001f63,IL,"Randstad Inhouse Services, LLC (at Factor 75)","Randstad Inhouse Services, LLC (at Factor 75)",,"Burr Ridge, 340 Shore Drive",34,2026-05-22,,State,2026-08-30T21:43:41.512264Z
 01c91ea89290a5e9,IL,MDMartin LLC,MDMartin,,"Matteson, 21500 Gateway Dr.",160,2026-05-19,,State,2026-08-30T21:43:41.512264Z
 0f7d17651395d5d2,IL,"Grocery Delivery E-Services USA, Inc.",Grocery Delivery E-Services,,"Burr Ridge, 340 Shore Drive",254,2026-05-18,,State,2026-08-30T21:43:41.512264Z
+ce0fa1e61e8729f4,IL,"Wargaming (USA), Inc.",Wargaming (USA),,"Chicago, 1 S Wacker Dr, Suite 500",29,2026-05-04,,State,2026-08-30T21:43:41.512264Z
+b44b970a650396d0,IL,Ideal US Talent Systems Worker Opco LLC,Ideal US Talent Systems Worker Opco,,"Bloomington, 3311 E Old Shakopee Rd",1395,2026-05-04,,State,2026-08-30T21:43:41.512264Z
 b3e36aec016cda85,IL,Vistra Corp.,Vistra,,"Baldwin, 10901 Baldwin Road",122,2026-05-04,,State,2026-08-30T21:43:41.512264Z
 18d15f31d2c33246,IL,Vistra Corp.,Vistra,,"Newton, 6725 N. 500th Street",83,2026-05-04,,State,2026-08-30T21:43:41.512264Z
 094cd265ea91699d,IL,Vistra Corp.,Vistra,,"Kincaid, 199 IL 104",99,2026-05-04,,State,2026-08-30T21:43:41.512264Z
-ce0fa1e61e8729f4,IL,"Wargaming (USA), Inc.",Wargaming (USA),,"Chicago, 1 S Wacker Dr, Suite 500",29,2026-05-04,,State,2026-08-30T21:43:41.512264Z
-b44b970a650396d0,IL,Ideal US Talent Systems Worker Opco LLC,Ideal US Talent Systems Worker Opco,,"Bloomington, 3311 E Old Shakopee Rd",1395,2026-05-04,,State,2026-08-30T21:43:41.512264Z
 7009f2d5ba9775c3,IL,UnityPoint Health (at Rock Island Trinity West Hospital),UnityPoint Health (at Rock Island Trinity West Hospital),,"Rock Island, 2701 17th Street",68,2026-05-01,,State,2026-08-30T21:43:41.512264Z
 01d9e26543e900c4,IL,KLEO Community Family Life Center,KLEO Community Family Life Center,,"Chicago, 640 W Irving Park Rd",65,2026-04-29,,State,2026-08-30T21:43:41.512264Z
-6d76946e6612ee53,IL,"DSV Contract Logistics, LLC",DSV Contract Logistics,,"Edwardsville, 3051 Gateway Commerce Center Drive South",155,2026-04-23,,State,2026-08-30T21:43:41.512264Z
 c15a8ec44e2a1e84,IL,Luttrell Staffing Group - at Freudenberg Filtration II,Luttrell Staffing Group - at Freudenberg Filtration II,,"Belvidere, 1805 Industrial Court",114,2026-04-23,,State,2026-08-30T21:43:41.512264Z
+6d76946e6612ee53,IL,"DSV Contract Logistics, LLC",DSV Contract Logistics,,"Edwardsville, 3051 Gateway Commerce Center Drive South",155,2026-04-23,,State,2026-08-30T21:43:41.512264Z
 b51c37ecd9d90ed1,IL,IRON GALAXY STUDIOS LLC,Iron Galaxy Studios,,"Chicago, 125 S Clark St Ste 300",48,2026-04-17,,State,2026-08-30T21:43:41.512264Z
 3afacaae82134aeb,IL,"Resilience Healthcare - West Suburban Medical Center, LLC",Resilience Healthcare - West Suburban Medical Center,,"Oak Park, 3 Erie Ct",589,2026-04-16,,State,2026-08-30T21:43:41.512264Z
 6d5b5c3c4154bf7b,IL,GERRESHEIMER GLASS INC.,Gerresheimer Glass,,"Chicago Heights, 1131 Arnold St",172,2026-04-13,,State,2026-08-30T21:43:41.512264Z
 01c4c735c3be46dd,IL,Dana Incorporated,Dana,,"Robinson, 1201 E Victor Dana Dr.",78,2026-04-10,,State,2026-08-30T21:43:41.512264Z
 939d4a1773df9c64,IL,"Aramark Campus, LLC - at Plainfield Community School District","Aramark Campus, LLC - at Plainfield Community School District",,"Plainfield, 24120 Fort Beggs Dr.",170,2026-04-07,,State,2026-08-30T21:43:41.512264Z
-a8d2684af23a4d95,IL,Illinois Central School Bus,Illinois Central School Bus,,"Godfrey, 4525 N. Alby Road",160,2026-04-01,,State,2026-08-30T21:43:41.512264Z
 d26ff6aec57af5d6,IL,Heartland Human Care Services (ICRC),Heartland Human Care Services (ICRC),,"Chicago, 3500 S. Giles",120,2026-04-01,,State,2026-08-30T21:43:41.512264Z
-6bd58dfbc2e9defe,IL,"Hyster-Yale Materials Handling, Inc.",Hyster-Yale Materials Handling,,"Danville, 1010 E Fairchild St",90,2026-03-31,,State,2026-08-30T21:43:41.512264Z
+a8d2684af23a4d95,IL,Illinois Central School Bus,Illinois Central School Bus,,"Godfrey, 4525 N. Alby Road",160,2026-04-01,,State,2026-08-30T21:43:41.512264Z
 88eb38f8a70744db,IL,Southwest Airlines Co.,Southwest Airlines,,"Chicago, 10000 W Ohare Ave",107,2026-03-31,,State,2026-08-30T21:43:41.512264Z
+6bd58dfbc2e9defe,IL,"Hyster-Yale Materials Handling, Inc.",Hyster-Yale Materials Handling,,"Danville, 1010 E Fairchild St",90,2026-03-31,,State,2026-08-30T21:43:41.512264Z
 5646a59a806f4e28,IL,Walmart Inc.,Walmart,,"Matteson, 21430 S Cicero Ave.",111,2026-03-27,,State,2026-08-30T21:43:41.512264Z
 18dd2b759ba1672b,IL,Trinity Christian College,Trinity Christian College,,"Palos Heights, 6601 W College Dr",107,2026-03-20,,State,2026-08-30T21:43:41.512264Z
 18a03824b9eb4d87,IL,Illinois Central School Bus,Illinois Central School Bus,,"Wilmington, 400 Davy Lane",55,2026-03-20,,State,2026-08-30T21:43:41.512264Z
@@ -59,8 +59,8 @@ a089e83d39e1a1d6,IL,"TRELLEBORG SEALING SOLUTIONS US, INC.",Trelleborg Sealing S
 45e37a28f6cb6346,IL,"H&M Fashion USA, Inc.",H&M Fashion,,"Chicago, 175 W Jackson Blvd., Suite 1630",181,2026-02-20,,State,2026-08-30T21:43:41.512264Z
 bdee6b27cdf6653f,IL,Heartland Human Care Services (International Children Center),Heartland Human Care Services (International Children Center),,"Chicago, 1620 W Chase",66,2026-02-17,,State,2026-08-30T21:43:41.512264Z
 bd018896b8f91be9,IL,Heartland Human Care Services (International Children Center at Beverly),Heartland Human Care Services (International Children Center at Beverly),,"Chicago, 1209 W 98th St.",44,2026-02-17,,State,2026-08-30T21:43:41.512264Z
-6ddb52e2503c43ba,IL,Heartland Human Care Services (Casa Heartland at Princeton),Heartland Human Care Services (Casa Heartland at Princeton),,"Chicago, 1628 W Morse Ave.",58,2026-02-17,,State,2026-08-30T21:43:41.512264Z
 aed8ff0e5fd8ad23,IL,Heartland Human Care Services (Child Welfare Agency),Heartland Human Care Services (Child Welfare Agency),,"Chicago, 4822 N Broadway Ave.",80,2026-02-17,,State,2026-08-30T21:43:41.512264Z
+6ddb52e2503c43ba,IL,Heartland Human Care Services (Casa Heartland at Princeton),Heartland Human Care Services (Casa Heartland at Princeton),,"Chicago, 1628 W Morse Ave.",58,2026-02-17,,State,2026-08-30T21:43:41.512264Z
 a0a9fcf029c204e5,IL,"Panera, LLC",Panera,,"Elk Grove Village, 1490 Chase Ave",119,2026-02-13,,State,2026-08-30T21:43:41.512264Z
 5cb67bab828e452c,IL,WALGREEN CO.,Walgreen,,"Deerfield, 102, 104, 106, 108, 200 Wilmot Rd.",416,2026-02-10,,State,2026-08-30T21:43:41.512264Z
 27388238dc187b06,IL,WALGREEN CO.,Walgreen,,"Chicago, 433 W Van Buren St.",52,2026-02-10,,State,2026-08-30T21:43:41.512264Z
@@ -70,14 +70,14 @@ ddabb5f50ec2ce2c,IL,Wells Fargo,Wells Fargo,,"Rosemont, 9377 W Higgins Rd.",72,2
 ac99fdc420ce3803,IL,"First Brands Group, LLC (Midwest Distribution Center)","First Brands Group, LLC (Midwest Distribution Center)",,"McHenry, 4400 Prime Pkwy, 1100 Corporate Dr., 1380 Corporate Dr.",389,2026-02-03,,State,2026-08-30T21:43:41.512264Z
 938226d2cd8e6778,IL,Alverno Laboratories (at Franciscan Health Olympia Fields),Alverno Laboratories (at Franciscan Health Olympia Fields),,"Olympia Fields, 20201 S. Crawford Ave.",66,2026-02-02,,State,2026-08-30T21:43:41.512264Z
 61e7995414798cec,IL,"T-Mobile USA, Inc.",T-Mobile,,"Schaumburg, 50 Commerce Dr., Suite 130",172,2026-01-30,,State,2026-08-30T21:43:41.512264Z
-9323a3636e01dd08,IL,Amazonfresh LLC,Amazonfresh,,"Naperville, 3116 Route 59 Hwy, Suite 104",132,2026-01-28,,State,2026-08-30T21:43:41.512264Z
-663b897114dd3663,IL,Amazonfresh LLC,Amazonfresh,,"Schaumburg, 16 E Golf Rd.",134,2026-01-28,,State,2026-08-30T21:43:41.512264Z
-85ea5b6527ed82bb,IL,Amazonfresh LLC,Amazonfresh,,"Morton Grove, 6939 Dempster St",179,2026-01-28,,State,2026-08-30T21:43:41.512264Z
-ae590b78cb01b7a8,IL,Amazonfresh LLC,Amazonfresh,,"Oak Lawn, 4031 W 95TH St",220,2026-01-28,,State,2026-08-30T21:43:41.512264Z
-a5d37ac8142f91c4,IL,Amazonfresh LLC,Amazonfresh,,"Norridge, 4211 N Harlem Ave",173,2026-01-28,,State,2026-08-30T21:43:41.512264Z
 e9d76441b4226596,IL,Amazonfresh LLC,Amazonfresh,,"North Riverside, 7201 W 24TH St",155,2026-01-28,,State,2026-08-30T21:43:41.512264Z
 de19c6b9982aec2d,IL,Amazonfresh LLC,Amazonfresh,,"Naperville, 1351 E Ogden Ave",118,2026-01-28,,State,2026-08-30T21:43:41.512264Z
 d140190b4ec1f825,IL,Amazonfresh LLC,Amazonfresh,,"Tinley Park, 16017 Harlem Ave",170,2026-01-28,,State,2026-08-30T21:43:41.512264Z
+ae590b78cb01b7a8,IL,Amazonfresh LLC,Amazonfresh,,"Oak Lawn, 4031 W 95TH St",220,2026-01-28,,State,2026-08-30T21:43:41.512264Z
+a5d37ac8142f91c4,IL,Amazonfresh LLC,Amazonfresh,,"Norridge, 4211 N Harlem Ave",173,2026-01-28,,State,2026-08-30T21:43:41.512264Z
+9323a3636e01dd08,IL,Amazonfresh LLC,Amazonfresh,,"Naperville, 3116 Route 59 Hwy, Suite 104",132,2026-01-28,,State,2026-08-30T21:43:41.512264Z
+85ea5b6527ed82bb,IL,Amazonfresh LLC,Amazonfresh,,"Morton Grove, 6939 Dempster St",179,2026-01-28,,State,2026-08-30T21:43:41.512264Z
+663b897114dd3663,IL,Amazonfresh LLC,Amazonfresh,,"Schaumburg, 16 E Golf Rd.",134,2026-01-28,,State,2026-08-30T21:43:41.512264Z
 00a5b07d5f212973,IL,"Alton Steel, Inc.",Alton Steel,,"Alton, 5 Cut St",253,2026-01-27,,State,2026-08-30T21:43:41.512264Z
 b140b904783b8878,IL,"GXO Logistics Supply Chain, Inc.",GXO Logistics Supply Chain,,"Romeoville, 1551 W Normantown Rd",32,2026-01-21,,State,2026-08-30T21:43:41.512264Z
 0fdedc4bc6dbce11,IL,Sumitomo Mitsui Banking Corporation,Sumitomo Mitsui Banking,,"New York, 277 Park Ave",7,2026-01-08,,State,2026-08-30T21:43:41.512264Z
@@ -87,14 +87,14 @@ acfb65bd423156d4,IL,Founders Insurance Company,Founders Insurance,,"Des Plaines,
 cebf56b17f8b123c,IL,"Microplastics, Inc.",Microplastics,,"Saint Charles, 406 38TH Ave",86,2025-12-19,,State,2026-08-30T21:43:41.512264Z
 86ca044f75ee5b1e,IL,S&S Activewear,S&S Activewear,,"Bolingbrook, 760 W Crossroads Pkwy",195,2025-12-04,,State,2026-08-30T21:43:41.512264Z
 8b1e8f22347e525c,IL,"APL Logistics, Ltd.",APL Logistics,,"Minooka, 6225 E Minooka Road",100,2025-12-02,,State,2026-08-30T21:43:41.512264Z
-84843f58c684cd98,IL,"APL Logistics, Ltd.",APL Logistics,,"Minooka, 1460 Cargo Ct",130,2025-12-01,,State,2026-08-30T21:43:41.512264Z
 bdac8d82ed2b2139,IL,"10 Roads Express, LLC",10 Roads Express,,"Homewood, 925 175th Street",55,2025-12-01,,State,2026-08-30T21:43:41.512264Z
+84843f58c684cd98,IL,"APL Logistics, Ltd.",APL Logistics,,"Minooka, 1460 Cargo Ct",130,2025-12-01,,State,2026-08-30T21:43:41.512264Z
 527e3e02bcb120e0,IL,Essendant Co.,Essendant,,"Greenville, 2000 Wolf Industrial Park",44,2025-11-20,,State,2026-08-30T21:43:41.512264Z
 1144036118047eb3,IL,Kroger,Kroger,,"Maywood, 1900 S Maywood Dr.",72,2025-11-16,,State,2026-08-30T21:43:41.512264Z
 e24a774bb0793798,IL,"PharmaCann, Inc.",PharmaCann,,"Dwight, 1200 E Mazon St.",82,2025-11-14,,State,2026-08-30T21:43:41.512264Z
 df13f82f764f67be,IL,"Printpack, Inc.",Printpack,,"Elgin, 1400 Abbott Dr",111,2025-11-12,,State,2026-08-30T21:43:41.512264Z
-26888da666229caf,IL,"Oak Street Health MSO, LLC",Oak Street Health MSO,,"Chicago, 30 W Monroe St., Suite 1200",219,2025-11-07,,State,2026-08-30T21:43:41.512264Z
 a15b731e08638ba4,IL,"Remke Industries, Inc.",Remke Industries,,"Vernon Hills, 730 Lakeview Parkway",42,2025-11-07,,State,2026-08-30T21:43:41.512264Z
+26888da666229caf,IL,"Oak Street Health MSO, LLC",Oak Street Health MSO,,"Chicago, 30 W Monroe St., Suite 1200",219,2025-11-07,,State,2026-08-30T21:43:41.512264Z
 0ee83cc3f70e2d6e,IL,"Consolidated Hospitality Supplies, LLC",Consolidated Hospitality Supplies,,"Vernon Hills, 544 Lakeview Pkwy Ste 300",45,2025-11-05,,State,2026-08-30T21:43:41.512264Z
 913747841e876e53,IL,"Norvax, LLC",Norvax,,"Chicago, 222 W Merchandise Mart Plaza #1750",487,2025-11-03,,State,2026-08-30T21:43:41.512264Z
 2afae443de0205e3,IL,Spirit Airlines,Spirit Airlines,,"Schiller Park, 3745 N 25th Ave.",26,2025-10-31,,State,2026-08-30T21:43:41.512264Z
@@ -107,15 +107,15 @@ ee645cefb8a3bdf8,IL,The Fresh Market,Fresh Market,,"Naperville, 204 South Route 
 289887b9e62a97b0,IL,"Fervalue USA, LLC",Fervalue,,"Chicago, 750 E 110th Street",72,2025-10-08,,State,2026-08-30T21:43:41.512264Z
 0215ada5bd4ef0bd,IL,"BAKER & TAYLOR, LLC",Baker & Taylor,,"Momence, 501 Gladiolus St",318,2025-10-06,,State,2026-08-30T21:43:41.512264Z
 7a60d1589fa3e7cc,IL,"Virgin Hotels Chicago, LLC",Virgin Hotels Chicago,,"Chicago, 203 N Wabash Ave",180,2025-10-03,,State,2026-08-30T21:43:41.512264Z
-7f735bfac274237d,IL,Chartwells at DePaul University,Chartwells at DePaul University,,"Chicago, 2250 N Sheffield Ave.",138,2025-10-01,,State,2026-08-30T21:43:41.512264Z
 cecfdbfa2b97a4de,IL,Transform SR LLC,Transform SR,,"Manteno, 8374 N 4000 East Road",59,2025-10-01,,State,2026-08-30T21:43:41.512264Z
-35be9fecb01bf823,IL,"Acero Charter Schools, Inc. (at Carlos Fuentes Elementary School)","Acero Charter Schools, Inc. (at Carlos Fuentes Elementary School)",,"Chicago, 2845 W. Barry Ave.",37,2025-10-01,,State,2026-08-30T21:43:41.512264Z
 b122e7e7b6130f33,IL,"Acero Charter Schools, Inc. (at Rufino Tamayo Elementary School)","Acero Charter Schools, Inc. (at Rufino Tamayo Elementary School)",,"Chicago, 5135 S. California Ave.",27,2025-10-01,,State,2026-08-30T21:43:41.512264Z
+aceba69058a5903a,IL,"Acero Charter Schools, Inc. (at Sandra Cisneros Elementary School)","Acero Charter Schools, Inc. (at Sandra Cisneros Elementary School)",,"Chicago, 2744 W. Pershing Rd.",33,2025-10-01,,State,2026-08-30T21:43:41.512264Z
 a73796f74dc46c85,IL,"Acero Charter Schools, Inc. (at Bartolome de Las Casas Elementary School)","Acero Charter Schools, Inc. (at Bartolome de Las Casas Elementary School)",,"Chicago, 1641 W. 16th St.",26,2025-10-01,,State,2026-08-30T21:43:41.512264Z
 9d0e8b1f074a1a36,IL,"Acero Charter Schools, Inc. (at Esmeralda Santiago Elementary School)","Acero Charter Schools, Inc. (at Esmeralda Santiago Elementary School)",,"Chicago, 2510 W. Cortez St.",29,2025-10-01,,State,2026-08-30T21:43:41.512264Z
-aceba69058a5903a,IL,"Acero Charter Schools, Inc. (at Sandra Cisneros Elementary School)","Acero Charter Schools, Inc. (at Sandra Cisneros Elementary School)",,"Chicago, 2744 W. Pershing Rd.",33,2025-10-01,,State,2026-08-30T21:43:41.512264Z
-4b1580cad9644072,IL,"CNC Logistics, Inc.",CNC Logistics,,"West Chicago, 808 Discovery Dr.",53,2025-09-30,,State,2026-08-30T21:43:41.512264Z
+7f735bfac274237d,IL,Chartwells at DePaul University,Chartwells at DePaul University,,"Chicago, 2250 N Sheffield Ave.",138,2025-10-01,,State,2026-08-30T21:43:41.512264Z
+35be9fecb01bf823,IL,"Acero Charter Schools, Inc. (at Carlos Fuentes Elementary School)","Acero Charter Schools, Inc. (at Carlos Fuentes Elementary School)",,"Chicago, 2845 W. Barry Ave.",37,2025-10-01,,State,2026-08-30T21:43:41.512264Z
 e5c17f0640db834a,IL,Mauser Packaging Solutions,Mauser Packaging Solutions,,"Chicago, 3201 S. Millard Ave.",143,2025-09-30,,State,2026-08-30T21:43:41.512264Z
+4b1580cad9644072,IL,"CNC Logistics, Inc.",CNC Logistics,,"West Chicago, 808 Discovery Dr.",53,2025-09-30,,State,2026-08-30T21:43:41.512264Z
 ebd92e363c6becd1,IL,Carolina Therapeutic Services,Carolina Therapeutic Services,,"Chicago, 2715 N Central Ave",27,2025-09-26,,State,2026-08-30T21:43:41.512264Z
 8a540f8dd55c5c9d,IL,Spirit Airlines (at O'Hare Airport),Spirit Airlines (at O'Hare Airport),,"Chicago, 10000 Bessie Coleman Dr.",356,2025-09-24,,State,2026-08-30T21:43:41.512264Z
 6b346c6e9d900f40,IL,"CNC Logistics, Inc.",CNC Logistics,,"Palatine, 315 S Hicks Road",57,2025-09-23,,State,2026-08-30T21:43:41.512264Z
@@ -130,10 +130,10 @@ b4c61c256ce753fe,IL,The Roomplace Furniture and Mattress LLC,Roomplace Furniture
 ae1d4392d58a2e42,IL,"Diverse Facility Solutions, Inc.",Diverse Facility Solutions,,"Alsip, 12838 S Cicero Ave",276,2025-08-26,,State,2026-08-30T21:43:41.512264Z
 98b1a7e8fdb43ac7,IL,Capital One Financial Corporation,Capital One Financial,,"Riverwoods, 2500 Lake Cook Rd",2462,2025-08-15,,State,2026-08-30T21:43:41.512264Z
 07915e135cc79d5b,IL,"United Maintenance Company, Inc.",United Maintenance,,"Chicago, 1550 S Indiana Ave Ste 300",91,2025-08-12,,State,2026-08-30T21:43:41.512264Z
-d501240dabb2e72e,IL,Claire's - Hoffman Estates,Claire's - Hoffman Estates,,"Hoffman Estates, 2400 W Central Road",46,2025-08-05,,State,2026-08-30T21:43:41.512264Z
 f715bbac68369a25,IL,Woodstock Christian Life Services,Woodstock Christian Life Services,,"Woodstock, 920 and 928 N Seminary Ave",117,2025-08-05,,State,2026-08-30T21:43:41.512264Z
-14440791776650a7,IL,Mennie's Machine Company,Mennie's Machine,,"Mark, 10549 Mennie Ln",17,2025-07-31,,State,2026-08-30T21:43:41.512264Z
+d501240dabb2e72e,IL,Claire's - Hoffman Estates,Claire's - Hoffman Estates,,"Hoffman Estates, 2400 W Central Road",46,2025-08-05,,State,2026-08-30T21:43:41.512264Z
 c00e8466bf56ed4b,IL,"TreeHouse Foods, Inc.",TreeHouse Foods,,"Chicago, 4401 W 44th Place",80,2025-07-31,,State,2026-08-30T21:43:41.512264Z
+14440791776650a7,IL,Mennie's Machine Company,Mennie's Machine,,"Mark, 10549 Mennie Ln",17,2025-07-31,,State,2026-08-30T21:43:41.512264Z
 e760f0c97d429fc4,IL,"Ryder Integrated Logistics, Inc.",Ryder Integrated Logistics,,"East Moline, 1001 13th Street",32,2025-07-30,,State,2026-08-30T21:43:41.512264Z
 a0bc6edd7149ce8f,IL,LSC Communications Transport LLC,LSC Communications Transport,,"Bolingbrook, 1000 Windham Pkwy",180,2025-07-09,,State,2026-08-30T21:43:41.512264Z
 29e95c85771a1763,IL,"Group 1001 Resources, LLC",Group 1001 Resources,,"Park Ridge, 250 South Northwest Highway, Suite 302",32,2025-07-01,,State,2026-08-30T21:43:41.512264Z
@@ -150,19 +150,19 @@ da104424aca3c26f,IL,"CareerBuilder, LLC and Monster Worldwide, LLC","CareerBuild
 970a881b811b11e3,IL,Momence Packing Co.,Momence Packing,,"Momence, 334 W North St",274,2025-06-02,,State,2026-08-30T21:43:41.512264Z
 a3f7a78694edf537,IL,"American Water Resources, LLC",American Water Resources,,"Alton, 111 East 4th Street",37,2025-05-28,,State,2026-08-30T21:43:41.512264Z
 4d72eb6ff56c737c,IL,"Demar Direct, Inc.",Demar Direct,,"Lombard, 1133 N Ridge Ave",86,2025-05-23,,State,2026-08-30T21:43:41.512264Z
-3f814cf91d090b54,IL,"GMRI, Inc.",GMRI,,"Schaumburg, 406 E Golf Rd",73,2025-05-19,,State,2026-08-30T21:43:41.512264Z
 80bd17c2fd83af21,IL,"Ametek Bison Gear & Engineering, Inc.",Ametek Bison Gear & Engineering,,"Saint Charles, 3850 Ohio Ave",167,2025-05-19,,State,2026-08-30T21:43:41.512264Z
+3f814cf91d090b54,IL,"GMRI, Inc.",GMRI,,"Schaumburg, 406 E Golf Rd",73,2025-05-19,,State,2026-08-30T21:43:41.512264Z
 9478b6ed6d93b831,IL,"LanzaTech Global, Inc.",LanzaTech Global,,"Skokie, 8045 Lamon Ave Ste 400",44,2025-05-12,,State,2026-08-30T21:43:41.512264Z
 f8ec548bf416db45,IL,Health Alliance Medical Plan,Health Alliance Medical Plan,,"Champaign, 3310 Fields South Dr",612,2025-05-08,,State,2026-08-30T21:43:41.512264Z
 9b92da7e240a3ba5,IL,"First Student, Inc.",First Student,,"Tolono, 619 US Route 45",28,2025-05-05,,State,2026-08-30T21:43:41.512264Z
-15902767e96e2fb2,IL,Bristol Myers Squibb,Bristol Myers Squibb,,"Libertyville, 1930 & 1950 Innovation Way, 1900 & 1940 USG Dr.",133,2025-05-02,,State,2026-08-30T21:43:41.512264Z
 45944f9d551946e9,IL,Cleveland-Cliffs Riverdale LLC,Cleveland-Cliffs Riverdale,,"Riverdale, 13500 S Perry Ave",281,2025-05-02,,State,2026-08-30T21:43:41.512264Z
+15902767e96e2fb2,IL,Bristol Myers Squibb,Bristol Myers Squibb,,"Libertyville, 1930 & 1950 Innovation Way, 1900 & 1940 USG Dr.",133,2025-05-02,,State,2026-08-30T21:43:41.512264Z
 90dd53aad93bbeb9,IL,"Amsted Rail Company, Inc.",Amsted Rail,,"Granite City, 1700 Walnut St",74,2025-05-01,,State,2026-08-30T21:43:41.512264Z
 986a3a8309dad6c2,IL,Oak View Group at McCormick Place,Oak View Group at McCormick Place,,"Chicago, 2301 S. Martin Luther King Dr.",203,2025-04-29,,State,2026-08-30T21:43:41.512264Z
 2f87afa2c1d732c5,IL,Hubbell Incorporated,Hubbell,,"Freeburg, 501 W. Apple Street",110,2025-04-24,,State,2026-08-30T21:43:41.512264Z
 32ab1defcc229297,IL,Elkay Plumbing Products Company,Elkay Plumbing Products,,"Savanna, 6400 Penn Ave.",178,2025-04-18,,State,2026-08-30T21:43:41.512264Z
-8a7f99734445901a,IL,Cardinal Logistics Management Corporation,Cardinal Logistics Management,,"Naperville, 543 Frontenac Ct.",43,2025-04-14,,State,2026-08-30T21:43:41.512264Z
 eddc032002e78784,IL,"United Facilities, Inc.",United Facilities,,"Galesburg, 1557 S Henderson St",62,2025-04-14,,State,2026-08-30T21:43:41.512264Z
+8a7f99734445901a,IL,Cardinal Logistics Management Corporation,Cardinal Logistics Management,,"Naperville, 543 Frontenac Ct.",43,2025-04-14,,State,2026-08-30T21:43:41.512264Z
 e0f1eb52d1dcc7ca,IL,Starved Rock Wood Products LLC,Starved Rock Wood Products,,"Mendota, 1501 Washington St",58,2025-04-08,,State,2026-08-30T21:43:41.512264Z
 da838c0ac518e391,IL,"ILLINOIS VALLEY MILLWORKS, INC",Illinois Valley Millworks,,"Mendota, 1605 Division St",7,2025-04-08,,State,2026-08-30T21:43:41.512264Z
 cca1f93f03f012cc,IL,"PDS Industries and Weinstein Industries, LLC",PDS Industries and Weinstein Industries,,"Forest Park, 7501 Industrial Drive",65,2025-04-08,,State,2026-08-30T21:43:41.512264Z
@@ -175,26 +175,26 @@ a15301ab5f8e1fe2,IL,"KSM Electronics, Inc.",KSM Electronics,,"Warrenville, 27745
 c54e29e7bddf441c,IL,"Peco Pallet, Inc.",Peco Pallet,,"Chicago, 2924 E 126TH St",46,2025-03-19,,State,2026-08-30T21:43:41.512264Z
 9b8ca071b0bfb9cc,IL,ManpowerGroup US Inc.,ManpowerGroup US,,"Lake Zurich, 1325 Ensell Rd",46,2025-03-12,,State,2026-08-30T21:43:41.512264Z
 0a6b9014092fad68,IL,Penske Logistics LLC,Penske Logistics,,"Aurora, 1000 Bilter Road",96,2025-03-12,,State,2026-08-30T21:43:41.512264Z
-05d54eb922962a18,IL,American Institutes of Research,American Institutes of Research,,"Chicago, 10 S Riverside Plaza, Suite 600",109,2025-03-11,,State,2026-08-30T21:43:41.512264Z
 7b08fb4c7f46092d,IL,Gilster-Mary Lee Corporation,Gilster-Mary Lee,,"Momence, 305 E Washington St",69,2025-03-11,,State,2026-08-30T21:43:41.512264Z
+05d54eb922962a18,IL,American Institutes of Research,American Institutes of Research,,"Chicago, 10 S Riverside Plaza, Suite 600",109,2025-03-11,,State,2026-08-30T21:43:41.512264Z
 7a28b1fa59ecb740,IL,"Inter-Con Security Systems, Inc.",Inter-Con Security Systems,,"Chicago, 760 N Ogden Ave., Ste 2200",1058,2025-03-06,,State,2026-08-30T21:43:41.512264Z
 cd4589bde5468de3,IL,"Digby's Detective and Security Agency, Inc.",Digby's Detective and Security Agency,,"Chicago, 2850 S Wabash Ave Ste 201",40,2025-02-28,,State,2026-08-30T21:43:41.512264Z
 829d74dab4831cb6,IL,Elite Staffing (at Nestle USA's Nation Pizza),Elite Staffing (at Nestle USA's Nation Pizza),,"Schaumburg, 601 E Algonquin Rd",134,2025-02-26,,State,2026-08-30T21:43:41.512264Z
 0630d746e210d3c7,IL,Labor Network (at Nestle USA's Nation Pizza),Labor Network (at Nestle USA's Nation Pizza),,"Schaumburg, 601 E Algonquin Rd",416,2025-02-24,,State,2026-08-30T21:43:41.512264Z
 8d52b066c1f2f0b0,IL,LGSTX Services,LGSTX Services,,"Aurora, 2350 Frieder Lane, Suite 190",230,2025-02-17,,State,2026-08-30T21:43:41.512264Z
 0c9c10d626a609a9,IL,Heartland Alliance Health,Heartland Alliance Health,,"Chicago, 5501 S Halsted (4009 N Broadway St., Chicago 60613)",113,2025-02-11,,State,2026-08-30T21:43:41.512264Z
-4d65335fffd799c6,IL,Kindred Hospital - Sycamore,Kindred Hospital - Sycamore,,"Sycamore, 225 Edward St.",83,2025-02-10,,State,2026-08-30T21:43:41.512264Z
 a59893e9bcb47cce,IL,Kindred Hospital - Lakeshore,Kindred Hospital - Lakeshore,,"Chicago, 6130 N Sheridan Rd.",74,2025-02-10,,State,2026-08-30T21:43:41.512264Z
+4d65335fffd799c6,IL,Kindred Hospital - Sycamore,Kindred Hospital - Sycamore,,"Sycamore, 225 Edward St.",83,2025-02-10,,State,2026-08-30T21:43:41.512264Z
+8be49215f1fd0913,IL,Northwest Community Hospital,Northwest Community Hospital,,"Arlington Heights, 901 W Kirchhoff Rd FL 3",99,2025-02-07,,State,2026-08-30T21:43:41.512264Z
 837ac1e69a1d7538,IL,Schirm USA,Schirm,,"Benton, 10163 Sugar Creek Rd.",34,2025-02-07,,State,2026-08-30T21:43:41.512264Z
 06c0785f3571267a,IL,Home Partners of America Inc.,Home Partners of America,,"Chicago, 120 S Riverside Plz Ste 2000",179,2025-02-07,,State,2026-08-30T21:43:41.512264Z
-8be49215f1fd0913,IL,Northwest Community Hospital,Northwest Community Hospital,,"Arlington Heights, 901 W Kirchhoff Rd FL 3",99,2025-02-07,,State,2026-08-30T21:43:41.512264Z
-564bc4ad1e9dc18d,IL,Animal Supply Company,Animal Supply,,"Bartlett, 1315 Brewster Creek Blvd.",59,2025-02-06,,State,2026-08-30T21:43:41.512264Z
 e7ccac7f045a141e,IL,"F & E Aircraft Maintenance (Miami), LLC",F & E Aircraft Maintenance (Miami),,"Schiller Park, 5136 Pearl St",42,2025-02-06,,State,2026-08-30T21:43:41.512264Z
+564bc4ad1e9dc18d,IL,Animal Supply Company,Animal Supply,,"Bartlett, 1315 Brewster Creek Blvd.",59,2025-02-06,,State,2026-08-30T21:43:41.512264Z
 66496a41501e7225,IL,Ardagh Glass Inc.,Ardagh Glass,,"Dolton, 13850 Cottage Grove Ave",316,2025-02-04,,State,2026-08-30T21:43:41.512264Z
 88282ab2243c1b7f,IL,Air Wisconsin Airlines LLC at O'Hare Airport,Air Wisconsin Airlines LLC at O'Hare Airport,,"Chicago, Terminal 1, Ramp Level G1",221,2025-01-31,,State,2026-08-30T21:43:41.512264Z
 4f00e6bccc9a36b8,IL,Turnkey One Source LLC at Arlo Chicago,Turnkey One Source LLC at Arlo Chicago,,"Chicago, 168 N Michigan Ave.",27,2025-01-30,,State,2026-08-30T21:43:41.512264Z
-6d558fe95be37f10,IL,Barnes & Noble,Barnes & Noble,,"Forest Park, 7801 Industrial Park",107,2025-01-29,,State,2026-08-30T21:43:41.512264Z
 c308dcfb39dedac6,IL,Parsec LLC,Parsec,,"Franklin Park , 10800 S Franklin Ave.",49,2025-01-29,,State,2026-08-30T21:43:41.512264Z
+6d558fe95be37f10,IL,Barnes & Noble,Barnes & Noble,,"Forest Park, 7801 Industrial Park",107,2025-01-29,,State,2026-08-30T21:43:41.512264Z
 f6084a751d904e3b,IL,ManpowerGroup US Inc.,ManpowerGroup US,,"Aurora, 2372 W Indian Trail",49,2025-01-28,,State,2026-08-30T21:43:41.512264Z
 f01cd7a2db37a038,IL,ManpowerGroup US Inc.,ManpowerGroup US,,"Burr Ridge, 340 Shore Dr",43,2025-01-28,,State,2026-08-30T21:43:41.512264Z
 2909ca374a322a4f,IL,Smurfit Westrock,Smurfit Westrock,,"Bridgeview, 7601 S 78th Ave.",88,2025-01-28,,State,2026-08-30T21:43:41.512264Z
@@ -207,30 +207,30 @@ ea0b7bec717e98ef,IL,The Computing Technology Industry Association,Computing Tech
 e560cce53bdd7b63,IL,Maclellan Integrated Services Inc. (at Rivian Automotive),Maclellan Integrated Services Inc. (at Rivian Automotive),,"Normal, 100 Rivian Motorway",76,2025-01-08,,State,2026-08-30T21:43:41.512264Z
 a1b30bc880f70c27,IL,"Innovation Group North America, Inc.",Innovation Group North America,,"Schaumburg, 1051 Perimeter Dr., Suite 800",105,2025-01-07,,State,2026-08-30T21:43:41.512264Z
 431da7c8a77feaf8,IL,Cherry Circle Room LLC,Cherry Circle Room,,"Chicago, 12 S Michigan Ave",154,2025-01-07,,State,2026-08-30T21:43:41.512264Z
-ed3dfaa5168ef86d,IL,"Sandra Holdings, LLC",Sandra Holdings,,"Orland Park, 556 Orland Square",46,2025-01-03,,State,2026-08-30T21:43:41.512264Z
-826cc80075ba3d58,IL,"Sandra Holdings, LLC",Sandra Holdings,,"Oakbrook, 456 Oakbrook Center",36,2025-01-03,,State,2026-08-30T21:43:41.512264Z
 edf0c0e813d09f9b,IL,"Sandra Holdings, LLC",Sandra Holdings,,"Chicago Ridge, 541 Chicago Ridge Mall Space H3",48,2025-01-03,,State,2026-08-30T21:43:41.512264Z
-2bc07f7d8ffb5df9,IL,"Sandra Holdings, LLC",Sandra Holdings,,"Chicago, 533 N. Michigan Ave.",31,2025-01-03,,State,2026-08-30T21:43:41.512264Z
-61f6d03281152b0c,IL,"Sandra Holdings, LLC",Sandra Holdings,,"Rosemont, 5220 Fashion Outlets Way Space 1194",32,2025-01-03,,State,2026-08-30T21:43:41.512264Z
-93e7208d8f7ad26a,IL,"Sandra Holdings, LLC",Sandra Holdings,,"Aurora, 1475 Fox Valley Center Dr. space #F-5",30,2025-01-03,,State,2026-08-30T21:43:41.512264Z
+ed3dfaa5168ef86d,IL,"Sandra Holdings, LLC",Sandra Holdings,,"Orland Park, 556 Orland Square",46,2025-01-03,,State,2026-08-30T21:43:41.512264Z
 bbc92f393bd4c539,IL,"Sandra Holdings, LLC",Sandra Holdings,,"North Riverside, 7501 W. Cermak Rd. Space E13",33,2025-01-03,,State,2026-08-30T21:43:41.512264Z
-163d065d91f7297c,IL,Compass Group,Compass Group,,"Kankakee, 500 W. Court St.",64,2024-12-26,,State,2026-08-30T21:43:41.512264Z
-066cfc6e0e580529,IL,Compass Group,Compass Group,,"Aurora, 1325 N. Highland Ave.",103,2024-12-26,,State,2026-08-30T21:43:41.512264Z
+93e7208d8f7ad26a,IL,"Sandra Holdings, LLC",Sandra Holdings,,"Aurora, 1475 Fox Valley Center Dr. space #F-5",30,2025-01-03,,State,2026-08-30T21:43:41.512264Z
+826cc80075ba3d58,IL,"Sandra Holdings, LLC",Sandra Holdings,,"Oakbrook, 456 Oakbrook Center",36,2025-01-03,,State,2026-08-30T21:43:41.512264Z
+61f6d03281152b0c,IL,"Sandra Holdings, LLC",Sandra Holdings,,"Rosemont, 5220 Fashion Outlets Way Space 1194",32,2025-01-03,,State,2026-08-30T21:43:41.512264Z
+2bc07f7d8ffb5df9,IL,"Sandra Holdings, LLC",Sandra Holdings,,"Chicago, 533 N. Michigan Ave.",31,2025-01-03,,State,2026-08-30T21:43:41.512264Z
 9112c798a3fffd37,IL,Compass Group,Compass Group,,"Chicago, 2233 W. Division St.",141,2024-12-26,,State,2026-08-30T21:43:41.512264Z
 2f4b8773b50842b4,IL,Compass Group,Compass Group,,"Des Plaines, 100 N. River Rd.",26,2024-12-26,,State,2026-08-30T21:43:41.512264Z
+163d065d91f7297c,IL,Compass Group,Compass Group,,"Kankakee, 500 W. Court St.",64,2024-12-26,,State,2026-08-30T21:43:41.512264Z
+066cfc6e0e580529,IL,Compass Group,Compass Group,,"Aurora, 1325 N. Highland Ave.",103,2024-12-26,,State,2026-08-30T21:43:41.512264Z
 afcb0e98da3164f3,IL,Hyzon Motors Inc.,Hyzon Motors,,"Bolingbrook, 599 S Schmidt Rd Ste H",123,2024-12-20,,State,2026-08-30T21:43:41.512264Z
 5de6e8437355391c,IL,Oak Point University,Oak Point University,,"Oak Brook, 2122 York Rd.",88,2024-12-13,,State,2026-08-30T21:43:41.512264Z
-11ae386fc3210205,IL,"Natural Fiber Welding, Inc.",Natural Fiber Welding,,"Peoria, 6533 N Galena Rd",38,2024-12-10,,State,2026-08-30T21:43:41.512264Z
 b9351f55ce17ec5c,IL,The RoomPlace,RoomPlace,,"Romeoville, 1120 W. Remington Blvd.",62,2024-12-10,,State,2026-08-30T21:43:41.512264Z
 b278aac46d5ebdd9,IL,"Natural Fiber Welding, Inc.",Natural Fiber Welding,,"Peoria, 801 SW Jefferson St.",47,2024-12-10,,State,2026-08-30T21:43:41.512264Z
-98f25cd2b2321f82,IL,Compass Group,Compass Group,,"Joliet, 333 N. Madison St.",249,2024-12-03,,State,2026-08-30T21:43:41.512264Z
-18eb2c88ded47887,IL,Compass Group,Compass Group,,"Chicago, 7435 W. Talcott Ave.",192,2024-12-03,,State,2026-08-30T21:43:41.512264Z
-90c1e0a5cff90928,IL,Compass Group,Compass Group,,"Evanston, 355 Ridge Ave.",126,2024-12-03,,State,2026-08-30T21:43:41.512264Z
+11ae386fc3210205,IL,"Natural Fiber Welding, Inc.",Natural Fiber Welding,,"Peoria, 6533 N Galena Rd",38,2024-12-10,,State,2026-08-30T21:43:41.512264Z
 f8a288709e980542,IL,Compass Group,Compass Group,,"Elgin, 77 Airlite St.",77,2024-12-03,,State,2026-08-30T21:43:41.512264Z
+98f25cd2b2321f82,IL,Compass Group,Compass Group,,"Joliet, 333 N. Madison St.",249,2024-12-03,,State,2026-08-30T21:43:41.512264Z
+90c1e0a5cff90928,IL,Compass Group,Compass Group,,"Evanston, 355 Ridge Ave.",126,2024-12-03,,State,2026-08-30T21:43:41.512264Z
+18eb2c88ded47887,IL,Compass Group,Compass Group,,"Chicago, 7435 W. Talcott Ave.",192,2024-12-03,,State,2026-08-30T21:43:41.512264Z
 e6db568367180574,IL,"Rocket Travel, Inc.",Rocket Travel,,"Chicago, 641 W Lake St Ste 102",61,2024-12-02,,State,2026-08-30T21:43:41.512264Z
 a0caf4464d2e7ef5,IL,A. Lava & Son LLC,A. Lava & Son,,"Chicago, 4800 S Kilbourn Ave",188,2024-11-27,,State,2026-08-30T21:43:41.512264Z
-2a3fc47fa072fe31,IL,Caterpillar - Montgomery,Caterpillar - Montgomery,,"Montgomery, 325 S. Route 31",60,2024-11-26,,State,2026-08-30T21:43:41.512264Z
 f31f99e8d0a01313,IL,"Alverno Clinical Laboratories, Inc.",Alverno Clinical Laboratories,,"Chicago, 38622 Eagle Way",413,2024-11-26,,State,2026-08-30T21:43:41.512264Z
+2a3fc47fa072fe31,IL,Caterpillar - Montgomery,Caterpillar - Montgomery,,"Montgomery, 325 S. Route 31",60,2024-11-26,,State,2026-08-30T21:43:41.512264Z
 cc5427e6c6c9e149,IL,GardaWorld Federal Services,GardaWorld Federal Services,,"Chicago, 7353 Cicero Ave.",42,2024-11-25,,State,2026-08-30T21:43:41.512264Z
 d88769e469e11d58,IL,GardaWorld Federal Services,GardaWorld Federal Services,,"Chicago, 4900 S. DuSable Lake Shore Dr.",46,2024-11-20,,State,2026-08-30T21:43:41.512264Z
 c2cf384da36971ff,IL,"Niterra North America, Inc.",Niterra North America,,"Wood Dale, 850 A.E.C. Dr.",35,2024-11-19,,State,2026-08-30T21:43:41.512264Z
@@ -238,18 +238,18 @@ eddff9ea07fdf5b1,IL,Gunite Corporation and KIC LLC,Gunite Corporation and KIC,,"
 0caa05fe0da6dc69,IL,Advance Auto Parts,Advance Auto Parts,,"Chicago, 6714 S. Western Ave. (and multiple locations)",119,2024-11-15,,State,2026-08-30T21:43:41.512264Z
 a657ccb985207caa,IL,"Charles River Laboratories, Inc.",Charles River Laboratories,,"Skokie, 8025 Lamon Ave.",94,2024-11-07,,State,2026-08-30T21:43:41.512264Z
 1eb166e894dddb15,IL,"Outform Group, Inc.",Outform Group,,"Chicago, 4300 W. 47th St. 4100 W. 76th St., Suite F",53,2024-11-05,,State,2026-08-30T21:43:41.512264Z
-0a8432eb049f6970,IL,"Decatur Rehab and Health Care Center, LLC",Decatur Rehab and Health Care Center,,"Decatur, 136 S. Dipper Lane",57,2024-11-01,,State,2026-08-30T21:43:41.512264Z
 2c4f3f66bce7c7af,IL,"The Segerdahl, LLC",Segerdahl,,"Broadview, 1900 S 25th Ave.",55,2024-11-01,,State,2026-08-30T21:43:41.512264Z
+0a8432eb049f6970,IL,"Decatur Rehab and Health Care Center, LLC",Decatur Rehab and Health Care Center,,"Decatur, 136 S. Dipper Lane",57,2024-11-01,,State,2026-08-30T21:43:41.512264Z
 9833bc7aa2e6f0a3,IL,"IMA Automation USA, Inc.",IMA Automation,,"Loves Park, 4608 Interstate Blvd",57,2024-10-31,,State,2026-08-30T21:43:41.512264Z
 4b5cb9eb1a3014e7,IL,"PepsiCo, Inc.",PepsiCo,,"Chicago, 650 W 51st Street",131,2024-10-28,,State,2026-08-30T21:43:41.512264Z
 05d57f7c2decb418,IL,Oi Glass Containers,Oi Glass Containers,,"Streator, 901 N Shabbona St",152,2024-10-24,,State,2026-08-30T21:43:41.512264Z
 2b86fbbdb05d7b1b,IL,"Upwork, Inc.",Upwork,,"Chicago, 525 W. Van Buren St., Suite1600",54,2024-10-23,,State,2026-08-30T21:43:41.512264Z
 c054cac1a7c22d48,IL,"Ryder Transportation Solutions, LLC",Ryder Transportation Solutions,,"Dixon, 828 W Progress Dr",40,2024-10-21,,State,2026-08-30T21:43:41.512264Z
 98bd1e844101106e,IL,International Paper Company,International Paper,,"Rockford, 2100 23RD Ave",104,2024-10-18,,State,2026-08-30T21:43:41.512264Z
+e96619c3a3f50c48,IL,"Acuity Optical Laboratories, LLC",Acuity Optical Laboratories,,"Normal, 2221 W. College Ave.",99,2024-10-16,,State,2026-08-30T21:43:41.512264Z
+5569e15fad5a9d9b,IL,"True Value Company, LLC",True Value,,"Chicago, 8600 W Bryn Mawr Ave Ste 100S",482,2024-10-16,,State,2026-08-30T21:43:41.512264Z
 347c5d6aa7103be9,IL,"True Value Company, LLC",True Value,,"Harvard, 306 & 308 S. Division Street",243,2024-10-16,,State,2026-08-30T21:43:41.512264Z
 161e23b7862d8ed7,IL,"True Value Company, LLC",True Value,,"Cary, 201 Jandus Rd.",148,2024-10-16,,State,2026-08-30T21:43:41.512264Z
-5569e15fad5a9d9b,IL,"True Value Company, LLC",True Value,,"Chicago, 8600 W Bryn Mawr Ave Ste 100S",482,2024-10-16,,State,2026-08-30T21:43:41.512264Z
-e96619c3a3f50c48,IL,"Acuity Optical Laboratories, LLC",Acuity Optical Laboratories,,"Normal, 2221 W. College Ave.",99,2024-10-16,,State,2026-08-30T21:43:41.512264Z
 fcb24beff1924efe,IL,Zurn Elkay Water Solutions Corp.,Zurn Elkay Water Solutions,,"Bensenville, 340 County Line Road",25,2024-10-07,,State,2026-08-30T21:43:41.512264Z
 6427bf5b3300bc13,IL,"Midwest Transport, Inc.",Midwest Transport,,"Robinson, 11385 N Trimble Rd",75,2024-09-30,,State,2026-08-30T21:43:41.512264Z
 8e61bf5caab3b3e4,IL,DHL Supply Chain,DHL Supply Chain,,"Aurora, 2380 Sullivan Road",106,2024-09-26,,State,2026-08-30T21:43:41.512264Z
@@ -268,9 +268,9 @@ c9a5e55a4975941b,IL,"Pitney Bowes, Inc.",Pitney Bowes,,"Lockport, 14746 S Gougar
 e545997d0bde584c,IL,Southeast Service Corporation,Southeast Service,,"Chicago, 801 S. Paulina",25,2024-08-02,,State,2026-08-30T21:43:41.512264Z
 23bec18b457d489d,IL,NBCUniversal Media LLC and NBC Sports Chicago LLC,NBCUniversal Media LLC and NBC Sports Chicago,,"Chicago, 350 N Orleans St. S1-100",130,2024-07-31,,State,2026-08-30T21:43:41.512264Z
 0e6149591b1d0b82,IL,"NoTrax USA, Inc.",NoTrax,,"Bedford Park, 5655 W. 73rd St.",63,2024-07-26,,State,2026-08-30T21:43:41.512264Z
+bd9970246318088d,IL,"GEODIS, LLC",Geodis,,"Romeoville, 901 Bluff Rd.",103,2024-07-22,,State,2026-08-30T21:43:41.512264Z
 84d6720e1427b317,IL,"Neovia Logistics Services, LLC",Neovia Logistics Services,,"Romeoville, 160 South Creek Parkway",96,2024-07-22,,State,2026-08-30T21:43:41.512264Z
 3a00bcdc4a05bfeb,IL,"GEODIS, LLC",Geodis,,"Romeoville, 790 W. Taylor Rd.",91,2024-07-22,,State,2026-08-30T21:43:41.512264Z
-bd9970246318088d,IL,"GEODIS, LLC",Geodis,,"Romeoville, 901 Bluff Rd.",103,2024-07-22,,State,2026-08-30T21:43:41.512264Z
 725049f678e36ce8,IL,"Capital Fitness, Inc.",Capital Fitness,,"Saint Charles, 100 Illinois St Ste 201",40,2024-07-16,,State,2026-08-30T21:43:41.512264Z
 d8ef128d4893de9c,IL,"Keplr Vision, LLC",Keplr Vision,,"Bloomington, 112 E Washington St Ste 1100",100,2024-07-09,,State,2026-08-30T21:43:41.512264Z
 24e85e905132a19a,IL,2024 Democratic National Convention Committee,2024 Democratic National Convention Committee,,"Chicago, 120 N Racine Ave., Suite 230",75,2024-07-09,,State,2026-08-30T21:43:41.512264Z
@@ -278,15 +278,15 @@ a9d00bb65110da6e,IL,Parker Hannifin Corporation,Parker Hannifin,,"Lincolnshire, 
 520c253521ab9537,IL,"Twin Cleaning Professionals, Inc.",Twin Cleaning Professionals,,"Oakbrook Terrace, 17W695 Butterfield Rd., Suite G",49,2024-07-03,,State,2026-08-30T21:43:41.512264Z
 be72ef3e7d6b6807,IL,"Raymundos Food Group, LLC",Raymundos Food Group,,"Bedford Park, 7424 S Lockwood Ave",123,2024-06-28,,State,2026-08-30T21:43:41.512264Z
 14f5fe2f59cdc07c,IL,Jelly Belly Candy Company,Jelly Belly Candy,,"North Chicago, 1501 Morrow Ave",66,2024-06-27,,State,2026-08-30T21:43:41.512264Z
-35a5a95b4479bee8,IL,"ShipBob, Inc.",ShipBob,,"Cicero, 5900 W Ogden Ave.",73,2024-06-25,,State,2026-08-30T21:43:41.512264Z
 8134af6e562e4eeb,IL,First Student,First Student,,"Carol Stream, 505 E. North Ave.",130,2024-06-25,,State,2026-08-30T21:43:41.512264Z
+35a5a95b4479bee8,IL,"ShipBob, Inc.",ShipBob,,"Cicero, 5900 W Ogden Ave.",73,2024-06-25,,State,2026-08-30T21:43:41.512264Z
 6fc1549177aa954a,IL,HN Precision,HN Precision,,"Lake Bluff, 601 N. Skokie Highway, Suite A",104,2024-06-19,,State,2026-08-30T21:43:41.512264Z
 69d4b53cd041c93d,IL,Xellia Pharmaceutical USA LLC,Xellia Pharmaceutical,,"Buffalo Grove, 2100 E Lake Cook Rd, Suite 1015",278,2024-06-17,,State,2026-08-30T21:43:41.512264Z
 bfff2a99097055ad,IL,"Ascendtek, LLC",Ascendtek,,"Cary, 680 Industrial Drive",100,2024-06-11,,State,2026-08-30T21:43:41.512264Z
 6f2bf5b1efcbad35,IL,Four Star Express Delivery LLC,Four Star Express Delivery,,"Skokie, 3639 Howard Street",104,2024-06-11,,State,2026-08-30T21:43:41.512264Z
 284df37d744c59d6,IL,GD Energy Products,GD Energy Products,,"Quincy, 1800 Gardner Expressway",61,2024-06-04,,State,2026-08-30T21:43:41.512264Z
-3ab822373c66302d,IL,"First Transit, Inc.",First Transit,,"Glen Ellyn, 799 Roosevelt Rd Ste 4-200",49,2024-05-31,,State,2026-08-30T21:43:41.512264Z
 d327793a1386d102,IL,Lake Land College,Lake Land College,,"Mattoon, 5001 Lake Land Blvd",105,2024-05-31,,State,2026-08-30T21:43:41.512264Z
+3ab822373c66302d,IL,"First Transit, Inc.",First Transit,,"Glen Ellyn, 799 Roosevelt Rd Ste 4-200",49,2024-05-31,,State,2026-08-30T21:43:41.512264Z
 bb93e3f360b0c6df,IL,Genpact LLC,Genpact,,"Chicago, 233 N. Michigan Ave., Two IL Center, Ste 1440, 14th Floor",129,2024-05-29,,State,2026-08-30T21:43:41.512264Z
 5fb9d6690d021c3b,IL,The Lagunitas Brewing Company,Lagunitas Brewing,,"Chicago, 1843 South Washtenaw",86,2024-05-23,,State,2026-08-30T21:43:41.512264Z
 2fb96bae93f3682d,IL,Marion Manufacturing,Marion Manufacturing,,"Morton, 701 Flint Ave.",31,2024-05-14,,State,2026-08-30T21:43:41.512264Z
@@ -295,21 +295,21 @@ ee8fe2294a68f1d0,IL,Aramark at Chicago Public Schools,Aramark at Chicago Public 
 78c4b97c85483dc4,IL,"Total Facility Maintenance, Inc.",Total Facility Maintenance,,"Wood Dale, 615 Wheat Ln Ste C",188,2024-04-30,,State,2026-08-30T21:43:41.512264Z
 036b66ce9a5d32d0,IL,GEODIS Logistics LLC,GEODIS Logistics,,"Edwardsville, 14 Gateway Commerce Center Dr.",74,2024-04-30,,State,2026-08-30T21:43:41.512264Z
 e0018238146f354a,IL,"Land O'Frost, Inc.",Land O'Frost,,"Chicago, 700 E. 107th St.",215,2024-04-29,,State,2026-08-30T21:43:41.512264Z
-3ea4e270a310d47e,IL,Rainbow Beach Care Center,Rainbow Beach Care Center,,"Chicago, 7325 S. Exchange Ave.",99,2024-04-25,,State,2026-08-30T21:43:41.512264Z
 73a922f42b845075,IL,Chartwells at U of I Chicago,Chartwells at U of I Chicago,,"Chicago, 750 S. Halsted St.",227,2024-04-25,,State,2026-08-30T21:43:41.512264Z
-25ec0698629173c2,IL,Dom's Kitchen & Market,Dom's Kitchen & Market,,"Chicago, 2730 N. Halsted St. - 60614 1233 N. Wells St.",281,2024-04-24,,State,2026-08-30T21:43:41.512264Z
-40d07badc5157e41,IL,"Foxtrot Ventures, Inc.",Foxtrot Ventures,,"Chicago, 167 N. Green St.",66,2024-04-24,,State,2026-08-30T21:43:41.512264Z
+3ea4e270a310d47e,IL,Rainbow Beach Care Center,Rainbow Beach Care Center,,"Chicago, 7325 S. Exchange Ave.",99,2024-04-25,,State,2026-08-30T21:43:41.512264Z
 41a9153a3b6ec9c2,IL,SunPower Corp. Operations Center,SunPower Corp. Operations Center,,"Elgin, 2380 Vantage Dr.",60,2024-04-24,,State,2026-08-30T21:43:41.512264Z
+40d07badc5157e41,IL,"Foxtrot Ventures, Inc.",Foxtrot Ventures,,"Chicago, 167 N. Green St.",66,2024-04-24,,State,2026-08-30T21:43:41.512264Z
+25ec0698629173c2,IL,Dom's Kitchen & Market,Dom's Kitchen & Market,,"Chicago, 2730 N. Halsted St. - 60614 1233 N. Wells St.",281,2024-04-24,,State,2026-08-30T21:43:41.512264Z
 597c30f692642174,IL,"Oberweis Dairy, Inc.",Oberweis Dairy,,"North Aurora, 951 Ice Cream Dr.",127,2024-04-12,,State,2026-08-30T21:43:41.512264Z
 85eec9451cc99e62,IL,Quaker Manufacturing LLC,Quaker Manufacturing,,"Danville, 1703 E. Voorhees St.",510,2024-04-08,,State,2026-08-30T21:43:41.512264Z
-b35e122562c66e40,IL,CSL Behring LLC,CSL Behring,,"Bradley, 1201 North Kinzie Ave.",65,2024-04-05,,State,2026-08-30T21:43:41.512264Z
-473287823edc4f4c,IL,"Elite Labor Services, Ltd.",Elite Labor Services,,"Geneva, 1800 Averill Rd.",177,2024-04-05,,State,2026-08-30T21:43:41.512264Z
-a275a9bff36d9b79,IL,"Elite Labor Services, Ltd.",Elite Labor Services,,"Itasca, 1220 N. Meacham Rd",89,2024-04-05,,State,2026-08-30T21:43:41.512264Z
 f5c1fb0bc7b78e08,IL,"Elite Labor Services, Ltd.",Elite Labor Services,,"Carol Stream, 720 Center Ave.",66,2024-04-05,,State,2026-08-30T21:43:41.512264Z
+b35e122562c66e40,IL,CSL Behring LLC,CSL Behring,,"Bradley, 1201 North Kinzie Ave.",65,2024-04-05,,State,2026-08-30T21:43:41.512264Z
+a275a9bff36d9b79,IL,"Elite Labor Services, Ltd.",Elite Labor Services,,"Itasca, 1220 N. Meacham Rd",89,2024-04-05,,State,2026-08-30T21:43:41.512264Z
 8649c3e3451e9b0f,IL,"Elite Labor Services, Ltd.",Elite Labor Services,,"Romeoville, 1001 W. Crossroads Pkwy",376,2024-04-05,,State,2026-08-30T21:43:41.512264Z
+473287823edc4f4c,IL,"Elite Labor Services, Ltd.",Elite Labor Services,,"Geneva, 1800 Averill Rd.",177,2024-04-05,,State,2026-08-30T21:43:41.512264Z
 2ae1d4da32557d7b,IL,"Elite Labor Services, Ltd.",Elite Labor Services,,"Bolingbrook, 1100 Remington Blvd.",61,2024-04-05,,State,2026-08-30T21:43:41.512264Z
-215749ca751bfe83,IL,"Vestis Services, LLC",Vestis Services,,"Decatur, 3718 East Mound Road",44,2024-04-04,,State,2026-08-30T21:43:41.512264Z
 a947a634c69bf2f0,IL,"Superior Consolidated Industries, Inc.",Superior Consolidated Industries,,"Normal, 2219 W. College",106,2024-04-04,,State,2026-08-30T21:43:41.512264Z
+215749ca751bfe83,IL,"Vestis Services, LLC",Vestis Services,,"Decatur, 3718 East Mound Road",44,2024-04-04,,State,2026-08-30T21:43:41.512264Z
 ef1d1bdcbf2b4fdc,IL,RR Donnelley,RR Donnelley,,"Clinton, 900 S Cain St",76,2024-04-03,,State,2026-08-30T21:43:41.512264Z
 d8ba3c62c52377a3,IL,"INEOS Joliet, LLC",INEOS Joliet,,"Channahon, 23425 Amoco Road",142,2024-04-03,,State,2026-08-30T21:43:41.512264Z
 ab558e4e6d669816,IL,ITW Shakeproof,ITW Shakeproof,,"Elk Grove Village, 2700 York Rd",66,2024-04-03,,State,2026-08-30T21:43:41.512264Z
@@ -329,19 +329,19 @@ ac0a75aca8f765a7,IL,"Sunrise Coal, LLC - Russellville Portal (Mine 2)","Sunrise 
 5ff37e0819d12540,IL,Block Inc.,Block,,"San Francisco, 1455 Market Street Suite 600",45,2024-01-30,,State,2026-08-30T21:43:41.512264Z
 bf13241c8ed1f648,IL,Meetings & Events International,Meetings & Events International,,"Chicago, 1348 W Concord Place",32,2024-01-26,,State,2026-08-30T21:43:41.512264Z
 8e2e11d18ac30b7f,IL,Midmark Corporation,Midmark,,"Buffalo Grove, 1001 Asbury Dr",53,2024-01-24,,State,2026-08-30T21:43:41.512264Z
-b14ad04d3d2e83e4,IL,Discover Financial Services,Discover Financial Services,,"Riverwoods, 2500 Lake Cook Rd",283,2024-01-19,,State,2026-08-30T21:43:41.512264Z
 f3cf8e7264a134fc,IL,"Crown Cork & Seal USA, Inc.",Crown Cork & Seal,,"Warrensburg, 970 W North St",40,2024-01-19,,State,2026-08-30T21:43:41.512264Z
-76bb85a6c024f0c6,IL,"Quad Logistics Services, LLC",Quad Logistics Services,,"Bolingbrook, 1290 Remington Blvd.",74,2024-01-19,,State,2026-08-30T21:43:41.512264Z
 d716497aed93baa5,IL,DHL Supply Chain,DHL Supply Chain,,"Joliet, 4005 Cedar Creek Drive",161,2024-01-19,,State,2026-08-30T21:43:41.512264Z
+b14ad04d3d2e83e4,IL,Discover Financial Services,Discover Financial Services,,"Riverwoods, 2500 Lake Cook Rd",283,2024-01-19,,State,2026-08-30T21:43:41.512264Z
+76bb85a6c024f0c6,IL,"Quad Logistics Services, LLC",Quad Logistics Services,,"Bolingbrook, 1290 Remington Blvd.",74,2024-01-19,,State,2026-08-30T21:43:41.512264Z
 c348e7c4b96e28b6,IL,"Hillside Logistics, Inc.",Hillside Logistics,,"Hillside, 5999 Butterfield Rd",136,2024-01-12,,State,2026-08-30T21:43:41.512264Z
-a7883154245d9373,IL,"Amscan, Inc.",Amscan,,"Naperville, 2727 W Diehl Rd",65,2024-01-11,,State,2026-08-30T21:43:41.512264Z
 f75423bd0e82d3c1,IL,"Marsden Services, LLC",Marsden Services,,"Monee, 6605 W Monee Manhattan Rd",113,2024-01-11,,State,2026-08-30T21:43:41.512264Z
+a7883154245d9373,IL,"Amscan, Inc.",Amscan,,"Naperville, 2727 W Diehl Rd",65,2024-01-11,,State,2026-08-30T21:43:41.512264Z
 6f53019d41855545,IL,"Marsden Services, LLC",Marsden Services,,"Matteson, 7001 Vollmer Rd",121,2024-01-11,,State,2026-08-30T21:43:41.512264Z
-d2c03335ca8a0c97,IL,"Packers Sanitation Services, Inc.",Packers Sanitation Services,,"Beardstown, 8295 Arenzille Rd.",176,2024-01-10,,State,2026-08-30T21:43:41.512264Z
-22da4e4bb1b11eee,IL,GDI Services,GDI Services,,"Joliet, 201 Emerald Dr.",50,2024-01-10,,State,2026-08-30T21:43:41.512264Z
-38dbbec2c881e7b4,IL,GDI Services,GDI Services,,"Romeoville, 1125 Remington Blvd.",27,2024-01-10,,State,2026-08-30T21:43:41.512264Z
 f2c585f3a218d670,IL,GDI Services,GDI Services,,"Naperville, 2865 Duke Parkway",42,2024-01-10,,State,2026-08-30T21:43:41.512264Z
+d2c03335ca8a0c97,IL,"Packers Sanitation Services, Inc.",Packers Sanitation Services,,"Beardstown, 8295 Arenzille Rd.",176,2024-01-10,,State,2026-08-30T21:43:41.512264Z
 681c1963aeb2454c,IL,GDI Services,GDI Services,,"Channahon, 23714 Amoco Road",40,2024-01-10,,State,2026-08-30T21:43:41.512264Z
+38dbbec2c881e7b4,IL,GDI Services,GDI Services,,"Romeoville, 1125 Remington Blvd.",27,2024-01-10,,State,2026-08-30T21:43:41.512264Z
+22da4e4bb1b11eee,IL,GDI Services,GDI Services,,"Joliet, 201 Emerald Dr.",50,2024-01-10,,State,2026-08-30T21:43:41.512264Z
 e5dafd933e93cfe9,IL,Stratus Unlimited LLC,Stratus Unlimited,,"Elk Grove Village, 2480 Greenleaf Ave",39,2024-01-08,,State,2026-08-30T21:43:41.512264Z
 e3dcc959b9a01837,IL,"Adecco USA, Inc.",Adecco,,"Morris, 222 Airport Rd.",145,2024-01-02,,State,2026-08-30T21:43:41.512264Z
 c8de312f99f42a47,IL,G. E. APPLIANCES,G. E. Appliances,,"CICERO, 1540 SOUTH 54TH AVENUE",1100,,,State,2026-08-30T21:43:41.512264Z

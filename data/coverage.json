@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-31T13:18:34.806748Z",
-  "total_rows": 40238,
+  "generated_at": "2026-08-31T13:21:15.643035Z",
+  "total_rows": 40251,
   "free_rows": 6730,
   "free_window_start": "2024-01-01",
   "new_ids_this_run": 0,
@@ -52,7 +52,7 @@
       "status": "ok"
     },
     "KS": {
-      "rows": 778,
+      "rows": 791,
       "raw_rows": 778,
       "status": "ok"
     },
