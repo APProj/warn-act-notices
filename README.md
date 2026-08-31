@@ -1,6 +1,6 @@
 # US WARN Act Layoff Notices — normalized, daily-updated dataset
 
-**10,046 layoff notices since 2024 · 25 states · one clean schema · CSV + JSON · updated 2026-08-31**
+**6,659 layoff notices since 2024 · 25 states · one clean schema · CSV + JSON · updated 2026-08-31**
 
 Every US state publishes WARN Act layoff notices differently — different sites,
 formats, column names, and date conventions. This repo normalizes them into one
@@ -17,7 +17,7 @@ deduplicated dataset, refreshed daily.
 No login, no API key. Scope of the free dataset, stated plainly: notices from
 **2024-01-01** onward, **48h-delayed** (newly scraped notices appear here 48 hours
 after our pipeline first sees them). The full archive back to 1988
-(35,113 notices) and the zero-delay feed are the commercial products
+(35,923 notices) and the zero-delay feed are the commercial products
 that fund the pipeline.
 
 ## Schema
@@ -45,7 +45,7 @@ that fund the pipeline.
 | Connecticut (CT) | 27 | [ct.csv](data/by-state/ct.csv) | ok |
 | GA (GA) | 281 | — | ok |
 | Iowa (IA) | 415 | [ia.csv](data/by-state/ia.csv) | ok |
-| Illinois (IL) | 4,032 | [il.csv](data/by-state/il.csv) | ok |
+| Illinois (IL) | 4,842 | [il.csv](data/by-state/il.csv) | ok |
 | Indiana (IN) | 1,180 | [in.csv](data/by-state/in.csv) | ok |
 | Kansas (KS) | 686 | — | ok |
 | Kentucky (KY) | 804 | [ky.csv](data/by-state/ky.csv) | ok |
@@ -73,22 +73,25 @@ e.g. California layoff notices: [`data/by-state/ca.csv`](data/by-state/ca.csv).
 
 | Month | Notices | Workers affected |
 |---|---:|---:|
-| 2025-09 | 164 | 17,914 |
-| 2025-10 | 291 | 29,464 |
-| 2025-11 | 213 | 12,750 |
-| 2025-12 | 78 | 6,757 |
-| 2026-01 | 252 | 20,973 |
-| 2026-02 | 203 | 14,373 |
-| 2026-03 | 220 | 12,956 |
-| 2026-04 | 266 | 15,468 |
-| 2026-05 | 214 | 29,017 |
-| 2026-06 | 210 | 12,607 |
-| 2026-07 | 147 | 11,080 |
-| 2026-08 | 135 | 9,535 |
+| 2025-09 | 186 | 20,931 |
+| 2025-10 | 320 | 32,517 |
+| 2025-11 | 227 | 15,616 |
+| 2025-12 | 89 | 8,076 |
+| 2026-01 | 275 | 24,110 |
+| 2026-02 | 230 | 19,505 |
+| 2026-03 | 242 | 14,726 |
+| 2026-04 | 282 | 18,346 |
+| 2026-05 | 237 | 32,709 |
+| 2026-06 | 231 | 14,795 |
+| 2026-07 | 168 | 14,221 |
+| 2026-08 | 152 | 14,147 |
 
 More states are added as their sources are verified. Some states publish
-incomplete fields (e.g. NJ omits notice dates); we normalize what exists and
-never invent values.
+incomplete fields; we normalize what exists and never invent values. Precision
+note: NJ publishes only the posting month, so NJ `notice_date` is month
+precision (day pinned to 01, year inferred from the effective date). IL
+`notice_date` is the earliest notification on record; amended IL notices carry
+the latest revised headcount.
 
 ## Real-time feed & full history (commercial)
 
@@ -99,7 +102,7 @@ expensive part. Commercial options:
   delay, including notices seen in the last 48h, refreshed on every pipeline
   run. Delivered as a private GitHub repo you can pull/watch.
 - **[Full historical archive — $199 one-time](https://approj.gumroad.com/l/warn-archive)** — every notice
-  we have back to 1988 (35,113 rows, all 25 states), CSV + JSON.
+  we have back to 1988 (35,923 rows, all 25 states), CSV + JSON.
 
 Delivery is automatic: enter your GitHub username at checkout and you're
 invited to the private repo. Questions first? [Open an issue](https://github.com/APProj/warn-act-notices/issues)
