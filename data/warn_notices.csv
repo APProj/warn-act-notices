@@ -56,7 +56,6 @@ b59703fcf163861b,CA,Corteva Agriscience LLC,Corteva Agriscience,,Contra Costa Co
 dda80ee07f73cd64,MD,Amentum,Amentum,,"7710 Milestone Parkway Hanover, MD 21076",65,2026-08-18,2026-11-13,Mass Layoff- No Recall,2026-08-30T21:43:41.512264Z
 551d9a4569da702c,MD,Amentum,Amentum,,"7710 Milestone Parkway Hanover, MD 21076",317,2026-08-18,2026-10-31,Mass Layoff- No Recall,2026-08-30T21:43:41.512264Z
 9a8ee4a0b4aa152f,WA,TT Commerce & Global Services,TT Commerce & Global Services,,Bellevue,75,2026-08-18,2026-10-19,Layoff,2026-08-30T21:43:41.512264Z
-ff0690d3c24dd946,AZ,"Pinnacle Transplant Technologies, LLC",Pinnacle Transplant Technologies,,Phoenix,90,2026-08-17,,WARN,2026-08-30T21:43:41.512264Z
 277b15df26caa4f5,CA,Roskam Baking Company dba Organic Milling,Roskam Baking,Organic Milling,Los Angeles County,115,2026-08-17,2026-10-02,Layoff Permanent,2026-08-30T21:43:41.512264Z
 4f1e63c48e7e7fc0,CA,LeeMAH Electronics,LeeMAH Electronics,,San Mateo County,205,2026-08-17,2026-10-16,Closure Permanent,2026-08-30T21:43:41.512264Z
 f32a2a2a038de2e1,OK,"T-Mobile USA, Inc.",T-Mobile,,Oklahoma City,,2026-08-17,,Other,2026-08-30T21:43:41.512264Z
@@ -390,6 +389,7 @@ a80573fff0bb03d8,OK,CONDUENT PATIENT ACCESS SOLUTIONS,Conduent Patient Access So
 0cf9c449a60fadcb,WA,"Transdev Services, Inc",Transdev Services,,Everett,108,2026-06-26,2026-08-29,Layoff,2026-08-30T21:43:41.512264Z
 6c6b16933c963969,AZ,"Central Admixture Pharmacy Services, Inc.",Central Admixture Pharmacy Services,,Phoenix,116,2026-06-25,,WARN,2026-08-30T21:43:41.512264Z
 baf541c20cc550b4,WA,"Bungie, Inc/Sony Interactive Entertainment","Bungie, Inc/Sony Interactive Entertainment",,Bellevue,292,2026-06-25,2026-07-09,Layoff,2026-08-30T21:43:41.512264Z
+5d9adf4d931c5209,AZ,Ingram Micro Services LLC,Ingram Micro Services,,Chandler,,2026-06-24,,WARN,2026-08-30T21:43:41.512264Z
 b31e648872642bc5,CA,ODS Technologies LP and Betfair Interactive US LLC,ODS Technologies LP and Betfair Interactive US,,Los Angeles County,28,2026-06-24,2026-08-04,Layoff Permanent,2026-08-30T21:43:41.512264Z
 c7bf5c0221a2aa75,CA,"Cisco Systems, Inc.",Cisco Systems,,Santa Clara County,236,2026-06-24,2026-07-13,Layoff Permanent,2026-08-30T21:43:41.512264Z
 88f258be8455ae7c,CA,"BILL Operations, LLC",BILL Operations,,Santa Clara County,129,2026-06-24,2026-08-24,Layoff Permanent,2026-08-30T21:43:41.512264Z
@@ -448,7 +448,6 @@ b42fe49a91522364,IN,"SIMOS Insourcing Solutions, LLC",SIMOS Insourcing Solutions
 e9e3590730ee4505,TN,JBS USA Food Company,JBS USA Food,,Shelby,208,2026-06-17,2026-08-14,,2026-08-30T21:43:41.512264Z
 a3c69714f6426ddb,TN,Smurfit Westrock,Smurfit Westrock,,Wilson,52,2026-06-17,2026-08-14,,2026-08-30T21:43:41.512264Z
 3e0903d3688dd286,TN,YesCare Corp.,YesCare,,Williamson,150,2026-06-17,2026-06-22,,2026-08-30T21:43:41.512264Z
-6845073274151ee5,VT,"St. Albans Creamery, LLC",St. Albans Creamery,,Saint Albans,81,2026-06-17,,WARN,2026-08-30T21:43:41.512264Z
 a0fe07e45c62db14,WA,"First Student, Inc.",First Student,,Seattle,111,2026-06-17,2026-08-17,Layoff,2026-08-30T21:43:41.512264Z
 369093ab5a0a6eb3,AZ,"Leona Arizona Employment Group, Inc.",Leona Arizona Employment Group,,Phoenix,66,2026-06-16,,WARN,2026-08-30T21:43:41.512264Z
 b54628f8717da7ff,CA,United Natural Foods West,United Natural Foods West,,Los Angeles County,11,2026-06-16,2026-08-17,Closure Permanent,2026-08-30T21:43:41.512264Z
@@ -532,6 +531,7 @@ bd7b061718354978,CA,"Telecare Corporation - Brighter Tomorrow, Program 162 &quot
 95885cf4f896c9a4,CA,"Telecare Corproation - Stonehenge, Program 165 &quot;Casa E&quot;","Telecare Corproation - Stonehenge, Program 165 &quot;Casa E&quot;",,Ventura County,18,2026-06-03,2026-06-30,Closure Permanent,2026-08-30T21:43:41.512264Z
 c22e755d879e8d23,IL,Hawthorne Race Course,Hawthorne Race Course,,"Stickney, 3501 S. Laramie multiple additional locations",290,2026-06-03,,State,2026-08-30T21:43:41.512264Z
 56e220fe9b352241,MD,Federal Express Corporation,Federal Express,,"5255 Falcon Drive Salisbury, MD 21804",25,2026-06-03,2026-08-03,Mass Layoff - No Recall: Note: Performing work at SBYA facility,2026-08-30T21:43:41.512264Z
+00be2ba7d79be923,AZ,Federal Express Corporation,Federal Express,,Phoenix,,2026-06-02,,WARN,2026-08-30T21:43:41.512264Z
 90603699c07bc7d5,CA,"HealthCare Partners Group, P.C.",HealthCare Partners Group,,Los Angeles County,1,2026-06-02,2026-08-28,Layoff Permanent,2026-08-30T21:43:41.512264Z
 f45b5ee94fa62ce0,CA,"Optum Care, Inc.",Optum Care,,Los Angeles County,2,2026-06-02,2026-07-31,Layoff Permanent,2026-08-30T21:43:41.512264Z
 4f025364a0c56e01,CA,"Optum Care, Inc.",Optum Care,,Ventura County,80,2026-06-02,2026-10-03,Layoff Permanent,2026-08-30T21:43:41.512264Z
@@ -580,7 +580,6 @@ ba11f9ded06f9485,WI,"Sparhawk Trucking Inc. / Sparhawk Truck and Trailer Inc.<br
 d44b437549bcfc03,CA,"CHW Entertainment, Inc. dba The Shout! House and Garage",CHW Entertainment,The Shout! House and Garage,San Diego County,77,2026-05-28,2026-08-03,Layoff Permanent,2026-08-30T21:43:41.512264Z
 045e342c84cfa182,NY,"Flagship Logistics, LLC.",Flagship Logistics,,Steuben,43,2026-05-28,2026-06-30,Closure,2026-08-30T21:43:41.512264Z
 543c3150e35d39c7,VT,Franklin Foods,Franklin Foods,,Enosburg Falls,99,2026-05-28,,WARN,2026-08-30T21:43:41.512264Z
-5a08e8b0b3975577,AZ,Honeywell AZ0Y,Honeywell AZ0Y,,Chandler,60,2026-05-27,,WARN,2026-08-30T21:43:41.512264Z
 e2940ef03879e5fa,CA,KBR Services LLC,KBR Services,,San Bernardino County,650,2026-05-27,2026-08-01,Layoff Temporary,2026-08-30T21:43:41.512264Z
 e8bb2f2569130734,CA,"Transdev Services, Inc.",Transdev Services,,Yolo County,84,2026-05-27,2026-07-31,Closure Permanent,2026-08-30T21:43:41.512264Z
 c797202c133f71ec,NY,Bronx Parent Housing Network,Bronx Parent Housing Network,,Bronx,44,2026-05-27,2026-08-31,Layoff,2026-08-30T21:43:41.512264Z
@@ -924,6 +923,7 @@ e6b5e4cf4ec941c4,IA,Transco Rail Services,Transco Rail Services,,Oelwein,40,2026
 8442631430d6bf04,KY,Marsden Services LLC,Marsden Services,,Jefferson County - Louisville,106,2026-04-16,2026-05-10,Layoff,2026-08-30T21:43:41.512264Z
 c3601bee863f0dc1,TN,"T-Mobile USA, Inc.",T-Mobile,,Hamilton,200,2026-04-16,2026-06-08,,2026-08-30T21:43:41.512264Z
 843d78a970b914d8,WA,ZoomCare,ZoomCare,,Bellevue & Remote,36,2026-04-16,2026-06-15,Layoff,2026-08-30T21:43:41.512264Z
+97984ec38dbf58f0,AZ,"Marsden Services, LLC",Marsden Services,,Tucson,,2026-04-15,,WARN,2026-08-30T21:43:41.512264Z
 d18c8dda9188bf6a,CA,Snap Inc.,Snap,,Los Angeles County,247,2026-04-15,2026-04-16,Layoff Permanent,2026-08-30T21:43:41.512264Z
 229bf9927fd0d9ef,CA,Block by Block,Block by Block,,San Francisco County,47,2026-04-15,2026-06-13,Layoff Permanent,2026-08-30T21:43:41.512264Z
 b52c37eb07de67a5,TN,Pave It Forward Logistics,Pave It Forward Logistics,,Rutherford,100,2026-04-15,2026-03-31,,2026-08-30T21:43:41.512264Z
@@ -1479,7 +1479,6 @@ dd8d2e3a348c9884,NY,"Mizkan America, Inc.",Mizkan America,,Orleans,30,2026-02-10
 5fb46a31916e1783,CA,Searles Valley Minerals,Searles Valley Minerals,,San Bernardino County,270,2026-02-06,2026-04-07,Layoff Permanent,2026-08-30T21:43:41.512264Z
 ac50e6fb90b6932b,IA,"Cedar Valley Corp, LLC",Cedar Valley,,Waterloo,89,2026-02-06,2026-03-17,Closing,2026-08-30T21:43:41.512264Z
 befa7b15aacd8061,MD,"LifeBridge Suburban Staffing, LLC",LifeBridge Suburban Staffing,,"2850 N. Ridge Road Ellicott City, MD",23,2026-02-06,2026-03-07,"Plant Closure Note: Work performed at Ellicott City Ambulatory Surgery Center, L.L.L.P)",2026-08-30T21:43:41.512264Z
-313f874897373954,AZ,Liberty Dental Plan,Liberty Dental Plan,,Tustin,1,2026-02-05,,WARN,2026-08-30T21:43:41.512264Z
 743c1f0b430c21f3,CA,Workday Inc.,Workday,,Alameda County,154,2026-02-05,2026-04-06,Layoff Permanent,2026-08-30T21:43:41.512264Z
 103e99c4f032b4e6,CA,"Medtronic, Inc.",Medtronic,,Los Angeles County,81,2026-02-05,2026-04-07,Layoff Permanent,2026-08-30T21:43:41.512264Z
 9ddf062b80c3eb7a,CA,"Natron Energy, Inc.",Natron Energy,,Santa Clara County,58,2026-02-05,2025-09-03,Closure Permanent,2026-08-30T21:43:41.512264Z
@@ -1675,7 +1674,6 @@ c063ca5e744dad11,NY,"Fresenius USA Manufacturing, Inc.",Fresenius USA Manufactur
 b23bb6d4cf2d91f1,WA,Amazon,Amazon,,Various locations in Washington,401,2026-01-28,2026-04-28,Closure,2026-08-30T21:43:41.512264Z
 9df037314b1ae8c0,WA,CHS Northwest,CHS Northwest,,Lynden,11,2026-01-28,2026-04-01,Layoff,2026-08-30T21:43:41.512264Z
 5a103b2b1222f33f,WI,Fresenius USA MFG INC,Fresenius USA MFG,,Kenosha,41,2026-01-28,2026-04-10,WR,2026-08-30T21:43:41.512264Z
-e00def7e1ec8ba9d,AZ,Benchmark,Benchmark,,Phoenix,65,2026-01-27,,WARN,2026-08-30T21:43:41.512264Z
 ea4a66ad761a228b,CA,"Schultz Industrial Services, Inc.",Schultz Industrial Services,,Los Angeles County,66,2026-01-27,2026-03-31,Closure Permanent,2026-08-30T21:43:41.512264Z
 b7b679de45adc95a,CA,JBT Marel Corporation,JBT Marel,,Madera County,59,2026-01-27,2026-09-18,Closure Permanent,2026-08-30T21:43:41.512264Z
 488deab17b87c0cd,CA,Google (BRGAS1265),Google (BRGAS1265),,Santa Clara County,1,2026-01-27,2026-04-12,Layoff Permanent,2026-08-30T21:43:41.512264Z
@@ -2157,6 +2155,7 @@ a0a6d1326a1cbf83,CA,J & J Snack Foods,J & J Snack Foods,,San Bernardino County,1
 fdef0a94646556f5,MD,"Spirit Airlines, BWI","Spirit Airlines, BWI",,"883 Airport Park Rd, Suite C Glen Burnie, MD 21061",28,2025-10-31,,Plant Closure Update: 16 (AMFA) employees will be furloughed; 12 non-union employees will be laid of,2026-08-30T21:43:41.512264Z
 c028185bd3d853ff,WA,"Phillips Ultrasound, Inc",Phillips Ultrasound,,Bothell,33,2025-10-31,2025-12-31,Layoff,2026-08-30T21:43:41.512264Z
 3727e4e470e91b70,WA,Tessera,Tessera,,Joint Base Lewis McChord,85,2025-10-31,2025-11-01,Layoff,2026-08-30T21:43:41.512264Z
+577f5858ee7eaf91,AZ,Arizona Autism,Arizona Autism,,Phoenix,,2025-10-30,,WARN,2026-08-30T21:43:41.512264Z
 e25234069b8882ac,CA,Warner Music Inc.,Warner Music,,Los Angeles County,2,2025-10-30,2026-01-02,Layoff Permanent,2026-08-30T21:43:41.512264Z
 19c5dc01413d9b4f,CA,Cepheid B1,Cepheid B1,,Santa Clara County,15,2025-10-30,2025-12-31,Layoff Permanent,2026-08-30T21:43:41.512264Z
 4511ecf182d7514d,CA,Cepheid B3,Cepheid B3,,Santa Clara County,1,2025-10-30,2025-12-31,Layoff Permanent,2026-08-30T21:43:41.512264Z
@@ -2492,6 +2491,7 @@ e5c17f0640db834a,IL,Mauser Packaging Solutions,Mauser Packaging Solutions,,"Chic
 2132f4af679bbc90,NE,ITC Federal,ITC Federal,,Lincoln,192,2025-09-30,,,2026-08-30T21:43:41.512264Z
 ba0884247a2b3398,OR,Wells Fargo Center - Portland,Wells Fargo Center - Portland,,Portland,50,2025-09-30,2025-11-28,Large Layoff - 10 or more workers,2026-08-30T21:43:41.512264Z
 76214fd9b5dba5fc,TN,DoubleTree by Memphis,DoubleTree by Memphis,,Shelby,88,2025-09-30,2025-11-30,,2026-08-30T21:43:41.512264Z
+fa090af7bd0d8735,VT,ITC Federal,ITC Federal,,Essex Junction,60,2025-09-30,,WARN,2026-08-30T21:43:41.512264Z
 037c4a59267a3d72,WA,BM Administrative Services,BM Administrative Services,,Various locations in Washington,268,2025-09-30,2025-11-30,Layoff,2026-08-30T21:43:41.512264Z
 beaeffd45153b93c,CA,City of Hope,City of Hope,,Los Angeles County,56,2025-09-29,2025-11-25,Layoff Permanent,2026-08-30T21:43:41.512264Z
 655da8523587eb44,CA,University of Southern California,University of Southern California,,Los Angeles County,55,2025-09-29,2025-10-04,Layoff Permanent,2026-08-30T21:43:41.512264Z
@@ -2588,6 +2588,7 @@ a13c5023b77c692a,CT,PosiGen Developer LLC,PosiGen Developer,,"Shelton, Danbury, 
 36aaab67624a4fcf,SC,Cooperative Health,Cooperative Health,,Richland,80,2025-09-12,,,2026-08-30T21:43:41.512264Z
 4d46131bd884e92a,WA,NWFM,NWFM,,Various locations in Washington,283,2025-09-12,2025-11-15,Layoff,2026-08-30T21:43:41.512264Z
 82732359cc34518c,WA,Washington Orchard Management,Washington Orchard Management,,Various locations in Washington,336,2025-09-11,2025-11-07,Layoff,2026-08-30T21:43:41.512264Z
+b18abd729fa0aec5,AZ,"McGee Air Services, Inc.",McGee Air Services,,Phoenix,,2025-09-10,,WARN,2026-08-30T21:43:41.512264Z
 b78297267554e95a,CA,Kaiser Foundation Hospitals-Pleasanton,Kaiser Foundation Hospitals-Pleasanton,,Alameda County,14,2025-09-10,2025-09-08,Layoff Permanent,2026-08-30T21:43:41.512264Z
 7247836bdef0aa05,CA,Kaiser Foundation Hospitals-Antioch,Kaiser Foundation Hospitals-Antioch,,Contra Costa County,1,2025-09-10,2025-09-08,Layoff Permanent,2026-08-30T21:43:41.512264Z
 2f6026a8ed1819ea,CA,Kaiser Foundation Hospitals - Walnut Creek,Kaiser Foundation Hospitals - Walnut Creek,,Contra Costa County,1,2025-09-10,2025-09-08,Layoff Permanent,2026-08-30T21:43:41.512264Z
@@ -2803,6 +2804,7 @@ fa664b154dd1e67d,MD,CDM Field Services LLC d/b/a Xcite Automotive (“CDM”),CD
 150121a3fb5dbee4,MD,Baltimore Fabrication LLC,Baltimore Fabrication,,"821 North Point Road Baltimore, MD 21237",33,2025-08-08,2025-11-28,Plant Closure,2026-08-30T21:43:41.512264Z
 564690e1ff5ce751,WA,Providence Health & Services,Providence Health & Services,,Various locations in Washington,126,2025-08-08,2025-10-07,Layoff,2026-08-30T21:43:41.512264Z
 a9fd9d400ec58c55,CA,"Jabil, Inc.",Jabil,,Santa Clara County,21,2025-08-07,2025-10-01,Closure Permanent,2026-08-30T21:43:41.512264Z
+fdb39339bdd83161,AZ,Southwest Key Programs,Southwest Key Programs,,Phoenix,,2025-08-06,,WARN,2026-08-30T21:43:41.512264Z
 1ce2b2699f8d0639,CA,"Southwest Key Programs, Inc.",Southwest Key Programs,,Contra Costa County,3,2025-08-06,2025-10-05,Closure Permanent,2026-08-30T21:43:41.512264Z
 40a9238c5237ea9c,CA,"Gilead Sciences, Inc.",Gilead Sciences,,San Diego County,5,2025-08-06,2025-10-10,Layoff Permanent,2026-08-30T21:43:41.512264Z
 bcdd4750e429e2ce,CA,"Southwest Key Programs, Inc.",Southwest Key Programs,,San Diego County,5,2025-08-06,2025-10-05,Closure Permanent,2026-08-30T21:43:41.512264Z
@@ -2869,7 +2871,6 @@ ac5642b5f78d87f5,CA,"Warner Bros. Discovery, Inc. (100)",Warner Bros. Discovery,
 7bcefc25c08216e5,CA,"Warner Bros. Discovery, Inc. (4000)",Warner Bros. Discovery,,Los Angeles County,3,2025-07-30,2025-10-04,Layoff Permanent,2026-08-30T21:43:41.512264Z
 cddfa0b6985ce93e,CA,Recology Vallejo,Recology Vallejo,,Solano County,25,2025-07-30,2025-09-30,Layoff Permanent,2026-08-30T21:43:41.512264Z
 e760f0c97d429fc4,IL,"Ryder Integrated Logistics, Inc.",Ryder Integrated Logistics,,"East Moline, 1001 13th Street",32,2025-07-30,,State,2026-08-30T21:43:41.512264Z
-7c7112f623326943,AZ,Nordstrom Credit Bank,Nordstrom Credit Bank,,Englewood,16,2025-07-29,,WARN,2026-08-30T21:43:41.512264Z
 dc9f2c495801af38,CA,Kaiser Foundation Hospitals,Kaiser Foundation Hospitals,,Alameda County,6,2025-07-29,2025-07-28,Layoff Permanent,2026-08-30T21:43:41.512264Z
 95ed54563af61529,CA,Kaiser Foundation Hospitals,Kaiser Foundation Hospitals,,Alameda County,4,2025-07-29,2025-07-28,Layoff Permanent,2026-08-30T21:43:41.512264Z
 0132d4f5ee5febd8,CA,Kaiser Foundation Hospitals (393),Kaiser Foundation Hospitals,,Los Angeles County,1,2025-07-29,2025-07-28,Layoff Permanent,2026-08-30T21:43:41.512264Z
@@ -2893,7 +2894,6 @@ c87f70f4fed87353,CA,"Spiral Binding, LLC",Spiral Binding,,Ventura County,135,202
 df69ac6e63ffb2b6,CA,Crane Food Services,Crane Food Services,,Sacramento County,85,2025-07-25,2025-09-25,Layoff Temporary,2026-08-30T21:43:41.512264Z
 a85dcef5d6477d21,WA,RV Country Washington LLC,RV Country Washington,,Kelso,17,2025-07-25,2025-09-30,Closure,2026-08-30T21:43:41.512264Z
 0b7ef5b0371d1706,TN,"GEODIS Logistics, LLC",GEODIS Logistics,,Wilson,57,2025-07-24,2025-09-30,,2026-08-30T21:43:41.512264Z
-dc03668a08f14668,VT,"America's Gardening Resouces inc, dba Gardeners supply",America's Gardening Resouces,Gardeners supply,Burlington,60,2025-07-24,,WARN,2026-08-30T21:43:41.512264Z
 e19e5b3dc12f769f,WI,Krueger's True Value,Krueger's True Value,,Neenah,37,2025-07-24,2025-10-14,CL,2026-08-30T21:43:41.512264Z
 09b396716b02b873,CA,"Astellas Gene Therapies, Inc.",Astellas Gene Therapies,,San Mateo County,21,2025-07-23,2025-01-29,Layoff Permanent,2026-08-30T21:43:41.512264Z
 28101608b7e7d23b,CA,International Flavors & Fragrances,International Flavors & Fragrances,,Riverside County,36,2025-07-23,2025-09-22,Closure Permanent,2026-08-30T21:43:41.512264Z
@@ -2928,7 +2928,6 @@ e0e76886291ec075,CA,Leah's Pantry,Leah's Pantry,,San Diego County,40,2025-07-17,
 146764fbd0842708,CA,Levi Strauss & Co.,Levi Strauss &,,San Francisco County,44,2025-07-17,2025-09-12,Layoff Permanent,2026-08-30T21:43:41.512264Z
 095c56829671def8,CA,E. & J. Gallo Winery,E. & J. Gallo Winery,,San Luis Obispo County,47,2025-07-17,2025-09-08,Closure Permanent,2026-08-30T21:43:41.512264Z
 510caa7c6d230e2a,CA,Clark Pacific,Clark Pacific,,Yolo County,65,2025-07-17,2025-10-03,Layoff Permanent,2026-08-30T21:43:41.512264Z
-3cc90ff6cd948353,AZ,"WeDriveU, Inc.",WeDriveU,,Tucson,138,2025-07-16,,WARN,2026-08-30T21:43:41.512264Z
 6d05c1c53b480168,CA,Kaiser Foundation Hospitals - Pleasanton,Kaiser Foundation Hospitals - Pleasanton,,Alameda County,2,2025-07-16,2025-07-14,Layoff Permanent,2026-08-30T21:43:41.512264Z
 fbac9b4bb9ec139d,CA,Kaiser Foundation Hospitals - Pasadena,Kaiser Foundation Hospitals - Pasadena,,Los Angeles County,3,2025-07-16,2025-07-14,Layoff Permanent,2026-08-30T21:43:41.512264Z
 8794ab9d7a2d44b7,CA,Paramount Global,Paramount Global,,Los Angeles County,1,2025-07-16,2025-06-25,Layoff Permanent,2026-08-30T21:43:41.512264Z
@@ -3135,7 +3134,7 @@ dd045b39524d6989,CA,Paramount Global - 5555 Melrose,Paramount Global - 5555 Melr
 e116c4c874d665b4,CA,Kaiser Foundation Hospitals,Kaiser Foundation Hospitals,,Alameda County,3,2025-06-18,2025-06-16,Layoff Permanent,2026-08-30T21:43:41.512264Z
 bf80510e79107edf,CA,Kaiser Foundation Hospitals (74 N),Kaiser Foundation Hospitals (74 N),,Los Angeles County,1,2025-06-18,2025-06-16,Layoff Permanent,2026-08-30T21:43:41.512264Z
 0af13ef49814ab23,CA,Kaiser Foundation Hospitals,Kaiser Foundation Hospitals,,Riverside County,1,2025-06-18,2025-06-16,Layoff Permanent,2026-08-30T21:43:41.512264Z
-5a7a0f84e9baae9c,VT,The Orvis Company,The Orvis,,Arlington,,2025-06-18,,WARN,2026-08-30T21:43:41.512264Z
+24fe1392e0378f6e,VT,The Orvis Company,The Orvis,,Arlington,56,2025-06-18,,WARN,2026-08-30T21:43:41.512264Z
 2c5b55fad0d11f16,WI,Milwaukee Forge LLC,Milwaukee Forge,,Milwaukee,67,2025-06-18,2025-08-18,CL,2026-08-30T21:43:41.512264Z
 ebeb96eb74d72a27,CA,Crothall Healthcare - Lakewood Regional Medical Center,Crothall Healthcare - Lakewood Regional Medical Center,,Los Angeles County,39,2025-06-17,2025-07-28,Layoff Permanent,2026-08-30T21:43:41.512264Z
 ff7c4f8e234b1372,CA,Morrison Healthcare - Lakewood Regional Medical Center,Morrison Healthcare - Lakewood Regional Medical Center,,Los Angeles County,40,2025-06-17,2025-07-28,Layoff Permanent,2026-08-30T21:43:41.512264Z
@@ -3280,7 +3279,6 @@ a3f7a78694edf537,IL,"American Water Resources, LLC",American Water Resources,,"A
 d760f237e1a4a087,CA,Advanced Pressure Technology,Advanced Pressure Technology,,Napa County,88,2025-05-23,2025-07-26,Layoff Permanent,2026-08-30T21:43:41.512264Z
 4d72eb6ff56c737c,IL,"Demar Direct, Inc.",Demar Direct,,"Lombard, 1133 N Ridge Ave",86,2025-05-23,,State,2026-08-30T21:43:41.512264Z
 4fbd67ed2dddc9d4,AZ,Meyer Burger Americas,Meyer Burger Americas,,Goodyear,355,2025-05-22,,WARN,2026-08-30T21:43:41.512264Z
-24f858a6f7dae4ff,AZ,US Cellular Corporation,US Cellular,,Chicago,205,2025-05-22,,WARN,2026-08-30T21:43:41.512264Z
 10df4b9b9beaa4c5,CA,AAPC Lounge Services,AAPC Lounge Services,,Los Angeles County,130,2025-05-22,2025-07-21,Layoff Permanent,2026-08-30T21:43:41.512264Z
 27b648616a80698f,CA,NBCUniversal Media (Bldg. 1440),NBCUniversal Media (Bldg. 1440),,Los Angeles County,13,2025-05-22,2025-06-27,Layoff Permanent,2026-08-30T21:43:41.512264Z
 061551912771ee31,CA,"NBCUniversal Media (Bldgs. 1280, 1320, 1360, and 4250)","NBCUniversal Media (Bldgs. 1280, 1320, 1360, and 4250)",,Los Angeles County,41,2025-05-22,2025-06-27,Layoff Permanent,2026-08-30T21:43:41.512264Z
@@ -3306,7 +3304,6 @@ bff0b25a40bb4ad0,CA,"L&T Precision, LLC",L&T Precision,,San Diego County,81,2025
 3f814cf91d090b54,IL,"GMRI, Inc.",GMRI,,"Schaumburg, 406 E Golf Rd",73,2025-05-19,,State,2026-08-30T21:43:41.512264Z
 80bd17c2fd83af21,IL,"Ametek Bison Gear & Engineering, Inc.",Ametek Bison Gear & Engineering,,"Saint Charles, 3850 Ohio Ave",167,2025-05-19,,State,2026-08-30T21:43:41.512264Z
 0994f7017c6c711c,NE,CommuteAir LLC,CommuteAir,,Lincoln,100,2025-05-19,,,2026-08-30T21:43:41.512264Z
-d8f21f0217ff397c,AZ,Florence Immigrant & Refugee Rights Project,Florence Immigrant & Refugee Rights Project,,Phoenix,47,2025-05-16,,WARN,2026-08-30T21:43:41.512264Z
 d72277d0c6f8e035,CA,"Niantic, Inc.",Niantic,,San Francisco County,5,2025-05-16,2025-05-19,Layoff Permanent,2026-08-30T21:43:41.512264Z
 adb97c4cf0543e1c,MD,"Transaxle, LLC",Transaxle,,"178 Alco Place Baltimore, MD 21227",10,2025-05-16,2025-07-15,Plant Closure,2026-08-30T21:43:41.512264Z
 15f0299009feec12,CA,Amazon (SJC11 Facility),Amazon (SJC11 Facility),,Santa Clara County,33,2025-05-15,2025-07-07,Layoff Permanent,2026-08-30T21:43:41.512264Z
@@ -3457,7 +3454,6 @@ f5859305159e066a,CA,"Primo Brands, Inc.",Primo Brands,,Santa Clara County,38,202
 e2dcbdbb63059332,CA,Cardinal,Cardinal,,San Bernardino County,45,2025-04-28,2025-06-28,Layoff Permanent,2026-08-30T21:43:41.512264Z
 4c575b99d9e60ad3,WA,"Accelerate360 Distribution, LLC - Dakota Merchandising Work Unit","Accelerate360 Distribution, LLC - Dakota Merchandising Work Unit",,Various locations in Washington,31,2025-04-28,2025-06-28,Closure,2026-08-30T21:43:41.512264Z
 9786bdbdbd63a8bb,OR,Portland Facility,Portland Facility,,Portland,47,2025-04-27,2025-06-26,Large Layoff - 10 or more workers,2026-08-30T21:43:41.512264Z
-dfb056ec62f95cef,AZ,District Medical Group (Children's Rehabilitative Services),District Medical Group (Children's Rehabilitative Services),,Phoenix,118,2025-04-25,,WARN,2026-08-30T21:43:41.512264Z
 4f87faba778d1ee1,CA,The Model Z Modular LLC,Model Z Modular,,Los Angeles County,102,2025-04-25,2025-06-27,Layoff Permanent,2026-08-30T21:43:41.512264Z
 ac24c60527c28f58,CA,PULAU Corporation - 1308,Pulau,,San Bernardino County,1,2025-04-25,2025-06-30,Layoff Permanent,2026-08-30T21:43:41.512264Z
 e39f317cb603015b,CA,PULAU Corporation - 650A,PULAU Corporation - 650A,,San Bernardino County,17,2025-04-25,2025-06-30,Layoff Permanent,2026-08-30T21:43:41.512264Z
@@ -3834,7 +3830,7 @@ f361865c9a70b5b1,NJ,UBS,UBS,,Weehawken,50,2025-03-01,2025-03-25,,2026-08-30T21:4
 d491a2b0f20e923f,NJ,"Barrette Outdoor Living, Inc",Barrette Outdoor Living,,Egg Harbor City,120,2025-03-01,2025-07-01,,2026-08-30T21:43:41.512264Z
 b41ecae8bef01b12,AZ,"Veyer, LLC",Veyer,,Phoenix,60,2025-02-28,,WARN,2026-08-30T21:43:41.512264Z
 f6d060210da449f3,AZ,LUKE Holding Inc.,LUKE Holding,,Tucson,34,2025-02-28,,WARN,2026-08-30T21:43:41.512264Z
-99f377dbe93fd094,AZ,LUKE Holding Inc.,LUKE Holding,,Yuma,54,2025-02-28,,WARN,2026-08-30T21:43:41.512264Z
+8ce6751e19797a47,AZ,LUKE Holding Inc.,LUKE Holding,,Yuma,,2025-02-28,,WARN,2026-08-30T21:43:41.512264Z
 7cb39ad03783e088,CA,Charter Communications,Charter Communications,,Los Angeles County,171,2025-02-28,2025-05-01,Layoff Permanent,2026-08-30T21:43:41.512264Z
 2c341edc7634e5f7,CA,"GXO Logistics Supply Chain, Inc.",GXO Logistics Supply Chain,,San Bernardino County,16,2025-02-28,2025-04-30,Layoff Permanent,2026-08-30T21:43:41.512264Z
 a022260aa8237951,CA,"Autodesk, Inc.",Autodesk,,San Francisco County,289,2025-02-28,2025-04-29,Layoff Permanent,2026-08-30T21:43:41.512264Z
@@ -4003,7 +3999,6 @@ d32a1000306af4c5,CA,"Salesforce, Inc.",Salesforce,,San Francisco County,153,2025
 45e22b1651bfec1e,TN,Federal Express Corporation,Federal Express,,Sullivan,88,2025-02-05,2025-03-31,,2026-08-30T21:43:41.512264Z
 b215090cf7509c38,TN,Orchid Orthopedic Solutions,Orchid Orthopedic Solutions,,Shelby,62,2025-02-05,2025-06-30,,2026-08-30T21:43:41.512264Z
 8e519729b3de92b4,TN,UPS Athens Facility,UPS Athens Facility,,McMinn,150,2025-02-05,2025-01-10,,2026-08-30T21:43:41.512264Z
-851efe6c6fdb1653,AZ,Cruise LLC,Cruise,,Phoenix,93,2025-02-04,,WARN,2026-08-30T21:43:41.512264Z
 dcfe2ccc65ec854d,CA,Safeway,Safeway,,Contra Costa County,69,2025-02-04,2025-04-04,Closure Permanent,2026-08-30T21:43:41.512264Z
 737ee9faab28caca,CA,S&S Activewear,S&S Activewear,,Fresno County,117,2025-02-04,2025-04-09,Closure Permanent,2026-08-30T21:43:41.512264Z
 1d452d65b952a73e,CA,"Asana, Inc.",Asana,,San Francisco County,77,2025-02-04,2025-02-04,Layoff Permanent,2026-08-30T21:43:41.512264Z
@@ -4644,6 +4639,7 @@ e2db8112c14a997e,CA,"Amys Kitchen, Inc.",Amys Kitchen,,Sonoma County,283,2024-10
 fcb24beff1924efe,IL,Zurn Elkay Water Solutions Corp.,Zurn Elkay Water Solutions,,"Bensenville, 340 County Line Road",25,2024-10-07,,State,2026-08-30T21:43:41.512264Z
 a6b49568654cad6e,IN,"Pridgeon & Clay, Inc.",Pridgeon & Clay,,Franklin,125,2024-10-07,2026-03-27,CL,2026-08-30T21:43:41.512264Z
 94c25e18bfb92dba,RI,CVS,CVS,,Rhode Island,632,2024-10-07,2024-12-08,,2026-08-30T21:43:41.512264Z
+5a7a0f84e9baae9c,VT,The Orvis Company,The Orvis,,Sunderland,,2024-10-04,,WARN,2026-08-30T21:43:41.512264Z
 ac6796e156c9f087,CA,Blue Shield of California,Blue Shield of California,,Alameda County,16,2024-10-03,2024-12-11,Layoff Permanent,2026-08-30T21:43:41.512264Z
 78b4336a5d84b210,CA,Blue Shield of California,Blue Shield of California,,El Dorado County,4,2024-10-03,2024-12-11,Layoff Permanent,2026-08-30T21:43:41.512264Z
 9c31b614b027e9d7,CA,Blue Shield of California,Blue Shield of California,,El Dorado County,1,2024-10-03,2024-12-11,Layoff Permanent,2026-08-30T21:43:41.512264Z
