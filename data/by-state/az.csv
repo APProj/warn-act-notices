@@ -5,14 +5,14 @@ id,state,company,company_canonical,company_dba,location,employees_affected,notic
 cc901a17a7b12889,AZ,Salad and Go,Salad and Go,,Phoenix,25,2026-08-04,,WARN,2026-08-30T21:43:41.512264Z
 1b548bbff978c2d4,AZ,Essendant,Essendant,,Phoenix,53,2026-08-04,,WARN,2026-08-30T21:43:41.512264Z
 bef04403320a73cf,AZ,Infineon Technologies America Corp,Infineon Technologies America,,Mesa,98,2026-08-03,,WARN,2026-08-30T21:43:41.512264Z
-4ffa762d3d4311c7,AZ,Select Medical Corporation,Select Medical,,Tucson,99,2026-07-09,,WARN,2026-08-30T21:43:41.512264Z
+4ffa762d3d4311c7,AZ,Select Medical Corporation,Select Medical,,Tucson,,2026-07-09,,WARN,2026-08-30T21:43:41.512264Z
 92a4d2be1b43ffc7,AZ,"Conduent Commercial Solutions, LLC",Conduent Commercial Solutions,,Florham Park,3,2026-06-29,,WARN,2026-08-30T21:43:41.512264Z
 55e41ae677c8d6e4,AZ,"Central Admixture Pharmacy Services, Inc.",Central Admixture Pharmacy Services,,Phoenix,116,2026-06-25,,WARN,2026-08-30T21:43:41.512264Z
-bfa2d3523047604b,AZ,Ingram Micro Services LLC,Ingram Micro Services,,Chandler,75,2026-06-24,,WARN,2026-08-30T21:43:41.512264Z
+bfa2d3523047604b,AZ,Ingram Micro Services LLC,Ingram Micro Services,,Chandler,,2026-06-24,,WARN,2026-08-30T21:43:41.512264Z
 091651b42065c08f,AZ,"Lucid USA, Inc.",Lucid,,Casa Grande,705,2026-06-22,,WARN,2026-08-30T21:43:41.512264Z
 152baa7fa70a94fd,AZ,"Leona Arizona Employment Group, Inc.",Leona Arizona Employment Group,,Phoenix,66,2026-06-16,,WARN,2026-08-30T21:43:41.512264Z
-070f9939a66c0857,AZ,Paragon Space Development Corporation,Paragon Space Development,,Tucson,77,2026-06-12,,WARN,2026-08-30T21:43:41.512264Z
-ae1898e017d21ed3,AZ,SMBC MANUBANK,Smbc Manubank,,New York,12,2026-06-04,,WARN,2026-08-30T21:43:41.512264Z
+070f9939a66c0857,AZ,Paragon Space Development Corporation,Paragon Space Development,,Tucson,,2026-06-12,,WARN,2026-08-30T21:43:41.512264Z
+ae1898e017d21ed3,AZ,SMBC MANUBANK,Smbc Manubank,,New York,,2026-06-04,,WARN,2026-08-30T21:43:41.512264Z
 ef221390d524e0be,AZ,Federal Express Corporation,Federal Express,,Phoenix,101,2026-06-02,,WARN,2026-08-30T21:43:41.512264Z
 af8bf9b733e0fb5e,AZ,Honeywell AZ0Y,Honeywell AZ0Y,,Chandler,60,2026-05-27,,WARN,2026-08-30T21:43:41.512264Z
 14059975295a6fd2,AZ,"National Distribution Centers, LLC",National Distribution Centers,,Waddell,90,2026-05-21,,WARN,2026-08-30T21:43:41.512264Z
@@ -25,7 +25,7 @@ c9797db9f8eb11b5,AZ,DLH Solutions,DLH Solutions,,Tucson,312,2026-04-17,,WARN,202
 fc23bf9523dedd56,AZ,"Marsden Services, LLC",Marsden Services,,Tucson,85,2026-04-15,,WARN,2026-08-30T21:43:41.512264Z
 92ef43fe9d5b8595,AZ,"The Tendit Group, LLC.",Tendit Group,,Phoenix,143,2026-04-14,,WARN,2026-08-30T21:43:41.512264Z
 ce59e8ce33fedd0b,AZ,VisionQuest National LTD,VisionQuest National,,Tucson,203,2026-04-09,,WARN,2026-08-30T21:43:41.512264Z
-aa4b75af8b200a00,AZ,"Catholic Community Services of Southern Arizona, Inc.",Catholic Community Services of Southern Arizona,,Tucson,74,2026-04-08,,WARN,2026-08-30T21:43:41.512264Z
+aa4b75af8b200a00,AZ,"Catholic Community Services of Southern Arizona, Inc.",Catholic Community Services of Southern Arizona,,Tucson,,2026-04-08,,WARN,2026-08-30T21:43:41.512264Z
 a87e14f0a773a6a4,AZ,"Aramark Campus, LLC",Aramark Campus,,Vail,108,2026-04-01,,WARN,2026-08-30T21:43:41.512264Z
 4a2df7dfd5b61577,AZ,"Sinomax East, Inc.",Sinomax East,,Houston,89,2026-03-26,,WARN,2026-08-30T21:43:41.512264Z
 b46f5900082f5cce,AZ,C2 Technologies,C2 Technologies,,Mc Lean,1,2026-03-05,,WARN,2026-08-30T21:43:41.512264Z
@@ -34,9 +34,9 @@ fee60d5138bbd373,AZ,"Lowe's Companies, Inc.",Lowe's,,Mooresville,12,2026-02-16,,
 064a9da0e28023c3,AZ,Saks & Company LLC,Saks &,,Phoenix,67,2026-02-10,,WARN,2026-08-30T21:43:41.512264Z
 3036e84f798fa544,AZ,Liberty Dental Plan,Liberty Dental Plan,,Tustin,1,2026-02-05,,WARN,2026-08-30T21:43:41.512264Z
 3e39dd18fc4feecd,AZ,"Automated Harvesting, LLC.",Automated Harvesting,,Yuma,46,2026-01-30,,WARN,2026-08-30T21:43:41.512264Z
-851d0e035428023d,AZ,Shell Recharge Solutions,Shell Recharge Solutions,,Los Angeles,2,2026-01-29,,WARN,2026-08-30T21:43:41.512264Z
+851d0e035428023d,AZ,Shell Recharge Solutions,Shell Recharge Solutions,,Los Angeles,,2026-01-29,,WARN,2026-08-30T21:43:41.512264Z
 1d93d98dc2ce2248,AZ,Benchmark,Benchmark,,Phoenix,65,2026-01-27,,WARN,2026-08-30T21:43:41.512264Z
-a56948f4200c27be,AZ,SMBC Group - JeniusBank,SMBC Group - JeniusBank,,Scottsdale,33,2026-01-08,,WARN,2026-08-30T21:43:41.512264Z
+a56948f4200c27be,AZ,SMBC Group - JeniusBank,SMBC Group - JeniusBank,,Scottsdale,,2026-01-08,,WARN,2026-08-30T21:43:41.512264Z
 3b76be8e996a6ca4,AZ,GNC Distribution Center,GNC Distribution Center,,Phoenix,66,2026-01-07,,WARN,2026-08-30T21:43:41.512264Z
 145ee379c0439299,AZ,Avelo Airlines,Avelo Airlines,,Mesa,97,2026-01-07,,WARN,2026-08-30T21:43:41.512264Z
 5a85d641d729941f,AZ,"Franklin Foods, Inc.",Franklin Foods,,Casa Grande,83,2025-12-05,,WARN,2026-08-30T21:43:41.512264Z
@@ -48,34 +48,34 @@ a835c48ab715816c,AZ,Allied Tube and Conduit Corporation,Allied Tube and Conduit,
 8abb343330bbba62,AZ,Arizona Autism,Arizona Autism,,Phoenix,2792,2025-10-30,,WARN,2026-08-30T21:43:41.512264Z
 e82166ff087163f5,AZ,Microchip,Microchip,,Tempe,63,2025-10-29,,WARN,2026-08-30T21:43:41.512264Z
 f39f8e3affcc2e6e,AZ,Buena Vista Recovery,Buena Vista Recovery,,Scottsdale,202,2025-10-28,,WARN,2026-08-30T21:43:41.512264Z
-65201d3d1d9127d8,AZ,U.S Census Bureau,U.S Census Bureau,,Tucson,101,2025-10-10,,WARN,2026-08-30T21:43:41.512264Z
+65201d3d1d9127d8,AZ,U.S Census Bureau,U.S Census Bureau,,Tucson,,2025-10-10,,WARN,2026-08-30T21:43:41.512264Z
 80b149a292f710d8,AZ,"McGee Air Services, Inc.",McGee Air Services,,Phoenix,79,2025-09-10,,WARN,2026-08-30T21:43:41.512264Z
 8ccaedf15f30865a,AZ,LSG Sky Chefs,LSG Sky Chefs,,Phoenix,259,2025-09-04,,WARN,2026-08-30T21:43:41.512264Z
 2c393be9610a795d,AZ,CyraCom International Inc.,CyraCom International,,Tucson,500,2025-09-04,,WARN,2026-08-30T21:43:41.512264Z
 78999d3e788c464f,AZ,Intel Corporation,Intel,,Chandler,97,2025-08-25,,WARN,2026-08-30T21:43:41.512264Z
 1745232a2e0c2d3f,AZ,Nordstrom,Nordstrom,,Centennial,10,2025-08-21,,WARN,2026-08-30T21:43:41.512264Z
-bd35cab73fcbbe4a,AZ,"Freight Handlers, LLC",Freight Handlers,,Phoenix,,2025-08-20,,WARN,2026-08-30T21:43:41.512264Z
+bd35cab73fcbbe4a,AZ,"Freight Handlers, LLC",Freight Handlers,,Phoenix,77,2025-08-20,,WARN,2026-08-30T21:43:41.512264Z
 00e87446a5314387,AZ,"Zeco Systems, Inc.",Zeco Systems,,Los Angeles,1,2025-08-18,,WARN,2026-08-30T21:43:41.512264Z
 22445e5aa09389bc,AZ,Southwest Key Programs,Southwest Key Programs,,Phoenix,45,2025-08-06,,WARN,2026-08-30T21:43:41.512264Z
-329238df46eaa7b8,AZ,Southwest Key Programs,Southwest Key Programs,,Mesa,1467,2025-07-31,,WARN,2026-08-30T21:43:41.512264Z
+329238df46eaa7b8,AZ,Southwest Key Programs,Southwest Key Programs,,Mesa,,2025-07-31,,WARN,2026-08-30T21:43:41.512264Z
 94946ccff57b5e30,AZ,Nordstrom Credit Bank,Nordstrom Credit Bank,,Englewood,16,2025-07-29,,WARN,2026-08-30T21:43:41.512264Z
 e1f91c6922d7384e,AZ,"Ryder Integrated Logistics, Inc.",Ryder Integrated Logistics,,Yuma,58,2025-07-22,,WARN,2026-08-30T21:43:41.512264Z
 c1e78095ab77f38f,AZ,Gannett Publishing Services,Gannett Publishing Services,,Phoenix,117,2025-07-22,,WARN,2026-08-30T21:43:41.512264Z
-b4625b1725c62040,AZ,KIRA Services LLC.,KIRA Services,,Wellton,3,2025-07-17,,WARN,2026-08-30T21:43:41.512264Z
+b4625b1725c62040,AZ,KIRA Services LLC.,KIRA Services,,Wellton,,2025-07-17,,WARN,2026-08-30T21:43:41.512264Z
 ca81d5b75b0190a7,AZ,"WeDriveU, Inc.",WeDriveU,,Tucson,138,2025-07-16,,WARN,2026-08-30T21:43:41.512264Z
 874043a9ae6f01cc,AZ,Intel Corporation,Intel,,Chandler,696,2025-07-07,,WARN,2026-08-30T21:43:41.512264Z
 69c06e952578d7ae,AZ,"QB Intermediate Holdings, LLC, AKA Quality Built, LLC",QB Intermediate Holdings,"Quality Built, LLC",Fort Lauderdale,8,2025-07-07,,WARN,2026-08-30T21:43:41.512264Z
-65e7c1330ba8f528,AZ,"Sodexo, Inc and Affiliates","Sodexo, Inc and Affiliates",,Glendale,71,2025-07-02,,WARN,2026-08-30T21:43:41.512264Z
+65e7c1330ba8f528,AZ,"Sodexo, Inc and Affiliates","Sodexo, Inc and Affiliates",,Glendale,,2025-07-02,,WARN,2026-08-30T21:43:41.512264Z
 5248d00ce6a032d0,AZ,Ruan Transport Corporation,Ruan Transport,,Tolleson,144,2025-07-01,,WARN,2026-08-30T21:43:41.512264Z
 09c28de597af183e,AZ,Nordstrom Credit Bank,Nordstrom Credit Bank,,Englewood,9,2025-06-26,,WARN,2026-08-30T21:43:41.512264Z
 3875e6616427d497,AZ,Hickman's Family Farms,Hickman's Family Farms,,Buckeye,85,2025-06-16,,WARN,2026-08-30T21:43:41.512264Z
 844da6afea3ab2df,AZ,Mural Technologies,Mural Technologies,,Tucson,57,2025-06-09,,WARN,2026-08-30T21:43:41.512264Z
 ec544878cbf32c1f,AZ,iQor Holdings US LLC,iQor Holdings US,,Tempe,148,2025-05-30,,WARN,2026-08-30T21:43:41.512264Z
-7c1fc34566c8b82a,AZ,Nordstrom Credit Bank,Nordstrom Credit Bank,,Englewood,9,2025-05-29,,WARN,2026-08-30T21:43:41.512264Z
+7c1fc34566c8b82a,AZ,Nordstrom Credit Bank,Nordstrom Credit Bank,,Englewood,,2025-05-29,,WARN,2026-08-30T21:43:41.512264Z
 f074d6e93280a41c,AZ,Meyer Burger Americas,Meyer Burger Americas,,Goodyear,355,2025-05-22,,WARN,2026-08-30T21:43:41.512264Z
 6229b6f830853b19,AZ,US Cellular Corporation,US Cellular,,Chicago,205,2025-05-22,,WARN,2026-08-30T21:43:41.512264Z
 4539aefb5c548ca6,AZ,Florence Immigrant & Refugee Rights Project,Florence Immigrant & Refugee Rights Project,,Phoenix,47,2025-05-16,,WARN,2026-08-30T21:43:41.512264Z
-62c088376096912d,AZ,"Crisis Preparation & Recovery, Inc.",Crisis Preparation & Recovery,,Phoenix,73,2025-05-06,,WARN,2026-08-30T21:43:41.512264Z
+62c088376096912d,AZ,"Crisis Preparation & Recovery, Inc.",Crisis Preparation & Recovery,,Phoenix,,2025-05-06,,WARN,2026-08-30T21:43:41.512264Z
 9c497dce30bf0f4b,AZ,"Tilson Technology Management, Inc.",Tilson Technology Management,,Chandler,117,2025-05-05,,WARN,2026-08-30T21:43:41.512264Z
 7183246896a785c3,AZ,"TXP - Transfer Express, Inc.",TXP - Transfer Express,,Chandler,53,2025-04-29,,WARN,2026-08-30T21:43:41.512264Z
 30c5f7675517a828,AZ,DFC,DFC,,Chandler,33,2025-04-29,,WARN,2026-08-30T21:43:41.512264Z
@@ -85,16 +85,16 @@ f2fc454f0f191665,AZ,General Dynamics Information Technology,General Dynamics Inf
 be87774043929e13,AZ,"Block, INC.",Block,,Oakland,29,2025-03-25,,WARN,2026-08-30T21:43:41.512264Z
 7a59ea2f59c11af3,AZ,DLP Services,DLP Services,,Yuma,218,2025-03-19,,WARN,2026-08-30T21:43:41.512264Z
 ac0a459a04fb0d22,AZ,Microchip,Microchip,,Tempe,330,2025-03-03,,WARN,2026-08-30T21:43:41.512264Z
-e1b672016662696b,AZ,LUKE Holding Inc.,LUKE Holding,,Nogales,19,2025-02-28,,WARN,2026-08-30T21:43:41.512264Z
+e1b672016662696b,AZ,LUKE Holding Inc.,LUKE Holding,,Nogales,,2025-02-28,,WARN,2026-08-30T21:43:41.512264Z
 c89de7f91b2e2c84,AZ,LUKE Holding Inc.,LUKE Holding,,Yuma,54,2025-02-28,,WARN,2026-08-30T21:43:41.512264Z
 0267c169cc23c7ba,AZ,"Veyer, LLC",Veyer,,Phoenix,60,2025-02-28,,WARN,2026-08-30T21:43:41.512264Z
 007d1b1ccd988061,AZ,LUKE Holding Inc.,LUKE Holding,,Tucson,34,2025-02-28,,WARN,2026-08-30T21:43:41.512264Z
 e78680924a8d5d08,AZ,Behavioral Health Link,Behavioral Health Link,,Atlanta,2,2025-02-19,,WARN,2026-08-30T21:43:41.512264Z
-d0d1fb799732e13a,AZ,Nikola Corporation,Nikola,,Coolidge,315,2025-02-19,,WARN,2026-08-30T21:43:41.512264Z
+d0d1fb799732e13a,AZ,Nikola Corporation,Nikola,,Coolidge,,2025-02-19,,WARN,2026-08-30T21:43:41.512264Z
 5fa4f2f78eff185f,AZ,Nikola Corporation,Nikola,,Phoenix,540,2025-02-19,,WARN,2026-08-30T21:43:41.512264Z
 75845cb06d18e2c9,AZ,Cruise LLC,Cruise,,Phoenix,93,2025-02-04,,WARN,2026-08-30T21:43:41.512264Z
 f4b0a7f47cc88c22,AZ,ManpowerGroup US Inc.,ManpowerGroup US,,Goodyear,564,2025-01-27,,WARN,2026-08-30T21:43:41.512264Z
-9d649045da749cad,AZ,Safeway Inc.,Safeway,,Phoenix,225,2025-01-14,,WARN,2026-08-30T21:43:41.512264Z
+9d649045da749cad,AZ,Safeway Inc.,Safeway,,Phoenix,,2025-01-14,,WARN,2026-08-30T21:43:41.512264Z
 e2b3c262b1503b28,AZ,Amentum,Amentum,,Fort Worth,108,2024-07-31,,WARN,2026-08-30T21:43:41.512264Z
 1a90682459e4e5de,AZ,Schuff Steel,Schuff Steel,,Bellemont,63,2024-07-03,,WARN,2026-08-30T21:43:41.512264Z
 bdbaa4b2c3cab8e0,AZ,"TuSimple, Inc.",TuSimple,,Tucson,1,2024-05-31,,WARN,2026-08-30T21:43:41.512264Z

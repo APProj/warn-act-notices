@@ -3616,7 +3616,7 @@
 {
 "company": "Select Medical Corporation",
 "location": "Tucson",
-"employees_affected": 99,
+"employees_affected": "",
 "notice_date": "2026-07-09",
 "effective_date": "",
 "notice_type": "WARN",
@@ -5150,7 +5150,7 @@
 {
 "company": "Ingram Micro Services LLC",
 "location": "Chandler",
-"employees_affected": 75,
+"employees_affected": "",
 "notice_date": "2026-06-24",
 "effective_date": "",
 "notice_type": "WARN",
@@ -5891,7 +5891,7 @@
 {
 "company": "St. Albans Creamery, LLC",
 "location": "Saint Albans",
-"employees_affected": 81,
+"employees_affected": "",
 "notice_date": "2026-06-17",
 "effective_date": "",
 "notice_type": "WARN",
@@ -6073,7 +6073,7 @@
 {
 "company": "Paragon Space Development Corporation",
 "location": "Tucson",
-"employees_affected": 77,
+"employees_affected": "",
 "notice_date": "2026-06-12",
 "effective_date": "",
 "notice_type": "WARN",
@@ -6190,7 +6190,7 @@
 {
 "company": "University of Vermont Health",
 "location": "Burlington",
-"employees_affected": "",
+"employees_affected": 142,
 "notice_date": "2026-06-09",
 "effective_date": "",
 "notice_type": "WARN",
@@ -6411,7 +6411,7 @@
 {
 "company": "SMBC MANUBANK",
 "location": "New York",
-"employees_affected": 12,
+"employees_affected": "",
 "notice_date": "2026-06-04",
 "effective_date": "",
 "notice_type": "WARN",
@@ -12885,7 +12885,7 @@
 {
 "company": "Catholic Community Services of Southern Arizona, Inc.",
 "location": "Tucson",
-"employees_affected": 74,
+"employees_affected": "",
 "notice_date": "2026-04-08",
 "effective_date": "",
 "notice_type": "WARN",
@@ -21062,7 +21062,7 @@
 {
 "company": "Shell Recharge Solutions",
 "location": "Los Angeles",
-"employees_affected": 2,
+"employees_affected": "",
 "notice_date": "2026-01-29",
 "effective_date": "",
 "notice_type": "WARN",
@@ -23428,7 +23428,7 @@
 {
 "company": "SMBC Group - JeniusBank",
 "location": "Scottsdale",
-"employees_affected": 33,
+"employees_affected": "",
 "notice_date": "2026-01-08",
 "effective_date": "",
 "notice_type": "WARN",
@@ -30994,7 +30994,7 @@
 {
 "company": "U.S Census Bureau",
 "location": "Tucson",
-"employees_affected": 101,
+"employees_affected": "",
 "notice_date": "2025-10-10",
 "effective_date": "",
 "notice_type": "WARN",
@@ -35726,7 +35726,7 @@
 {
 "company": "Freight Handlers, LLC",
 "location": "Phoenix",
-"employees_affected": "",
+"employees_affected": 77,
 "notice_date": "2025-08-20",
 "effective_date": "",
 "notice_type": "WARN",
@@ -37247,7 +37247,7 @@
 {
 "company": "Southwest Key Programs",
 "location": "Mesa",
-"employees_affected": 1467,
+"employees_affected": "",
 "notice_date": "2025-07-31",
 "effective_date": "",
 "notice_type": "WARN",
@@ -38235,7 +38235,7 @@
 {
 "company": "KIRA Services LLC.",
 "location": "Wellton",
-"employees_affected": 3,
+"employees_affected": "",
 "notice_date": "2025-07-17",
 "effective_date": "",
 "notice_type": "WARN",
@@ -39769,7 +39769,7 @@
 {
 "company": "Sodexo, Inc and Affiliates",
 "location": "Glendale",
-"employees_affected": 71,
+"employees_affected": "",
 "notice_date": "2025-07-02",
 "effective_date": "",
 "notice_type": "WARN",
@@ -42616,7 +42616,7 @@
 {
 "company": "Nordstrom Credit Bank",
 "location": "Englewood",
-"employees_affected": 9,
+"employees_affected": "",
 "notice_date": "2025-05-29",
 "effective_date": "",
 "notice_type": "WARN",
@@ -44033,7 +44033,7 @@
 {
 "company": "Crisis Preparation & Recovery, Inc.",
 "location": "Phoenix",
-"employees_affected": 73,
+"employees_affected": "",
 "notice_date": "2025-05-06",
 "effective_date": "",
 "notice_type": "WARN",
@@ -44917,7 +44917,7 @@
 {
 "company": "Fed Ex Corporation",
 "location": "Williston",
-"employees_affected": "",
+"employees_affected": 55,
 "notice_date": "2025-04-30",
 "effective_date": "",
 "notice_type": "WARN",
@@ -50130,7 +50130,7 @@
 {
 "company": "LUKE Holding Inc.",
 "location": "Nogales",
-"employees_affected": 19,
+"employees_affected": "",
 "notice_date": "2025-02-28",
 "effective_date": "",
 "notice_type": "WARN",
@@ -50871,7 +50871,7 @@
 {
 "company": "Nikola Corporation",
 "location": "Coolidge",
-"employees_affected": 315,
+"employees_affected": "",
 "notice_date": "2025-02-19",
 "effective_date": "",
 "notice_type": "WARN",
@@ -53887,7 +53887,7 @@
 {
 "company": "Safeway Inc.",
 "location": "Phoenix",
-"employees_affected": 225,
+"employees_affected": "",
 "notice_date": "2025-01-14",
 "effective_date": "",
 "notice_type": "WARN",
