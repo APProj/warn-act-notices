@@ -1,10 +1,10 @@
 <!doctype html><html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>US WARN Act Layoff Notices — live normalized dataset</title>
-<meta name="description" content="Normalized, daily-updated US WARN Act layoff notice dataset. 6,730 notices across 29 states, free CSV/JSON.">
+<meta name="description" content="Normalized, daily-updated US WARN Act layoff notice dataset. 6,729 notices across 29 states, free CSV/JSON.">
 <link rel="canonical" href="https://approj.github.io/warn-act-notices/">
 <link rel="alternate" type="application/rss+xml" title="New US WARN layoff notices" href="feed.xml">
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Dataset", "name": "US WARN Act Layoff Notices \u2014 normalized, daily-updated", "description": "Normalized, deduplicated WARN Act layoff notices from 29 US states in one schema: employer, location, workers affected, notice and effective dates. 6,730 notices since 2024, refreshed daily. Free CSV/JSON download, no login (48h-delayed tier).", "url": "https://approj.github.io/warn-act-notices/", "sameAs": "https://github.com/APProj/warn-act-notices", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "creator": {"@type": "Organization", "name": "WARN Feed", "url": "https://approj.github.io/warn-act-notices/"}, "keywords": ["WARN Act", "layoff notices", "layoffs", "plant closings", "labor market data", "workforce reductions"], "temporalCoverage": "2024-01-01/..", "spatialCoverage": {"@type": "Place", "name": "United States"}, "dateModified": "2026-08-31", "distribution": [{"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://raw.githubusercontent.com/APProj/warn-act-notices/main/data/warn_notices.csv"}, {"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://raw.githubusercontent.com/APProj/warn-act-notices/main/data/warn_notices.json"}]}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Dataset", "name": "US WARN Act Layoff Notices \u2014 normalized, daily-updated", "description": "Normalized, deduplicated WARN Act layoff notices from 29 US states in one schema: employer, location, workers affected, notice and effective dates. 6,729 notices since 2024, refreshed daily. Free CSV/JSON download, no login (48h-delayed tier).", "url": "https://approj.github.io/warn-act-notices/", "sameAs": "https://github.com/APProj/warn-act-notices", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "creator": {"@type": "Organization", "name": "WARN Feed", "url": "https://approj.github.io/warn-act-notices/"}, "keywords": ["WARN Act", "layoff notices", "layoffs", "plant closings", "labor market data", "workforce reductions"], "temporalCoverage": "2024-01-01/..", "spatialCoverage": {"@type": "Place", "name": "United States"}, "dateModified": "2026-08-31", "distribution": [{"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://raw.githubusercontent.com/APProj/warn-act-notices/main/data/warn_notices.csv"}, {"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://raw.githubusercontent.com/APProj/warn-act-notices/main/data/warn_notices.json"}]}</script>
 <style>
 body{font:16px/1.5 -apple-system,system-ui,sans-serif;max-width:880px;margin:2rem auto;padding:0 1rem;color:#1a1a1a}
 h1{font-size:1.6rem} .stats{display:flex;gap:2rem;flex-wrap:wrap;margin:1.5rem 0}
@@ -17,25 +17,26 @@ footer{margin:2rem 0;font-size:.85rem;color:#666}
 <p>Every state publishes layoff notices differently. This dataset merges 29
 states into one schema, deduplicated, refreshed daily. Updated <b>2026-08-31</b>.</p>
 <div class="stats">
-<div class="stat"><b>6,730</b>notices total</div>
-<div class="stat"><b>544</b>notices, last 90 days</div>
-<div class="stat"><b>42,843</b>workers affected, last 90 days</div>
+<div class="stat"><b>6,729</b>notices total</div>
+<div class="stat"><b>543</b>notices, last 90 days</div>
+<div class="stat"><b>42,054</b>workers affected, last 90 days</div>
 <div class="stat"><b>29</b>states covered</div>
 </div>
 <p><a href="https://github.com/APProj/warn-act-notices">Get the free dataset on GitHub (CSV/JSON, no login)</a> ·
 <a href="employers/index.html">browse layoffs by employer</a> ·
-<a href="weekly/index.html">layoffs week by week</a></p>
+<a href="weekly/index.html">layoffs week by week</a> ·
+<a href="monthly/index.html">month by month</a></p>
 <div class="cta"><b>Need it without the 48h delay?</b> For recruiters and
 sales-intelligence teams: <a href="https://approj.gumroad.com/l/warn-realtime">real-time feed, $49/mo</a> ·
 <a href="https://approj.gumroad.com/l/warn-archive">full 1988+ archive, $199 one-time</a>. Delivered as
 private GitHub repo access, automatically.</div>
 <h2>Biggest layoff notices — 2026-08</h2>
 <table><tr><th>Company</th><th>State</th><th>Location</th><th class="r">Workers</th><th>Notice date</th></tr>
-<tr><td>Tyson Foods</td><td>IL</td><td>Hillsdale, 28424 38TH Ave. North</td><td class='r'>2,495</td><td>2026-08-13</td></tr><tr><td>Borton &amp; Sons</td><td>WA</td><td>Yakima, Zillah, Pasco, Burbank, Prescott, Soap Lake, Othello, Mesa</td><td class='r'>928</td><td>2026-08-21</td></tr><tr><td>Tyson Fresh Meats</td><td>UT</td><td>Eagle Mountain</td><td class='r'>723</td><td>2026-08-13</td></tr><tr><td>Essendant</td><td>IL</td><td>Lincolnshire, 200 Tri-State Dr., Suite 400</td><td class='r'>510</td><td>2026-08-03</td></tr><tr><td>Sky Chefs</td><td>NY</td><td>Queens</td><td class='r'>471</td><td>2026-08-04</td></tr><tr><td>Jabil</td><td>CA</td><td>Santa Clara County</td><td class='r'>382</td><td>2026-08-21</td></tr><tr><td>Grocery Delivery E-Services</td><td>NJ</td><td>Swedesboro</td><td class='r'>374</td><td>2026-08-01</td></tr><tr><td>Amentum</td><td>MD</td><td>7710 Milestone Parkway Hanover, MD 21076</td><td class='r'>317</td><td>2026-08-18</td></tr><tr><td>Healthcare SC</td><td>SC</td><td>Fairfield</td><td class='r'>254</td><td>2026-08-28</td></tr><tr><td>TikTok USDS JV</td><td>TN</td><td>Davidson</td><td class='r'>250</td><td>2026-08-05</td></tr><tr><td>Starbucks</td><td>WA</td><td>Seattle</td><td class='r'>224</td><td>2026-08-20</td></tr><tr><td>LeeMAH Electronics</td><td>CA</td><td>San Mateo County</td><td class='r'>205</td><td>2026-08-17</td></tr><tr><td>Bumble Bee Foods</td><td>CA</td><td>Los Angeles County</td><td class='r'>197</td><td>2026-08-11</td></tr><tr><td>Enablx</td><td>NJ</td><td>Rockaway Township</td><td class='r'>187</td><td>2026-08-01</td></tr><tr><td>Postal Center International</td><td>IN</td><td>Brownsburg</td><td class='r'>151</td><td>2026-08-13</td></tr>
+<tr><td>Tyson Foods</td><td>IL</td><td>Hillsdale, 28424 38TH Ave. North</td><td class='r'>2,495</td><td>2026-08-13</td></tr><tr><td>Borton &amp; Sons</td><td>WA</td><td>Yakima, Zillah, Pasco, Burbank, Prescott, Soap Lake, Othello, Mesa</td><td class='r'>928</td><td>2026-08-21</td></tr><tr><td>Tyson Fresh Meats</td><td>UT</td><td>Eagle Mountain</td><td class='r'>723</td><td>2026-08-13</td></tr><tr><td>Essendant</td><td>IL</td><td>Lincolnshire, 200 Tri-State Dr., Suite 400</td><td class='r'>510</td><td>2026-08-03</td></tr><tr><td>Sky Chefs</td><td>NY</td><td>Queens</td><td class='r'>471</td><td>2026-08-04</td></tr><tr><td>Jabil</td><td>CA</td><td>Santa Clara County</td><td class='r'>382</td><td>2026-08-21</td></tr><tr><td>Grocery Delivery E-Services</td><td>NJ</td><td>Swedesboro</td><td class='r'>374</td><td>2026-08-01</td></tr><tr><td>Amentum</td><td>MD</td><td>7710 Milestone Parkway Hanover, MD 21076</td><td class='r'>317</td><td>2026-08-18</td></tr><tr><td>Healthcare SC</td><td>SC</td><td>Fairfield</td><td class='r'>254</td><td>2026-08-28</td></tr><tr><td>TikTok USDS JV</td><td>TN</td><td>Davidson</td><td class='r'>250</td><td>2026-08-05</td></tr><tr><td>Starbucks</td><td>WA</td><td>Seattle</td><td class='r'>224</td><td>2026-08-20</td></tr><tr><td>LeeMAH Electronics</td><td>CA</td><td>San Mateo County</td><td class='r'>205</td><td>2026-08-17</td></tr><tr><td>Bumble Bee Foods</td><td>CA</td><td>Los Angeles County</td><td class='r'>197</td><td>2026-08-11</td></tr><tr><td>Postal Center International</td><td>IN</td><td>Brownsburg</td><td class='r'>151</td><td>2026-08-13</td></tr><tr><td>LAZ Parking California (9610 Sky Way)</td><td>CA</td><td>Los Angeles County</td><td class='r'>139</td><td>2026-08-06</td></tr>
 </table>
 <h2>Monthly trend — last 12 months</h2>
 <table><tr><th>Month</th><th class="r">Notices</th><th class="r">Workers affected</th></tr>
-<tr><td>2025-09</td><td class='r'>189</td><td class='r'>21,699</td></tr><tr><td>2025-10</td><td class='r'>324</td><td class='r'>35,574</td></tr><tr><td>2025-11</td><td class='r'>232</td><td class='r'>16,114</td></tr><tr><td>2025-12</td><td class='r'>90</td><td class='r'>8,159</td></tr><tr><td>2026-01</td><td class='r'>278</td><td class='r'>24,175</td></tr><tr><td>2026-02</td><td class='r'>230</td><td class='r'>19,505</td></tr><tr><td>2026-03</td><td class='r'>242</td><td class='r'>14,726</td></tr><tr><td>2026-04</td><td class='r'>282</td><td class='r'>18,357</td></tr><tr><td>2026-05</td><td class='r'>240</td><td class='r'>33,091</td></tr><tr><td>2026-06</td><td class='r'>235</td><td class='r'>14,961</td></tr><tr><td>2026-07</td><td class='r'>169</td><td class='r'>14,221</td></tr><tr><td>2026-08</td><td class='r'>153</td><td class='r'>14,172</td></tr>
+<tr><td>2025-09</td><td class='r'>189</td><td class='r'>21,769</td></tr><tr><td>2025-10</td><td class='r'>324</td><td class='r'>32,883</td></tr><tr><td>2025-11</td><td class='r'>232</td><td class='r'>16,080</td></tr><tr><td>2025-12</td><td class='r'>90</td><td class='r'>8,159</td></tr><tr><td>2026-01</td><td class='r'>278</td><td class='r'>24,210</td></tr><tr><td>2026-02</td><td class='r'>230</td><td class='r'>19,438</td></tr><tr><td>2026-03</td><td class='r'>242</td><td class='r'>14,726</td></tr><tr><td>2026-04</td><td class='r'>282</td><td class='r'>18,044</td></tr><tr><td>2026-05</td><td class='r'>240</td><td class='r'>33,091</td></tr><tr><td>2026-06</td><td class='r'>235</td><td class='r'>14,358</td></tr><tr><td>2026-07</td><td class='r'>169</td><td class='r'>14,320</td></tr><tr><td>2026-08</td><td class='r'>152</td><td class='r'>13,887</td></tr>
 </table>
 <p>Per-state monthly series, machine-readable:
 <a href="https://github.com/APProj/warn-act-notices/blob/main/data/trends.json">data/trends.json</a> (CC BY 4.0).</p>
@@ -72,7 +73,7 @@ private GitHub repo access, automatically.</div>
 <tr><td><a href='states/california.html'>California</a> (CA)</td><td class='r'>16,526</td></tr>
 <tr><td><a href='states/colorado.html'>Colorado</a> (CO)</td><td class='r'>835</td></tr>
 <tr><td><a href='states/connecticut.html'>Connecticut</a> (CT)</td><td class='r'>27</td></tr>
-<tr><td><a href='states/florida.html'>Florida</a> (FL)</td><td class='r'>3,114</td></tr>
+<tr><td><a href='states/florida.html'>Florida</a> (FL)</td><td class='r'>3,115</td></tr>
 <tr><td><a href='states/georgia.html'>Georgia</a> (GA)</td><td class='r'>281</td></tr>
 <tr><td><a href='states/iowa.html'>Iowa</a> (IA)</td><td class='r'>415</td></tr>
 <tr><td><a href='states/illinois.html'>Illinois</a> (IL)</td><td class='r'>4,842</td></tr>
@@ -84,7 +85,7 @@ private GitHub repo access, automatically.</div>
 <tr><td><a href='states/michigan.html'>Michigan</a> (MI)</td><td class='r'>112</td></tr>
 <tr><td><a href='states/montana.html'>Montana</a> (MT)</td><td class='r'>46</td></tr>
 <tr><td><a href='states/nebraska.html'>Nebraska</a> (NE)</td><td class='r'>845</td></tr>
-<tr><td><a href='states/new-jersey.html'>New Jersey</a> (NJ)</td><td class='r'>2,320</td></tr>
+<tr><td><a href='states/new-jersey.html'>New Jersey</a> (NJ)</td><td class='r'>2,321</td></tr>
 <tr><td><a href='states/new-mexico.html'>New Mexico</a> (NM)</td><td class='r'>116</td></tr>
 <tr><td><a href='states/new-york.html'>New York</a> (NY)</td><td class='r'>141</td></tr>
 <tr><td><a href='states/oklahoma.html'>Oklahoma</a> (OK)</td><td class='r'>219</td></tr>

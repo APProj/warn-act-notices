@@ -1,6 +1,6 @@
 # US WARN Act Layoff Notices — normalized, daily-updated dataset
 
-**6,730 layoff notices since 2024 · 29 states · one clean schema · CSV + JSON · updated 2026-08-31**
+**6,729 layoff notices since 2024 · 29 states · one clean schema · CSV + JSON · updated 2026-08-31**
 
 Every US state publishes WARN Act layoff notices differently — different sites,
 formats, column names, and date conventions. This repo normalizes them into one
@@ -15,6 +15,7 @@ deduplicated dataset, refreshed daily.
 - Stats page: https://approj.github.io/warn-act-notices/
 - RSS feed of newly-published notices: https://approj.github.io/warn-act-notices/feed.xml (48h-delayed)
 - Weekly summaries (biggest layoffs, per-state totals, one page per week): https://approj.github.io/warn-act-notices/weekly/
+- Monthly summaries (current month updates daily): https://approj.github.io/warn-act-notices/monthly/
 - Browse layoffs by employer: https://approj.github.io/warn-act-notices/employers/
 - Use it as a free layoffs API (stable raw URLs, curl/pandas/Sheets examples): [API.md](API.md)
 - Machine-readable schema: [`datapackage.json`](datapackage.json) · Cite this dataset: [`CITATION.cff`](CITATION.cff) · License: [CC BY 4.0](LICENSE)
@@ -22,7 +23,7 @@ deduplicated dataset, refreshed daily.
 No login, no API key. Scope of the free dataset, stated plainly: notices from
 **2024-01-01** onward, **48h-delayed** (newly scraped notices appear here 48 hours
 after our pipeline first sees them). The full archive back to 1988
-(40,252 notices) and the zero-delay feed are the commercial products
+(40,254 notices) and the zero-delay feed are the commercial products
 that fund the pipeline.
 
 ## Schema
@@ -49,7 +50,7 @@ that fund the pipeline.
 | [California](https://approj.github.io/warn-act-notices/states/california.html) (CA) | 16,526 | [ca.csv](data/by-state/ca.csv) | ok |
 | [Colorado](https://approj.github.io/warn-act-notices/states/colorado.html) (CO) | 835 | — | ok |
 | [Connecticut](https://approj.github.io/warn-act-notices/states/connecticut.html) (CT) | 27 | [ct.csv](data/by-state/ct.csv) | ok |
-| [Florida](https://approj.github.io/warn-act-notices/states/florida.html) (FL) | 3,114 | — | ok |
+| [Florida](https://approj.github.io/warn-act-notices/states/florida.html) (FL) | 3,115 | — | ok |
 | [Georgia](https://approj.github.io/warn-act-notices/states/georgia.html) (GA) | 281 | — | ok |
 | [Iowa](https://approj.github.io/warn-act-notices/states/iowa.html) (IA) | 415 | [ia.csv](data/by-state/ia.csv) | ok |
 | [Illinois](https://approj.github.io/warn-act-notices/states/illinois.html) (IL) | 4,842 | [il.csv](data/by-state/il.csv) | ok |
@@ -61,7 +62,7 @@ that fund the pipeline.
 | [Michigan](https://approj.github.io/warn-act-notices/states/michigan.html) (MI) | 112 | — | ok |
 | [Montana](https://approj.github.io/warn-act-notices/states/montana.html) (MT) | 46 | [mt.csv](data/by-state/mt.csv) | ok |
 | [Nebraska](https://approj.github.io/warn-act-notices/states/nebraska.html) (NE) | 845 | [ne.csv](data/by-state/ne.csv) | ok |
-| [New Jersey](https://approj.github.io/warn-act-notices/states/new-jersey.html) (NJ) | 2,320 | [nj.csv](data/by-state/nj.csv) | ok |
+| [New Jersey](https://approj.github.io/warn-act-notices/states/new-jersey.html) (NJ) | 2,321 | [nj.csv](data/by-state/nj.csv) | ok |
 | [New Mexico](https://approj.github.io/warn-act-notices/states/new-mexico.html) (NM) | 116 | — | ok |
 | [New York](https://approj.github.io/warn-act-notices/states/new-york.html) (NY) | 141 | [ny.csv](data/by-state/ny.csv) | ok |
 | [Oklahoma](https://approj.github.io/warn-act-notices/states/oklahoma.html) (OK) | 219 | [ok.csv](data/by-state/ok.csv) | ok |
@@ -95,25 +96,25 @@ e.g. California layoff notices: [`data/by-state/ca.csv`](data/by-state/ca.csv).
 | Starbucks | WA | Seattle | 224 | 2026-08-20 |
 | LeeMAH Electronics | CA | San Mateo County | 205 | 2026-08-17 |
 | Bumble Bee Foods | CA | Los Angeles County | 197 | 2026-08-11 |
-| Enablx | NJ | Rockaway Township | 187 | 2026-08-01 |
 | Postal Center International | IN | Brownsburg | 151 | 2026-08-13 |
+| LAZ Parking California (9610 Sky Way) | CA | Los Angeles County | 139 | 2026-08-06 |
 
 ## Monthly trend (last 12 months, this dataset)
 
 | Month | Notices | Workers affected |
 |---|---:|---:|
-| 2025-09 | 189 | 21,699 |
-| 2025-10 | 324 | 35,574 |
-| 2025-11 | 232 | 16,114 |
+| 2025-09 | 189 | 21,769 |
+| 2025-10 | 324 | 32,883 |
+| 2025-11 | 232 | 16,080 |
 | 2025-12 | 90 | 8,159 |
-| 2026-01 | 278 | 24,175 |
-| 2026-02 | 230 | 19,505 |
+| 2026-01 | 278 | 24,210 |
+| 2026-02 | 230 | 19,438 |
 | 2026-03 | 242 | 14,726 |
-| 2026-04 | 282 | 18,357 |
+| 2026-04 | 282 | 18,044 |
 | 2026-05 | 240 | 33,091 |
-| 2026-06 | 235 | 14,961 |
-| 2026-07 | 169 | 14,221 |
-| 2026-08 | 153 | 14,172 |
+| 2026-06 | 235 | 14,358 |
+| 2026-07 | 169 | 14,320 |
+| 2026-08 | 152 | 13,887 |
 
 Machine-readable trends (per-state monthly notices + workers affected, last 24
 months): [`data/trends.json`](data/trends.json) — stable raw URL for embedding
@@ -137,7 +138,7 @@ expensive part. Commercial options:
   delay, including notices seen in the last 48h, refreshed on every pipeline
   run. Delivered as a private GitHub repo you can pull/watch.
 - **[Full historical archive — $199 one-time](https://approj.gumroad.com/l/warn-archive)** — every notice
-  we have back to 1988 (40,252 rows, all 29 states), CSV + JSON.
+  we have back to 1988 (40,254 rows, all 29 states), CSV + JSON.
 
 Delivery is automatic: enter your GitHub username at checkout and you're
 invited to the private repo. Questions first? [Open an issue](https://github.com/APProj/warn-act-notices/issues)

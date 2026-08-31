@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-31T14:19:13.779832Z",
+ "generated_at": "2026-08-31T15:19:25.356419Z",
  "source": "https://github.com/APProj/warn-act-notices",
  "license": "CC BY 4.0 \u2014 credit WARN Feed",
  "note": "48h-delayed free tier; counts are notices with a parseable notice_date",
@@ -48,15 +48,15 @@
   },
   "2025-01": {
    "notices": 146,
-   "workers_affected": 12983
+   "workers_affected": 13208
   },
   "2025-02": {
    "notices": 198,
-   "workers_affected": 15920
+   "workers_affected": 16107
   },
   "2025-03": {
    "notices": 161,
-   "workers_affected": 19975
+   "workers_affected": 19865
   },
   "2025-04": {
    "notices": 243,
@@ -64,7 +64,7 @@
   },
   "2025-05": {
    "notices": 185,
-   "workers_affected": 32535
+   "workers_affected": 32365
   },
   "2025-06": {
    "notices": 183,
@@ -72,23 +72,23 @@
   },
   "2025-07": {
    "notices": 226,
-   "workers_affected": 17374
+   "workers_affected": 18701
   },
   "2025-08": {
    "notices": 184,
-   "workers_affected": 14627
+   "workers_affected": 14530
   },
   "2025-09": {
    "notices": 189,
-   "workers_affected": 21699
+   "workers_affected": 21769
   },
   "2025-10": {
    "notices": 324,
-   "workers_affected": 35574
+   "workers_affected": 32883
   },
   "2025-11": {
    "notices": 232,
-   "workers_affected": 16114
+   "workers_affected": 16080
   },
   "2025-12": {
    "notices": 90,
@@ -96,11 +96,11 @@
   },
   "2026-01": {
    "notices": 278,
-   "workers_affected": 24175
+   "workers_affected": 24210
   },
   "2026-02": {
    "notices": 230,
-   "workers_affected": 19505
+   "workers_affected": 19438
   },
   "2026-03": {
    "notices": 242,
@@ -108,7 +108,7 @@
   },
   "2026-04": {
    "notices": 282,
-   "workers_affected": 18357
+   "workers_affected": 18044
   },
   "2026-05": {
    "notices": 240,
@@ -116,30 +116,30 @@
   },
   "2026-06": {
    "notices": 235,
-   "workers_affected": 14961
+   "workers_affected": 14358
   },
   "2026-07": {
    "notices": 169,
-   "workers_affected": 14221
+   "workers_affected": 14320
   },
   "2026-08": {
-   "notices": 153,
-   "workers_affected": 14172
+   "notices": 152,
+   "workers_affected": 13887
   }
  },
  "states": {
   "AZ": {
    "2025-01": {
     "notices": 2,
-    "workers_affected": 564
+    "workers_affected": 789
    },
    "2025-02": {
     "notices": 8,
-    "workers_affected": 783
+    "workers_affected": 970
    },
    "2025-03": {
     "notices": 4,
-    "workers_affected": 687
+    "workers_affected": 577
    },
    "2025-04": {
     "notices": 4,
@@ -147,7 +147,7 @@
    },
    "2025-05": {
     "notices": 7,
-    "workers_affected": 872
+    "workers_affected": 702
    },
    "2025-06": {
     "notices": 3,
@@ -155,11 +155,11 @@
    },
    "2025-07": {
     "notices": 10,
-    "workers_affected": 1177
+    "workers_affected": 2564
    },
    "2025-08": {
     "notices": 5,
-    "workers_affected": 230
+    "workers_affected": 133
    },
    "2025-09": {
     "notices": 3,
@@ -167,11 +167,11 @@
    },
    "2025-10": {
     "notices": 4,
-    "workers_affected": 3057
+    "workers_affected": 366
    },
    "2025-11": {
     "notices": 5,
-    "workers_affected": 498
+    "workers_affected": 464
    },
    "2025-12": {
     "notices": 1,
@@ -179,11 +179,11 @@
    },
    "2026-01": {
     "notices": 6,
-    "workers_affected": 274
+    "workers_affected": 309
    },
    "2026-02": {
     "notices": 4,
-    "workers_affected": 163
+    "workers_affected": 96
    },
    "2026-03": {
     "notices": 2,
@@ -191,7 +191,7 @@
    },
    "2026-04": {
     "notices": 9,
-    "workers_affected": 1160
+    "workers_affected": 847
    },
    "2026-05": {
     "notices": 4,
@@ -199,15 +199,15 @@
    },
    "2026-06": {
     "notices": 8,
-    "workers_affected": 991
+    "workers_affected": 307
    },
    "2026-07": {
     "notices": 1,
-    "workers_affected": 0
+    "workers_affected": 99
    },
    "2026-08": {
     "notices": 6,
-    "workers_affected": 364
+    "workers_affected": 266
    }
   },
   "CA": {
@@ -890,8 +890,8 @@
     "workers_affected": 2440
    },
    "2026-08": {
-    "notices": 7,
-    "workers_affected": 929
+    "notices": 6,
+    "workers_affected": 742
    }
   },
   "NY": {
@@ -1441,11 +1441,11 @@
    },
    "2025-07": {
     "notices": 2,
-    "workers_affected": 120
+    "workers_affected": 60
    },
    "2025-09": {
     "notices": 2,
-    "workers_affected": 60
+    "workers_affected": 130
    },
    "2026-01": {
     "notices": 2,
@@ -1461,7 +1461,7 @@
    },
    "2026-06": {
     "notices": 2,
-    "workers_affected": 142
+    "workers_affected": 223
    }
   },
   "WA": {

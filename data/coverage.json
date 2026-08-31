@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-31T14:19:13.779832Z",
-  "total_rows": 40252,
-  "free_rows": 6730,
+  "generated_at": "2026-08-31T15:19:25.356419Z",
+  "total_rows": 40254,
+  "free_rows": 6729,
   "free_window_start": "2024-01-01",
-  "new_ids_this_run": 1,
+  "new_ids_this_run": 3,
   "delay_hours": 48,
   "states": {
     "AZ": {
       "rows": 636,
-      "raw_rows": 630,
+      "raw_rows": 636,
       "status": "ok"
     },
     "CA": {
@@ -27,8 +27,8 @@
       "status": "ok"
     },
     "FL": {
-      "rows": 3114,
-      "raw_rows": 3246,
+      "rows": 3115,
+      "raw_rows": 3247,
       "status": "ok"
     },
     "GA": {
@@ -53,7 +53,7 @@
     },
     "KS": {
       "rows": 791,
-      "raw_rows": 791,
+      "raw_rows": 778,
       "status": "ok"
     },
     "KY": {
@@ -87,8 +87,8 @@
       "status": "ok"
     },
     "NJ": {
-      "rows": 2320,
-      "raw_rows": 2366,
+      "rows": 2321,
+      "raw_rows": 2367,
       "status": "ok"
     },
     "NM": {
