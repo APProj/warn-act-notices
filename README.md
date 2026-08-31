@@ -40,35 +40,35 @@ that fund the pipeline.
 
 | State | Notices | CSV | Source status |
 |---|---:|---|---|
-| Arizona (AZ) | 620 | [az.csv](data/by-state/az.csv) | ok |
-| California (CA) | 16,526 | [ca.csv](data/by-state/ca.csv) | ok |
-| Colorado (CO) | 835 | — | ok |
-| Connecticut (CT) | 27 | [ct.csv](data/by-state/ct.csv) | ok |
-| FL (FL) | 3,113 | — | ok |
-| Georgia (GA) | 281 | — | ok |
-| Iowa (IA) | 415 | [ia.csv](data/by-state/ia.csv) | ok |
-| Illinois (IL) | 4,842 | [il.csv](data/by-state/il.csv) | ok |
-| Indiana (IN) | 1,180 | [in.csv](data/by-state/in.csv) | ok |
-| Kansas (KS) | 699 | — | ok |
-| Kentucky (KY) | 804 | [ky.csv](data/by-state/ky.csv) | ok |
-| LA (LA) | 38 | — | ok |
-| Maryland (MD) | 1,273 | [md.csv](data/by-state/md.csv) | ok |
-| Michigan (MI) | 112 | — | ok |
-| Montana (MT) | 46 | [mt.csv](data/by-state/mt.csv) | ok |
-| Nebraska (NE) | 845 | [ne.csv](data/by-state/ne.csv) | ok |
-| New Jersey (NJ) | 2,320 | [nj.csv](data/by-state/nj.csv) | ok |
-| NM (NM) | 116 | — | ok |
-| New York (NY) | 141 | [ny.csv](data/by-state/ny.csv) | ok |
-| Oklahoma (OK) | 219 | [ok.csv](data/by-state/ok.csv) | ok |
-| Oregon (OR) | 1,363 | [or.csv](data/by-state/or.csv) | ok |
-| Rhode Island (RI) | 126 | [ri.csv](data/by-state/ri.csv) | ok |
-| South Carolina (SC) | 601 | [sc.csv](data/by-state/sc.csv) | ok |
-| South Dakota (SD) | 80 | [sd.csv](data/by-state/sd.csv) | ok |
-| Tennessee (TN) | 1,060 | [tn.csv](data/by-state/tn.csv) | ok |
-| Utah (UT) | 282 | [ut.csv](data/by-state/ut.csv) | ok |
-| Vermont (VT) | 69 | [vt.csv](data/by-state/vt.csv) | ok |
-| Washington (WA) | 1,492 | [wa.csv](data/by-state/wa.csv) | ok |
-| Wisconsin (WI) | 617 | [wi.csv](data/by-state/wi.csv) | ok |
+| [Arizona](https://approj.github.io/warn-act-notices/states/arizona.html) (AZ) | 620 | [az.csv](data/by-state/az.csv) | ok |
+| [California](https://approj.github.io/warn-act-notices/states/california.html) (CA) | 16,526 | [ca.csv](data/by-state/ca.csv) | ok |
+| [Colorado](https://approj.github.io/warn-act-notices/states/colorado.html) (CO) | 835 | — | ok |
+| [Connecticut](https://approj.github.io/warn-act-notices/states/connecticut.html) (CT) | 27 | [ct.csv](data/by-state/ct.csv) | ok |
+| [Florida](https://approj.github.io/warn-act-notices/states/florida.html) (FL) | 3,113 | — | ok |
+| [Georgia](https://approj.github.io/warn-act-notices/states/georgia.html) (GA) | 281 | — | ok |
+| [Iowa](https://approj.github.io/warn-act-notices/states/iowa.html) (IA) | 415 | [ia.csv](data/by-state/ia.csv) | ok |
+| [Illinois](https://approj.github.io/warn-act-notices/states/illinois.html) (IL) | 4,842 | [il.csv](data/by-state/il.csv) | ok |
+| [Indiana](https://approj.github.io/warn-act-notices/states/indiana.html) (IN) | 1,180 | [in.csv](data/by-state/in.csv) | ok |
+| [Kansas](https://approj.github.io/warn-act-notices/states/kansas.html) (KS) | 699 | — | ok |
+| [Kentucky](https://approj.github.io/warn-act-notices/states/kentucky.html) (KY) | 804 | [ky.csv](data/by-state/ky.csv) | ok |
+| [Louisiana](https://approj.github.io/warn-act-notices/states/louisiana.html) (LA) | 38 | — | ok |
+| [Maryland](https://approj.github.io/warn-act-notices/states/maryland.html) (MD) | 1,273 | [md.csv](data/by-state/md.csv) | ok |
+| [Michigan](https://approj.github.io/warn-act-notices/states/michigan.html) (MI) | 112 | — | ok |
+| [Montana](https://approj.github.io/warn-act-notices/states/montana.html) (MT) | 46 | [mt.csv](data/by-state/mt.csv) | ok |
+| [Nebraska](https://approj.github.io/warn-act-notices/states/nebraska.html) (NE) | 845 | [ne.csv](data/by-state/ne.csv) | ok |
+| [New Jersey](https://approj.github.io/warn-act-notices/states/new-jersey.html) (NJ) | 2,320 | [nj.csv](data/by-state/nj.csv) | ok |
+| [New Mexico](https://approj.github.io/warn-act-notices/states/new-mexico.html) (NM) | 116 | — | ok |
+| [New York](https://approj.github.io/warn-act-notices/states/new-york.html) (NY) | 141 | [ny.csv](data/by-state/ny.csv) | ok |
+| [Oklahoma](https://approj.github.io/warn-act-notices/states/oklahoma.html) (OK) | 219 | [ok.csv](data/by-state/ok.csv) | ok |
+| [Oregon](https://approj.github.io/warn-act-notices/states/oregon.html) (OR) | 1,363 | [or.csv](data/by-state/or.csv) | ok |
+| [Rhode Island](https://approj.github.io/warn-act-notices/states/rhode-island.html) (RI) | 126 | [ri.csv](data/by-state/ri.csv) | ok |
+| [South Carolina](https://approj.github.io/warn-act-notices/states/south-carolina.html) (SC) | 601 | [sc.csv](data/by-state/sc.csv) | ok |
+| [South Dakota](https://approj.github.io/warn-act-notices/states/south-dakota.html) (SD) | 80 | [sd.csv](data/by-state/sd.csv) | ok |
+| [Tennessee](https://approj.github.io/warn-act-notices/states/tennessee.html) (TN) | 1,060 | [tn.csv](data/by-state/tn.csv) | ok |
+| [Utah](https://approj.github.io/warn-act-notices/states/utah.html) (UT) | 282 | [ut.csv](data/by-state/ut.csv) | ok |
+| [Vermont](https://approj.github.io/warn-act-notices/states/vermont.html) (VT) | 69 | [vt.csv](data/by-state/vt.csv) | ok |
+| [Washington](https://approj.github.io/warn-act-notices/states/washington.html) (WA) | 1,492 | [wa.csv](data/by-state/wa.csv) | ok |
+| [Wisconsin](https://approj.github.io/warn-act-notices/states/wisconsin.html) (WI) | 617 | [wi.csv](data/by-state/wi.csv) | ok |
 
 Each state also ships as its own CSV in [`data/by-state/`](data/by-state/) —
 e.g. California layoff notices: [`data/by-state/ca.csv`](data/by-state/ca.csv).
