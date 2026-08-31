@@ -1,0 +1,1648 @@
+{
+ "generated_at": "2026-08-31T08:22:03.751680Z",
+ "source": "https://github.com/APProj/warn-act-notices",
+ "license": "CC BY 4.0 \u2014 credit WARN Feed",
+ "note": "48h-delayed free tier; counts are notices with a parseable notice_date",
+ "months": [
+  "2024-09",
+  "2024-10",
+  "2024-11",
+  "2024-12",
+  "2025-01",
+  "2025-02",
+  "2025-03",
+  "2025-04",
+  "2025-05",
+  "2025-06",
+  "2025-07",
+  "2025-08",
+  "2025-09",
+  "2025-10",
+  "2025-11",
+  "2025-12",
+  "2026-01",
+  "2026-02",
+  "2026-03",
+  "2026-04",
+  "2026-05",
+  "2026-06",
+  "2026-07",
+  "2026-08"
+ ],
+ "national": {
+  "2024-09": {
+   "notices": 127,
+   "workers_affected": 14566
+  },
+  "2024-10": {
+   "notices": 180,
+   "workers_affected": 15874
+  },
+  "2024-11": {
+   "notices": 218,
+   "workers_affected": 16240
+  },
+  "2024-12": {
+   "notices": 106,
+   "workers_affected": 9559
+  },
+  "2025-01": {
+   "notices": 146,
+   "workers_affected": 13208
+  },
+  "2025-02": {
+   "notices": 195,
+   "workers_affected": 15918
+  },
+  "2025-03": {
+   "notices": 160,
+   "workers_affected": 19865
+  },
+  "2025-04": {
+   "notices": 242,
+   "workers_affected": 14087
+  },
+  "2025-05": {
+   "notices": 183,
+   "workers_affected": 32305
+  },
+  "2025-06": {
+   "notices": 182,
+   "workers_affected": 13111
+  },
+  "2025-07": {
+   "notices": 226,
+   "workers_affected": 18102
+  },
+  "2025-08": {
+   "notices": 182,
+   "workers_affected": 14571
+  },
+  "2025-09": {
+   "notices": 186,
+   "workers_affected": 21371
+  },
+  "2025-10": {
+   "notices": 322,
+   "workers_affected": 32820
+  },
+  "2025-11": {
+   "notices": 231,
+   "workers_affected": 16000
+  },
+  "2025-12": {
+   "notices": 89,
+   "workers_affected": 8076
+  },
+  "2026-01": {
+   "notices": 274,
+   "workers_affected": 24063
+  },
+  "2026-02": {
+   "notices": 227,
+   "workers_affected": 19425
+  },
+  "2026-03": {
+   "notices": 242,
+   "workers_affected": 14726
+  },
+  "2026-04": {
+   "notices": 280,
+   "workers_affected": 18203
+  },
+  "2026-05": {
+   "notices": 237,
+   "workers_affected": 32280
+  },
+  "2026-06": {
+   "notices": 230,
+   "workers_affected": 14055
+  },
+  "2026-07": {
+   "notices": 168,
+   "workers_affected": 14221
+  },
+  "2026-08": {
+   "notices": 147,
+   "workers_affected": 13808
+  }
+ },
+ "states": {
+  "AZ": {
+   "2025-01": {
+    "notices": 2,
+    "workers_affected": 789
+   },
+   "2025-02": {
+    "notices": 5,
+    "workers_affected": 781
+   },
+   "2025-03": {
+    "notices": 3,
+    "workers_affected": 577
+   },
+   "2025-04": {
+    "notices": 4,
+    "workers_affected": 325
+   },
+   "2025-05": {
+    "notices": 5,
+    "workers_affected": 642
+   },
+   "2025-06": {
+    "notices": 2,
+    "workers_affected": 142
+   },
+   "2025-07": {
+    "notices": 10,
+    "workers_affected": 1905
+   },
+   "2025-08": {
+    "notices": 3,
+    "workers_affected": 174
+   },
+   "2025-09": {
+    "notices": 1,
+    "workers_affected": 500
+   },
+   "2025-10": {
+    "notices": 2,
+    "workers_affected": 303
+   },
+   "2025-11": {
+    "notices": 4,
+    "workers_affected": 384
+   },
+   "2026-01": {
+    "notices": 2,
+    "workers_affected": 162
+   },
+   "2026-02": {
+    "notices": 1,
+    "workers_affected": 83
+   },
+   "2026-03": {
+    "notices": 2,
+    "workers_affected": 90
+   },
+   "2026-04": {
+    "notices": 7,
+    "workers_affected": 1006
+   },
+   "2026-05": {
+    "notices": 1,
+    "workers_affected": 60
+   },
+   "2026-06": {
+    "notices": 3,
+    "workers_affected": 146
+   }
+  },
+  "CA": {
+   "2024-09": {
+    "notices": 70,
+    "workers_affected": 7296
+   },
+   "2024-10": {
+    "notices": 137,
+    "workers_affected": 8841
+   },
+   "2024-11": {
+    "notices": 154,
+    "workers_affected": 6937
+   },
+   "2024-12": {
+    "notices": 66,
+    "workers_affected": 4438
+   },
+   "2025-01": {
+    "notices": 84,
+    "workers_affected": 6054
+   },
+   "2025-02": {
+    "notices": 136,
+    "workers_affected": 7970
+   },
+   "2025-03": {
+    "notices": 87,
+    "workers_affected": 4330
+   },
+   "2025-04": {
+    "notices": 171,
+    "workers_affected": 7538
+   },
+   "2025-05": {
+    "notices": 126,
+    "workers_affected": 22266
+   },
+   "2025-06": {
+    "notices": 117,
+    "workers_affected": 5874
+   },
+   "2025-07": {
+    "notices": 154,
+    "workers_affected": 8261
+   },
+   "2025-08": {
+    "notices": 112,
+    "workers_affected": 5907
+   },
+   "2025-09": {
+    "notices": 93,
+    "workers_affected": 6015
+   },
+   "2025-10": {
+    "notices": 213,
+    "workers_affected": 12930
+   },
+   "2025-11": {
+    "notices": 154,
+    "workers_affected": 4634
+   },
+   "2025-12": {
+    "notices": 39,
+    "workers_affected": 2198
+   },
+   "2026-01": {
+    "notices": 128,
+    "workers_affected": 9462
+   },
+   "2026-02": {
+    "notices": 103,
+    "workers_affected": 6859
+   },
+   "2026-03": {
+    "notices": 115,
+    "workers_affected": 4802
+   },
+   "2026-04": {
+    "notices": 160,
+    "workers_affected": 5965
+   },
+   "2026-05": {
+    "notices": 124,
+    "workers_affected": 9708
+   },
+   "2026-06": {
+    "notices": 137,
+    "workers_affected": 4808
+   },
+   "2026-07": {
+    "notices": 82,
+    "workers_affected": 4568
+   },
+   "2026-08": {
+    "notices": 72,
+    "workers_affected": 3273
+   }
+  },
+  "CT": {
+   "2025-09": {
+    "notices": 2,
+    "workers_affected": 68
+   },
+   "2025-10": {
+    "notices": 8,
+    "workers_affected": 423
+   },
+   "2025-11": {
+    "notices": 3,
+    "workers_affected": 326
+   },
+   "2025-12": {
+    "notices": 1,
+    "workers_affected": 5
+   },
+   "2026-01": {
+    "notices": 4,
+    "workers_affected": 1212
+   },
+   "2026-02": {
+    "notices": 3,
+    "workers_affected": 458
+   },
+   "2026-03": {
+    "notices": 1,
+    "workers_affected": 300
+   },
+   "2026-05": {
+    "notices": 3,
+    "workers_affected": 284
+   },
+   "2026-06": {
+    "notices": 2,
+    "workers_affected": 102
+   }
+  },
+  "IA": {
+   "2026-01": {
+    "notices": 16,
+    "workers_affected": 452
+   },
+   "2026-02": {
+    "notices": 18,
+    "workers_affected": 662
+   },
+   "2026-03": {
+    "notices": 4,
+    "workers_affected": 145
+   },
+   "2026-04": {
+    "notices": 15,
+    "workers_affected": 545
+   },
+   "2026-05": {
+    "notices": 4,
+    "workers_affected": 91
+   },
+   "2026-06": {
+    "notices": 7,
+    "workers_affected": 665
+   },
+   "2026-07": {
+    "notices": 8,
+    "workers_affected": 385
+   },
+   "2026-08": {
+    "notices": 7,
+    "workers_affected": 168
+   }
+  },
+  "IL": {
+   "2024-09": {
+    "notices": 8,
+    "workers_affected": 1019
+   },
+   "2024-10": {
+    "notices": 11,
+    "workers_affected": 1535
+   },
+   "2024-11": {
+    "notices": 12,
+    "workers_affected": 1489
+   },
+   "2024-12": {
+    "notices": 14,
+    "workers_affected": 1397
+   },
+   "2025-01": {
+    "notices": 23,
+    "workers_affected": 1751
+   },
+   "2025-02": {
+    "notices": 13,
+    "workers_affected": 1819
+   },
+   "2025-03": {
+    "notices": 9,
+    "workers_affected": 1816
+   },
+   "2025-04": {
+    "notices": 11,
+    "workers_affected": 918
+   },
+   "2025-05": {
+    "notices": 10,
+    "workers_affected": 1535
+   },
+   "2025-06": {
+    "notices": 11,
+    "workers_affected": 1547
+   },
+   "2025-07": {
+    "notices": 5,
+    "workers_affected": 341
+   },
+   "2025-08": {
+    "notices": 5,
+    "workers_affected": 2992
+   },
+   "2025-09": {
+    "notices": 13,
+    "workers_affected": 1431
+   },
+   "2025-10": {
+    "notices": 17,
+    "workers_affected": 1537
+   },
+   "2025-11": {
+    "notices": 8,
+    "workers_affected": 1102
+   },
+   "2025-12": {
+    "notices": 7,
+    "workers_affected": 663
+   },
+   "2026-01": {
+    "notices": 13,
+    "workers_affected": 1788
+   },
+   "2026-02": {
+    "notices": 15,
+    "workers_affected": 4114
+   },
+   "2026-03": {
+    "notices": 10,
+    "workers_affected": 882
+   },
+   "2026-04": {
+    "notices": 10,
+    "workers_affected": 1671
+   },
+   "2026-05": {
+    "notices": 9,
+    "workers_affected": 2244
+   },
+   "2026-06": {
+    "notices": 8,
+    "workers_affected": 1130
+   },
+   "2026-07": {
+    "notices": 8,
+    "workers_affected": 701
+   },
+   "2026-08": {
+    "notices": 10,
+    "workers_affected": 3683
+   }
+  },
+  "IN": {
+   "2024-09": {
+    "notices": 3,
+    "workers_affected": 205
+   },
+   "2024-10": {
+    "notices": 2,
+    "workers_affected": 285
+   },
+   "2024-11": {
+    "notices": 2,
+    "workers_affected": 361
+   },
+   "2025-01": {
+    "notices": 2,
+    "workers_affected": 200
+   },
+   "2025-02": {
+    "notices": 3,
+    "workers_affected": 408
+   },
+   "2025-03": {
+    "notices": 2,
+    "workers_affected": 168
+   },
+   "2025-04": {
+    "notices": 5,
+    "workers_affected": 710
+   },
+   "2025-05": {
+    "notices": 2,
+    "workers_affected": 131
+   },
+   "2025-06": {
+    "notices": 1,
+    "workers_affected": 50
+   },
+   "2025-07": {
+    "notices": 1,
+    "workers_affected": 65
+   },
+   "2025-08": {
+    "notices": 7,
+    "workers_affected": 930
+   },
+   "2025-09": {
+    "notices": 3,
+    "workers_affected": 588
+   },
+   "2025-10": {
+    "notices": 2,
+    "workers_affected": 222
+   },
+   "2025-11": {
+    "notices": 2,
+    "workers_affected": 292
+   },
+   "2025-12": {
+    "notices": 4,
+    "workers_affected": 879
+   },
+   "2026-01": {
+    "notices": 4,
+    "workers_affected": 316
+   },
+   "2026-02": {
+    "notices": 3,
+    "workers_affected": 555
+   },
+   "2026-03": {
+    "notices": 2,
+    "workers_affected": 142
+   },
+   "2026-04": {
+    "notices": 3,
+    "workers_affected": 523
+   },
+   "2026-05": {
+    "notices": 2,
+    "workers_affected": 80
+   },
+   "2026-06": {
+    "notices": 7,
+    "workers_affected": 1644
+   },
+   "2026-07": {
+    "notices": 2,
+    "workers_affected": 235
+   },
+   "2026-08": {
+    "notices": 1,
+    "workers_affected": 151
+   }
+  },
+  "KY": {
+   "2025-12": {
+    "notices": 4,
+    "workers_affected": 1640
+   },
+   "2026-01": {
+    "notices": 5,
+    "workers_affected": 239
+   },
+   "2026-02": {
+    "notices": 3,
+    "workers_affected": 85
+   },
+   "2026-03": {
+    "notices": 3,
+    "workers_affected": 121
+   },
+   "2026-04": {
+    "notices": 5,
+    "workers_affected": 1284
+   },
+   "2026-05": {
+    "notices": 3,
+    "workers_affected": 100
+   },
+   "2026-06": {
+    "notices": 6,
+    "workers_affected": 631
+   },
+   "2026-07": {
+    "notices": 2,
+    "workers_affected": 74
+   },
+   "2026-08": {
+    "notices": 2,
+    "workers_affected": 128
+   }
+  },
+  "MD": {
+   "2024-09": {
+    "notices": 2,
+    "workers_affected": 210
+   },
+   "2024-10": {
+    "notices": 3,
+    "workers_affected": 534
+   },
+   "2024-11": {
+    "notices": 7,
+    "workers_affected": 998
+   },
+   "2024-12": {
+    "notices": 7,
+    "workers_affected": 252
+   },
+   "2025-01": {
+    "notices": 12,
+    "workers_affected": 663
+   },
+   "2025-02": {
+    "notices": 12,
+    "workers_affected": 1505
+   },
+   "2025-03": {
+    "notices": 23,
+    "workers_affected": 4549
+   },
+   "2025-04": {
+    "notices": 11,
+    "workers_affected": 297
+   },
+   "2025-05": {
+    "notices": 5,
+    "workers_affected": 506
+   },
+   "2025-06": {
+    "notices": 10,
+    "workers_affected": 436
+   },
+   "2025-07": {
+    "notices": 10,
+    "workers_affected": 667
+   },
+   "2025-08": {
+    "notices": 15,
+    "workers_affected": 778
+   },
+   "2025-09": {
+    "notices": 13,
+    "workers_affected": 422
+   },
+   "2025-10": {
+    "notices": 11,
+    "workers_affected": 648
+   },
+   "2025-11": {
+    "notices": 18,
+    "workers_affected": 1145
+   },
+   "2025-12": {
+    "notices": 11,
+    "workers_affected": 616
+   },
+   "2026-01": {
+    "notices": 12,
+    "workers_affected": 1086
+   },
+   "2026-02": {
+    "notices": 13,
+    "workers_affected": 637
+   },
+   "2026-03": {
+    "notices": 18,
+    "workers_affected": 615
+   },
+   "2026-04": {
+    "notices": 15,
+    "workers_affected": 1364
+   },
+   "2026-05": {
+    "notices": 8,
+    "workers_affected": 1015
+   },
+   "2026-06": {
+    "notices": 8,
+    "workers_affected": 165
+   },
+   "2026-07": {
+    "notices": 11,
+    "workers_affected": 823
+   },
+   "2026-08": {
+    "notices": 11,
+    "workers_affected": 736
+   }
+  },
+  "MT": {
+   "2024-09": {
+    "notices": 3,
+    "workers_affected": 849
+   },
+   "2025-03": {
+    "notices": 1,
+    "workers_affected": 1
+   },
+   "2025-04": {
+    "notices": 2,
+    "workers_affected": 193
+   },
+   "2025-07": {
+    "notices": 1,
+    "workers_affected": 104
+   },
+   "2025-08": {
+    "notices": 1,
+    "workers_affected": 1
+   },
+   "2025-09": {
+    "notices": 1,
+    "workers_affected": 300
+   },
+   "2025-10": {
+    "notices": 2,
+    "workers_affected": 115
+   },
+   "2026-03": {
+    "notices": 1,
+    "workers_affected": 77
+   },
+   "2026-06": {
+    "notices": 1,
+    "workers_affected": 16
+   },
+   "2026-07": {
+    "notices": 1,
+    "workers_affected": 2
+   }
+  },
+  "NE": {
+   "2024-12": {
+    "notices": 1,
+    "workers_affected": 141
+   },
+   "2025-03": {
+    "notices": 1,
+    "workers_affected": 4100
+   },
+   "2025-04": {
+    "notices": 1,
+    "workers_affected": 13
+   },
+   "2025-05": {
+    "notices": 3,
+    "workers_affected": 224
+   },
+   "2025-06": {
+    "notices": 2,
+    "workers_affected": 388
+   },
+   "2025-07": {
+    "notices": 1,
+    "workers_affected": 219
+   },
+   "2025-09": {
+    "notices": 4,
+    "workers_affected": 355
+   },
+   "2025-11": {
+    "notices": 2,
+    "workers_affected": 3351
+   },
+   "2026-01": {
+    "notices": 1,
+    "workers_affected": 294
+   },
+   "2026-05": {
+    "notices": 2,
+    "workers_affected": 538
+   },
+   "2026-06": {
+    "notices": 2,
+    "workers_affected": 220
+   },
+   "2026-08": {
+    "notices": 1,
+    "workers_affected": 91
+   }
+  },
+  "NJ": {
+   "2024-09": {
+    "notices": 16,
+    "workers_affected": 3953
+   },
+   "2024-10": {
+    "notices": 2,
+    "workers_affected": 255
+   },
+   "2024-11": {
+    "notices": 5,
+    "workers_affected": 474
+   },
+   "2024-12": {
+    "notices": 2,
+    "workers_affected": 460
+   },
+   "2025-02": {
+    "notices": 7,
+    "workers_affected": 1180
+   },
+   "2025-03": {
+    "notices": 10,
+    "workers_affected": 1537
+   },
+   "2025-04": {
+    "notices": 4,
+    "workers_affected": 348
+   },
+   "2025-05": {
+    "notices": 11,
+    "workers_affected": 2438
+   },
+   "2025-06": {
+    "notices": 4,
+    "workers_affected": 624
+   },
+   "2025-07": {
+    "notices": 3,
+    "workers_affected": 274
+   },
+   "2025-08": {
+    "notices": 4,
+    "workers_affected": 486
+   },
+   "2025-09": {
+    "notices": 9,
+    "workers_affected": 1586
+   },
+   "2025-10": {
+    "notices": 12,
+    "workers_affected": 1516
+   },
+   "2025-11": {
+    "notices": 6,
+    "workers_affected": 1764
+   },
+   "2025-12": {
+    "notices": 4,
+    "workers_affected": 656
+   },
+   "2026-01": {
+    "notices": 10,
+    "workers_affected": 1349
+   },
+   "2026-02": {
+    "notices": 12,
+    "workers_affected": 1018
+   },
+   "2026-03": {
+    "notices": 12,
+    "workers_affected": 888
+   },
+   "2026-04": {
+    "notices": 6,
+    "workers_affected": 1207
+   },
+   "2026-05": {
+    "notices": 14,
+    "workers_affected": 1448
+   },
+   "2026-06": {
+    "notices": 13,
+    "workers_affected": 1058
+   },
+   "2026-07": {
+    "notices": 13,
+    "workers_affected": 2440
+   },
+   "2026-08": {
+    "notices": 7,
+    "workers_affected": 929
+   }
+  },
+  "NY": {
+   "2026-01": {
+    "notices": 20,
+    "workers_affected": 1916
+   },
+   "2026-02": {
+    "notices": 26,
+    "workers_affected": 2108
+   },
+   "2026-03": {
+    "notices": 30,
+    "workers_affected": 1778
+   },
+   "2026-04": {
+    "notices": 30,
+    "workers_affected": 1999
+   },
+   "2026-05": {
+    "notices": 18,
+    "workers_affected": 2442
+   },
+   "2026-06": {
+    "notices": 7,
+    "workers_affected": 642
+   },
+   "2026-07": {
+    "notices": 9,
+    "workers_affected": 704
+   },
+   "2026-08": {
+    "notices": 1,
+    "workers_affected": 471
+   }
+  },
+  "OK": {
+   "2024-10": {
+    "notices": 2,
+    "workers_affected": 0
+   },
+   "2024-11": {
+    "notices": 1,
+    "workers_affected": 0
+   },
+   "2024-12": {
+    "notices": 2,
+    "workers_affected": 0
+   },
+   "2025-01": {
+    "notices": 1,
+    "workers_affected": 0
+   },
+   "2025-09": {
+    "notices": 3,
+    "workers_affected": 0
+   },
+   "2025-10": {
+    "notices": 1,
+    "workers_affected": 0
+   },
+   "2025-12": {
+    "notices": 2,
+    "workers_affected": 0
+   },
+   "2026-01": {
+    "notices": 3,
+    "workers_affected": 0
+   },
+   "2026-02": {
+    "notices": 1,
+    "workers_affected": 0
+   },
+   "2026-03": {
+    "notices": 2,
+    "workers_affected": 0
+   },
+   "2026-05": {
+    "notices": 1,
+    "workers_affected": 0
+   },
+   "2026-06": {
+    "notices": 1,
+    "workers_affected": 0
+   },
+   "2026-07": {
+    "notices": 1,
+    "workers_affected": 0
+   },
+   "2026-08": {
+    "notices": 1,
+    "workers_affected": 0
+   }
+  },
+  "OR": {
+   "2024-09": {
+    "notices": 3,
+    "workers_affected": 289
+   },
+   "2024-10": {
+    "notices": 9,
+    "workers_affected": 1698
+   },
+   "2024-11": {
+    "notices": 14,
+    "workers_affected": 500
+   },
+   "2024-12": {
+    "notices": 7,
+    "workers_affected": 1329
+   },
+   "2025-01": {
+    "notices": 1,
+    "workers_affected": 56
+   },
+   "2025-02": {
+    "notices": 1,
+    "workers_affected": 96
+   },
+   "2025-03": {
+    "notices": 3,
+    "workers_affected": 431
+   },
+   "2025-04": {
+    "notices": 6,
+    "workers_affected": 244
+   },
+   "2025-05": {
+    "notices": 4,
+    "workers_affected": 568
+   },
+   "2025-06": {
+    "notices": 7,
+    "workers_affected": 523
+   },
+   "2025-07": {
+    "notices": 10,
+    "workers_affected": 3008
+   },
+   "2025-08": {
+    "notices": 4,
+    "workers_affected": 48
+   },
+   "2025-09": {
+    "notices": 7,
+    "workers_affected": 411
+   },
+   "2025-10": {
+    "notices": 11,
+    "workers_affected": 869
+   },
+   "2025-11": {
+    "notices": 5,
+    "workers_affected": 670
+   },
+   "2025-12": {
+    "notices": 7,
+    "workers_affected": 537
+   },
+   "2026-01": {
+    "notices": 23,
+    "workers_affected": 249
+   },
+   "2026-02": {
+    "notices": 3,
+    "workers_affected": 149
+   },
+   "2026-03": {
+    "notices": 2,
+    "workers_affected": 253
+   },
+   "2026-04": {
+    "notices": 4,
+    "workers_affected": 237
+   },
+   "2026-05": {
+    "notices": 12,
+    "workers_affected": 409
+   },
+   "2026-06": {
+    "notices": 4,
+    "workers_affected": 30
+   },
+   "2026-07": {
+    "notices": 6,
+    "workers_affected": 430
+   },
+   "2026-08": {
+    "notices": 5,
+    "workers_affected": 371
+   }
+  },
+  "RI": {
+   "2024-09": {
+    "notices": 1,
+    "workers_affected": 13
+   },
+   "2024-10": {
+    "notices": 2,
+    "workers_affected": 633
+   },
+   "2024-11": {
+    "notices": 3,
+    "workers_affected": 1053
+   },
+   "2025-02": {
+    "notices": 1,
+    "workers_affected": 0
+   },
+   "2025-03": {
+    "notices": 1,
+    "workers_affected": 20
+   },
+   "2025-06": {
+    "notices": 1,
+    "workers_affected": 125
+   },
+   "2025-09": {
+    "notices": 2,
+    "workers_affected": 107
+   },
+   "2026-01": {
+    "notices": 1,
+    "workers_affected": 38
+   },
+   "2026-03": {
+    "notices": 2,
+    "workers_affected": 206
+   },
+   "2026-05": {
+    "notices": 1,
+    "workers_affected": 9891
+   },
+   "2026-06": {
+    "notices": 1,
+    "workers_affected": 1
+   }
+  },
+  "SC": {
+   "2024-09": {
+    "notices": 8,
+    "workers_affected": 494
+   },
+   "2024-10": {
+    "notices": 2,
+    "workers_affected": 122
+   },
+   "2024-11": {
+    "notices": 2,
+    "workers_affected": 17
+   },
+   "2024-12": {
+    "notices": 2,
+    "workers_affected": 674
+   },
+   "2025-01": {
+    "notices": 6,
+    "workers_affected": 1372
+   },
+   "2025-02": {
+    "notices": 4,
+    "workers_affected": 90
+   },
+   "2025-03": {
+    "notices": 3,
+    "workers_affected": 271
+   },
+   "2025-04": {
+    "notices": 4,
+    "workers_affected": 678
+   },
+   "2025-06": {
+    "notices": 6,
+    "workers_affected": 922
+   },
+   "2025-07": {
+    "notices": 4,
+    "workers_affected": 581
+   },
+   "2025-08": {
+    "notices": 7,
+    "workers_affected": 626
+   },
+   "2025-09": {
+    "notices": 1,
+    "workers_affected": 80
+   },
+   "2025-10": {
+    "notices": 3,
+    "workers_affected": 330
+   },
+   "2025-11": {
+    "notices": 2,
+    "workers_affected": 225
+   },
+   "2026-01": {
+    "notices": 5,
+    "workers_affected": 349
+   },
+   "2026-02": {
+    "notices": 5,
+    "workers_affected": 643
+   },
+   "2026-03": {
+    "notices": 4,
+    "workers_affected": 212
+   },
+   "2026-04": {
+    "notices": 4,
+    "workers_affected": 388
+   },
+   "2026-05": {
+    "notices": 6,
+    "workers_affected": 327
+   },
+   "2026-06": {
+    "notices": 2,
+    "workers_affected": 550
+   },
+   "2026-07": {
+    "notices": 5,
+    "workers_affected": 1574
+   },
+   "2026-08": {
+    "notices": 5,
+    "workers_affected": 382
+   }
+  },
+  "SD": {
+   "2024-09": {
+    "notices": 1,
+    "workers_affected": 40
+   },
+   "2025-01": {
+    "notices": 1,
+    "workers_affected": 173
+   },
+   "2025-03": {
+    "notices": 1,
+    "workers_affected": 277
+   },
+   "2025-04": {
+    "notices": 1,
+    "workers_affected": 324
+   },
+   "2025-05": {
+    "notices": 1,
+    "workers_affected": 36
+   },
+   "2025-10": {
+    "notices": 2,
+    "workers_affected": 90
+   },
+   "2026-02": {
+    "notices": 1,
+    "workers_affected": 31
+   },
+   "2026-05": {
+    "notices": 1,
+    "workers_affected": 53
+   },
+   "2026-06": {
+    "notices": 1,
+    "workers_affected": 1
+   },
+   "2026-08": {
+    "notices": 1,
+    "workers_affected": 2
+   }
+  },
+  "TN": {
+   "2025-01": {
+    "notices": 2,
+    "workers_affected": 727
+   },
+   "2025-02": {
+    "notices": 7,
+    "workers_affected": 749
+   },
+   "2025-03": {
+    "notices": 4,
+    "workers_affected": 677
+   },
+   "2025-04": {
+    "notices": 7,
+    "workers_affected": 1345
+   },
+   "2025-05": {
+    "notices": 4,
+    "workers_affected": 868
+   },
+   "2025-06": {
+    "notices": 4,
+    "workers_affected": 835
+   },
+   "2025-07": {
+    "notices": 3,
+    "workers_affected": 620
+   },
+   "2025-08": {
+    "notices": 2,
+    "workers_affected": 635
+   },
+   "2025-09": {
+    "notices": 2,
+    "workers_affected": 170
+   },
+   "2025-10": {
+    "notices": 9,
+    "workers_affected": 1528
+   },
+   "2025-11": {
+    "notices": 4,
+    "workers_affected": 397
+   },
+   "2025-12": {
+    "notices": 4,
+    "workers_affected": 433
+   },
+   "2026-01": {
+    "notices": 6,
+    "workers_affected": 1170
+   },
+   "2026-02": {
+    "notices": 4,
+    "workers_affected": 399
+   },
+   "2026-03": {
+    "notices": 8,
+    "workers_affected": 1062
+   },
+   "2026-04": {
+    "notices": 6,
+    "workers_affected": 746
+   },
+   "2026-05": {
+    "notices": 6,
+    "workers_affected": 646
+   },
+   "2026-06": {
+    "notices": 8,
+    "workers_affected": 1094
+   },
+   "2026-07": {
+    "notices": 2,
+    "workers_affected": 428
+   },
+   "2026-08": {
+    "notices": 5,
+    "workers_affected": 629
+   }
+  },
+  "UT": {
+   "2024-10": {
+    "notices": 2,
+    "workers_affected": 625
+   },
+   "2024-11": {
+    "notices": 4,
+    "workers_affected": 1041
+   },
+   "2024-12": {
+    "notices": 1,
+    "workers_affected": 116
+   },
+   "2025-01": {
+    "notices": 2,
+    "workers_affected": 208
+   },
+   "2025-02": {
+    "notices": 1,
+    "workers_affected": 430
+   },
+   "2025-03": {
+    "notices": 2,
+    "workers_affected": 227
+   },
+   "2025-04": {
+    "notices": 2,
+    "workers_affected": 170
+   },
+   "2025-06": {
+    "notices": 3,
+    "workers_affected": 479
+   },
+   "2025-08": {
+    "notices": 1,
+    "workers_affected": 74
+   },
+   "2025-09": {
+    "notices": 2,
+    "workers_affected": 160
+   },
+   "2025-10": {
+    "notices": 2,
+    "workers_affected": 121
+   },
+   "2025-11": {
+    "notices": 2,
+    "workers_affected": 382
+   },
+   "2025-12": {
+    "notices": 2,
+    "workers_affected": 61
+   },
+   "2026-01": {
+    "notices": 2,
+    "workers_affected": 60
+   },
+   "2026-02": {
+    "notices": 2,
+    "workers_affected": 115
+   },
+   "2026-03": {
+    "notices": 3,
+    "workers_affected": 372
+   },
+   "2026-04": {
+    "notices": 2,
+    "workers_affected": 110
+   },
+   "2026-07": {
+    "notices": 2,
+    "workers_affected": 306
+   },
+   "2026-08": {
+    "notices": 1,
+    "workers_affected": 723
+   }
+  },
+  "VT": {
+   "2024-10": {
+    "notices": 1,
+    "workers_affected": 0
+   },
+   "2024-12": {
+    "notices": 1,
+    "workers_affected": 28
+   },
+   "2025-06": {
+    "notices": 1,
+    "workers_affected": 56
+   },
+   "2025-07": {
+    "notices": 2,
+    "workers_affected": 120
+   },
+   "2025-09": {
+    "notices": 1,
+    "workers_affected": 70
+   },
+   "2026-01": {
+    "notices": 2,
+    "workers_affected": 193
+   },
+   "2026-04": {
+    "notices": 1,
+    "workers_affected": 162
+   },
+   "2026-05": {
+    "notices": 1,
+    "workers_affected": 99
+   },
+   "2026-06": {
+    "notices": 2,
+    "workers_affected": 81
+   }
+  },
+  "WA": {
+   "2024-09": {
+    "notices": 2,
+    "workers_affected": 13
+   },
+   "2024-10": {
+    "notices": 2,
+    "workers_affected": 553
+   },
+   "2024-11": {
+    "notices": 7,
+    "workers_affected": 2731
+   },
+   "2024-12": {
+    "notices": 1,
+    "workers_affected": 396
+   },
+   "2025-01": {
+    "notices": 5,
+    "workers_affected": 504
+   },
+   "2025-02": {
+    "notices": 2,
+    "workers_affected": 743
+   },
+   "2025-03": {
+    "notices": 7,
+    "workers_affected": 810
+   },
+   "2025-04": {
+    "notices": 6,
+    "workers_affected": 549
+   },
+   "2025-05": {
+    "notices": 9,
+    "workers_affected": 2933
+   },
+   "2025-06": {
+    "notices": 5,
+    "workers_affected": 691
+   },
+   "2025-07": {
+    "notices": 17,
+    "workers_affected": 1767
+   },
+   "2025-08": {
+    "notices": 18,
+    "workers_affected": 1827
+   },
+   "2025-09": {
+    "notices": 21,
+    "workers_affected": 8372
+   },
+   "2025-10": {
+    "notices": 24,
+    "workers_affected": 11996
+   },
+   "2025-11": {
+    "notices": 15,
+    "workers_affected": 757
+   },
+   "2025-12": {
+    "notices": 3,
+    "workers_affected": 308
+   },
+   "2026-01": {
+    "notices": 10,
+    "workers_affected": 3362
+   },
+   "2026-02": {
+    "notices": 8,
+    "workers_affected": 1119
+   },
+   "2026-03": {
+    "notices": 16,
+    "workers_affected": 1612
+   },
+   "2026-04": {
+    "notices": 5,
+    "workers_affected": 260
+   },
+   "2026-05": {
+    "notices": 12,
+    "workers_affected": 2538
+   },
+   "2026-06": {
+    "notices": 9,
+    "workers_affected": 1065
+   },
+   "2026-07": {
+    "notices": 9,
+    "workers_affected": 1198
+   },
+   "2026-08": {
+    "notices": 12,
+    "workers_affected": 1834
+   }
+  },
+  "WI": {
+   "2024-09": {
+    "notices": 10,
+    "workers_affected": 185
+   },
+   "2024-10": {
+    "notices": 5,
+    "workers_affected": 793
+   },
+   "2024-11": {
+    "notices": 7,
+    "workers_affected": 639
+   },
+   "2024-12": {
+    "notices": 2,
+    "workers_affected": 328
+   },
+   "2025-01": {
+    "notices": 5,
+    "workers_affected": 711
+   },
+   "2025-02": {
+    "notices": 3,
+    "workers_affected": 147
+   },
+   "2025-03": {
+    "notices": 3,
+    "workers_affected": 74
+   },
+   "2025-04": {
+    "notices": 7,
+    "workers_affected": 435
+   },
+   "2025-05": {
+    "notices": 3,
+    "workers_affected": 158
+   },
+   "2025-06": {
+    "notices": 8,
+    "workers_affected": 419
+   },
+   "2025-07": {
+    "notices": 5,
+    "workers_affected": 170
+   },
+   "2025-08": {
+    "notices": 3,
+    "workers_affected": 93
+   },
+   "2025-09": {
+    "notices": 8,
+    "workers_affected": 736
+   },
+   "2025-10": {
+    "notices": 3,
+    "workers_affected": 192
+   },
+   "2025-11": {
+    "notices": 6,
+    "workers_affected": 571
+   },
+   "2025-12": {
+    "notices": 1,
+    "workers_affected": 80
+   },
+   "2026-01": {
+    "notices": 7,
+    "workers_affected": 366
+   },
+   "2026-02": {
+    "notices": 6,
+    "workers_affected": 390
+   },
+   "2026-03": {
+    "notices": 7,
+    "workers_affected": 1169
+   },
+   "2026-04": {
+    "notices": 7,
+    "workers_affected": 736
+   },
+   "2026-05": {
+    "notices": 9,
+    "workers_affected": 307
+   },
+   "2026-06": {
+    "notices": 1,
+    "workers_affected": 6
+   },
+   "2026-07": {
+    "notices": 7,
+    "workers_affected": 353
+   },
+   "2026-08": {
+    "notices": 5,
+    "workers_affected": 237
+   }
+  }
+ }
+}

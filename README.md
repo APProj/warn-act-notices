@@ -1,6 +1,6 @@
 # US WARN Act Layoff Notices — normalized, daily-updated dataset
 
-**6,663 layoff notices since 2024 · 26 states · one clean schema · CSV + JSON · updated 2026-08-31**
+**6,689 layoff notices since 2024 · 26 states · one clean schema · CSV + JSON · updated 2026-08-31**
 
 Every US state publishes WARN Act layoff notices differently — different sites,
 formats, column names, and date conventions. This repo normalizes them into one
@@ -17,7 +17,7 @@ deduplicated dataset, refreshed daily.
 No login, no API key. Scope of the free dataset, stated plainly: notices from
 **2024-01-01** onward, **48h-delayed** (newly scraped notices appear here 48 hours
 after our pipeline first sees them). The full archive back to 1988
-(36,808 notices) and the zero-delay feed are the commercial products
+(36,860 notices) and the zero-delay feed are the commercial products
 that fund the pipeline.
 
 ## Schema
@@ -40,15 +40,15 @@ that fund the pipeline.
 
 | State | Notices | CSV | Source status |
 |---|---:|---|---|
-| Arizona (AZ) | 565 | [az.csv](data/by-state/az.csv) | ok |
+| Arizona (AZ) | 604 | [az.csv](data/by-state/az.csv) | ok |
 | California (CA) | 16,526 | [ca.csv](data/by-state/ca.csv) | ok |
-| CO (CO) | 835 | — | ok |
+| Colorado (CO) | 835 | — | ok |
 | Connecticut (CT) | 27 | [ct.csv](data/by-state/ct.csv) | ok |
-| GA (GA) | 281 | — | ok |
+| Georgia (GA) | 281 | — | ok |
 | Iowa (IA) | 415 | [ia.csv](data/by-state/ia.csv) | ok |
 | Illinois (IL) | 4,842 | [il.csv](data/by-state/il.csv) | ok |
 | Indiana (IN) | 1,180 | [in.csv](data/by-state/in.csv) | ok |
-| Kansas (KS) | 686 | — | ok |
+| Kansas (KS) | 699 | — | ok |
 | Kentucky (KY) | 804 | [ky.csv](data/by-state/ky.csv) | ok |
 | Maryland (MD) | 1,273 | [md.csv](data/by-state/md.csv) | ok |
 | Michigan (MI) | 112 | — | ok |
@@ -70,22 +70,48 @@ that fund the pipeline.
 Each state also ships as its own CSV in [`data/by-state/`](data/by-state/) —
 e.g. California layoff notices: [`data/by-state/ca.csv`](data/by-state/ca.csv).
 
+## Biggest layoff notices — 2026-08
+
+| Company | State | Location | Workers | Notice date |
+|---|---|---|---:|---|
+| Tyson Foods | IL | Hillsdale, 28424 38TH Ave. North | 2,495 | 2026-08-13 |
+| Borton & Sons | WA | Yakima, Zillah, Pasco, Burbank, Prescott, Soap Lake, Othello, Mesa | 928 | 2026-08-21 |
+| Tyson Fresh Meats | UT | Eagle Mountain | 723 | 2026-08-13 |
+| Essendant | IL | Lincolnshire, 200 Tri-State Dr., Suite 400 | 510 | 2026-08-03 |
+| Sky Chefs | NY | Queens | 471 | 2026-08-04 |
+| Jabil | CA | Santa Clara County | 382 | 2026-08-21 |
+| Grocery Delivery E-Services | NJ | Swedesboro | 374 | 2026-08-01 |
+| Amentum | MD | 7710 Milestone Parkway Hanover, MD 21076 | 317 | 2026-08-18 |
+| Healthcare SC | SC | Fairfield | 254 | 2026-08-28 |
+| TikTok USDS JV | TN | Davidson | 250 | 2026-08-05 |
+| Starbucks | WA | Seattle | 224 | 2026-08-20 |
+| LeeMAH Electronics | CA | San Mateo County | 205 | 2026-08-17 |
+| Bumble Bee Foods | CA | Los Angeles County | 197 | 2026-08-11 |
+| Enablx | NJ | Rockaway Township | 187 | 2026-08-01 |
+| Postal Center International | IN | Brownsburg | 151 | 2026-08-13 |
+
 ## Monthly trend (last 12 months, this dataset)
 
 | Month | Notices | Workers affected |
 |---|---:|---:|
-| 2025-09 | 185 | 20,861 |
-| 2025-10 | 320 | 32,517 |
-| 2025-11 | 227 | 15,616 |
+| 2025-09 | 186 | 21,371 |
+| 2025-10 | 322 | 32,820 |
+| 2025-11 | 231 | 16,000 |
 | 2025-12 | 89 | 8,076 |
-| 2026-01 | 275 | 24,110 |
-| 2026-02 | 230 | 19,505 |
+| 2026-01 | 274 | 24,063 |
+| 2026-02 | 227 | 19,425 |
 | 2026-03 | 242 | 14,726 |
-| 2026-04 | 282 | 18,346 |
-| 2026-05 | 239 | 33,031 |
-| 2026-06 | 231 | 14,760 |
+| 2026-04 | 280 | 18,203 |
+| 2026-05 | 237 | 32,280 |
+| 2026-06 | 230 | 14,055 |
 | 2026-07 | 168 | 14,221 |
-| 2026-08 | 152 | 14,124 |
+| 2026-08 | 147 | 13,808 |
+
+Machine-readable trends (per-state monthly notices + workers affected, last 24
+months): [`data/trends.json`](data/trends.json) — stable raw URL for embedding
+in dashboards/articles:
+`https://raw.githubusercontent.com/APProj/warn-act-notices/main/data/trends.json`
+(CC BY 4.0, credit "WARN Feed").
 
 More states are added as their sources are verified. Some states publish
 incomplete fields; we normalize what exists and never invent values. Precision
@@ -103,7 +129,7 @@ expensive part. Commercial options:
   delay, including notices seen in the last 48h, refreshed on every pipeline
   run. Delivered as a private GitHub repo you can pull/watch.
 - **[Full historical archive — $199 one-time](https://approj.gumroad.com/l/warn-archive)** — every notice
-  we have back to 1988 (36,808 rows, all 26 states), CSV + JSON.
+  we have back to 1988 (36,860 rows, all 26 states), CSV + JSON.
 
 Delivery is automatic: enter your GitHub username at checkout and you're
 invited to the private repo. Questions first? [Open an issue](https://github.com/APProj/warn-act-notices/issues)
