@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-31T12:18:23.233750Z",
-  "total_rows": 40143,
-  "free_rows": 6701,
+  "generated_at": "2026-08-31T12:36:48.551015Z",
+  "total_rows": 40251,
+  "free_rows": 6730,
   "free_window_start": "2024-01-01",
-  "new_ids_this_run": 5,
+  "new_ids_this_run": 0,
   "delay_hours": 48,
   "states": {
     "AZ": {
-      "rows": 620,
+      "rows": 636,
       "raw_rows": 636,
       "status": "ok"
     },
@@ -52,7 +52,7 @@
       "status": "ok"
     },
     "KS": {
-      "rows": 699,
+      "rows": 791,
       "raw_rows": 791,
       "status": "ok"
     },

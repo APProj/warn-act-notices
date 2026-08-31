@@ -295,7 +295,7 @@
 "state": "AZ",
 "company_canonical": "Amentum",
 "company_dba": "",
-"id": "65572467c3f4f7db",
+"id": "04af33401f5d61e9",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -750,7 +750,7 @@
 "state": "AZ",
 "company_canonical": "Pinnacle Transplant Technologies",
 "company_dba": "",
-"id": "ff0690d3c24dd946",
+"id": "97221f946b790fa2",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -1231,7 +1231,7 @@
 "state": "AZ",
 "company_canonical": "Smbc Manubank",
 "company_dba": "",
-"id": "69bcf5581b0db0e4",
+"id": "22cb1cb503502cb9",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -1699,7 +1699,20 @@
 "state": "AZ",
 "company_canonical": "Essendant",
 "company_dba": "",
-"id": "cd0d1c5c75d2ca8a",
+"id": "1b548bbff978c2d4",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Salad and Go",
+"location": "Phoenix",
+"employees_affected": 25,
+"notice_date": "2026-08-04",
+"effective_date": "",
+"notice_type": "WARN",
+"state": "AZ",
+"company_canonical": "Salad and Go",
+"company_dba": "",
+"id": "cc901a17a7b12889",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -1817,6 +1830,19 @@
 "company_canonical": "UnityPoint Health",
 "company_dba": "",
 "id": "f9adc4f5704d3927",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Infineon Technologies America Corp",
+"location": "Mesa",
+"employees_affected": "",
+"notice_date": "2026-08-03",
+"effective_date": "",
+"notice_type": "WARN",
+"state": "AZ",
+"company_canonical": "Infineon Technologies America",
+"company_dba": "",
+"id": "bef04403320a73cf",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -3536,6 +3562,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Select Medical Corporation",
+"location": "Tucson",
+"employees_affected": 99,
+"notice_date": "2026-07-09",
+"effective_date": "",
+"notice_type": "WARN",
+"state": "AZ",
+"company_canonical": "Select Medical",
+"company_dba": "",
+"id": "4ffa762d3d4311c7",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
 "company": "Xpress Delivery LLC (DSJ9)",
 "location": "Alameda County",
 "employees_affected": 80,
@@ -4429,7 +4468,7 @@
 "state": "AZ",
 "company_canonical": "Conduent Commercial Solutions",
 "company_dba": "",
-"id": "80fc9b2c22a77bc6",
+"id": "92a4d2be1b43ffc7",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -5053,7 +5092,7 @@
 "state": "AZ",
 "company_canonical": "Central Admixture Pharmacy Services",
 "company_dba": "",
-"id": "6c6b16933c963969",
+"id": "55e41ae677c8d6e4",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -5067,6 +5106,19 @@
 "company_canonical": "Bungie, Inc/Sony Interactive Entertainment",
 "company_dba": "",
 "id": "baf541c20cc550b4",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Ingram Micro Services LLC",
+"location": "Chandler",
+"employees_affected": 75,
+"notice_date": "2026-06-24",
+"effective_date": "",
+"notice_type": "WARN",
+"state": "AZ",
+"company_canonical": "Ingram Micro Services",
+"company_dba": "",
+"id": "bfa2d3523047604b",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -5327,6 +5379,19 @@
 "company_canonical": "Springer Nature America",
 "company_dba": "",
 "id": "d6a829ea71c0b9a4",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Lucid USA, Inc.",
+"location": "Casa Grande",
+"employees_affected": "",
+"notice_date": "2026-06-22",
+"effective_date": "",
+"notice_type": "WARN",
+"state": "AZ",
+"company_canonical": "Lucid",
+"company_dba": "",
+"id": "091651b42065c08f",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -5820,7 +5885,7 @@
 "state": "VT",
 "company_canonical": "St. Albans Creamery",
 "company_dba": "",
-"id": "6845073274151ee5",
+"id": "2d1d410d1fdf70a9",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -5834,6 +5899,19 @@
 "company_canonical": "First Student",
 "company_dba": "",
 "id": "a0fe07e45c62db14",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Leona Arizona Employment Group, Inc.",
+"location": "Phoenix",
+"employees_affected": "",
+"notice_date": "2026-06-16",
+"effective_date": "",
+"notice_type": "WARN",
+"state": "AZ",
+"company_canonical": "Leona Arizona Employment Group",
+"company_dba": "",
+"id": "152baa7fa70a94fd",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -5938,6 +6016,19 @@
 "company_canonical": "CACI",
 "company_dba": "",
 "id": "745c9bec4567cbe1",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Paragon Space Development Corporation",
+"location": "Tucson",
+"employees_affected": "",
+"notice_date": "2026-06-12",
+"effective_date": "",
+"notice_type": "WARN",
+"state": "AZ",
+"company_canonical": "Paragon Space Development",
+"company_dba": "",
+"id": "070f9939a66c0857",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -6106,7 +6197,7 @@
 "state": "VT",
 "company_canonical": "University of Vermont Health",
 "company_dba": "",
-"id": "1f99da2a792d7b67",
+"id": "9dd9573944dab4b0",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -6302,6 +6393,19 @@
 "company_canonical": "H&M Fashion",
 "company_dba": "",
 "id": "a6e01322780535b5",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "SMBC MANUBANK",
+"location": "New York",
+"employees_affected": 12,
+"notice_date": "2026-06-04",
+"effective_date": "",
+"notice_type": "WARN",
+"state": "AZ",
+"company_canonical": "Smbc Manubank",
+"company_dba": "",
+"id": "ae1898e017d21ed3",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -6887,6 +6991,19 @@
 "company_canonical": "Federal Express",
 "company_dba": "",
 "id": "56e220fe9b352241",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Federal Express Corporation",
+"location": "Phoenix",
+"employees_affected": 101,
+"notice_date": "2026-06-02",
+"effective_date": "",
+"notice_type": "WARN",
+"state": "AZ",
+"company_canonical": "Federal Express",
+"company_dba": "",
+"id": "ef221390d524e0be",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -7510,7 +7627,7 @@
 "state": "VT",
 "company_canonical": "Franklin Foods",
 "company_dba": "",
-"id": "543c3150e35d39c7",
+"id": "21b8cd909dde7d0d",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -7523,7 +7640,7 @@
 "state": "AZ",
 "company_canonical": "Honeywell AZ0Y",
 "company_dba": "",
-"id": "5a08e8b0b3975577",
+"id": "af8bf9b733e0fb5e",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -7861,7 +7978,7 @@
 "state": "AZ",
 "company_canonical": "National Distribution Centers",
 "company_dba": "",
-"id": "8b0184370fe9f503",
+"id": "14059975295a6fd2",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -8771,7 +8888,7 @@
 "state": "AZ",
 "company_canonical": "SDH Education West",
 "company_dba": "",
-"id": "d00163f963211542",
+"id": "154e1ce8f3f0cc40",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -9876,7 +9993,7 @@
 "state": "AZ",
 "company_canonical": "Advanced Call Center Technologies (ACT)",
 "company_dba": "",
-"id": "405d3f44e5fc70ec",
+"id": "caa3ec9108c09088",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -10630,7 +10747,20 @@
 "state": "AZ",
 "company_canonical": "Northpoint Expeditionary Learning Academy",
 "company_dba": "",
-"id": "adceb636d5d63722",
+"id": "1c93a957221508a2",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Benchmark",
+"location": "Phoenix",
+"employees_affected": "",
+"notice_date": "2026-04-29",
+"effective_date": "",
+"notice_type": "WARN",
+"state": "AZ",
+"company_canonical": "Benchmark",
+"company_dba": "",
+"id": "58be29a167f40ce9",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -10877,7 +11007,7 @@
 "state": "VT",
 "company_canonical": "Perrigo",
 "company_dba": "",
-"id": "211423455381daf4",
+"id": "a0c9dbc3abbdddee",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -11072,7 +11202,7 @@
 "state": "AZ",
 "company_canonical": "Republic National Distributing",
 "company_dba": "",
-"id": "5634b8e9683377a9",
+"id": "28fb3cb1909432c6",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -11765,6 +11895,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "DLH Solutions",
+"location": "Tucson",
+"employees_affected": "",
+"notice_date": "2026-04-17",
+"effective_date": "",
+"notice_type": "WARN",
+"state": "AZ",
+"company_canonical": "DLH Solutions",
+"company_dba": "",
+"id": "c9797db9f8eb11b5",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
 "company": "FM Restaurants HQ, LLC",
 "location": "Orange County",
 "employees_affected": 49,
@@ -11960,6 +12103,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Marsden Services, LLC",
+"location": "Tucson",
+"employees_affected": 85,
+"notice_date": "2026-04-15",
+"effective_date": "",
+"notice_type": "WARN",
+"state": "AZ",
+"company_canonical": "Marsden Services",
+"company_dba": "",
+"id": "fc23bf9523dedd56",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
 "company": "Snap Inc.",
 "location": "Los Angeles County",
 "employees_affected": 247,
@@ -12021,7 +12177,7 @@
 "state": "AZ",
 "company_canonical": "Tendit Group",
 "company_dba": "",
-"id": "f60365abf0c2fa52",
+"id": "92ef43fe9d5b8595",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -12541,7 +12697,7 @@
 "state": "AZ",
 "company_canonical": "VisionQuest National",
 "company_dba": "",
-"id": "aa2db9243dafaac5",
+"id": "ce59e8ce33fedd0b",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -12736,7 +12892,7 @@
 "state": "AZ",
 "company_canonical": "Catholic Community Services of Southern Arizona",
 "company_dba": "",
-"id": "97930e1fce7c202a",
+"id": "aa4b75af8b200a00",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -13594,7 +13750,7 @@
 "state": "AZ",
 "company_canonical": "Aramark Campus",
 "company_dba": "",
-"id": "f3326969f6ac22d6",
+"id": "a87e14f0a773a6a4",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -14426,7 +14582,7 @@
 "state": "AZ",
 "company_canonical": "Sinomax East",
 "company_dba": "",
-"id": "85ce3d64028c04e3",
+"id": "4a2df7dfd5b61577",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -16337,7 +16493,7 @@
 "state": "AZ",
 "company_canonical": "C2 Technologies",
 "company_dba": "",
-"id": "aaae3019793a8393",
+"id": "b46f5900082f5cce",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -17494,7 +17650,7 @@
 "state": "AZ",
 "company_canonical": "Block",
 "company_dba": "",
-"id": "8ad62e0f29ace528",
+"id": "44ef1d0842f0728b",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -18625,7 +18781,7 @@
 "state": "AZ",
 "company_canonical": "Lowe's",
 "company_dba": "",
-"id": "33a8b2bc90bc378e",
+"id": "fee60d5138bbd373",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -18941,6 +19097,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Saks & Company LLC",
+"location": "Phoenix",
+"employees_affected": "",
+"notice_date": "2026-02-10",
+"effective_date": "",
+"notice_type": "WARN",
+"state": "AZ",
+"company_canonical": "Saks &",
+"company_dba": "",
+"id": "064a9da0e28023c3",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
 "company": "Riot Games",
 "location": "Los Angeles County",
 "employees_affected": 56,
@@ -19171,7 +19340,7 @@
 "state": "AZ",
 "company_canonical": "Liberty Dental Plan",
 "company_dba": "",
-"id": "313f874897373954",
+"id": "3036e84f798fa544",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -20146,7 +20315,7 @@
 "state": "AZ",
 "company_canonical": "Automated Harvesting",
 "company_dba": "",
-"id": "61cb1ca38155af48",
+"id": "3e39dd18fc4feecd",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -20679,7 +20848,7 @@
 "state": "VT",
 "company_canonical": "Maple Ridge Memory Care and Lodge",
 "company_dba": "",
-"id": "3683ecdea25d617b",
+"id": "d61a273883159682",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -20719,6 +20888,19 @@
 "company_canonical": "Associated Milk Producers",
 "company_dba": "",
 "id": "c8ffe0d16ed31bb4",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Shell Recharge Solutions",
+"location": "Los Angeles",
+"employees_affected": 2,
+"notice_date": "2026-01-29",
+"effective_date": "",
+"notice_type": "WARN",
+"state": "AZ",
+"company_canonical": "Shell Recharge Solutions",
+"company_dba": "",
+"id": "851d0e035428023d",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -21719,7 +21901,7 @@
 "state": "AZ",
 "company_canonical": "Benchmark",
 "company_dba": "",
-"id": "e00def7e1ec8ba9d",
+"id": "1d93d98dc2ce2248",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -22213,7 +22395,7 @@
 "state": "VT",
 "company_canonical": "Calmont Beverage",
 "company_dba": "",
-"id": "99445081da48a81f",
+"id": "ee8fc24cd52f4159",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -23179,6 +23361,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "SMBC Group - JeniusBank",
+"location": "Scottsdale",
+"employees_affected": 33,
+"notice_date": "2026-01-08",
+"effective_date": "",
+"notice_type": "WARN",
+"state": "AZ",
+"company_canonical": "SMBC Group - JeniusBank",
+"company_dba": "",
+"id": "a56948f4200c27be",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
 "company": "Alameda Health System - Wilma Chan Highland Hospital",
 "location": "Alameda County",
 "employees_affected": 128,
@@ -23344,7 +23539,7 @@
 "state": "AZ",
 "company_canonical": "GNC Distribution Center",
 "company_dba": "",
-"id": "27bfc11409950c36",
+"id": "3b76be8e996a6ca4",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -23357,7 +23552,7 @@
 "state": "AZ",
 "company_canonical": "Avelo Airlines",
 "company_dba": "",
-"id": "4a8984b9fde115f1",
+"id": "145ee379c0439299",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -24401,6 +24596,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Franklin Foods, Inc.",
+"location": "Casa Grande",
+"employees_affected": 83,
+"notice_date": "2025-12-05",
+"effective_date": "",
+"notice_type": "WARN",
+"state": "AZ",
+"company_canonical": "Franklin Foods",
+"company_dba": "",
+"id": "5a85d641d729941f",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
 "company": "Intel Corporation (Robert Noyce Building)",
 "location": "Santa Clara County",
 "employees_affected": 45,
@@ -24856,6 +25064,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "DHM Payroll - Fiesta Tempe, LLC,",
+"location": "Tempe",
+"employees_affected": "",
+"notice_date": "2025-11-26",
+"effective_date": "",
+"notice_type": "WARN",
+"state": "AZ",
+"company_canonical": "DHM Payroll - Fiesta Tempe",
+"company_dba": "",
+"id": "27b91a07250f3d46",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
 "company": "Panasonic Well LLC",
 "location": "Santa Clara County",
 "employees_affected": 46,
@@ -25073,7 +25294,7 @@
 "state": "AZ",
 "company_canonical": "Nordstrom",
 "company_dba": "",
-"id": "693549b47b64434b",
+"id": "c6be682aa7f48572",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -25385,7 +25606,7 @@
 "state": "AZ",
 "company_canonical": "Nordstrom",
 "company_dba": "",
-"id": "c01e52babb477c89",
+"id": "88a4ccc43bccf5da",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -26074,7 +26295,7 @@
 "state": "AZ",
 "company_canonical": "Evernorth Care Group",
 "company_dba": "",
-"id": "72778e71a58643fc",
+"id": "1be7b6a53728f711",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -26569,6 +26790,19 @@
 "company_canonical": "Catalent, Maryland",
 "company_dba": "",
 "id": "b05d9d0a26f2118f",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Allied Tube and Conduit Corporation",
+"location": "Phoenix",
+"employees_affected": "",
+"notice_date": "2025-11-05",
+"effective_date": "",
+"notice_type": "WARN",
+"state": "AZ",
+"company_canonical": "Allied Tube and Conduit",
+"company_dba": "",
+"id": "a835c48ab715816c",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -27950,6 +28184,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Arizona Autism",
+"location": "Phoenix",
+"employees_affected": 2792,
+"notice_date": "2025-10-30",
+"effective_date": "",
+"notice_type": "WARN",
+"state": "AZ",
+"company_canonical": "Arizona Autism",
+"company_dba": "",
+"id": "8abb343330bbba62",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
 "company": "Warner Music Inc.",
 "location": "Los Angeles County",
 "employees_affected": 2,
@@ -28271,7 +28518,7 @@
 "state": "AZ",
 "company_canonical": "Microchip",
 "company_dba": "",
-"id": "9ebcfa906e8b70f3",
+"id": "e82166ff087163f5",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -28908,7 +29155,7 @@
 "state": "AZ",
 "company_canonical": "Buena Vista Recovery",
 "company_dba": "",
-"id": "2249bf68ad0cf158",
+"id": "f39f8e3affcc2e6e",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -30663,7 +30910,7 @@
 "state": "AZ",
 "company_canonical": "U.S Census Bureau",
 "company_dba": "",
-"id": "4e780b0cbe109430",
+"id": "65201d3d1d9127d8",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -32314,7 +32561,7 @@
 "state": "VT",
 "company_canonical": "ITC Federal",
 "company_dba": "",
-"id": "fa090af7bd0d8735",
+"id": "230cf9e9222c5f8a",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -32860,7 +33107,7 @@
 "state": "VT",
 "company_canonical": "HP Hood",
 "company_dba": "",
-"id": "576ea6606c1ac27a",
+"id": "11c6782dadb28a8e",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -33566,6 +33813,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "McGee Air Services, Inc.",
+"location": "Phoenix",
+"employees_affected": 79,
+"notice_date": "2025-09-10",
+"effective_date": "",
+"notice_type": "WARN",
+"state": "AZ",
+"company_canonical": "McGee Air Services",
+"company_dba": "",
+"id": "80b149a292f710d8",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
 "company": "Kaiser Foundation Hospitals-Pleasanton",
 "location": "Alameda County",
 "employees_affected": 14,
@@ -34030,7 +34290,20 @@
 "state": "AZ",
 "company_canonical": "CyraCom International",
 "company_dba": "",
-"id": "eee260d8d76cc1b8",
+"id": "2c393be9610a795d",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "LSG Sky Chefs",
+"location": "Phoenix",
+"employees_affected": "",
+"notice_date": "2025-09-04",
+"effective_date": "",
+"notice_type": "WARN",
+"state": "AZ",
+"company_canonical": "LSG Sky Chefs",
+"company_dba": "",
+"id": "8ccaedf15f30865a",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -35109,7 +35382,7 @@
 "state": "AZ",
 "company_canonical": "Intel",
 "company_dba": "",
-"id": "414c84ff812488cd",
+"id": "78999d3e788c464f",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -35347,6 +35620,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Nordstrom",
+"location": "Centennial",
+"employees_affected": 10,
+"notice_date": "2025-08-21",
+"effective_date": "",
+"notice_type": "WARN",
+"state": "AZ",
+"company_canonical": "Nordstrom",
+"company_dba": "",
+"id": "1745232a2e0c2d3f",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
 "company": "Farmers Group, Inc.",
 "location": "Los Angeles County",
 "employees_affected": 62,
@@ -35396,6 +35682,19 @@
 "company_canonical": "Nordstrom Credit Bank",
 "company_dba": "",
 "id": "66bf055c3e8f61de",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Freight Handlers, LLC",
+"location": "Phoenix",
+"employees_affected": "",
+"notice_date": "2025-08-20",
+"effective_date": "",
+"notice_type": "WARN",
+"state": "AZ",
+"company_canonical": "Freight Handlers",
+"company_dba": "",
+"id": "bd35cab73fcbbe4a",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -35681,7 +35980,7 @@
 "state": "AZ",
 "company_canonical": "Zeco Systems",
 "company_dba": "",
-"id": "3ffe055ed286584c",
+"id": "00e87446a5314387",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -36348,6 +36647,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Southwest Key Programs",
+"location": "Phoenix",
+"employees_affected": 45,
+"notice_date": "2025-08-06",
+"effective_date": "",
+"notice_type": "WARN",
+"state": "AZ",
+"company_canonical": "Southwest Key Programs",
+"company_dba": "",
+"id": "22445e5aa09389bc",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
 "company": "Southwest Key Programs, Inc.",
 "location": "Contra Costa County",
 "employees_affected": 3,
@@ -36838,7 +37150,7 @@
 "state": "AZ",
 "company_canonical": "Southwest Key Programs",
 "company_dba": "",
-"id": "33dc687a7f7daa85",
+"id": "329238df46eaa7b8",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -37215,7 +37527,7 @@
 "state": "AZ",
 "company_canonical": "Nordstrom Credit Bank",
 "company_dba": "",
-"id": "7c7112f623326943",
+"id": "94946ccff57b5e30",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -37384,7 +37696,7 @@
 "state": "VT",
 "company_canonical": "University of Vermont Health Network",
 "company_dba": "",
-"id": "3a312e7ea78c5c05",
+"id": "64f00986ad90a460",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -37527,7 +37839,7 @@
 "state": "VT",
 "company_canonical": "America's Gardening Resouces",
 "company_dba": "Gardeners supply",
-"id": "dc03668a08f14668",
+"id": "b1a5c31d43e1e1e1",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -37593,6 +37905,32 @@
 "company_canonical": "SenDx Medical",
 "company_dba": "",
 "id": "0866e752bcf3383b",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Ryder Integrated Logistics, Inc.",
+"location": "Yuma",
+"employees_affected": "",
+"notice_date": "2025-07-22",
+"effective_date": "",
+"notice_type": "WARN",
+"state": "AZ",
+"company_canonical": "Ryder Integrated Logistics",
+"company_dba": "",
+"id": "e1f91c6922d7384e",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Gannett Publishing Services",
+"location": "Phoenix",
+"employees_affected": 117,
+"notice_date": "2025-07-22",
+"effective_date": "",
+"notice_type": "WARN",
+"state": "AZ",
+"company_canonical": "Gannett Publishing Services",
+"company_dba": "",
+"id": "c1e78095ab77f38f",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -37891,7 +38229,7 @@
 "state": "AZ",
 "company_canonical": "KIRA Services",
 "company_dba": "",
-"id": "44b93d73cacde761",
+"id": "b4625b1725c62040",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -37969,7 +38307,7 @@
 "state": "AZ",
 "company_canonical": "WeDriveU",
 "company_dba": "",
-"id": "3cc90ff6cd948353",
+"id": "ca81d5b75b0190a7",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -39113,7 +39451,20 @@
 "state": "AZ",
 "company_canonical": "QB Intermediate Holdings",
 "company_dba": "Quality Built, LLC",
-"id": "83f31ad09a7a9358",
+"id": "69c06e952578d7ae",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Intel Corporation",
+"location": "Chandler",
+"employees_affected": 696,
+"notice_date": "2025-07-07",
+"effective_date": "",
+"notice_type": "WARN",
+"state": "AZ",
+"company_canonical": "Intel",
+"company_dba": "",
+"id": "874043a9ae6f01cc",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -39360,7 +39711,7 @@
 "state": "AZ",
 "company_canonical": "Sodexo, Inc and Affiliates",
 "company_dba": "",
-"id": "6e7657b021c1b348",
+"id": "65e7c1330ba8f528",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -39464,7 +39815,7 @@
 "state": "AZ",
 "company_canonical": "Ruan Transport",
 "company_dba": "",
-"id": "638f213e044ffc0f",
+"id": "5248d00ce6a032d0",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -40024,6 +40375,19 @@
 "company_canonical": "Wisconsin Physicians Service Insurance Corporation (\"WPS\")",
 "company_dba": "",
 "id": "29b14002e1487aa3",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Nordstrom Credit Bank",
+"location": "Englewood",
+"employees_affected": 9,
+"notice_date": "2025-06-26",
+"effective_date": "",
+"notice_type": "WARN",
+"state": "AZ",
+"company_canonical": "Nordstrom Credit Bank",
+"company_dba": "",
+"id": "09c28de597af183e",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -40660,7 +41024,7 @@
 "state": "VT",
 "company_canonical": "The Orvis",
 "company_dba": "",
-"id": "24fe1392e0378f6e",
+"id": "241a86d020ba13cf",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -40803,7 +41167,7 @@
 "state": "AZ",
 "company_canonical": "Hickman's Family Farms",
 "company_dba": "",
-"id": "b987909987e132ec",
+"id": "3875e6616427d497",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -41219,7 +41583,7 @@
 "state": "AZ",
 "company_canonical": "Mural Technologies",
 "company_dba": "",
-"id": "75199e26f9af11f5",
+"id": "844da6afea3ab2df",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -42103,7 +42467,7 @@
 "state": "AZ",
 "company_canonical": "iQor Holdings US",
 "company_dba": "",
-"id": "43fcb7af9e616081",
+"id": "ec544878cbf32c1f",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -42207,7 +42571,7 @@
 "state": "AZ",
 "company_canonical": "Nordstrom Credit Bank",
 "company_dba": "",
-"id": "6404c9aa9b2711a7",
+"id": "7c1fc34566c8b82a",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -42545,7 +42909,7 @@
 "state": "AZ",
 "company_canonical": "Meyer Burger Americas",
 "company_dba": "",
-"id": "4fbd67ed2dddc9d4",
+"id": "f074d6e93280a41c",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -42558,7 +42922,7 @@
 "state": "AZ",
 "company_canonical": "US Cellular",
 "company_dba": "",
-"id": "24f858a6f7dae4ff",
+"id": "6229b6f830853b19",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -42896,7 +43260,7 @@
 "state": "AZ",
 "company_canonical": "Florence Immigrant & Refugee Rights Project",
 "company_dba": "",
-"id": "d8f21f0217ff397c",
+"id": "4539aefb5c548ca6",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -43611,7 +43975,7 @@
 "state": "AZ",
 "company_canonical": "Crisis Preparation & Recovery",
 "company_dba": "",
-"id": "b260854337322a0c",
+"id": "62c088376096912d",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -43689,7 +44053,7 @@
 "state": "AZ",
 "company_canonical": "Tilson Technology Management",
 "company_dba": "",
-"id": "ba2acfea2831bbb6",
+"id": "9c497dce30bf0f4b",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -44599,7 +44963,7 @@
 "state": "VT",
 "company_canonical": "Fed Ex",
 "company_dba": "",
-"id": "53f4043c8b555e17",
+"id": "a575b039404fe85e",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -44612,7 +44976,7 @@
 "state": "AZ",
 "company_canonical": "DFC",
 "company_dba": "",
-"id": "7c24b5af706f2a6d",
+"id": "30c5f7675517a828",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -44625,7 +44989,7 @@
 "state": "AZ",
 "company_canonical": "TXP - Transfer Express",
 "company_dba": "",
-"id": "4f7f55093b9f5acf",
+"id": "7183246896a785c3",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -44885,7 +45249,7 @@
 "state": "AZ",
 "company_canonical": "District Medical Group (Children's Rehabilitative Services)",
 "company_dba": "",
-"id": "dfb056ec62f95cef",
+"id": "b13f4a5bb3929ce1",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -47381,7 +47745,7 @@
 "state": "AZ",
 "company_canonical": "Berger Logistics",
 "company_dba": "",
-"id": "0668e8506a44b6d3",
+"id": "da27df1af8f49cf2",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -47853,6 +48217,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "General Dynamics Information Technology",
+"location": "Falls Church",
+"employees_affected": "",
+"notice_date": "2025-03-28",
+"effective_date": "",
+"notice_type": "WARN",
+"state": "AZ",
+"company_canonical": "General Dynamics Information Technology",
+"company_dba": "",
+"id": "f2fc454f0f191665",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
 "company": "TreeHouse Private Brands, Inc.",
 "location": "South Beloit, 1450 Pate Plaza Dr",
 "employees_affected": 297,
@@ -48174,7 +48551,7 @@
 "state": "AZ",
 "company_canonical": "Block",
 "company_dba": "",
-"id": "0cce8764ec089487",
+"id": "be87774043929e13",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -48421,7 +48798,7 @@
 "state": "AZ",
 "company_canonical": "DLP Services",
 "company_dba": "",
-"id": "0049539ca49f84c0",
+"id": "7a59ea2f59c11af3",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -49513,7 +49890,7 @@
 "state": "AZ",
 "company_canonical": "Microchip",
 "company_dba": "",
-"id": "5000f8733d575a78",
+"id": "ac0a459a04fb0d22",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -49747,7 +50124,7 @@
 "state": "AZ",
 "company_canonical": "Veyer",
 "company_dba": "",
-"id": "b41ecae8bef01b12",
+"id": "0267c169cc23c7ba",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -49760,7 +50137,7 @@
 "state": "AZ",
 "company_canonical": "LUKE Holding",
 "company_dba": "",
-"id": "f6d060210da449f3",
+"id": "007d1b1ccd988061",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -49773,7 +50150,7 @@
 "state": "AZ",
 "company_canonical": "LUKE Holding",
 "company_dba": "",
-"id": "8ce6751e19797a47",
+"id": "e1b672016662696b",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -49786,7 +50163,7 @@
 "state": "AZ",
 "company_canonical": "LUKE Holding",
 "company_dba": "",
-"id": "99f377dbe93fd094",
+"id": "c89de7f91b2e2c84",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -50475,7 +50852,7 @@
 "state": "AZ",
 "company_canonical": "Nikola",
 "company_dba": "",
-"id": "06f4b1e4594dca35",
+"id": "5fa4f2f78eff185f",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -50488,7 +50865,7 @@
 "state": "AZ",
 "company_canonical": "Nikola",
 "company_dba": "",
-"id": "4464739449127da8",
+"id": "d0d1fb799732e13a",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -50501,7 +50878,7 @@
 "state": "AZ",
 "company_canonical": "Behavioral Health Link",
 "company_dba": "",
-"id": "93b02603f1c921e2",
+"id": "e78680924a8d5d08",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -51996,7 +52373,7 @@
 "state": "AZ",
 "company_canonical": "Cruise",
 "company_dba": "",
-"id": "851efe6c6fdb1653",
+"id": "75845cb06d18e2c9",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -52919,7 +53296,7 @@
 "state": "AZ",
 "company_canonical": "ManpowerGroup US",
 "company_dba": "",
-"id": "810c7bdfa3d9f84e",
+"id": "f4b0a7f47cc88c22",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -53491,7 +53868,7 @@
 "state": "AZ",
 "company_canonical": "Safeway",
 "company_dba": "",
-"id": "38233628a53b999d",
+"id": "9d649045da749cad",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -55506,7 +55883,7 @@
 "state": "VT",
 "company_canonical": "ITC Federal",
 "company_dba": "",
-"id": "5ef6c196cf4f2266",
+"id": "4e516bb20d67730f",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -60329,7 +60706,7 @@
 "state": "VT",
 "company_canonical": "The Orvis",
 "company_dba": "",
-"id": "5a7a0f84e9baae9c",
+"id": "9d6aa46bde4274bf",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -63852,7 +64229,7 @@
 "state": "AZ",
 "company_canonical": "Amentum",
 "company_dba": "",
-"id": "7d087012c8d3ef26",
+"id": "e2b3c262b1503b28",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -64177,7 +64554,7 @@
 "state": "VT",
 "company_canonical": "Big Lots",
 "company_dba": "",
-"id": "c6fe345320b98e0a",
+"id": "394c5c793301c6c2",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -65477,7 +65854,7 @@
 "state": "AZ",
 "company_canonical": "Schuff Steel",
 "company_dba": "",
-"id": "786c60a861d9c72a",
+"id": "1a90682459e4e5de",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -67284,7 +67661,7 @@
 "state": "AZ",
 "company_canonical": "TuSimple",
 "company_dba": "",
-"id": "186de8ee8c2f46e7",
+"id": "bdbaa4b2c3cab8e0",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -67297,7 +67674,7 @@
 "state": "AZ",
 "company_canonical": "Kalil Bottling",
 "company_dba": "",
-"id": "43ec44c217760334",
+"id": "059b872f3538e747",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -67596,7 +67973,7 @@
 "state": "AZ",
 "company_canonical": "Obvio Health USA, Inc. - ObvioHealth",
 "company_dba": "",
-"id": "6c6be27c76b132a2",
+"id": "a178291dc704e144",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -70287,7 +70664,7 @@
 "state": "AZ",
 "company_canonical": "Savers",
 "company_dba": "",
-"id": "645e8b4c3110a8f3",
+"id": "6e0d46ca57491581",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -70300,7 +70677,7 @@
 "state": "AZ",
 "company_canonical": "Devine Holdings",
 "company_dba": "",
-"id": "ae5688bdd63a1f13",
+"id": "ca043632ce67b060",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -71717,7 +72094,7 @@
 "state": "AZ",
 "company_canonical": "Kuehne+Nagel",
 "company_dba": "",
-"id": "1fcb98ad3559b37c",
+"id": "667c3763258d82b4",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -72796,7 +73173,7 @@
 "state": "AZ",
 "company_canonical": "Packers Sanitation Services",
 "company_dba": "",
-"id": "21286d4e869d164e",
+"id": "0758b22e57b29e95",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -73004,7 +73381,7 @@
 "state": "AZ",
 "company_canonical": "COR Restaurant Services",
 "company_dba": "",
-"id": "b42a581efb791807",
+"id": "8c9ab46f1907dac4",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -73329,7 +73706,7 @@
 "state": "AZ",
 "company_canonical": "Spectrum Home Healthcare",
 "company_dba": "",
-"id": "0a820aa967ea3d2a",
+"id": "ebb819501518b4e7",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -73940,7 +74317,7 @@
 "state": "AZ",
 "company_canonical": "Volta Charging Industries",
 "company_dba": "",
-"id": "e6c75bf8be75cd06",
+"id": "ef5b768137511a19",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -74408,7 +74785,7 @@
 "state": "AZ",
 "company_canonical": "US Foods",
 "company_dba": "",
-"id": "3c99927f65700baa",
+"id": "cc9a550ec94065bd",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -74538,7 +74915,7 @@
 "state": "AZ",
 "company_canonical": "Carclo Technical Plastics",
 "company_dba": "",
-"id": "13d62a22c047cc6b",
+"id": "1b56c06565f88708",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -74551,7 +74928,7 @@
 "state": "AZ",
 "company_canonical": "Bionano Genomics",
 "company_dba": "",
-"id": "e0eb64e679526cf8",
+"id": "6867036112c3262a",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -74941,7 +75318,7 @@
 "state": "AZ",
 "company_canonical": "TuSimple",
 "company_dba": "",
-"id": "90476954a2b54727",
+"id": "bbd0348f08e86c85",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -75149,7 +75526,7 @@
 "state": "AZ",
 "company_canonical": "Kett Engineering",
 "company_dba": "",
-"id": "73dabaab38630a77",
+"id": "32816277489ecadf",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -75266,7 +75643,7 @@
 "state": "AZ",
 "company_canonical": "Forever Nutraceuticals",
 "company_dba": "",
-"id": "03c567e8a6116d88",
+"id": "f1804d9b1d267a33",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -77164,7 +77541,7 @@
 "state": "AZ",
 "company_canonical": "TuSimple",
 "company_dba": "",
-"id": "4d4fa2999dbfad4e",
+"id": "5b7995e14dac9247",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -78685,7 +79062,7 @@
 "state": "AZ",
 "company_canonical": "Jacobs Technology",
 "company_dba": "",
-"id": "61a76cc2c32f78c4",
+"id": "ab3c3317a6d5767f",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -79257,7 +79634,7 @@
 "state": "AZ",
 "company_canonical": "Block",
 "company_dba": "",
-"id": "6d9cf6d606c16da4",
+"id": "70a9a7cdd0eadfa9",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -79595,7 +79972,7 @@
 "state": "AZ",
 "company_canonical": "American Airlines",
 "company_dba": "",
-"id": "7801e90ac7d45832",
+"id": "d7d540b23b505b18",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -82208,7 +82585,7 @@
 "state": "AZ",
 "company_canonical": "ABM Industry Group",
 "company_dba": "",
-"id": "61f5b7530f98ab18",
+"id": "3f7063632c838248",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -82728,7 +83105,7 @@
 "state": "AZ",
 "company_canonical": "Michael Foods",
 "company_dba": "",
-"id": "b83793858f5918d6",
+"id": "9909e95d50e79055",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -82741,7 +83118,7 @@
 "state": "VT",
 "company_canonical": "Soundview Vermont Holdings",
 "company_dba": "",
-"id": "78f6e3b75c22cb26",
+"id": "fec089c40fffdb60",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -82767,7 +83144,7 @@
 "state": "AZ",
 "company_canonical": "Lost Boys Interactive",
 "company_dba": "",
-"id": "40b9c859848cd1ad",
+"id": "65a6204758d1fea0",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {

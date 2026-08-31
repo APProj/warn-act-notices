@@ -1,6 +1,6 @@
 # US WARN Act Layoff Notices — normalized, daily-updated dataset
 
-**6,701 layoff notices since 2024 · 29 states · one clean schema · CSV + JSON · updated 2026-08-31**
+**6,730 layoff notices since 2024 · 29 states · one clean schema · CSV + JSON · updated 2026-08-31**
 
 Every US state publishes WARN Act layoff notices differently — different sites,
 formats, column names, and date conventions. This repo normalizes them into one
@@ -13,12 +13,13 @@ deduplicated dataset, refreshed daily.
 - Coverage/freshness metadata: [`data/coverage.json`](data/coverage.json)
 - Per-state CSVs: [`data/by-state/`](data/by-state/) — see table below
 - Stats page: https://approj.github.io/warn-act-notices/
+- RSS feed of newly-published notices: https://approj.github.io/warn-act-notices/feed.xml (48h-delayed)
 - Browse layoffs by employer: https://approj.github.io/warn-act-notices/employers/
 
 No login, no API key. Scope of the free dataset, stated plainly: notices from
 **2024-01-01** onward, **48h-delayed** (newly scraped notices appear here 48 hours
 after our pipeline first sees them). The full archive back to 1988
-(40,143 notices) and the zero-delay feed are the commercial products
+(40,251 notices) and the zero-delay feed are the commercial products
 that fund the pipeline.
 
 ## Schema
@@ -41,7 +42,7 @@ that fund the pipeline.
 
 | State | Notices | CSV | Source status |
 |---|---:|---|---|
-| [Arizona](https://approj.github.io/warn-act-notices/states/arizona.html) (AZ) | 620 | [az.csv](data/by-state/az.csv) | ok |
+| [Arizona](https://approj.github.io/warn-act-notices/states/arizona.html) (AZ) | 636 | [az.csv](data/by-state/az.csv) | ok |
 | [California](https://approj.github.io/warn-act-notices/states/california.html) (CA) | 16,526 | [ca.csv](data/by-state/ca.csv) | ok |
 | [Colorado](https://approj.github.io/warn-act-notices/states/colorado.html) (CO) | 835 | — | ok |
 | [Connecticut](https://approj.github.io/warn-act-notices/states/connecticut.html) (CT) | 27 | [ct.csv](data/by-state/ct.csv) | ok |
@@ -50,7 +51,7 @@ that fund the pipeline.
 | [Iowa](https://approj.github.io/warn-act-notices/states/iowa.html) (IA) | 415 | [ia.csv](data/by-state/ia.csv) | ok |
 | [Illinois](https://approj.github.io/warn-act-notices/states/illinois.html) (IL) | 4,842 | [il.csv](data/by-state/il.csv) | ok |
 | [Indiana](https://approj.github.io/warn-act-notices/states/indiana.html) (IN) | 1,180 | [in.csv](data/by-state/in.csv) | ok |
-| [Kansas](https://approj.github.io/warn-act-notices/states/kansas.html) (KS) | 699 | — | ok |
+| [Kansas](https://approj.github.io/warn-act-notices/states/kansas.html) (KS) | 791 | — | ok |
 | [Kentucky](https://approj.github.io/warn-act-notices/states/kentucky.html) (KY) | 804 | [ky.csv](data/by-state/ky.csv) | ok |
 | [Louisiana](https://approj.github.io/warn-act-notices/states/louisiana.html) (LA) | 38 | — | ok |
 | [Maryland](https://approj.github.io/warn-act-notices/states/maryland.html) (MD) | 1,273 | [md.csv](data/by-state/md.csv) | ok |
@@ -98,18 +99,18 @@ e.g. California layoff notices: [`data/by-state/ca.csv`](data/by-state/ca.csv).
 
 | Month | Notices | Workers affected |
 |---|---:|---:|
-| 2025-09 | 187 | 21,431 |
-| 2025-10 | 323 | 32,883 |
-| 2025-11 | 230 | 15,795 |
-| 2025-12 | 89 | 8,076 |
-| 2026-01 | 276 | 24,175 |
-| 2026-02 | 229 | 19,438 |
+| 2025-09 | 189 | 21,510 |
+| 2025-10 | 324 | 35,675 |
+| 2025-11 | 232 | 15,795 |
+| 2025-12 | 90 | 8,159 |
+| 2026-01 | 278 | 24,210 |
+| 2026-02 | 230 | 19,438 |
 | 2026-03 | 242 | 14,726 |
-| 2026-04 | 279 | 17,959 |
+| 2026-04 | 282 | 18,044 |
 | 2026-05 | 240 | 33,091 |
-| 2026-06 | 229 | 14,028 |
-| 2026-07 | 168 | 14,221 |
-| 2026-08 | 151 | 14,049 |
+| 2026-06 | 235 | 14,216 |
+| 2026-07 | 169 | 14,320 |
+| 2026-08 | 153 | 14,074 |
 
 Machine-readable trends (per-state monthly notices + workers affected, last 24
 months): [`data/trends.json`](data/trends.json) — stable raw URL for embedding
@@ -133,7 +134,7 @@ expensive part. Commercial options:
   delay, including notices seen in the last 48h, refreshed on every pipeline
   run. Delivered as a private GitHub repo you can pull/watch.
 - **[Full historical archive — $199 one-time](https://approj.gumroad.com/l/warn-archive)** — every notice
-  we have back to 1988 (40,143 rows, all 29 states), CSV + JSON.
+  we have back to 1988 (40,251 rows, all 29 states), CSV + JSON.
 
 Delivery is automatic: enter your GitHub username at checkout and you're
 invited to the private repo. Questions first? [Open an issue](https://github.com/APProj/warn-act-notices/issues)
