@@ -23,7 +23,7 @@ deduplicated dataset, refreshed daily.
 No login, no API key. Scope of the free dataset, stated plainly: notices from
 **2024-01-01** onward, **48h-delayed** (newly scraped notices appear here 48 hours
 after our pipeline first sees them). The full archive back to 1988
-(40,255 notices) and the zero-delay feed are the commercial products
+(40,257 notices) and the zero-delay feed are the commercial products
 that fund the pipeline.
 
 ## Schema
@@ -68,7 +68,7 @@ that fund the pipeline.
 | [Oklahoma](https://approj.github.io/warn-act-notices/states/oklahoma.html) (OK) | 219 | [ok.csv](data/by-state/ok.csv) | ok |
 | [Oregon](https://approj.github.io/warn-act-notices/states/oregon.html) (OR) | 1,363 | [or.csv](data/by-state/or.csv) | ok |
 | [Rhode Island](https://approj.github.io/warn-act-notices/states/rhode-island.html) (RI) | 126 | [ri.csv](data/by-state/ri.csv) | ok |
-| [South Carolina](https://approj.github.io/warn-act-notices/states/south-carolina.html) (SC) | 601 | [sc.csv](data/by-state/sc.csv) | ok |
+| [South Carolina](https://approj.github.io/warn-act-notices/states/south-carolina.html) (SC) | 603 | [sc.csv](data/by-state/sc.csv) | ok |
 | [South Dakota](https://approj.github.io/warn-act-notices/states/south-dakota.html) (SD) | 80 | [sd.csv](data/by-state/sd.csv) | ok |
 | [Tennessee](https://approj.github.io/warn-act-notices/states/tennessee.html) (TN) | 1,060 | [tn.csv](data/by-state/tn.csv) | ok |
 | [Utah](https://approj.github.io/warn-act-notices/states/utah.html) (UT) | 282 | [ut.csv](data/by-state/ut.csv) | ok |
@@ -91,30 +91,30 @@ e.g. California layoff notices: [`data/by-state/ca.csv`](data/by-state/ca.csv).
 | Jabil | CA | Santa Clara County | 382 | 2026-08-21 |
 | Grocery Delivery E-Services | NJ | Swedesboro | 374 | 2026-08-01 |
 | Amentum | MD | 7710 Milestone Parkway Hanover, MD 21076 | 317 | 2026-08-18 |
-| Healthcare SC | SC | Fairfield | 254 | 2026-08-28 |
 | TikTok USDS JV | TN | Davidson | 250 | 2026-08-05 |
 | Starbucks | WA | Seattle | 224 | 2026-08-20 |
 | LeeMAH Electronics | CA | San Mateo County | 205 | 2026-08-17 |
 | Bumble Bee Foods | CA | Los Angeles County | 197 | 2026-08-11 |
 | Postal Center International | IN | Brownsburg | 151 | 2026-08-13 |
 | LAZ Parking California (9610 Sky Way) | CA | Los Angeles County | 139 | 2026-08-06 |
+| Gerresheimer | NJ | Vineland | 139 | 2026-08-01 |
 
 ## Monthly trend (last 12 months, this dataset)
 
 | Month | Notices | Workers affected |
 |---|---:|---:|
-| 2025-09 | 189 | 21,709 |
-| 2025-10 | 324 | 35,612 |
-| 2025-11 | 232 | 16,000 |
+| 2025-09 | 188 | 21,540 |
+| 2025-10 | 321 | 32,553 |
+| 2025-11 | 230 | 15,889 |
 | 2025-12 | 90 | 8,159 |
-| 2026-01 | 278 | 24,177 |
-| 2026-02 | 230 | 19,504 |
-| 2026-03 | 242 | 14,726 |
-| 2026-04 | 282 | 18,249 |
-| 2026-05 | 240 | 33,091 |
-| 2026-06 | 235 | 15,093 |
-| 2026-07 | 169 | 14,320 |
-| 2026-08 | 152 | 13,962 |
+| 2026-01 | 273 | 23,859 |
+| 2026-02 | 225 | 18,862 |
+| 2026-03 | 238 | 14,514 |
+| 2026-04 | 278 | 17,968 |
+| 2026-05 | 234 | 32,674 |
+| 2026-06 | 233 | 14,514 |
+| 2026-07 | 164 | 12,746 |
+| 2026-08 | 147 | 13,513 |
 
 Machine-readable trends (per-state monthly notices + workers affected, last 24
 months): [`data/trends.json`](data/trends.json) — stable raw URL for embedding
@@ -138,7 +138,7 @@ expensive part. Commercial options:
   delay, including notices seen in the last 48h, refreshed on every pipeline
   run. Delivered as a private GitHub repo you can pull/watch.
 - **[Full historical archive — $199 one-time](https://approj.gumroad.com/l/warn-archive)** — every notice
-  we have back to 1988 (40,255 rows, all 29 states), CSV + JSON.
+  we have back to 1988 (40,257 rows, all 29 states), CSV + JSON.
 
 Delivery is automatic: enter your GitHub username at checkout and you're
 invited to the private repo. Questions first? [Open an issue](https://github.com/APProj/warn-act-notices/issues)

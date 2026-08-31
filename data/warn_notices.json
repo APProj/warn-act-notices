@@ -3,39 +3,39 @@
 "company": "Electrolux Consumer Products, Inc.",
 "location": "Anderson",
 "employees_affected": 10,
-"notice_date": "2026-12-22",
-"effective_date": "",
+"notice_date": "",
+"effective_date": "2026-12-22",
 "notice_type": "",
 "state": "SC",
 "company_canonical": "Electrolux Consumer Products",
 "company_dba": "",
-"id": "05ab3e8e7e6ee2d2",
+"id": "4ec1e0490ff13ee2",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
 "company": "The Westin Hilton Head Island Resort & Spa",
 "location": "Beaufort",
 "employees_affected": 219,
-"notice_date": "2026-11-03",
-"effective_date": "",
+"notice_date": "",
+"effective_date": "2026-11-03",
 "notice_type": "",
 "state": "SC",
 "company_canonical": "Westin Hilton Head Island Resort & Spa",
 "company_dba": "",
-"id": "2762554f7fd9f5d8",
+"id": "c2786d718f4121bb",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
 "company": "KPR US LLC",
 "location": "Kershaw",
 "employees_affected": 3,
-"notice_date": "2026-11-01",
-"effective_date": "",
+"notice_date": "",
+"effective_date": "2026-11-01",
 "notice_type": "",
 "state": "SC",
 "company_canonical": "KPR US",
 "company_dba": "",
-"id": "f0de7077cdf4ca18",
+"id": "39c761f67e84efec",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -68,65 +68,65 @@
 "company": "PepsiCo Beverages Sales LLC",
 "location": "Richland",
 "employees_affected": 105,
-"notice_date": "2026-10-18",
-"effective_date": "",
+"notice_date": "",
+"effective_date": "2026-10-18",
 "notice_type": "",
 "state": "SC",
 "company_canonical": "PepsiCo Beverages Sales",
 "company_dba": "",
-"id": "1b7bd200fec41aec",
+"id": "3002c68dd1ff4dcd",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
 "company": "Pactiv LLC",
 "location": "Aiken",
 "employees_affected": 133,
-"notice_date": "2026-10-06",
-"effective_date": "",
+"notice_date": "",
+"effective_date": "2026-10-06",
 "notice_type": "",
 "state": "SC",
 "company_canonical": "Pactiv",
 "company_dba": "",
-"id": "4152b4285b715f97",
+"id": "4395e57a6cdf3699",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
 "company": "Smith Drug Company",
 "location": "Spartanburg",
 "employees_affected": 195,
-"notice_date": "2026-09-30",
-"effective_date": "",
+"notice_date": "",
+"effective_date": "2026-09-30",
 "notice_type": "",
 "state": "SC",
 "company_canonical": "Smith Drug",
 "company_dba": "",
-"id": "911bdbe75c1f0563",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
-"company": "Healthcare SC, LLC",
-"location": "Fairfield",
-"employees_affected": 254,
-"notice_date": "2026-08-28",
-"effective_date": "",
-"notice_type": "",
-"state": "SC",
-"company_canonical": "Healthcare SC",
-"company_dba": "",
-"id": "e77471fde1d2a31b",
+"id": "47e1457146ce8d62",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
 "company": "Conduent Commercial Solutions, LLC",
 "location": "Statewide - Mu",
 "employees_affected": 28,
-"notice_date": "2026-08-28",
-"effective_date": "",
+"notice_date": "",
+"effective_date": "2026-08-28",
 "notice_type": "",
 "state": "SC",
 "company_canonical": "Conduent Commercial Solutions",
 "company_dba": "",
-"id": "a65d65bed3224bea",
+"id": "d4534aac2f51298a",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Healthcare SC, LLC",
+"location": "Fairfield",
+"employees_affected": 254,
+"notice_date": "",
+"effective_date": "2026-08-28",
+"notice_type": "",
+"state": "SC",
+"company_canonical": "Healthcare SC",
+"company_dba": "",
+"id": "6fe64b3ca04e456c",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -325,19 +325,6 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
-"company": "ILPEA Industries, Inc.",
-"location": "Anderson",
-"employees_affected": 14,
-"notice_date": "2026-08-21",
-"effective_date": "",
-"notice_type": "",
-"state": "SC",
-"company_canonical": "ILPEA Industries",
-"company_dba": "",
-"id": "ea50887a97840db2",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
 "company": "Blue Shield of California",
 "location": "Sacramento County",
 "employees_affected": 5,
@@ -491,6 +478,19 @@
 "company_canonical": "Jabil",
 "company_dba": "",
 "id": "42ca7d81b33b15e0",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "ILPEA Industries, Inc.",
+"location": "Anderson",
+"employees_affected": 14,
+"notice_date": "",
+"effective_date": "2026-08-21",
+"notice_type": "",
+"state": "SC",
+"company_canonical": "ILPEA Industries",
+"company_dba": "",
+"id": "4016d308d1511747",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -756,7 +756,7 @@
 {
 "company": "Pinnacle Transplant Technologies, LLC",
 "location": "Phoenix",
-"employees_affected": 90,
+"employees_affected": "",
 "notice_date": "2026-08-17",
 "effective_date": "",
 "notice_type": "WARN",
@@ -1328,7 +1328,7 @@
 {
 "company": "SMBC MANUBANK",
 "location": "New York",
-"employees_affected": "",
+"employees_affected": 23,
 "notice_date": "2026-08-11",
 "effective_date": "",
 "notice_type": "WARN",
@@ -1430,6 +1430,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "KPR US LLC",
+"location": "Kershaw",
+"employees_affected": 13,
+"notice_date": "",
+"effective_date": "2026-08-07",
+"notice_type": "",
+"state": "SC",
+"company_canonical": "KPR US",
+"company_dba": "",
+"id": "c9cf6ef4818d1598",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
 "company": "Nordstrom",
 "location": "Lombard, 100 Yorktown Center",
 "employees_affected": 101,
@@ -1440,19 +1453,6 @@
 "company_canonical": "Nordstrom",
 "company_dba": "",
 "id": "bbbcb2f4f28fbc9c",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
-"company": "KPR US LLC",
-"location": "Kershaw",
-"employees_affected": 13,
-"notice_date": "2026-08-07",
-"effective_date": "",
-"notice_type": "",
-"state": "SC",
-"company_canonical": "KPR US",
-"company_dba": "",
-"id": "4514590c8b4925c2",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -1976,19 +1976,6 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
-"company": "80 Acres Urban Agriculture, Inc. (80 Acres Farms)",
-"location": "Anderson",
-"employees_affected": 73,
-"notice_date": "2026-08-03",
-"effective_date": "",
-"notice_type": "",
-"state": "SC",
-"company_canonical": "80 Acres Urban Agriculture, Inc. (80 Acres Farms)",
-"company_dba": "",
-"id": "4ad9865e9fd12ef1",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
 "company": "Avamere Health Services, LLC",
 "location": "Tigard",
 "employees_affected": 129,
@@ -1999,6 +1986,19 @@
 "company_canonical": "Avamere Health Services",
 "company_dba": "",
 "id": "35a83897f30902f3",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "80 Acres Urban Agriculture, Inc. (80 Acres Farms)",
+"location": "Anderson",
+"employees_affected": 73,
+"notice_date": "",
+"effective_date": "2026-08-03",
+"notice_type": "",
+"state": "SC",
+"company_canonical": "80 Acres Urban Agriculture, Inc. (80 Acres Farms)",
+"company_dba": "",
+"id": "0192ff3419c4a121",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -3084,13 +3084,13 @@
 "company": "Electrolux Consumer Products, Inc.",
 "location": "Anderson",
 "employees_affected": 1245,
-"notice_date": "2026-07-18",
-"effective_date": "",
+"notice_date": "",
+"effective_date": "2026-07-18",
 "notice_type": "",
 "state": "SC",
 "company_canonical": "Electrolux Consumer Products",
 "company_dba": "",
-"id": "d9c59e7bf8510876",
+"id": "43b0a469e0ba482c",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -3117,6 +3117,19 @@
 "company_canonical": "NBCUniversal Media",
 "company_dba": "",
 "id": "eb4a93bd73348c28",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "ILPEA Industries, Inc.",
+"location": "Anderson",
+"employees_affected": 43,
+"notice_date": "",
+"effective_date": "2026-07-17",
+"notice_type": "",
+"state": "SC",
+"company_canonical": "ILPEA Industries",
+"company_dba": "",
+"id": "e1ea3fa3e9ef1bd9",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -3208,19 +3221,6 @@
 "company_canonical": "Monterey Mushrooms",
 "company_dba": "",
 "id": "342a9972600db283",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
-"company": "ILPEA Industries, Inc.",
-"location": "Anderson",
-"employees_affected": 43,
-"notice_date": "2026-07-17",
-"effective_date": "",
-"notice_type": "",
-"state": "SC",
-"company_canonical": "ILPEA Industries",
-"company_dba": "",
-"id": "2a2213f7cefaa816",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -3474,13 +3474,13 @@
 "company": "Swiss Krono, LLC",
 "location": "Barnwell",
 "employees_affected": 99,
-"notice_date": "2026-07-11",
-"effective_date": "",
+"notice_date": "",
+"effective_date": "2026-07-11",
 "notice_type": "",
 "state": "SC",
 "company_canonical": "Swiss Krono",
 "company_dba": "",
-"id": "0fd6772c0ffeccdd",
+"id": "2a9bae151f5e8261",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -3822,19 +3822,6 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
-"company": "Hengst Filtration",
-"location": "Kershaw",
-"employees_affected": 77,
-"notice_date": "2026-07-06",
-"effective_date": "",
-"notice_type": "",
-"state": "SC",
-"company_canonical": "Hengst Filtration",
-"company_dba": "",
-"id": "b3c9b34ef258782c",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
 "company": "Microsoft",
 "location": "Redmond",
 "employees_affected": 605,
@@ -3861,6 +3848,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Hengst Filtration",
+"location": "Kershaw",
+"employees_affected": 77,
+"notice_date": "",
+"effective_date": "2026-07-06",
+"notice_type": "",
+"state": "SC",
+"company_canonical": "Hengst Filtration",
+"company_dba": "",
+"id": "27d6b756fe0bd74f",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
 "company": "Pioneer Cladding & Glazing Systems, Inc.",
 "location": "1407 Parker Road Halethorpe, MD 21227",
 "employees_affected": 17,
@@ -3877,13 +3877,13 @@
 "company": "thyssenkrupp Supply Chain Services, Inc.",
 "location": "Spartanburg",
 "employees_affected": 110,
-"notice_date": "2026-07-05",
-"effective_date": "",
+"notice_date": "",
+"effective_date": "2026-07-05",
 "notice_type": "",
 "state": "SC",
 "company_canonical": "thyssenkrupp Supply Chain Services",
 "company_dba": "",
-"id": "da695f1c433f3d6c",
+"id": "580540a0c796351d",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -4589,6 +4589,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Univar Solutions USA LLC",
+"location": "Spartanburg",
+"employees_affected": 99,
+"notice_date": "",
+"effective_date": "2026-06-28",
+"notice_type": "",
+"state": "SC",
+"company_canonical": "Univar Solutions",
+"company_dba": "",
+"id": "c5d80339716439ce",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
 "company": "Conduent Commercial Solutions, LLC",
 "location": "Remote",
 "employees_affected": 2,
@@ -4599,19 +4612,6 @@
 "company_canonical": "Conduent Commercial Solutions",
 "company_dba": "",
 "id": "0de965e694fd4c10",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
-"company": "Univar Solutions USA LLC",
-"location": "Spartanburg",
-"employees_affected": 99,
-"notice_date": "2026-06-28",
-"effective_date": "",
-"notice_type": "",
-"state": "SC",
-"company_canonical": "Univar Solutions",
-"company_dba": "",
-"id": "072e1612d5feac13",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -6177,7 +6177,7 @@
 {
 "company": "University of Vermont Health",
 "location": "Burlington",
-"employees_affected": 142,
+"employees_affected": "",
 "notice_date": "2026-06-09",
 "effective_date": "",
 "notice_type": "WARN",
@@ -6282,13 +6282,13 @@
 "company": "Republic National Distributing Company, LLC",
 "location": "Lexington",
 "employees_affected": 451,
-"notice_date": "2026-06-07",
-"effective_date": "",
+"notice_date": "",
+"effective_date": "2026-06-07",
 "notice_type": "",
 "state": "SC",
 "company_canonical": "Republic National Distributing",
 "company_dba": "",
-"id": "660c7848acc98819",
+"id": "6d3a93a6ee9bb13b",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -6398,7 +6398,7 @@
 {
 "company": "SMBC MANUBANK",
 "location": "New York",
-"employees_affected": "",
+"employees_affected": 12,
 "notice_date": "2026-06-04",
 "effective_date": "",
 "notice_type": "WARN",
@@ -6996,7 +6996,7 @@
 {
 "company": "Federal Express Corporation",
 "location": "Phoenix",
-"employees_affected": "",
+"employees_affected": 101,
 "notice_date": "2026-06-02",
 "effective_date": "",
 "notice_type": "WARN",
@@ -7358,19 +7358,6 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
-"company": "KPR US LLC",
-"location": "Kershaw",
-"employees_affected": 23,
-"notice_date": "2026-05-29",
-"effective_date": "",
-"notice_type": "",
-"state": "SC",
-"company_canonical": "KPR US",
-"company_dba": "",
-"id": "cb9edee2809d0f04",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
 "company": "Blue Shield of California",
 "location": "Los Angeles County",
 "employees_affected": 24,
@@ -7433,6 +7420,19 @@
 "company_canonical": "Oswego Beverage",
 "company_dba": "",
 "id": "8e297967e905fdad",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "KPR US LLC",
+"location": "Kershaw",
+"employees_affected": 23,
+"notice_date": "",
+"effective_date": "2026-05-29",
+"notice_type": "",
+"state": "SC",
+"company_canonical": "KPR US",
+"company_dba": "",
+"id": "8860b4d6ca83c5df",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -7956,19 +7956,6 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
-"company": "Textron Systems Corporation",
-"location": "Berkeley",
-"employees_affected": 58,
-"notice_date": "2026-05-21",
-"effective_date": "",
-"notice_type": "",
-"state": "SC",
-"company_canonical": "Textron Systems",
-"company_dba": "",
-"id": "eeaf127743a24999",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
 "company": "National Distribution Centers, LLC (19688 Van Ness Ave)",
 "location": "Los Angeles County",
 "employees_affected": 1,
@@ -8018,6 +8005,19 @@
 "company_canonical": "Intuit",
 "company_dba": "",
 "id": "76b3b7476885cca0",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Textron Systems Corporation",
+"location": "Berkeley",
+"employees_affected": 58,
+"notice_date": "",
+"effective_date": "2026-05-21",
+"notice_type": "",
+"state": "SC",
+"company_canonical": "Textron Systems",
+"company_dba": "",
+"id": "5e50176b842b7ae5",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -8075,7 +8075,7 @@
 {
 "company": "National Distribution Centers, LLC",
 "location": "Waddell",
-"employees_affected": 90,
+"employees_affected": "",
 "notice_date": "2026-05-21",
 "effective_date": "",
 "notice_type": "WARN",
@@ -8827,6 +8827,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "KPR US LLC",
+"location": "Kershaw",
+"employees_affected": 19,
+"notice_date": "",
+"effective_date": "2026-05-15",
+"notice_type": "",
+"state": "SC",
+"company_canonical": "KPR US",
+"company_dba": "",
+"id": "28bd8bfe6adebd7c",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
 "company": "LinkedIn Corporation (Home Office)",
 "location": "Santa Clara County",
 "employees_affected": 66,
@@ -8837,19 +8850,6 @@
 "company_canonical": "LinkedIn Corporation (Home Office)",
 "company_dba": "",
 "id": "24a79e25ba5248e4",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
-"company": "KPR US LLC",
-"location": "Kershaw",
-"employees_affected": 19,
-"notice_date": "2026-05-15",
-"effective_date": "",
-"notice_type": "",
-"state": "SC",
-"company_canonical": "KPR US",
-"company_dba": "",
-"id": "1625a002962fdfc4",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -9516,6 +9516,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Charter Communications",
+"location": "Lexington",
+"employees_affected": 62,
+"notice_date": "",
+"effective_date": "2026-05-07",
+"notice_type": "",
+"state": "SC",
+"company_canonical": "Charter Communications",
+"company_dba": "",
+"id": "eda4a4190c37ccc9",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
 "company": "Battelle Memorial Institute E3",
 "location": "Madison",
 "employees_affected": 3,
@@ -9539,19 +9552,6 @@
 "company_canonical": "GladUDid LLC (Chick-fil-A)",
 "company_dba": "",
 "id": "b5b24aa293b8d303",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
-"company": "Charter Communications",
-"location": "Lexington",
-"employees_affected": 62,
-"notice_date": "2026-05-07",
-"effective_date": "",
-"notice_type": "",
-"state": "SC",
-"company_canonical": "Charter Communications",
-"company_dba": "",
-"id": "a295caf21f5d0fa1",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -9971,6 +9971,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Parsec, LLC",
+"location": "Charleston",
+"employees_affected": 39,
+"notice_date": "",
+"effective_date": "2026-05-01",
+"notice_type": "",
+"state": "SC",
+"company_canonical": "Parsec",
+"company_dba": "",
+"id": "fe1752fd0d04b224",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
 "company": "Quixote Studio Services - Sylmar South",
 "location": "Los Angeles County",
 "employees_affected": 3,
@@ -10033,19 +10046,6 @@
 "company_canonical": "Advanced Call Center Technologies (ACT)",
 "company_dba": "",
 "id": "caa3ec9108c09088",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
-"company": "International Paper Company",
-"location": "Georgetown",
-"employees_affected": 126,
-"notice_date": "2026-05-01",
-"effective_date": "",
-"notice_type": "",
-"state": "SC",
-"company_canonical": "International Paper",
-"company_dba": "",
-"id": "c79684167fca3e87",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -10137,6 +10137,19 @@
 "company_canonical": "Embassy Suites by Hilton",
 "company_dba": "",
 "id": "a74fa7c166e10e6b",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "International Paper Company",
+"location": "Georgetown",
+"employees_affected": 126,
+"notice_date": "",
+"effective_date": "2026-05-01",
+"notice_type": "",
+"state": "SC",
+"company_canonical": "International Paper",
+"company_dba": "",
+"id": "a09291619385fad8",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -10319,19 +10332,6 @@
 "company_canonical": "Prudential Insurance Company of America",
 "company_dba": "",
 "id": "559edd2c40a2b21f",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
-"company": "Parsec, LLC",
-"location": "Charleston",
-"employees_affected": 39,
-"notice_date": "2026-05-01",
-"effective_date": "",
-"notice_type": "",
-"state": "SC",
-"company_canonical": "Parsec",
-"company_dba": "",
-"id": "5294d186666cc2b4",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -10857,7 +10857,7 @@
 {
 "company": "Benchmark",
 "location": "Phoenix",
-"employees_affected": 75,
+"employees_affected": "",
 "notice_date": "2026-04-29",
 "effective_date": "",
 "notice_type": "WARN",
@@ -11521,13 +11521,13 @@
 "company": "Koppers Inc.",
 "location": "Florence",
 "employees_affected": 66,
-"notice_date": "2026-04-21",
-"effective_date": "",
+"notice_date": "",
+"effective_date": "2026-04-21",
 "notice_type": "",
 "state": "SC",
 "company_canonical": "Koppers",
 "company_dba": "",
-"id": "693786a275900c9e",
+"id": "88d4a17369e02e6e",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -11882,6 +11882,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Milliken (Cedar Hill Plant)",
+"location": "Union",
+"employees_affected": 126,
+"notice_date": "",
+"effective_date": "2026-04-17",
+"notice_type": "",
+"state": "SC",
+"company_canonical": "Milliken (Cedar Hill Plant)",
+"company_dba": "",
+"id": "ed6444385d439c0e",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
 "company": "FM Restaurants HQ, LLC",
 "location": "Orange County",
 "employees_affected": 49,
@@ -11931,19 +11944,6 @@
 "company_canonical": "Best Formulations",
 "company_dba": "",
 "id": "acc4eca4b6b22fb5",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
-"company": "Milliken (Cedar Hill Plant)",
-"location": "Union",
-"employees_affected": 126,
-"notice_date": "2026-04-17",
-"effective_date": "",
-"notice_type": "",
-"state": "SC",
-"company_canonical": "Milliken (Cedar Hill Plant)",
-"company_dba": "",
-"id": "5b56a14ca488e0ac",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -12470,13 +12470,13 @@
 "company": "ABM Industry Groups, LLC",
 "location": "Charleston",
 "employees_affected": 122,
-"notice_date": "2026-04-13",
-"effective_date": "",
+"notice_date": "",
+"effective_date": "2026-04-13",
 "notice_type": "",
 "state": "SC",
 "company_canonical": "ABM Industry Groups",
 "company_dba": "",
-"id": "c315604458e9c99e",
+"id": "88e54679231e3d27",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -12571,19 +12571,6 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
-"company": "Industrial Plastics Group, LLC",
-"location": "Pickens",
-"employees_affected": 74,
-"notice_date": "2026-04-10",
-"effective_date": "",
-"notice_type": "",
-"state": "SC",
-"company_canonical": "Industrial Plastics Group",
-"company_dba": "",
-"id": "dc9a9e7eebc5d038",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
 "company": "Legacy Supply Chain",
 "location": "McNairy",
 "employees_affected": 4,
@@ -12659,6 +12646,19 @@
 "company_canonical": "Sumisho Air Lease",
 "company_dba": "",
 "id": "1f1520f29a5c70c6",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Industrial Plastics Group, LLC",
+"location": "Pickens",
+"employees_affected": 74,
+"notice_date": "",
+"effective_date": "2026-04-10",
+"notice_type": "",
+"state": "SC",
+"company_canonical": "Industrial Plastics Group",
+"company_dba": "",
+"id": "097c17154530dce5",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -12872,7 +12872,7 @@
 {
 "company": "Catholic Community Services of Southern Arizona, Inc.",
 "location": "Tucson",
-"employees_affected": "",
+"employees_affected": 74,
 "notice_date": "2026-04-08",
 "effective_date": "",
 "notice_type": "WARN",
@@ -13899,7 +13899,7 @@
 {
 "company": "Aramark Campus, LLC",
 "location": "Vail",
-"employees_affected": "",
+"employees_affected": 108,
 "notice_date": "2026-04-01",
 "effective_date": "",
 "notice_type": "WARN",
@@ -15808,19 +15808,6 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
-"company": "James Hardie Building Products Inc.",
-"location": "Dorchester",
-"employees_affected": 78,
-"notice_date": "2026-03-16",
-"effective_date": "",
-"notice_type": "",
-"state": "SC",
-"company_canonical": "James Hardie Building Products",
-"company_dba": "",
-"id": "b7792b08da330c23",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
 "company": "Blue Shield of California",
 "location": "Shasta County",
 "employees_affected": 2,
@@ -15909,6 +15896,19 @@
 "company_canonical": "Blue Shield of California",
 "company_dba": "",
 "id": "6495cad2e017e0d2",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "James Hardie Building Products Inc.",
+"location": "Dorchester",
+"employees_affected": 78,
+"notice_date": "",
+"effective_date": "2026-03-16",
+"notice_type": "",
+"state": "SC",
+"company_canonical": "James Hardie Building Products",
+"company_dba": "",
+"id": "1aa1ed9a94214d9b",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -16188,13 +16188,13 @@
 "company": "SMBC MANUBANK (JeniusBank)",
 "location": "Statewide - Mu",
 "employees_affected": 3,
-"notice_date": "2026-03-10",
-"effective_date": "",
+"notice_date": "",
+"effective_date": "2026-03-10",
 "notice_type": "",
 "state": "SC",
 "company_canonical": "SMBC MANUBANK (JeniusBank)",
 "company_dba": "",
-"id": "0ee6a37c4e8bfab1",
+"id": "676f73306c079885",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -16445,6 +16445,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "C2 Technologies",
+"location": "Richland",
+"employees_affected": 1,
+"notice_date": "",
+"effective_date": "2026-03-06",
+"notice_type": "",
+"state": "SC",
+"company_canonical": "C2 Technologies",
+"company_dba": "",
+"id": "450eff075ea8e089",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
 "company": "Villa Mary Immaculate d/b/a St. Peter\u2019s Nursing and Rehabilitation Center (SPNRC)",
 "location": "Albany",
 "employees_affected": 133,
@@ -16455,19 +16468,6 @@
 "company_canonical": "Villa Mary Immaculate",
 "company_dba": "St. Peter's Nursing and Rehabilitation Center (SPNRC",
 "id": "30059284bf4c8c2e",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
-"company": "C2 Technologies",
-"location": "Richland",
-"employees_affected": 1,
-"notice_date": "2026-03-06",
-"effective_date": "",
-"notice_type": "",
-"state": "SC",
-"company_canonical": "C2 Technologies",
-"company_dba": "",
-"id": "29f4a888f2a88f0e",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -16614,19 +16614,6 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
-"company": "Saddle Creek Logistics Services",
-"location": "Spartanburg",
-"employees_affected": 130,
-"notice_date": "2026-03-05",
-"effective_date": "",
-"notice_type": "",
-"state": "SC",
-"company_canonical": "Saddle Creek Logistics Services",
-"company_dba": "",
-"id": "4a76221786fe9c20",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
 "company": "All Heart Pediatric Cardiology",
 "location": "Hamilton",
 "employees_affected": 1,
@@ -16676,6 +16663,19 @@
 "company_canonical": "Kintetsu World Express",
 "company_dba": "",
 "id": "15311070d5c38d65",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Saddle Creek Logistics Services",
+"location": "Spartanburg",
+"employees_affected": 130,
+"notice_date": "",
+"effective_date": "2026-03-05",
+"notice_type": "",
+"state": "SC",
+"company_canonical": "Saddle Creek Logistics Services",
+"company_dba": "",
+"id": "094cb577d70dc70b",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -17267,39 +17267,39 @@
 "company": "WeDriveU, Inc.",
 "location": "Charleston",
 "employees_affected": 194,
-"notice_date": "2026-02-28",
-"effective_date": "",
+"notice_date": "",
+"effective_date": "2026-02-28",
 "notice_type": "",
 "state": "SC",
 "company_canonical": "WeDriveU",
 "company_dba": "",
-"id": "feb0e39109f806d5",
+"id": "d9ce0d2cc5e124c7",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
 "company": "eREV Supply Chain, LLC",
 "location": "Charleston",
 "employees_affected": 133,
-"notice_date": "2026-02-28",
-"effective_date": "",
+"notice_date": "",
+"effective_date": "2026-02-28",
 "notice_type": "",
 "state": "SC",
 "company_canonical": "eREV Supply Chain",
 "company_dba": "",
-"id": "8de3cef702390ac6",
+"id": "96cb4f03e6146c30",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
 "company": "DLH Solutions",
 "location": "Charleston",
 "employees_affected": 194,
-"notice_date": "2026-02-28",
-"effective_date": "",
+"notice_date": "",
+"effective_date": "2026-02-28",
 "notice_type": "",
 "state": "SC",
 "company_canonical": "DLH Solutions",
 "company_dba": "",
-"id": "04e50f86b0df5d79",
+"id": "86e32ed0bc7f3d92",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -17352,19 +17352,6 @@
 "company_canonical": "CNH Industrial America",
 "company_dba": "",
 "id": "b9836bdf9691483e",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
-"company": "Railcrew Xpress",
-"location": "Statewide - Mu",
-"employees_affected": 58,
-"notice_date": "2026-02-27",
-"effective_date": "",
-"notice_type": "",
-"state": "SC",
-"company_canonical": "Railcrew Xpress",
-"company_dba": "",
-"id": "b48b7525e791ee58",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -17534,6 +17521,19 @@
 "company_canonical": "Monroe Operations",
 "company_dba": "Newport Healthcare",
 "id": "4090c0fedefb3b6c",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Railcrew Xpress",
+"location": "Statewide - Mu",
+"employees_affected": 58,
+"notice_date": "",
+"effective_date": "2026-02-27",
+"notice_type": "",
+"state": "SC",
+"company_canonical": "Railcrew Xpress",
+"company_dba": "",
+"id": "3dd619e474879bd5",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -18073,13 +18073,13 @@
 "company": "First Brands Group, LLC (AVM)",
 "location": "Marion",
 "employees_affected": 64,
-"notice_date": "2026-02-23",
-"effective_date": "",
+"notice_date": "",
+"effective_date": "2026-02-23",
 "notice_type": "",
 "state": "SC",
 "company_canonical": "First Brands Group, LLC (AVM)",
 "company_dba": "",
-"id": "338673dde6e7e114",
+"id": "311a37bb22f2178a",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -19411,7 +19411,7 @@
 {
 "company": "Liberty Dental Plan",
 "location": "Tustin",
-"employees_affected": "",
+"employees_affected": 1,
 "notice_date": "2026-02-05",
 "effective_date": "",
 "notice_type": "WARN",
@@ -20254,6 +20254,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Sodexo (HCA Grand Strand Medical)",
+"location": "Horry",
+"employees_affected": 85,
+"notice_date": "",
+"effective_date": "2026-01-31",
+"notice_type": "",
+"state": "SC",
+"company_canonical": "Sodexo (HCA Grand Strand Medical)",
+"company_dba": "",
+"id": "fdf1beeb77f2402d",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
 "company": "Cazar Logistics",
 "location": "New York",
 "employees_affected": 37,
@@ -20264,19 +20277,6 @@
 "company_canonical": "Cazar Logistics",
 "company_dba": "",
 "id": "f9a7b242e0ff8d13",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
-"company": "Sodexo (HCA Grand Strand Medical)",
-"location": "Horry",
-"employees_affected": 85,
-"notice_date": "2026-01-31",
-"effective_date": "",
-"notice_type": "",
-"state": "SC",
-"company_canonical": "Sodexo (HCA Grand Strand Medical)",
-"company_dba": "",
-"id": "68b6c48628290c4e",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -20358,6 +20358,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Santee Print Works",
+"location": "Sumter",
+"employees_affected": 140,
+"notice_date": "",
+"effective_date": "2026-01-30",
+"notice_type": "",
+"state": "SC",
+"company_canonical": "Santee Print Works",
+"company_dba": "",
+"id": "d0cdf39b076aa2e2",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
 "company": "Amazon - SNA 3",
 "location": "Orange County",
 "employees_affected": 34,
@@ -20433,6 +20446,19 @@
 "company_canonical": "Amazon - SFO 28",
 "company_dba": "",
 "id": "bcbf298c57006bd3",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "SC Industrial Holdings, LLC",
+"location": "Lexington",
+"employees_affected": 78,
+"notice_date": "",
+"effective_date": "2026-01-30",
+"notice_type": "",
+"state": "SC",
+"company_canonical": "SC Industrial Holdings",
+"company_dba": "",
+"id": "b2e209b91b872333",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -20524,19 +20550,6 @@
 "company_canonical": "Minact",
 "company_dba": "",
 "id": "78768158fc5fa3dc",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
-"company": "SC Industrial Holdings, LLC",
-"location": "Lexington",
-"employees_affected": 78,
-"notice_date": "2026-01-30",
-"effective_date": "",
-"notice_type": "",
-"state": "SC",
-"company_canonical": "SC Industrial Holdings",
-"company_dba": "",
-"id": "770f9faba73ce163",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -20852,19 +20865,6 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
-"company": "Santee Print Works",
-"location": "Sumter",
-"employees_affected": 140,
-"notice_date": "2026-01-30",
-"effective_date": "",
-"notice_type": "",
-"state": "SC",
-"company_canonical": "Santee Print Works",
-"company_dba": "",
-"id": "0f1581ea034593b9",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
 "company": "Bright Horizons",
 "location": "Watertown",
 "employees_affected": "",
@@ -21049,7 +21049,7 @@
 {
 "company": "Shell Recharge Solutions",
 "location": "Los Angeles",
-"employees_affected": 2,
+"employees_affected": "",
 "notice_date": "2026-01-29",
 "effective_date": "",
 "notice_type": "WARN",
@@ -22555,19 +22555,6 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
-"company": "Best Dressed Chicken, Inc.",
-"location": "Saluda",
-"employees_affected": 4,
-"notice_date": "2026-01-20",
-"effective_date": "",
-"notice_type": "",
-"state": "SC",
-"company_canonical": "Best Dressed Chicken",
-"company_dba": "",
-"id": "c871333800250c3c",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
 "company": "CNH Industrial America LLC",
 "location": "Burlington",
 "employees_affected": 16,
@@ -22591,6 +22578,19 @@
 "company_canonical": "CNH Industrial America",
 "company_dba": "",
 "id": "b807832976780b30",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Best Dressed Chicken, Inc.",
+"location": "Saluda",
+"employees_affected": 4,
+"notice_date": "",
+"effective_date": "2026-01-20",
+"notice_type": "",
+"state": "SC",
+"company_canonical": "Best Dressed Chicken",
+"company_dba": "",
+"id": "a5f9c3ad9f00bbc0",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -23415,7 +23415,7 @@
 {
 "company": "SMBC Group - JeniusBank",
 "location": "Scottsdale",
-"employees_affected": "",
+"employees_affected": 33,
 "notice_date": "2026-01-08",
 "effective_date": "",
 "notice_type": "WARN",
@@ -23621,6 +23621,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Atkore Plastics Southeast",
+"location": "York",
+"employees_affected": 42,
+"notice_date": "",
+"effective_date": "2026-01-06",
+"notice_type": "",
+"state": "SC",
+"company_canonical": "Atkore Plastics Southeast",
+"company_dba": "",
+"id": "639311c0a6d55d1e",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
 "company": "Advanced Uniform Dust Control & Linen, LLC",
 "location": "Stanislaus County",
 "employees_affected": 89,
@@ -23631,19 +23644,6 @@
 "company_canonical": "Advanced Uniform Dust Control & Linen",
 "company_dba": "",
 "id": "58d7cd0fd7831c05",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
-"company": "Atkore Plastics Southeast",
-"location": "York",
-"employees_affected": 42,
-"notice_date": "2026-01-06",
-"effective_date": "",
-"notice_type": "",
-"state": "SC",
-"company_canonical": "Atkore Plastics Southeast",
-"company_dba": "",
-"id": "55e803ba7c3fda22",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -25079,7 +25079,7 @@
 {
 "company": "DHM Payroll - Fiesta Tempe, LLC,",
 "location": "Tempe",
-"employees_affected": "",
+"employees_affected": 114,
 "notice_date": "2025-11-26",
 "effective_date": "",
 "notice_type": "WARN",
@@ -25818,19 +25818,6 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
-"company": "House of Raeford",
-"location": "Williamsburg",
-"employees_affected": 216,
-"notice_date": "2025-11-14",
-"effective_date": "",
-"notice_type": "",
-"state": "SC",
-"company_canonical": "House of Raeford",
-"company_dba": "",
-"id": "dded9394f2583ea9",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
 "company": "International Paper",
 "location": "Los Angeles County",
 "employees_affected": 128,
@@ -25893,6 +25880,19 @@
 "company_canonical": "PosiGen Developer",
 "company_dba": "",
 "id": "9ab9e6efbfe20548",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "House of Raeford",
+"location": "Williamsburg",
+"employees_affected": 216,
+"notice_date": "",
+"effective_date": "2025-11-14",
+"notice_type": "",
+"state": "SC",
+"company_canonical": "House of Raeford",
+"company_dba": "",
+"id": "7d8fff804201e271",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -28028,19 +28028,6 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
-"company": "East Coast Migrant Head Start Project",
-"location": "Statewide - Mu",
-"employees_affected": 9,
-"notice_date": "2025-11-01",
-"effective_date": "",
-"notice_type": "",
-"state": "SC",
-"company_canonical": "East Coast Migrant Head Start Project",
-"company_dba": "",
-"id": "6d57c748e6b8732a",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
 "company": "Prudential",
 "location": "Newark",
 "employees_affected": 63,
@@ -28064,6 +28051,19 @@
 "company_canonical": "Barclays Services",
 "company_dba": "",
 "id": "307ea696ed95e543",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "East Coast Migrant Head Start Project",
+"location": "Statewide - Mu",
+"employees_affected": 9,
+"notice_date": "",
+"effective_date": "2025-11-01",
+"notice_type": "",
+"state": "SC",
+"company_canonical": "East Coast Migrant Head Start Project",
+"company_dba": "",
+"id": "02d155181abd3947",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -28316,7 +28316,7 @@
 {
 "company": "Arizona Autism",
 "location": "Phoenix",
-"employees_affected": 2792,
+"employees_affected": "",
 "notice_date": "2025-10-30",
 "effective_date": "",
 "notice_type": "WARN",
@@ -28444,6 +28444,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "PL Developments",
+"location": "Greenville",
+"employees_affected": 114,
+"notice_date": "",
+"effective_date": "2025-10-30",
+"notice_type": "",
+"state": "SC",
+"company_canonical": "PL Developments",
+"company_dba": "",
+"id": "1f99b0aa10ceb79f",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
 "company": "Cepheid B1",
 "location": "Santa Clara County",
 "employees_affected": 15,
@@ -28467,19 +28480,6 @@
 "company_canonical": "Georgia-Pacific",
 "company_dba": "",
 "id": "07dbe5df25231526",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
-"company": "PL Developments",
-"location": "Greenville",
-"employees_affected": 114,
-"notice_date": "2025-10-30",
-"effective_date": "",
-"notice_type": "",
-"state": "SC",
-"company_canonical": "PL Developments",
-"company_dba": "",
-"id": "04ab7d443147de54",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -28576,7 +28576,7 @@
 {
 "company": "Microchip",
 "location": "Tempe",
-"employees_affected": "",
+"employees_affected": 63,
 "notice_date": "2025-10-29",
 "effective_date": "",
 "notice_type": "WARN",
@@ -30940,6 +30940,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "IG Design Group Americas, Inc.",
+"location": "Lexington",
+"employees_affected": 1,
+"notice_date": "",
+"effective_date": "2025-10-10",
+"notice_type": "",
+"state": "SC",
+"company_canonical": "IG Design Group Americas",
+"company_dba": "",
+"id": "9d755c5bb39e04f8",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
 "company": "Gebbers Farms, Etal",
 "location": "Brewster",
 "employees_affected": 3465,
@@ -31002,19 +31015,6 @@
 "company_canonical": "RTX",
 "company_dba": "",
 "id": "49e9e5e27059086a",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
-"company": "IG Design Group Americas, Inc.",
-"location": "Lexington",
-"employees_affected": 1,
-"notice_date": "2025-10-10",
-"effective_date": "",
-"notice_type": "",
-"state": "SC",
-"company_canonical": "IG Design Group Americas",
-"company_dba": "",
-"id": "46926283fa3af5b3",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -31863,6 +31863,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "WeDriveU, Inc.",
+"location": "Charleston",
+"employees_affected": 215,
+"notice_date": "",
+"effective_date": "2025-10-01",
+"notice_type": "",
+"state": "SC",
+"company_canonical": "WeDriveU",
+"company_dba": "",
+"id": "f7efbf633592d69c",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
 "company": "FPI Management, Inc. (800)",
 "location": "Sacramento County",
 "employees_affected": 50,
@@ -32266,19 +32279,6 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
-"company": "WeDriveU, Inc.",
-"location": "Charleston",
-"employees_affected": 215,
-"notice_date": "2025-10-01",
-"effective_date": "",
-"notice_type": "",
-"state": "SC",
-"company_canonical": "WeDriveU",
-"company_dba": "",
-"id": "0ec7a41963b8dad9",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
 "company": "Google - 237",
 "location": "Santa Clara County",
 "employees_affected": 2,
@@ -32502,7 +32502,7 @@
 {
 "company": "ITC Federal",
 "location": "Essex Junction",
-"employees_affected": "",
+"employees_affected": 60,
 "notice_date": "2025-09-30",
 "effective_date": "",
 "notice_type": "WARN",
@@ -33087,7 +33087,7 @@
 {
 "company": "HP Hood",
 "location": "Barre",
-"employees_affected": 70,
+"employees_affected": "",
 "notice_date": "2025-09-24",
 "effective_date": "",
 "notice_type": "WARN",
@@ -33722,6 +33722,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Cooperative Health",
+"location": "Richland",
+"employees_affected": 80,
+"notice_date": "",
+"effective_date": "2025-09-12",
+"notice_type": "",
+"state": "SC",
+"company_canonical": "Cooperative Health",
+"company_dba": "",
+"id": "889d20b0e1fe4991",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
 "company": "University of Southern California",
 "location": "Los Angeles County",
 "employees_affected": 137,
@@ -33758,19 +33771,6 @@
 "company_canonical": "21st Amendment Brewery Cafe",
 "company_dba": "",
 "id": "4ce816f8960fee81",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
-"company": "Cooperative Health",
-"location": "Richland",
-"employees_affected": 80,
-"notice_date": "2025-09-12",
-"effective_date": "",
-"notice_type": "",
-"state": "SC",
-"company_canonical": "Cooperative Health",
-"company_dba": "",
-"id": "36aaab67624a4fcf",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -33841,7 +33841,7 @@
 {
 "company": "McGee Air Services, Inc.",
 "location": "Phoenix",
-"employees_affected": 79,
+"employees_affected": "",
 "notice_date": "2025-09-10",
 "effective_date": "",
 "notice_type": "WARN",
@@ -34739,26 +34739,26 @@
 "company": "Anchor Bar of Myrtle Beach",
 "location": "Horry",
 "employees_affected": 29,
-"notice_date": "2025-08-31",
-"effective_date": "",
+"notice_date": "",
+"effective_date": "2025-08-31",
 "notice_type": "",
 "state": "SC",
 "company_canonical": "Anchor Bar of Myrtle Beach",
 "company_dba": "",
-"id": "8ef792fc06ce41b2",
+"id": "d0a9879fcac17269",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
 "company": "CEF Solutions Inc.",
 "location": "Greenville",
 "employees_affected": 108,
-"notice_date": "2025-08-31",
-"effective_date": "",
+"notice_date": "",
+"effective_date": "2025-08-31",
 "notice_type": "",
 "state": "SC",
 "company_canonical": "CEF Solutions",
 "company_dba": "",
-"id": "68302e3b63f5d92d",
+"id": "45e0d0c68e146758",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -35165,6 +35165,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "IG Design Group Americas, Inc.",
+"location": "Lexington",
+"employees_affected": 112,
+"notice_date": "",
+"effective_date": "2025-08-26",
+"notice_type": "",
+"state": "SC",
+"company_canonical": "IG Design Group Americas",
+"company_dba": "",
+"id": "c54bb7bbbe339c78",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
 "company": "Intel Corporation",
 "location": "Sacramento County",
 "employees_affected": 83,
@@ -35321,19 +35334,6 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
-"company": "IG Design Group Americas, Inc.",
-"location": "Lexington",
-"employees_affected": 112,
-"notice_date": "2025-08-26",
-"effective_date": "",
-"notice_type": "",
-"state": "SC",
-"company_canonical": "IG Design Group Americas",
-"company_dba": "",
-"id": "19315f06ab97be71",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
 "company": "Intel Corporation (SC-9)",
 "location": "Santa Clara County",
 "employees_affected": 2,
@@ -35412,19 +35412,6 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
-"company": "Elliott Sawmilling Co., LLC (dba Canfor Southern Pine)",
-"location": "Hampton",
-"employees_affected": 170,
-"notice_date": "2025-08-25",
-"effective_date": "",
-"notice_type": "",
-"state": "SC",
-"company_canonical": "Elliott Sawmilling",
-"company_dba": "Canfor Southern Pine",
-"id": "c99fbd4f94822eed",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
 "company": "CooperVision, Inc.",
 "location": "Alameda County",
 "employees_affected": 6,
@@ -35493,13 +35480,13 @@
 "company": "NSLC Darlington, Inc. (dba Canfor Southern Pine)",
 "location": "Darlington",
 "employees_affected": 120,
-"notice_date": "2025-08-25",
-"effective_date": "",
+"notice_date": "",
+"effective_date": "2025-08-25",
 "notice_type": "",
 "state": "SC",
 "company_canonical": "NSLC Darlington",
 "company_dba": "Canfor Southern Pine",
-"id": "2a628a1d4bc3082e",
+"id": "34084c1da277f545",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -35513,6 +35500,19 @@
 "company_canonical": "Thermal Structures",
 "company_dba": "",
 "id": "2989295cf0fb153c",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Elliott Sawmilling Co., LLC (dba Canfor Southern Pine)",
+"location": "Hampton",
+"employees_affected": 170,
+"notice_date": "",
+"effective_date": "2025-08-25",
+"notice_type": "",
+"state": "SC",
+"company_canonical": "Elliott Sawmilling",
+"company_dba": "Canfor Southern Pine",
+"id": "030eb51678686161",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -35648,7 +35648,7 @@
 {
 "company": "Nordstrom",
 "location": "Centennial",
-"employees_affected": "",
+"employees_affected": 10,
 "notice_date": "2025-08-21",
 "effective_date": "",
 "notice_type": "WARN",
@@ -36491,6 +36491,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "KIRA Services",
+"location": "Beaufort",
+"employees_affected": 11,
+"notice_date": "",
+"effective_date": "2025-08-11",
+"notice_type": "",
+"state": "SC",
+"company_canonical": "KIRA Services",
+"company_dba": "",
+"id": "ca0c916dad1e041a",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
 "company": "Equiniti Trust Company, LLC",
 "location": "Milwaukee",
 "employees_affected": 4,
@@ -36514,19 +36527,6 @@
 "company_canonical": "Altera",
 "company_dba": "",
 "id": "16e96aab9778d742",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
-"company": "KIRA Services",
-"location": "Beaufort",
-"employees_affected": 11,
-"notice_date": "2025-08-11",
-"effective_date": "",
-"notice_type": "",
-"state": "SC",
-"company_canonical": "KIRA Services",
-"company_dba": "",
-"id": "054dcd343b741c12",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -36688,7 +36688,7 @@
 {
 "company": "Southwest Key Programs",
 "location": "Phoenix",
-"employees_affected": 45,
+"employees_affected": "",
 "notice_date": "2025-08-06",
 "effective_date": "",
 "notice_type": "WARN",
@@ -37011,19 +37011,6 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
-"company": "DAV-Force Inc.",
-"location": "Berkeley",
-"employees_affected": 76,
-"notice_date": "2025-08-01",
-"effective_date": "",
-"notice_type": "",
-"state": "SC",
-"company_canonical": "DAV-Force",
-"company_dba": "",
-"id": "fc9244f10757d5b4",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
 "company": "Host International Inc.",
 "location": "Sacramento County",
 "employees_affected": 70,
@@ -37034,6 +37021,19 @@
 "company_canonical": "Host International",
 "company_dba": "",
 "id": "f8ec0a5ec67b5063",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "DAV-Force Inc.",
+"location": "Berkeley",
+"employees_affected": 76,
+"notice_date": "",
+"effective_date": "2025-08-01",
+"notice_type": "",
+"state": "SC",
+"company_canonical": "DAV-Force",
+"company_dba": "",
+"id": "f80057b4e1b50886",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -37128,6 +37128,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Sodexo, Inc. and Affiliates",
+"location": "York",
+"employees_affected": 177,
+"notice_date": "",
+"effective_date": "2025-07-31",
+"notice_type": "",
+"state": "SC",
+"company_canonical": "Sodexo, Inc. and Affiliates",
+"company_dba": "",
+"id": "fcceb52a5bdc0403",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
 "company": "Wildbrine, LLC",
 "location": "Sonoma County",
 "employees_affected": 4,
@@ -37138,32 +37151,6 @@
 "company_canonical": "Wildbrine",
 "company_dba": "",
 "id": "efef1c334878d2c4",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
-"company": "Sodexo, Inc. and Affiliates",
-"location": "York",
-"employees_affected": 177,
-"notice_date": "2025-07-31",
-"effective_date": "",
-"notice_type": "",
-"state": "SC",
-"company_canonical": "Sodexo, Inc. and Affiliates",
-"company_dba": "",
-"id": "d757762261508f00",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
-"company": "ASRC Federal",
-"location": "Charleston",
-"employees_affected": 292,
-"notice_date": "2025-07-31",
-"effective_date": "",
-"notice_type": "",
-"state": "SC",
-"company_canonical": "ASRC Federal",
-"company_dba": "",
-"id": "c9416ddb073bf60b",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -37232,6 +37219,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "ASRC Federal",
+"location": "Charleston",
+"employees_affected": 292,
+"notice_date": "",
+"effective_date": "2025-07-31",
+"notice_type": "",
+"state": "SC",
+"company_canonical": "ASRC Federal",
+"company_dba": "",
+"id": "396f2b07834cd22c",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
 "company": "Southwest Key Programs",
 "location": "Mesa",
 "employees_affected": 1467,
@@ -37245,19 +37245,6 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
-"company": "CACI, Inc.",
-"location": "Sumter",
-"employees_affected": 109,
-"notice_date": "2025-07-31",
-"effective_date": "",
-"notice_type": "",
-"state": "SC",
-"company_canonical": "CACI",
-"company_dba": "",
-"id": "2ec8437b5f902c91",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
 "company": "Children's Specialists of San Diego",
 "location": "San Diego County",
 "employees_affected": 55,
@@ -37268,6 +37255,19 @@
 "company_canonical": "Children's Specialists of San Diego",
 "company_dba": "",
 "id": "2d75885ab2045440",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "CACI, Inc.",
+"location": "Sumter",
+"employees_affected": 109,
+"notice_date": "",
+"effective_date": "2025-07-31",
+"notice_type": "",
+"state": "SC",
+"company_canonical": "CACI",
+"company_dba": "",
+"id": "253e21c199047890",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -37598,7 +37598,7 @@
 {
 "company": "Nordstrom Credit Bank",
 "location": "Englewood",
-"employees_affected": 16,
+"employees_affected": "",
 "notice_date": "2025-07-29",
 "effective_date": "",
 "notice_type": "WARN",
@@ -39650,6 +39650,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Quality Built",
+"location": "Statewide - Mu",
+"employees_affected": 3,
+"notice_date": "",
+"effective_date": "2025-07-03",
+"notice_type": "",
+"state": "SC",
+"company_canonical": "Quality Built",
+"company_dba": "",
+"id": "688a692ff8519806",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
 "company": "Zenimax Media, Inc.",
 "location": "1370 Piccard Drive, Suite 120 Rockville, MD 20850",
 "employees_affected": 164,
@@ -39660,19 +39673,6 @@
 "company_canonical": "Zenimax Media",
 "company_dba": "",
 "id": "62f161b8bf08c270",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
-"company": "Quality Built",
-"location": "Statewide - Mu",
-"employees_affected": 3,
-"notice_date": "2025-07-03",
-"effective_date": "",
-"notice_type": "",
-"state": "SC",
-"company_canonical": "Quality Built",
-"company_dba": "",
-"id": "465f460cf7d6aed2",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -40196,19 +40196,6 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
-"company": "Sodexo",
-"location": "Dorchester",
-"employees_affected": 210,
-"notice_date": "2025-06-30",
-"effective_date": "",
-"notice_type": "",
-"state": "SC",
-"company_canonical": "Sodexo",
-"company_dba": "",
-"id": "78f3b7ec79f5e2dd",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
 "company": "Intel Corporation - SC-9",
 "location": "Santa Clara County",
 "employees_affected": 4,
@@ -40232,19 +40219,6 @@
 "company_canonical": "Intel",
 "company_dba": "",
 "id": "6076c1d08a311828",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
-"company": "Compass Group USA, Inc. (dba Chartwells)",
-"location": "Spartanburg",
-"employees_affected": 350,
-"notice_date": "2025-06-30",
-"effective_date": "",
-"notice_type": "",
-"state": "SC",
-"company_canonical": "Compass Group",
-"company_dba": "Chartwells",
-"id": "5032e6db3bd85141",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -40313,6 +40287,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Compass Group USA, Inc. (dba Chartwells)",
+"location": "Spartanburg",
+"employees_affected": 350,
+"notice_date": "",
+"effective_date": "2025-06-30",
+"notice_type": "",
+"state": "SC",
+"company_canonical": "Compass Group",
+"company_dba": "Chartwells",
+"id": "118f6bbd473976c5",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
 "company": "Supernal, LLC - 401",
 "location": "Alameda County",
 "employees_affected": 27,
@@ -40323,6 +40310,19 @@
 "company_canonical": "Supernal, LLC - 401",
 "company_dba": "",
 "id": "1175bc1431aa3374",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Sodexo",
+"location": "Dorchester",
+"employees_affected": 210,
+"notice_date": "",
+"effective_date": "2025-06-30",
+"notice_type": "",
+"state": "SC",
+"company_canonical": "Sodexo",
+"company_dba": "",
+"id": "03945b363fd882d9",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -40495,19 +40495,6 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
-"company": "Bicycle Corporation of America (Kent)",
-"location": "Clarendon",
-"employees_affected": 64,
-"notice_date": "2025-06-25",
-"effective_date": "",
-"notice_type": "",
-"state": "SC",
-"company_canonical": "Bicycle Corporation of America (Kent)",
-"company_dba": "",
-"id": "dd928dd8e7369813",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
 "company": "The Trevor Project",
 "location": "Los Angeles County",
 "employees_affected": 12,
@@ -40557,6 +40544,19 @@
 "company_canonical": "Joe's Crab Shack",
 "company_dba": "",
 "id": "448b814abe5ddedb",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Bicycle Corporation of America (Kent)",
+"location": "Clarendon",
+"employees_affected": 64,
+"notice_date": "",
+"effective_date": "2025-06-25",
+"notice_type": "",
+"state": "SC",
+"company_canonical": "Bicycle Corporation of America (Kent)",
+"company_dba": "",
+"id": "0fd86ca647d8bc0b",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -40833,6 +40833,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Ron Group, LLC (dba Blue Sky Specialty Pharmacy)",
+"location": "Charleston",
+"employees_affected": 125,
+"notice_date": "",
+"effective_date": "2025-06-19",
+"notice_type": "",
+"state": "SC",
+"company_canonical": "Ron Group",
+"company_dba": "Blue Sky Specialty Pharmacy",
+"id": "f01570ea5b6a06d6",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
 "company": "Scout Distribution, LLC - San Diego",
 "location": "San Diego County",
 "employees_affected": 5,
@@ -40843,19 +40856,6 @@
 "company_canonical": "Scout Distribution, LLC - San Diego",
 "company_dba": "",
 "id": "e42f31ca6af5beb1",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
-"company": "Ron Group, LLC (dba Blue Sky Specialty Pharmacy)",
-"location": "Charleston",
-"employees_affected": 125,
-"notice_date": "2025-06-19",
-"effective_date": "",
-"notice_type": "",
-"state": "SC",
-"company_canonical": "Ron Group",
-"company_dba": "Blue Sky Specialty Pharmacy",
-"id": "c9e5a494db9c8e95",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -40978,7 +40978,7 @@
 {
 "company": "The Orvis Company",
 "location": "Arlington",
-"employees_affected": "",
+"employees_affected": 56,
 "notice_date": "2025-06-18",
 "effective_date": "",
 "notice_type": "WARN",
@@ -41278,13 +41278,13 @@
 "company": "Hood Container",
 "location": "Greenville",
 "employees_affected": 60,
-"notice_date": "2025-06-15",
-"effective_date": "",
+"notice_date": "",
+"effective_date": "2025-06-15",
 "notice_type": "",
 "state": "SC",
 "company_canonical": "Hood Container",
 "company_dba": "",
-"id": "55c10c622984e24b",
+"id": "acfb823e50e38ed6",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -42393,6 +42393,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "MetoKote Corporation",
+"location": "Greenville",
+"employees_affected": 113,
+"notice_date": "",
+"effective_date": "2025-06-01",
+"notice_type": "",
+"state": "SC",
+"company_canonical": "MetoKote",
+"company_dba": "",
+"id": "7f3fd06b982531c9",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
 "company": "KRP Transport",
 "location": "Burlington",
 "employees_affected": 298,
@@ -42429,19 +42442,6 @@
 "company_canonical": "USA",
 "company_dba": "Charwells",
 "id": "5ff3acb463c3d6db",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
-"company": "MetoKote Corporation",
-"location": "Greenville",
-"employees_affected": 113,
-"notice_date": "2025-06-01",
-"effective_date": "",
-"notice_type": "",
-"state": "SC",
-"company_canonical": "MetoKote",
-"company_dba": "",
-"id": "4521d236ae74e048",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -42902,7 +42902,7 @@
 {
 "company": "Meyer Burger Americas",
 "location": "Goodyear",
-"employees_affected": "",
+"employees_affected": 355,
 "notice_date": "2025-05-22",
 "effective_date": "",
 "notice_type": "WARN",
@@ -44850,6 +44850,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Limestone University",
+"location": "Cherokee",
+"employees_affected": 478,
+"notice_date": "",
+"effective_date": "2025-04-30",
+"notice_type": "",
+"state": "SC",
+"company_canonical": "Limestone University",
+"company_dba": "",
+"id": "d4804a0de717fe31",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
 "company": "Sky Zone",
 "location": "Orange County",
 "employees_affected": 56,
@@ -44860,19 +44873,6 @@
 "company_canonical": "Sky Zone",
 "company_dba": "",
 "id": "d0050fdcd8a38958",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
-"company": "Limestone University",
-"location": "Cherokee",
-"employees_affected": 478,
-"notice_date": "2025-04-30",
-"effective_date": "",
-"notice_type": "",
-"state": "SC",
-"company_canonical": "Limestone University",
-"company_dba": "",
-"id": "c47102080a029651",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -44904,7 +44904,7 @@
 {
 "company": "Fed Ex Corporation",
 "location": "Williston",
-"employees_affected": 55,
+"employees_affected": "",
 "notice_date": "2025-04-30",
 "effective_date": "",
 "notice_type": "WARN",
@@ -45307,7 +45307,7 @@
 {
 "company": "District Medical Group (Children's Rehabilitative Services)",
 "location": "Phoenix",
-"employees_affected": "",
+"employees_affected": 118,
 "notice_date": "2025-04-25",
 "effective_date": "",
 "notice_type": "WARN",
@@ -46205,13 +46205,13 @@
 "company": "Yokohama TWS North America",
 "location": "Spartanburg",
 "employees_affected": 90,
-"notice_date": "2025-04-19",
-"effective_date": "",
+"notice_date": "",
+"effective_date": "2025-04-19",
 "notice_type": "",
 "state": "SC",
 "company_canonical": "Yokohama TWS North America",
 "company_dba": "",
-"id": "30a59a62de9b7896",
+"id": "c547ac0f2e439e57",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -47489,6 +47489,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Tupperware",
+"location": "Williamsburg",
+"employees_affected": 102,
+"notice_date": "",
+"effective_date": "2025-04-04",
+"notice_type": "",
+"state": "SC",
+"company_canonical": "Tupperware",
+"company_dba": "",
+"id": "9e725b4fbdbfa556",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
 "company": "McDonald's Restaurant of California, Inc.",
 "location": "Los Angeles County",
 "employees_affected": 67,
@@ -47502,16 +47515,16 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
-"company": "Tupperware",
-"location": "Williamsburg",
-"employees_affected": 102,
-"notice_date": "2025-04-04",
-"effective_date": "",
+"company": "The Boeing Company",
+"location": "Charleston",
+"employees_affected": 8,
+"notice_date": "",
+"effective_date": "2025-04-04",
 "notice_type": "",
 "state": "SC",
-"company_canonical": "Tupperware",
+"company_canonical": "Boeing",
 "company_dba": "",
-"id": "8b64b6dcc56fb622",
+"id": "7df7afc58969d4a9",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -47525,19 +47538,6 @@
 "company_canonical": "Pfizer",
 "company_dba": "",
 "id": "6b2b3427ddb77c13",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
-"company": "The Boeing Company",
-"location": "Charleston",
-"employees_affected": 8,
-"notice_date": "2025-04-04",
-"effective_date": "",
-"notice_type": "",
-"state": "SC",
-"company_canonical": "Boeing",
-"company_dba": "",
-"id": "6297f7103f1c4c15",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -47777,7 +47777,7 @@
 {
 "company": "Berger Logistics",
 "location": "Phoenix",
-"employees_affected": "",
+"employees_affected": 121,
 "notice_date": "2025-04-01",
 "effective_date": "",
 "notice_type": "WARN",
@@ -49455,13 +49455,13 @@
 "company": "Proterra Powered LLC",
 "location": "Greenville",
 "employees_affected": 7,
-"notice_date": "2025-03-10",
-"effective_date": "",
+"notice_date": "",
+"effective_date": "2025-03-10",
 "notice_type": "",
 "state": "SC",
 "company_canonical": "Proterra Powered",
 "company_dba": "",
-"id": "ca19c9f76117646f",
+"id": "c006a49ebcaf05f6",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -49569,19 +49569,6 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
-"company": "Proterra Powered LLC",
-"location": "Greenville",
-"employees_affected": 85,
-"notice_date": "2025-03-06",
-"effective_date": "",
-"notice_type": "",
-"state": "SC",
-"company_canonical": "Proterra Powered",
-"company_dba": "",
-"id": "bd420df590aac226",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
 "company": "Inter-Con Security Systems, Inc.",
 "location": "Chicago, 760 N Ogden Ave., Ste 2200",
 "employees_affected": 1058,
@@ -49605,6 +49592,19 @@
 "company_canonical": "Cheesecake Factory",
 "company_dba": "",
 "id": "0f89c1a044347f48",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Proterra Powered LLC",
+"location": "Greenville",
+"employees_affected": 85,
+"notice_date": "",
+"effective_date": "2025-03-06",
+"notice_type": "",
+"state": "SC",
+"company_canonical": "Proterra Powered",
+"company_dba": "",
+"id": "0d29875ab97572e0",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -49868,19 +49868,6 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
-"company": "McKesson Medical-Surgical, Inc.",
-"location": "York",
-"employees_affected": 179,
-"notice_date": "2025-03-03",
-"effective_date": "",
-"notice_type": "",
-"state": "SC",
-"company_canonical": "McKesson Medical-Surgical",
-"company_dba": "",
-"id": "f8fdcc5961629486",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
 "company": "Cruise LLC",
 "location": "Santa Clara County",
 "employees_affected": 8,
@@ -49935,7 +49922,7 @@
 {
 "company": "Microchip",
 "location": "Tempe",
-"employees_affected": 330,
+"employees_affected": "",
 "notice_date": "2025-03-03",
 "effective_date": "",
 "notice_type": "WARN",
@@ -49956,6 +49943,19 @@
 "company_canonical": "Cruise",
 "company_dba": "",
 "id": "6f07509ded06e8af",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "McKesson Medical-Surgical, Inc.",
+"location": "York",
+"employees_affected": 179,
+"notice_date": "",
+"effective_date": "2025-03-03",
+"notice_type": "",
+"state": "SC",
+"company_canonical": "McKesson Medical-Surgical",
+"company_dba": "",
+"id": "34b4844c4ded0a15",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -50143,7 +50143,7 @@
 {
 "company": "LUKE Holding Inc.",
 "location": "Yuma",
-"employees_affected": "",
+"employees_affected": 54,
 "notice_date": "2025-02-28",
 "effective_date": "",
 "notice_type": "WARN",
@@ -50752,19 +50752,6 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
-"company": "The Boeing Company",
-"location": "Charleston",
-"employees_affected": 67,
-"notice_date": "2025-02-21",
-"effective_date": "",
-"notice_type": "",
-"state": "SC",
-"company_canonical": "Boeing",
-"company_dba": "",
-"id": "c033d01acda29831",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
 "company": "Nucor Buildings Group West LLC",
 "location": "San Joaquin County",
 "employees_affected": 70,
@@ -50775,6 +50762,19 @@
 "company_canonical": "Nucor Buildings Group West",
 "company_dba": "",
 "id": "a9df71764a623fc1",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "The Boeing Company",
+"location": "Charleston",
+"employees_affected": 67,
+"notice_date": "",
+"effective_date": "2025-02-21",
+"notice_type": "",
+"state": "SC",
+"company_canonical": "Boeing",
+"company_dba": "",
+"id": "9dc5c86a2b9cabf3",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -50882,19 +50882,6 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
-"company": "Vimo, Inc.",
-"location": "Statewide - Multiple Counties",
-"employees_affected": 9,
-"notice_date": "2025-02-19",
-"effective_date": "",
-"notice_type": "",
-"state": "SC",
-"company_canonical": "Vimo",
-"company_dba": "",
-"id": "ad07c4206df08e30",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
 "company": "Clarion Management, Inc.",
 "location": "Sacramento County",
 "employees_affected": 4,
@@ -50962,7 +50949,7 @@
 {
 "company": "Nikola Corporation",
 "location": "Phoenix",
-"employees_affected": 540,
+"employees_affected": "",
 "notice_date": "2025-02-19",
 "effective_date": "",
 "notice_type": "WARN",
@@ -50970,6 +50957,19 @@
 "company_canonical": "Nikola",
 "company_dba": "",
 "id": "5fa4f2f78eff185f",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Vimo, Inc.",
+"location": "Statewide - Multiple Counties",
+"employees_affected": 9,
+"notice_date": "",
+"effective_date": "2025-02-19",
+"notice_type": "",
+"state": "SC",
+"company_canonical": "Vimo",
+"company_dba": "",
+"id": "5de47ebe5e3f3e55",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -51038,19 +51038,6 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
-"company": "D&A Consulting",
-"location": "Statewide - Multiple Counties",
-"employees_affected": 13,
-"notice_date": "2025-02-19",
-"effective_date": "",
-"notice_type": "",
-"state": "SC",
-"company_canonical": "D&A Consulting",
-"company_dba": "",
-"id": "3a5e0d7cd1b82bd4",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
 "company": "Nikola Corporation",
 "location": "Los Angeles County",
 "employees_affected": 12,
@@ -51074,6 +51061,19 @@
 "company_canonical": "Clarion Management",
 "company_dba": "",
 "id": "28eca288d5ee3476",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "D&A Consulting",
+"location": "Statewide - Multiple Counties",
+"employees_affected": 13,
+"notice_date": "",
+"effective_date": "2025-02-19",
+"notice_type": "",
+"state": "SC",
+"company_canonical": "D&A Consulting",
+"company_dba": "",
+"id": "03bf73aa24bdeed3",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -51948,19 +51948,6 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
-"company": "Natural Fiber Welding, Inc.",
-"location": "Greenville",
-"employees_affected": 1,
-"notice_date": "2025-02-08",
-"effective_date": "",
-"notice_type": "",
-"state": "SC",
-"company_canonical": "Natural Fiber Welding",
-"company_dba": "",
-"id": "f2b13453d4ac58b9",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
 "company": "Jack Cooper Transport Company",
 "location": "Roanoke",
 "employees_affected": 251,
@@ -51971,6 +51958,19 @@
 "company_canonical": "Jack Cooper Transport",
 "company_dba": "",
 "id": "bec276e8815a737b",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Natural Fiber Welding, Inc.",
+"location": "Greenville",
+"employees_affected": 1,
+"notice_date": "",
+"effective_date": "2025-02-08",
+"notice_type": "",
+"state": "SC",
+"company_canonical": "Natural Fiber Welding",
+"company_dba": "",
+"id": "553c0ac8d373d397",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -52444,7 +52444,7 @@
 {
 "company": "Cruise LLC",
 "location": "Phoenix",
-"employees_affected": "",
+"employees_affected": 93,
 "notice_date": "2025-02-04",
 "effective_date": "",
 "notice_type": "WARN",
@@ -52702,19 +52702,6 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
-"company": "PL Developments",
-"location": "Laurens",
-"employees_affected": 113,
-"notice_date": "2025-01-31",
-"effective_date": "",
-"notice_type": "",
-"state": "SC",
-"company_canonical": "PL Developments",
-"company_dba": "",
-"id": "f205f257de571c39",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
 "company": "Walgreens",
 "location": "Alameda County",
 "employees_affected": 26,
@@ -52806,6 +52793,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Rich Products Corporation (Rich's)",
+"location": "Laurens",
+"employees_affected": 184,
+"notice_date": "",
+"effective_date": "2025-01-31",
+"notice_type": "",
+"state": "SC",
+"company_canonical": "Rich Products Corporation (Rich's)",
+"company_dba": "",
+"id": "a67f43de02442abe",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
 "company": "Surveillance Security Inc. of Unarmed Security Guards",
 "location": "Los Angeles County",
 "employees_affected": 122,
@@ -52845,6 +52845,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "PL Developments",
+"location": "Laurens",
+"employees_affected": 113,
+"notice_date": "",
+"effective_date": "2025-01-31",
+"notice_type": "",
+"state": "SC",
+"company_canonical": "PL Developments",
+"company_dba": "",
+"id": "770d8210624ac927",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
 "company": "Walgreens",
 "location": "Los Angeles County",
 "employees_affected": 27,
@@ -52861,26 +52874,13 @@
 "company": "Denkai America",
 "location": "Kershaw",
 "employees_affected": 60,
-"notice_date": "2025-01-31",
-"effective_date": "",
+"notice_date": "",
+"effective_date": "2025-01-31",
 "notice_type": "",
 "state": "SC",
 "company_canonical": "Denkai America",
 "company_dba": "",
-"id": "5ba3372118240364",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
-"company": "Rich Products Corporation (Rich's)",
-"location": "Laurens",
-"employees_affected": 184,
-"notice_date": "2025-01-31",
-"effective_date": "",
-"notice_type": "",
-"state": "SC",
-"company_canonical": "Rich Products Corporation (Rich's)",
-"company_dba": "",
-"id": "38de9c14d89503ea",
+"id": "68309324862668bc",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -53276,7 +53276,7 @@
 {
 "company": "ManpowerGroup US Inc.",
 "location": "Goodyear",
-"employees_affected": "",
+"employees_affected": 564,
 "notice_date": "2025-01-27",
 "effective_date": "",
 "notice_type": "WARN",
@@ -53599,19 +53599,6 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
-"company": "The Boeing Company",
-"location": "Charleston",
-"employees_affected": 220,
-"notice_date": "2025-01-17",
-"effective_date": "",
-"notice_type": "",
-"state": "SC",
-"company_canonical": "Boeing",
-"company_dba": "",
-"id": "c528fce86dcd90cd",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
 "company": "ECAMSECURE",
 "location": "Los Angeles County",
 "employees_affected": 21,
@@ -53622,6 +53609,19 @@
 "company_canonical": "Ecamsecure",
 "company_dba": "",
 "id": "5b947a0183a89160",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "The Boeing Company",
+"location": "Charleston",
+"employees_affected": 220,
+"notice_date": "",
+"effective_date": "2025-01-17",
+"notice_type": "",
+"state": "SC",
+"company_canonical": "Boeing",
+"company_dba": "",
+"id": "4fd7496a692108c0",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -54405,6 +54405,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Atrium Hospitality",
+"location": "Richland",
+"employees_affected": 120,
+"notice_date": "",
+"effective_date": "2025-01-06",
+"notice_type": "",
+"state": "SC",
+"company_canonical": "Atrium Hospitality",
+"company_dba": "",
+"id": "7db9e63a34b4b6dd",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
 "company": "REC Silicon, Inc.",
 "location": "Moses Lake",
 "employees_affected": 224,
@@ -54431,29 +54444,16 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
-"company": "Atrium Hospitality",
-"location": "Richland",
-"employees_affected": 120,
-"notice_date": "2025-01-06",
-"effective_date": "",
-"notice_type": "",
-"state": "SC",
-"company_canonical": "Atrium Hospitality",
-"company_dba": "",
-"id": "09f147257ba2e668",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
 "company": "International Paper",
 "location": "Georgetown",
 "employees_affected": 675,
-"notice_date": "2025-01-05",
-"effective_date": "",
+"notice_date": "",
+"effective_date": "2025-01-05",
 "notice_type": "",
 "state": "SC",
 "company_canonical": "International Paper",
 "company_dba": "",
-"id": "4d0eddfd6fabeeaa",
+"id": "0a5886f4ae67a41f",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -54590,13 +54590,13 @@
 "company": "MAHLE Behr",
 "location": "Charleston",
 "employees_affected": 466,
-"notice_date": "2024-12-31",
-"effective_date": "",
+"notice_date": "",
+"effective_date": "2024-12-31",
 "notice_type": "",
 "state": "SC",
 "company_canonical": "MAHLE Behr",
 "company_dba": "",
-"id": "d72f3bf2df28053c",
+"id": "bd665910c734e7cb",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -55497,19 +55497,6 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
-"company": "Ascend Performance Materials",
-"location": "Greenwood",
-"employees_affected": 208,
-"notice_date": "2024-12-06",
-"effective_date": "",
-"notice_type": "",
-"state": "SC",
-"company_canonical": "Ascend Performance Materials",
-"company_dba": "",
-"id": "f558619ed56f2719",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
 "company": "Adventist Health Simi Valley",
 "location": "Ventura County",
 "employees_affected": 12,
@@ -55520,6 +55507,19 @@
 "company_canonical": "Adventist Health Simi Valley",
 "company_dba": "",
 "id": "c629799389746600",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Ascend Performance Materials",
+"location": "Greenwood",
+"employees_affected": 208,
+"notice_date": "",
+"effective_date": "2024-12-06",
+"notice_type": "",
+"state": "SC",
+"company_canonical": "Ascend Performance Materials",
+"company_dba": "",
+"id": "8ddba55bd8d6c0c5",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -56550,6 +56550,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "McKesson Medical-Surgical, Inc.",
+"location": "York",
+"employees_affected": 13,
+"notice_date": "",
+"effective_date": "2024-11-18",
+"notice_type": "",
+"state": "SC",
+"company_canonical": "McKesson Medical-Surgical",
+"company_dba": "",
+"id": "93ec371781e42505",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
 "company": "UPS",
 "location": "",
 "employees_affected": "",
@@ -56573,19 +56586,6 @@
 "company_canonical": "Barko Hydraulics",
 "company_dba": "",
 "id": "376dced68975bb0a",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
-"company": "McKesson Medical-Surgical, Inc.",
-"location": "York",
-"employees_affected": 13,
-"notice_date": "2024-11-18",
-"effective_date": "",
-"notice_type": "",
-"state": "SC",
-"company_canonical": "McKesson Medical-Surgical",
-"company_dba": "",
-"id": "2a20e11826837a78",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -58295,13 +58295,13 @@
 "company": "Tervis Tumbler Company",
 "location": "Horry",
 "employees_affected": 4,
-"notice_date": "2024-11-11",
-"effective_date": "",
+"notice_date": "",
+"effective_date": "2024-11-11",
 "notice_type": "",
 "state": "SC",
 "company_canonical": "Tervis Tumbler",
 "company_dba": "",
-"id": "46ca2e6a6b55f427",
+"id": "2e3350f0d69f0344",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -59257,13 +59257,13 @@
 "company": "Charter Communications, LLC",
 "location": "Greenville",
 "employees_affected": 32,
-"notice_date": "2024-10-28",
-"effective_date": "",
+"notice_date": "",
+"effective_date": "2024-10-28",
 "notice_type": "",
 "state": "SC",
 "company_canonical": "Charter Communications",
 "company_dba": "",
-"id": "7823083fc0319a9e",
+"id": "f19e7db9ef75e693",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -60970,19 +60970,6 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
-"company": "Whole Foods Market",
-"location": "Beaufort",
-"employees_affected": 90,
-"notice_date": "2024-10-01",
-"effective_date": "",
-"notice_type": "",
-"state": "SC",
-"company_canonical": "Whole Foods Market",
-"company_dba": "",
-"id": "98b7d414ad6b5595",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
 "company": "Beachbody, LLC",
 "location": "Los Angeles County",
 "employees_affected": 160,
@@ -61100,6 +61087,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Whole Foods Market",
+"location": "Beaufort",
+"employees_affected": 90,
+"notice_date": "",
+"effective_date": "2024-10-01",
+"notice_type": "",
+"state": "SC",
+"company_canonical": "Whole Foods Market",
+"company_dba": "",
+"id": "23f75a0fbfe077c4",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
 "company": "Amyris, Inc.",
 "location": "Alameda County",
 "employees_affected": 50,
@@ -61123,19 +61123,6 @@
 "company_canonical": "Lamb Weston",
 "company_dba": "",
 "id": "002980608a60b181",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
-"company": "Winn Management Group LLC",
-"location": "Beaufort",
-"employees_affected": 70,
-"notice_date": "2024-09-30",
-"effective_date": "",
-"notice_type": "",
-"state": "SC",
-"company_canonical": "Winn Management Group",
-"company_dba": "",
-"id": "dd662560c5df271d",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -61165,16 +61152,29 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Winn Management Group LLC",
+"location": "Beaufort",
+"employees_affected": 70,
+"notice_date": "",
+"effective_date": "2024-09-30",
+"notice_type": "",
+"state": "SC",
+"company_canonical": "Winn Management Group",
+"company_dba": "",
+"id": "27b487122d29d5ae",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
 "company": "Tupperware",
 "location": "Williamsburg",
 "employees_affected": 46,
-"notice_date": "2024-09-28",
-"effective_date": "",
+"notice_date": "",
+"effective_date": "2024-09-28",
 "notice_type": "",
 "state": "SC",
 "company_canonical": "Tupperware",
 "company_dba": "",
-"id": "5c3f2186c9d0d42a",
+"id": "e1736188bd851298",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -62101,19 +62101,6 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
-"company": "Lost Boys Interactive",
-"location": "York",
-"employees_affected": 1,
-"notice_date": "2024-09-09",
-"effective_date": "",
-"notice_type": "",
-"state": "SC",
-"company_canonical": "Lost Boys Interactive",
-"company_dba": "",
-"id": "73fe6e54f573a0e1",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
 "company": "Commerce Distribution Center, LLC",
 "location": "Los Angeles County",
 "employees_affected": 294,
@@ -62163,6 +62150,19 @@
 "company_canonical": "MMT Craft",
 "company_dba": "Modern Times Beer & Coffee",
 "id": "12af59687730351c",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Lost Boys Interactive",
+"location": "York",
+"employees_affected": 1,
+"notice_date": "",
+"effective_date": "2024-09-09",
+"notice_type": "",
+"state": "SC",
+"company_canonical": "Lost Boys Interactive",
+"company_dba": "",
+"id": "10ce612495ab392d",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -62400,19 +62400,6 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
-"company": "FedEx - USCA facility",
-"location": "Lexington",
-"employees_affected": 134,
-"notice_date": "2024-09-03",
-"effective_date": "",
-"notice_type": "",
-"state": "SC",
-"company_canonical": "FedEx - USCA facility",
-"company_dba": "",
-"id": "f1215cd8d0db55bd",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
 "company": "BioMarin Pharmaceutical Inc.",
 "location": "Marin County",
 "employees_affected": 94,
@@ -62429,13 +62416,13 @@
 "company": "FedEx - FLOA facility",
 "location": "Florence",
 "employees_affected": 50,
-"notice_date": "2024-09-03",
-"effective_date": "",
+"notice_date": "",
+"effective_date": "2024-09-03",
 "notice_type": "",
 "state": "SC",
 "company_canonical": "FedEx - FLOA facility",
 "company_dba": "",
-"id": "a1446d62182dbbf6",
+"id": "9e926905e1a3b967",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -62462,19 +62449,6 @@
 "company_canonical": "BioMarin Pharmaceutical",
 "company_dba": "",
 "id": "6c4f2b105a9802dd",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
-"company": "FedEx - MYRA facility",
-"location": "Horry",
-"employees_affected": 57,
-"notice_date": "2024-09-03",
-"effective_date": "",
-"notice_type": "",
-"state": "SC",
-"company_canonical": "FedEx - MYRA facility",
-"company_dba": "",
-"id": "5395fa76102a55a1",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -62517,6 +62491,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "FedEx - MYRA facility",
+"location": "Horry",
+"employees_affected": 57,
+"notice_date": "",
+"effective_date": "2024-09-03",
+"notice_type": "",
+"state": "SC",
+"company_canonical": "FedEx - MYRA facility",
+"company_dba": "",
+"id": "2a46f2ad42f6f7fd",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
 "company": "Johns Manville",
 "location": "Glenn County",
 "employees_affected": 100,
@@ -62527,6 +62514,19 @@
 "company_canonical": "Johns Manville",
 "company_dba": "",
 "id": "224563e42ae5459d",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "FedEx - USCA facility",
+"location": "Lexington",
+"employees_affected": 134,
+"notice_date": "",
+"effective_date": "2024-09-03",
+"notice_type": "",
+"state": "SC",
+"company_canonical": "FedEx - USCA facility",
+"company_dba": "",
+"id": "19c37442c451878f",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -62546,13 +62546,13 @@
 "company": "Amentum",
 "location": "Beaufort",
 "employees_affected": 62,
-"notice_date": "2024-09-02",
-"effective_date": "",
+"notice_date": "",
+"effective_date": "2024-09-02",
 "notice_type": "",
 "state": "SC",
 "company_canonical": "Amentum",
 "company_dba": "",
-"id": "d2d7a95ce338fe64",
+"id": "9950fd975972884b",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -62660,19 +62660,6 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
-"company": "SI Group, Inc.",
-"location": "Orangeburg",
-"employees_affected": 74,
-"notice_date": "2024-09-01",
-"effective_date": "",
-"notice_type": "",
-"state": "SC",
-"company_canonical": "SI Group",
-"company_dba": "",
-"id": "58a05940e3580d73",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
 "company": "ICIMS",
 "location": "Holmdel",
 "employees_affected": 54,
@@ -62774,6 +62761,19 @@
 "company_canonical": "JP Morgan Chase",
 "company_dba": "",
 "id": "07ad418a6ccd3086",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "SI Group, Inc.",
+"location": "Orangeburg",
+"employees_affected": 74,
+"notice_date": "",
+"effective_date": "2024-09-01",
+"notice_type": "",
+"state": "SC",
+"company_canonical": "SI Group",
+"company_dba": "",
+"id": "049bd0c78886dc9f",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -62923,13 +62923,26 @@
 "company": "Delta Apparel, LLC",
 "location": "Greenville",
 "employees_affected": 7,
-"notice_date": "2024-08-29",
-"effective_date": "",
+"notice_date": "",
+"effective_date": "2024-08-29",
 "notice_type": "",
 "state": "SC",
 "company_canonical": "Delta Apparel",
 "company_dba": "",
-"id": "c723d3d4e547b472",
+"id": "d1fbe7095064789c",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Delta Apparel, LLC",
+"location": "Charleston",
+"employees_affected": 9,
+"notice_date": "",
+"effective_date": "2024-08-29",
+"notice_type": "",
+"state": "SC",
+"company_canonical": "Delta Apparel",
+"company_dba": "",
+"id": "c52e80b48ed033c6",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -62946,19 +62959,6 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
-"company": "Delta Apparel, LLC",
-"location": "Beaufort",
-"employees_affected": 5,
-"notice_date": "2024-08-29",
-"effective_date": "",
-"notice_type": "",
-"state": "SC",
-"company_canonical": "Delta Apparel",
-"company_dba": "",
-"id": "a82c38eaca41d2fa",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
 "company": "Fisker Group, Inc.",
 "location": "Los Angeles County",
 "employees_affected": 43,
@@ -62972,19 +62972,6 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
-"company": "Delta Apparel, LLC",
-"location": "Charleston",
-"employees_affected": 9,
-"notice_date": "2024-08-29",
-"effective_date": "",
-"notice_type": "",
-"state": "SC",
-"company_canonical": "Delta Apparel",
-"company_dba": "",
-"id": "8a5ef4f4c7a35373",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
 "company": "Airgas",
 "location": "Lawton",
 "employees_affected": "",
@@ -62995,6 +62982,19 @@
 "company_canonical": "Airgas",
 "company_dba": "",
 "id": "6150dc5ba9772cea",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Delta Apparel, LLC",
+"location": "Beaufort",
+"employees_affected": 5,
+"notice_date": "",
+"effective_date": "2024-08-29",
+"notice_type": "",
+"state": "SC",
+"company_canonical": "Delta Apparel",
+"company_dba": "",
+"id": "60ce0da7fa7dba69",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -63063,6 +63063,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Charter Communications, LLC",
+"location": "Greenville",
+"employees_affected": 132,
+"notice_date": "",
+"effective_date": "2024-08-27",
+"notice_type": "",
+"state": "SC",
+"company_canonical": "Charter Communications",
+"company_dba": "",
+"id": "90ff8215791e3b0e",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
 "company": "Shake Shack Enterprises, LLC",
 "location": "Alameda County",
 "employees_affected": 32,
@@ -63099,19 +63112,6 @@
 "company_canonical": "Jabil",
 "company_dba": "",
 "id": "49c4862ba9ba4cd3",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
-"company": "Charter Communications, LLC",
-"location": "Greenville",
-"employees_affected": 132,
-"notice_date": "2024-08-27",
-"effective_date": "",
-"notice_type": "",
-"state": "SC",
-"company_canonical": "Charter Communications",
-"company_dba": "",
-"id": "42fe1552d1bc39b4",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -63209,26 +63209,26 @@
 "company": "Wells Fargo",
 "location": "Richland",
 "employees_affected": 254,
-"notice_date": "2024-08-25",
-"effective_date": "",
+"notice_date": "",
+"effective_date": "2024-08-25",
 "notice_type": "",
 "state": "SC",
 "company_canonical": "Wells Fargo",
 "company_dba": "",
-"id": "23a1239de6ea1ac7",
+"id": "e5f067e34e2583ab",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
 "company": "Novant Health",
 "location": "Lancaster",
 "employees_affected": 90,
-"notice_date": "2024-08-25",
-"effective_date": "",
+"notice_date": "",
+"effective_date": "2024-08-25",
 "notice_type": "",
 "state": "SC",
 "company_canonical": "Novant Health",
 "company_dba": "",
-"id": "12a7ab6f04dec457",
+"id": "559a8f085709baf8",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -63544,6 +63544,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Interfor",
+"location": "Dorchester",
+"employees_affected": 88,
+"notice_date": "",
+"effective_date": "2024-08-19",
+"notice_type": "",
+"state": "SC",
+"company_canonical": "Interfor",
+"company_dba": "",
+"id": "dcfeac74a7ae2f26",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
 "company": "American Signature, Inc. d/b/a Value City Furniture",
 "location": "7735 Eastern Avenue Baltimore, MD 21224",
 "employees_affected": 24,
@@ -63554,19 +63567,6 @@
 "company_canonical": "American Signature",
 "company_dba": "Value City Furniture",
 "id": "b97e98842a8907e3",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
-"company": "Interfor",
-"location": "Dorchester",
-"employees_affected": 88,
-"notice_date": "2024-08-19",
-"effective_date": "",
-"notice_type": "",
-"state": "SC",
-"company_canonical": "Interfor",
-"company_dba": "",
-"id": "b8e41acc341ca01a",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -63830,19 +63830,6 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
-"company": "Caterpillar",
-"location": "Sumter",
-"employees_affected": 109,
-"notice_date": "2024-08-09",
-"effective_date": "",
-"notice_type": "",
-"state": "SC",
-"company_canonical": "Caterpillar",
-"company_dba": "",
-"id": "6154024697363370",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
 "company": "Velo3D, Inc.",
 "location": "Alameda County",
 "employees_affected": 42,
@@ -63853,6 +63840,19 @@
 "company_canonical": "Velo3D",
 "company_dba": "",
 "id": "54e308ed8a9e4c79",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Caterpillar",
+"location": "Sumter",
+"employees_affected": 109,
+"notice_date": "",
+"effective_date": "2024-08-09",
+"notice_type": "",
+"state": "SC",
+"company_canonical": "Caterpillar",
+"company_dba": "",
+"id": "2ca220215fac7412",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -63898,13 +63898,13 @@
 "company": "Shaw Industries Group, Inc.",
 "location": "Lexington",
 "employees_affected": 203,
-"notice_date": "2024-08-07",
-"effective_date": "",
+"notice_date": "",
+"effective_date": "2024-08-07",
 "notice_type": "",
 "state": "SC",
 "company_canonical": "Shaw Industries Group",
 "company_dba": "",
-"id": "21589fbea850acc2",
+"id": "500752591ba7bbe5",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -64051,19 +64051,6 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
-"company": "DiscoverFresh Foods",
-"location": "Greenville",
-"employees_affected": 7,
-"notice_date": "2024-08-01",
-"effective_date": "",
-"notice_type": "",
-"state": "SC",
-"company_canonical": "DiscoverFresh Foods",
-"company_dba": "",
-"id": "b435932f351e5090",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
 "company": "Metropolitan YMCA",
 "location": "Wayne",
 "employees_affected": 157,
@@ -64156,15 +64143,15 @@
 },
 {
 "company": "DiscoverFresh Foods",
-"location": "Pickens",
-"employees_affected": 53,
-"notice_date": "2024-08-01",
-"effective_date": "",
+"location": "Greenville",
+"employees_affected": 7,
+"notice_date": "",
+"effective_date": "2024-08-01",
 "notice_type": "",
 "state": "SC",
 "company_canonical": "DiscoverFresh Foods",
 "company_dba": "",
-"id": "3de739387af0f4bf",
+"id": "4fc8ad3652c89412",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -64191,6 +64178,19 @@
 "company_canonical": "Ajinomoto Bio-Pharma Services",
 "company_dba": "",
 "id": "1ccff07859407d46",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "DiscoverFresh Foods",
+"location": "Pickens",
+"employees_affected": 53,
+"notice_date": "",
+"effective_date": "2024-08-01",
+"notice_type": "",
+"state": "SC",
+"company_canonical": "DiscoverFresh Foods",
+"company_dba": "",
+"id": "1abc645bf8124eac",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -64243,6 +64243,19 @@
 "company_canonical": "Western Power Sports",
 "company_dba": "",
 "id": "d14a7d6826eea93e",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Elevate Textiles, Inc.",
+"location": "Dillon",
+"employees_affected": 53,
+"notice_date": "",
+"effective_date": "2024-07-31",
+"notice_type": "",
+"state": "SC",
+"company_canonical": "Elevate Textiles",
+"company_dba": "",
+"id": "ba98b982945547c3",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -64425,19 +64438,6 @@
 "company_canonical": "NBCUniversal Media LLC and NBC Sports Chicago",
 "company_dba": "",
 "id": "23bec18b457d489d",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
-"company": "Elevate Textiles, Inc.",
-"location": "Dillon",
-"employees_affected": 53,
-"notice_date": "2024-07-31",
-"effective_date": "",
-"notice_type": "",
-"state": "SC",
-"company_canonical": "Elevate Textiles",
-"company_dba": "",
-"id": "1b81292a44923183",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -65780,6 +65780,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Charter Communications LLC",
+"location": "Greenville",
+"employees_affected": 74,
+"notice_date": "",
+"effective_date": "2024-07-08",
+"notice_type": "",
+"state": "SC",
+"company_canonical": "Charter Communications",
+"company_dba": "",
+"id": "fa74165e6672af90",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
 "company": "Parker Hannifin Corporation",
 "location": "Lincolnshire, 595 Shelter Road",
 "employees_affected": 114,
@@ -65816,19 +65829,6 @@
 "company_canonical": "Hybrid Promotions",
 "company_dba": "Hybrid Apparel",
 "id": "4db4425411516ae1",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
-"company": "Charter Communications LLC",
-"location": "Greenville",
-"employees_affected": 74,
-"notice_date": "2024-07-08",
-"effective_date": "",
-"notice_type": "",
-"state": "SC",
-"company_canonical": "Charter Communications",
-"company_dba": "",
-"id": "3296153008111a6b",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -65913,13 +65913,13 @@
 "company": "Carolina Cotton Works, Inc.",
 "location": "Cherokee",
 "employees_affected": 120,
-"notice_date": "2024-07-02",
-"effective_date": "",
+"notice_date": "",
+"effective_date": "2024-07-02",
 "notice_type": "",
 "state": "SC",
 "company_canonical": "Carolina Cotton Works",
 "company_dba": "",
-"id": "f3bc53968b6e5ed5",
+"id": "ec381b35c165f9ba",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -66066,42 +66066,42 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
-"company": "Sodexo Inc. and Affiliates",
-"location": "Charleston",
-"employees_affected": 136,
-"notice_date": "2024-06-30",
-"effective_date": "",
-"notice_type": "",
-"state": "SC",
-"company_canonical": "Sodexo Inc. and Affiliates",
-"company_dba": "",
-"id": "d8bfd0dc2354198d",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
 "company": "Wells Fargo",
 "location": "Richland",
 "employees_affected": 525,
-"notice_date": "2024-06-30",
-"effective_date": "",
+"notice_date": "",
+"effective_date": "2024-06-30",
 "notice_type": "",
 "state": "SC",
 "company_canonical": "Wells Fargo",
 "company_dba": "",
-"id": "d1ef84072063ea9e",
+"id": "6b1b6ecfe026903b",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Sodexo Inc. and Affiliates",
+"location": "Charleston",
+"employees_affected": 136,
+"notice_date": "",
+"effective_date": "2024-06-30",
+"notice_type": "",
+"state": "SC",
+"company_canonical": "Sodexo Inc. and Affiliates",
+"company_dba": "",
+"id": "58d4b45b4b6960d2",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
 "company": "Able Care Transport, LLC",
 "location": "Pickens",
 "employees_affected": 3,
-"notice_date": "2024-06-29",
-"effective_date": "",
+"notice_date": "",
+"effective_date": "2024-06-29",
 "notice_type": "",
 "state": "SC",
 "company_canonical": "Able Care Transport",
 "company_dba": "",
-"id": "50f5286dd6ee48c8",
+"id": "4eced96818b2ef35",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -66524,13 +66524,13 @@
 "company": "Liberty Steel Group",
 "location": "Georgetown",
 "employees_affected": 78,
-"notice_date": "2024-06-23",
-"effective_date": "",
+"notice_date": "",
+"effective_date": "2024-06-23",
 "notice_type": "",
 "state": "SC",
 "company_canonical": "Liberty Steel Group",
 "company_dba": "",
-"id": "80f4f9db1f100f58",
+"id": "ac2c8b9138e28456",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -66599,6 +66599,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Legacy Supply Chain Services II",
+"location": "Berkeley",
+"employees_affected": 48,
+"notice_date": "",
+"effective_date": "2024-06-19",
+"notice_type": "",
+"state": "SC",
+"company_canonical": "Legacy Supply Chain Services II",
+"company_dba": "",
+"id": "efa6fea5b8dd6bd5",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
 "company": "OTS Solutions, LLC dba On Time Staffing",
 "location": "Los Angeles County",
 "employees_affected": 6,
@@ -66635,19 +66648,6 @@
 "company_canonical": "WestRock",
 "company_dba": "",
 "id": "4a7e11d13fe5691b",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
-"company": "Legacy Supply Chain Services II",
-"location": "Berkeley",
-"employees_affected": 48,
-"notice_date": "2024-06-19",
-"effective_date": "",
-"notice_type": "",
-"state": "SC",
-"company_canonical": "Legacy Supply Chain Services II",
-"company_dba": "",
-"id": "32c79841567de3ae",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -67067,6 +67067,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "DAV-Force Inc.",
+"location": "Berkeley",
+"employees_affected": 94,
+"notice_date": "",
+"effective_date": "2024-06-07",
+"notice_type": "",
+"state": "SC",
+"company_canonical": "DAV-Force",
+"company_dba": "",
+"id": "f0e54730cc852ffa",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
 "company": "Cargill Meat Solutions Corporation",
 "location": "Fresno County",
 "employees_affected": 20,
@@ -67168,19 +67181,6 @@
 "company_canonical": "Agilent Technologies",
 "company_dba": "",
 "id": "3cfb2a70a929aa27",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
-"company": "DAV-Force Inc.",
-"location": "Berkeley",
-"employees_affected": 94,
-"notice_date": "2024-06-07",
-"effective_date": "",
-"notice_type": "",
-"state": "SC",
-"company_canonical": "DAV-Force",
-"company_dba": "",
-"id": "3775a0b163115c45",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -67691,19 +67691,6 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
-"company": "T-Roc Global",
-"location": "Statewide - Multiple Counties",
-"employees_affected": 100,
-"notice_date": "2024-05-31",
-"effective_date": "",
-"notice_type": "",
-"state": "SC",
-"company_canonical": "T-Roc Global",
-"company_dba": "",
-"id": "b68d7eeb20496f78",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
 "company": "Prestige Care, Inc.",
 "location": "Vancouver",
 "employees_affected": 150,
@@ -67805,6 +67792,19 @@
 "company_canonical": "Kalil Bottling",
 "company_dba": "",
 "id": "059b872f3538e747",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "T-Roc Global",
+"location": "Statewide - Multiple Counties",
+"employees_affected": 100,
+"notice_date": "",
+"effective_date": "2024-05-31",
+"notice_type": "",
+"state": "SC",
+"company_canonical": "T-Roc Global",
+"company_dba": "",
+"id": "03dbec61cd718084",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -68172,19 +68172,6 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
-"company": "BIC Corporation",
-"location": "Cherokee",
-"employees_affected": 46,
-"notice_date": "2024-05-24",
-"effective_date": "",
-"notice_type": "",
-"state": "SC",
-"company_canonical": "BIC",
-"company_dba": "",
-"id": "1b2c5a5f2a9368ce",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
 "company": "TikTok Inc.",
 "location": "Los Angeles County",
 "employees_affected": 58,
@@ -68195,6 +68182,19 @@
 "company_canonical": "TikTok",
 "company_dba": "",
 "id": "164618d9ad56b622",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "BIC Corporation",
+"location": "Cherokee",
+"employees_affected": 46,
+"notice_date": "",
+"effective_date": "2024-05-24",
+"notice_type": "",
+"state": "SC",
+"company_canonical": "BIC",
+"company_dba": "",
+"id": "041d7f618e79b1da",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -69641,6 +69641,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Stanley Black & Decker",
+"location": "York",
+"employees_affected": 192,
+"notice_date": "",
+"effective_date": "2024-05-10",
+"notice_type": "",
+"state": "SC",
+"company_canonical": "Stanley Black & Decker",
+"company_dba": "",
+"id": "87e4c4ce88df7e58",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
 "company": "Bimbo Bakeries USA Inc.",
 "location": "Bellevue",
 "employees_affected": 165,
@@ -69924,19 +69937,6 @@
 "company_canonical": "Cue Health Inc. Vista II",
 "company_dba": "",
 "id": "19134d44abafed09",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
-"company": "Stanley Black & Decker",
-"location": "York",
-"employees_affected": 192,
-"notice_date": "2024-05-10",
-"effective_date": "",
-"notice_type": "",
-"state": "SC",
-"company_canonical": "Stanley Black & Decker",
-"company_dba": "",
-"id": "0ec64c4e12e4e17d",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -70616,19 +70616,6 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
-"company": "Gentherm",
-"location": "Greenville",
-"employees_affected": 124,
-"notice_date": "2024-05-03",
-"effective_date": "",
-"notice_type": "",
-"state": "SC",
-"company_canonical": "Gentherm",
-"company_dba": "",
-"id": "87785687c7f534b4",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
 "company": "Kalmbach Media Co.",
 "location": "Waukesha",
 "employees_affected": 67,
@@ -70639,6 +70626,19 @@
 "company_canonical": "Kalmbach Media",
 "company_dba": "",
 "id": "575b86af6ffbcd02",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Gentherm",
+"location": "Greenville",
+"employees_affected": 124,
+"notice_date": "",
+"effective_date": "2024-05-03",
+"notice_type": "",
+"state": "SC",
+"company_canonical": "Gentherm",
+"company_dba": "",
+"id": "1e3e405eb90d8262",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -70941,19 +70941,6 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
-"company": "TTI Consumer Power Tools, Inc.",
-"location": "Cherokee",
-"employees_affected": 114,
-"notice_date": "2024-05-01",
-"effective_date": "",
-"notice_type": "",
-"state": "SC",
-"company_canonical": "TTI Consumer Power Tools",
-"company_dba": "",
-"id": "86e986a82694965d",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
 "company": "Kaiser Foundation Hospitals",
 "location": "Alameda County",
 "employees_affected": 33,
@@ -70990,6 +70977,19 @@
 "company_canonical": "ITC Federal",
 "company_dba": "",
 "id": "729b2fa6b3645560",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "TTI Consumer Power Tools, Inc.",
+"location": "Cherokee",
+"employees_affected": 114,
+"notice_date": "",
+"effective_date": "2024-05-01",
+"notice_type": "",
+"state": "SC",
+"company_canonical": "TTI Consumer Power Tools",
+"company_dba": "",
+"id": "7060f3334003248c",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -73674,13 +73674,13 @@
 "company": "Kohler Co.",
 "location": "Spartanburg",
 "employees_affected": 71,
-"notice_date": "2024-04-06",
-"effective_date": "",
+"notice_date": "",
+"effective_date": "2024-04-06",
 "notice_type": "",
 "state": "SC",
 "company_canonical": "Kohler",
 "company_dba": "",
-"id": "fab021ace7946b4e",
+"id": "cdf6dc28aa4d9879",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -74454,13 +74454,26 @@
 "company": "Ascend Performance Materials",
 "location": "Greenwood",
 "employees_affected": 64,
-"notice_date": "2024-03-31",
-"effective_date": "",
+"notice_date": "",
+"effective_date": "2024-03-31",
 "notice_type": "",
 "state": "SC",
 "company_canonical": "Ascend Performance Materials",
 "company_dba": "",
-"id": "2eb987a621842f4f",
+"id": "8db74d407d45ecb1",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Block, Inc.",
+"location": "Statewide - Multiple Counties",
+"employees_affected": 3,
+"notice_date": "",
+"effective_date": "2024-03-30",
+"notice_type": "",
+"state": "SC",
+"company_canonical": "Block",
+"company_dba": "",
+"id": "f17e37d786fcc666",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -74474,19 +74487,6 @@
 "company_canonical": "ABM Industry Groups",
 "company_dba": "",
 "id": "a9f2e8476f182179",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
-"company": "Block, Inc.",
-"location": "Statewide - Multiple Counties",
-"employees_affected": 3,
-"notice_date": "2024-03-30",
-"effective_date": "",
-"notice_type": "",
-"state": "SC",
-"company_canonical": "Block",
-"company_dba": "",
-"id": "2d80575283faaf08",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -74893,6 +74893,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Fruit of the Loom",
+"location": "Berkeley",
+"employees_affected": 119,
+"notice_date": "",
+"effective_date": "2024-03-22",
+"notice_type": "",
+"state": "SC",
+"company_canonical": "Fruit of the Loom",
+"company_dba": "",
+"id": "e6e22d8826446c29",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
 "company": "Bornstein",
 "location": "Bellingham",
 "employees_affected": 72,
@@ -74916,19 +74929,6 @@
 "company_canonical": "AES Warrior Run, Limited Partnership",
 "company_dba": "",
 "id": "ca8df158f00ef5fa",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
-"company": "Fruit of the Loom",
-"location": "Berkeley",
-"employees_affected": 119,
-"notice_date": "2024-03-22",
-"effective_date": "",
-"notice_type": "",
-"state": "SC",
-"company_canonical": "Fruit of the Loom",
-"company_dba": "",
-"id": "be0d97ce8764adc9",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -75881,6 +75881,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "GDI Integrated Facility Services",
+"location": "Spartanburg",
+"employees_affected": 32,
+"notice_date": "",
+"effective_date": "2024-03-05",
+"notice_type": "",
+"state": "SC",
+"company_canonical": "GDI Integrated Facility Services",
+"company_dba": "",
+"id": "f6de086f23cfafd2",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
 "company": "FM Restaurants HQ, LLC",
 "location": "Orange County",
 "employees_affected": 40,
@@ -75947,15 +75960,15 @@
 },
 {
 "company": "GDI Integrated Facility Services",
-"location": "Spartanburg",
-"employees_affected": 32,
-"notice_date": "2024-03-05",
-"effective_date": "",
+"location": "Lexington",
+"employees_affected": 100,
+"notice_date": "",
+"effective_date": "2024-03-05",
 "notice_type": "",
 "state": "SC",
 "company_canonical": "GDI Integrated Facility Services",
 "company_dba": "",
-"id": "7344e53b6145472e",
+"id": "58230cc96b41a8b9",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -75974,14 +75987,14 @@
 {
 "company": "GDI Integrated Facility Services",
 "location": "Lexington",
-"employees_affected": 100,
-"notice_date": "2024-03-05",
-"effective_date": "",
+"employees_affected": 4,
+"notice_date": "",
+"effective_date": "2024-03-05",
 "notice_type": "",
 "state": "SC",
 "company_canonical": "GDI Integrated Facility Services",
 "company_dba": "",
-"id": "37eb497dd846c562",
+"id": "1ae1de432bb5457a",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -75995,19 +76008,6 @@
 "company_canonical": "UMG Recordings, Inc. (Universal Music Group)",
 "company_dba": "",
 "id": "1425717beb7d4e94",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
-"company": "GDI Integrated Facility Services",
-"location": "Lexington",
-"employees_affected": 4,
-"notice_date": "2024-03-05",
-"effective_date": "",
-"notice_type": "",
-"state": "SC",
-"company_canonical": "GDI Integrated Facility Services",
-"company_dba": "",
-"id": "0bd31c224549a6b3",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -80327,6 +80327,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Proterra, Inc.",
+"location": "Greenville",
+"employees_affected": 290,
+"notice_date": "",
+"effective_date": "2024-01-26",
+"notice_type": "",
+"state": "SC",
+"company_canonical": "Proterra",
+"company_dba": "",
+"id": "968fbcc05799276e",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
 "company": "Cue Health Inc.",
 "location": "San Diego County",
 "employees_affected": 6,
@@ -80389,19 +80402,6 @@
 "company_canonical": "Cue Health",
 "company_dba": "",
 "id": "57ddae4b748ddb1d",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
-"company": "Proterra, Inc.",
-"location": "Greenville",
-"employees_affected": 290,
-"notice_date": "2024-01-26",
-"effective_date": "",
-"notice_type": "",
-"state": "SC",
-"company_canonical": "Proterra",
-"company_dba": "",
-"id": "5173565b98bb1010",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -83629,6 +83629,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Tyson Foods",
+"location": "Richland",
+"employees_affected": 241,
+"notice_date": "",
+"effective_date": "2024-01-08",
+"notice_type": "",
+"state": "SC",
+"company_canonical": "Tyson Foods",
+"company_dba": "",
+"id": "d891403df253e710",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
 "company": "Herbalife International of America, Inc",
 "location": "Los Angeles County",
 "employees_affected": 63,
@@ -83704,19 +83717,6 @@
 "company_canonical": "HMI",
 "company_dba": "",
 "id": "81b7149e6c38b7ff",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
-"company": "Tyson Foods",
-"location": "Richland",
-"employees_affected": 241,
-"notice_date": "2024-01-08",
-"effective_date": "",
-"notice_type": "",
-"state": "SC",
-"company_canonical": "Tyson Foods",
-"company_dba": "",
-"id": "7181316025111bf6",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
