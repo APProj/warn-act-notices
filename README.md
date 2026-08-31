@@ -17,6 +17,7 @@ deduplicated dataset, refreshed daily.
 - RSS feed of newly-published notices: https://approj.github.io/warn-act-notices/feed.xml (48h-delayed)
 - Weekly summaries (biggest layoffs, per-state totals, one page per week): https://approj.github.io/warn-act-notices/weekly/
 - Monthly summaries (current month updates daily): https://approj.github.io/warn-act-notices/monthly/
+- Yearly totals (current year is a running total, updated daily): https://approj.github.io/warn-act-notices/yearly/
 - Browse layoffs by employer: https://approj.github.io/warn-act-notices/employers/
 - Use it as a free layoffs API (stable raw URLs, curl/pandas/Sheets examples): [API.md](API.md)
 - Machine-readable schema: [`datapackage.json`](datapackage.json) · Cite this dataset: [`CITATION.cff`](CITATION.cff) · License: [CC BY 4.0](LICENSE)
