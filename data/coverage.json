@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-31T09:52:40.418188Z",
-  "total_rows": 36992,
-  "free_rows": 6700,
+  "generated_at": "2026-08-31T10:16:59.704587Z",
+  "total_rows": 36991,
+  "free_rows": 6705,
   "free_window_start": "2024-01-01",
   "new_ids_this_run": 0,
   "delay_hours": 48,
@@ -127,7 +127,7 @@
       "status": "ok"
     },
     "VT": {
-      "rows": 70,
+      "rows": 69,
       "raw_rows": 70,
       "status": "ok"
     },

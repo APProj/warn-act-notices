@@ -1,6 +1,6 @@
 # US WARN Act Layoff Notices — normalized, daily-updated dataset
 
-**6,700 layoff notices since 2024 · 27 states · one clean schema · CSV + JSON · updated 2026-08-31**
+**6,705 layoff notices since 2024 · 27 states · one clean schema · CSV + JSON · updated 2026-08-31**
 
 Every US state publishes WARN Act layoff notices differently — different sites,
 formats, column names, and date conventions. This repo normalizes them into one
@@ -17,7 +17,7 @@ deduplicated dataset, refreshed daily.
 No login, no API key. Scope of the free dataset, stated plainly: notices from
 **2024-01-01** onward, **48h-delayed** (newly scraped notices appear here 48 hours
 after our pipeline first sees them). The full archive back to 1988
-(36,992 notices) and the zero-delay feed are the commercial products
+(36,991 notices) and the zero-delay feed are the commercial products
 that fund the pipeline.
 
 ## Schema
@@ -64,7 +64,7 @@ that fund the pipeline.
 | South Dakota (SD) | 80 | [sd.csv](data/by-state/sd.csv) | ok |
 | Tennessee (TN) | 1,060 | [tn.csv](data/by-state/tn.csv) | ok |
 | Utah (UT) | 282 | [ut.csv](data/by-state/ut.csv) | ok |
-| Vermont (VT) | 70 | [vt.csv](data/by-state/vt.csv) | ok |
+| Vermont (VT) | 69 | [vt.csv](data/by-state/vt.csv) | ok |
 | Washington (WA) | 1,492 | [wa.csv](data/by-state/wa.csv) | ok |
 | Wisconsin (WI) | 617 | [wi.csv](data/by-state/wi.csv) | ok |
 
@@ -95,16 +95,16 @@ e.g. California layoff notices: [`data/by-state/ca.csv`](data/by-state/ca.csv).
 
 | Month | Notices | Workers affected |
 |---|---:|---:|
-| 2025-09 | 187 | 21,431 |
-| 2025-10 | 322 | 32,820 |
-| 2025-11 | 231 | 16,000 |
+| 2025-09 | 187 | 21,630 |
+| 2025-10 | 323 | 32,883 |
+| 2025-11 | 232 | 16,114 |
 | 2025-12 | 89 | 8,076 |
 | 2026-01 | 276 | 24,175 |
 | 2026-02 | 230 | 19,505 |
-| 2026-03 | 241 | 14,637 |
-| 2026-04 | 279 | 17,831 |
-| 2026-05 | 238 | 32,769 |
-| 2026-06 | 232 | 14,876 |
+| 2026-03 | 242 | 14,726 |
+| 2026-04 | 281 | 18,346 |
+| 2026-05 | 240 | 33,091 |
+| 2026-06 | 231 | 14,876 |
 | 2026-07 | 168 | 14,221 |
 | 2026-08 | 152 | 14,147 |
 
@@ -130,7 +130,7 @@ expensive part. Commercial options:
   delay, including notices seen in the last 48h, refreshed on every pipeline
   run. Delivered as a private GitHub repo you can pull/watch.
 - **[Full historical archive — $199 one-time](https://approj.gumroad.com/l/warn-archive)** — every notice
-  we have back to 1988 (36,992 rows, all 27 states), CSV + JSON.
+  we have back to 1988 (36,991 rows, all 27 states), CSV + JSON.
 
 Delivery is automatic: enter your GitHub username at checkout and you're
 invited to the private repo. Questions first? [Open an issue](https://github.com/APProj/warn-act-notices/issues)

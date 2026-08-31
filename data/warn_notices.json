@@ -6344,19 +6344,6 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
-"company": "SMBC MANUBANK",
-"location": "New York",
-"employees_affected": "",
-"notice_date": "2026-06-04",
-"effective_date": "",
-"notice_type": "WARN",
-"state": "AZ",
-"company_canonical": "Smbc Manubank",
-"company_dba": "",
-"id": "caa26c065eb5b5ab",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
 "company": "Quizlet, Inc.",
 "location": "San Francisco County",
 "employees_affected": 79,
@@ -7901,6 +7888,19 @@
 "company_canonical": "Meta Platforms",
 "company_dba": "",
 "id": "e5364a360033904b",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "National Distribution Centers, LLC",
+"location": "Waddell",
+"employees_affected": 90,
+"notice_date": "2026-05-21",
+"effective_date": "",
+"notice_type": "WARN",
+"state": "AZ",
+"company_canonical": "National Distribution Centers",
+"company_dba": "",
+"id": "8b0184370fe9f503",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -9906,6 +9906,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Advanced Call Center Technologies (ACT)",
+"location": "San Luis",
+"employees_affected": 232,
+"notice_date": "2026-05-01",
+"effective_date": "",
+"notice_type": "WARN",
+"state": "AZ",
+"company_canonical": "Advanced Call Center Technologies (ACT)",
+"company_dba": "",
+"id": "405d3f44e5fc70ec",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
 "company": "First Student",
 "location": "Fresno County",
 "employees_affected": 170,
@@ -11804,6 +11817,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "DLH Solutions",
+"location": "Tucson",
+"employees_affected": 312,
+"notice_date": "2026-04-17",
+"effective_date": "",
+"notice_type": "WARN",
+"state": "AZ",
+"company_canonical": "DLH Solutions",
+"company_dba": "",
+"id": "9cc9ba7c852eb939",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
 "company": "FM Restaurants HQ, LLC",
 "location": "Orange County",
 "employees_affected": 49,
@@ -12568,6 +12594,19 @@
 "company_canonical": "Astellas US Holding",
 "company_dba": "",
 "id": "9cd7417ab429f5fa",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "VisionQuest National LTD",
+"location": "Tucson",
+"employees_affected": 203,
+"notice_date": "2026-04-09",
+"effective_date": "",
+"notice_type": "WARN",
+"state": "AZ",
+"company_canonical": "VisionQuest National",
+"company_dba": "",
+"id": "aa2db9243dafaac5",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -14440,6 +14479,19 @@
 "company_canonical": "Daybreak Foods, Inc.<br/></a><a><em style=\"font-size:80%; text-decoration:none !important; color:#000\">* The company provided a separate communication with the breakdown of the number affected at each site.</em>",
 "company_dba": "",
 "id": "af13773a5f0ab9e1",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Sinomax East, Inc.",
+"location": "Houston",
+"employees_affected": 89,
+"notice_date": "2026-03-26",
+"effective_date": "",
+"notice_type": "WARN",
+"state": "AZ",
+"company_canonical": "Sinomax East",
+"company_dba": "",
+"id": "85ce3d64028c04e3",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -24882,6 +24934,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "DHM Payroll - Fiesta Tempe, LLC,",
+"location": "Tempe",
+"employees_affected": 114,
+"notice_date": "2025-11-26",
+"effective_date": "",
+"notice_type": "WARN",
+"state": "AZ",
+"company_canonical": "DHM Payroll - Fiesta Tempe",
+"company_dba": "",
+"id": "6682fd09dab3b632",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
 "company": "Panasonic Well LLC",
 "location": "Santa Clara County",
 "employees_affected": 46,
@@ -28298,6 +28363,19 @@
 "company_canonical": "TransAlta",
 "company_dba": "",
 "id": "c55c0d113a4aae1c",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Microchip",
+"location": "Tempe",
+"employees_affected": 63,
+"notice_date": "2025-10-29",
+"effective_date": "",
+"notice_type": "WARN",
+"state": "AZ",
+"company_canonical": "Microchip",
+"company_dba": "",
+"id": "9ebcfa906e8b70f3",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -32331,19 +32409,6 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
-"company": "ITC Federal",
-"location": "Essex Junction",
-"employees_affected": 60,
-"notice_date": "2025-09-30",
-"effective_date": "",
-"notice_type": "WARN",
-"state": "VT",
-"company_canonical": "ITC Federal",
-"company_dba": "",
-"id": "fa090af7bd0d8735",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
 "company": "BM Administrative Services",
 "location": "Various locations in Washington",
 "employees_affected": 268,
@@ -34060,6 +34125,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "LSG Sky Chefs",
+"location": "Phoenix",
+"employees_affected": 259,
+"notice_date": "2025-09-04",
+"effective_date": "",
+"notice_type": "WARN",
+"state": "AZ",
+"company_canonical": "LSG Sky Chefs",
+"company_dba": "",
+"id": "dc5a8dc25691a0a8",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
 "company": "Six Flags Entertainment Corporation",
 "location": "Santa Clara County",
 "employees_affected": 184,
@@ -35425,6 +35503,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Freight Handlers, LLC",
+"location": "Phoenix",
+"employees_affected": 77,
+"notice_date": "2025-08-20",
+"effective_date": "",
+"notice_type": "WARN",
+"state": "AZ",
+"company_canonical": "Freight Handlers",
+"company_dba": "",
+"id": "f60b697baabac845",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
 "company": "Town Hospice & Palliative Care LLC dba Suncrest Hospice Inland Empire",
 "location": "Riverside County",
 "employees_affected": 23,
@@ -35695,19 +35786,6 @@
 "company_canonical": "Car Toys",
 "company_dba": "",
 "id": "480c2251cd2c617a",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
-"company": "Zeco Systems, Inc.",
-"location": "Los Angeles",
-"employees_affected": "",
-"notice_date": "2025-08-18",
-"effective_date": "",
-"notice_type": "WARN",
-"state": "AZ",
-"company_canonical": "Zeco Systems",
-"company_dba": "",
-"id": "3ffe055ed286584c",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -37619,6 +37697,19 @@
 "company_canonical": "SenDx Medical",
 "company_dba": "",
 "id": "0866e752bcf3383b",
+"first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Ryder Integrated Logistics, Inc.",
+"location": "Yuma",
+"employees_affected": 58,
+"notice_date": "2025-07-22",
+"effective_date": "",
+"notice_type": "WARN",
+"state": "AZ",
+"company_canonical": "Ryder Integrated Logistics",
+"company_dba": "",
+"id": "77d18a2355c69297",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -40679,14 +40770,14 @@
 {
 "company": "The Orvis Company",
 "location": "Arlington",
-"employees_affected": 56,
+"employees_affected": "",
 "notice_date": "2025-06-18",
 "effective_date": "",
 "notice_type": "WARN",
 "state": "VT",
 "company_canonical": "The Orvis",
 "company_dba": "",
-"id": "24fe1392e0378f6e",
+"id": "5a7a0f84e9baae9c",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -49761,19 +49852,6 @@
 "company_canonical": "LUKE Holding",
 "company_dba": "",
 "id": "f6d060210da449f3",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
-"company": "LUKE Holding Inc.",
-"location": "Nogales",
-"employees_affected": "",
-"notice_date": "2025-02-28",
-"effective_date": "",
-"notice_type": "WARN",
-"state": "AZ",
-"company_canonical": "LUKE Holding",
-"company_dba": "",
-"id": "8ce6751e19797a47",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
@@ -60304,19 +60382,6 @@
 "company_canonical": "CVS",
 "company_dba": "",
 "id": "94c25e18bfb92dba",
-"first_seen": "2026-08-30T21:43:41.512264Z"
-},
-{
-"company": "The Orvis Company",
-"location": "Sunderland",
-"employees_affected": "",
-"notice_date": "2024-10-04",
-"effective_date": "",
-"notice_type": "WARN",
-"state": "VT",
-"company_canonical": "The Orvis",
-"company_dba": "",
-"id": "5a7a0f84e9baae9c",
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
