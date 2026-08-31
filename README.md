@@ -133,7 +133,9 @@ the latest revised headcount.
 ## Real-time feed & full history (commercial)
 
 If you use layoff notices as sales/recruiting triggers, the 48h delay is the
-expensive part. Commercial options:
+expensive part. As of 2026-08-31: **58 notices** affecting 7,350 workers (dated in the last 45 days, 8 states) are in the real-time feed and not yet in this repo's free files — each lands here only after its 48-hour delay. Machine-readable: `delay_gap` in [`data/coverage.json`](data/coverage.json).
+
+Commercial options:
 
 - **[Real-time feed — $49/mo](https://approj.gumroad.com/l/warn-realtime)** — the same dataset with zero
   delay, including notices seen in the last 48h, refreshed on every pipeline

@@ -151,5 +151,21 @@
       "raw_rows": 635,
       "status": "ok"
     }
+  },
+  "delay_gap": {
+    "count": 58,
+    "workers": 7350,
+    "states": [
+      "CO",
+      "FL",
+      "GA",
+      "LA",
+      "MI",
+      "NJ",
+      "OR",
+      "WA"
+    ],
+    "window_days": 45,
+    "note": "Notices dated within the last 45 days that are in the real-time feed but not yet in this repo's free files; each appears here after its 48h delay expires."
   }
 }
