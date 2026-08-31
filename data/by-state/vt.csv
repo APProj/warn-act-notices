@@ -1,16 +1,12 @@
 id,state,company,location,employees_affected,notice_date,effective_date,notice_type,first_seen
 6845073274151ee5,VT,"St. Albans Creamery, LLC",Saint Albans,81,2026-06-17,,WARN,2026-08-30T21:43:41.512264Z
-1f99da2a792d7b67,VT,University of Vermont Health,Burlington,,2026-06-09,,WARN,2026-08-30T21:43:41.512264Z
-543c3150e35d39c7,VT,Franklin Foods,Enosburg Falls,99,2026-05-28,,WARN,2026-08-30T21:43:41.512264Z
 211423455381daf4,VT,Perrigo Company,Georgia,162,2026-04-28,,WARN,2026-08-30T21:43:41.512264Z
 3683ecdea25d617b,VT,Maple Ridge Memory Care and Lodge,Essex Junction,126,2026-01-30,,WARN,2026-08-30T21:43:41.512264Z
 99445081da48a81f,VT,Calmont Beverage,Barre,67,2026-01-22,,WARN,2026-08-30T21:43:41.512264Z
-fa090af7bd0d8735,VT,ITC Federal,Essex Junction,60,2025-09-30,,WARN,2026-08-30T21:43:41.512264Z
+576ea6606c1ac27a,VT,HP Hood,Barre,70,2025-09-24,,WARN,2026-08-30T21:43:41.512264Z
 3a312e7ea78c5c05,VT,University of Vermont Health Network,Burlington,60,2025-07-29,,WARN,2026-08-30T21:43:41.512264Z
 dc03668a08f14668,VT,"America's Gardening Resouces inc, dba Gardeners supply",Burlington,60,2025-07-24,,WARN,2026-08-30T21:43:41.512264Z
-24fe1392e0378f6e,VT,The Orvis Company,Arlington,56,2025-06-18,,WARN,2026-08-30T21:43:41.512264Z
-53f4043c8b555e17,VT,Fed Ex Corporation,Williston,,2025-04-30,,WARN,2026-08-30T21:43:41.512264Z
+5a7a0f84e9baae9c,VT,The Orvis Company,Arlington,,2025-06-18,,WARN,2026-08-30T21:43:41.512264Z
 5ef6c196cf4f2266,VT,ITC Federal,Essex Junction,28,2024-12-03,,WARN,2026-08-30T21:43:41.512264Z
-5a7a0f84e9baae9c,VT,The Orvis Company,Sunderland,,2024-10-04,,WARN,2026-08-30T21:43:41.512264Z
 c6fe345320b98e0a,VT,Big Lots,Westerville,74,2024-07-30,,WARN,2026-08-30T21:43:41.512264Z
 78f6e3b75c22cb26,VT,"Soundview Vermont Holdings, LLC",Putney,127,2024-01-15,,WARN,2026-08-30T21:43:41.512264Z
