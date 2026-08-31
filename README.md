@@ -103,18 +103,18 @@ e.g. California layoff notices: [`data/by-state/ca.csv`](data/by-state/ca.csv).
 
 | Month | Notices | Workers affected |
 |---|---:|---:|
-| 2025-09 | 188 | 21,540 |
-| 2025-10 | 321 | 32,553 |
+| 2025-09 | 188 | 21,619 |
+| 2025-10 | 321 | 35,345 |
 | 2025-11 | 230 | 15,889 |
 | 2025-12 | 90 | 8,159 |
 | 2026-01 | 273 | 23,859 |
 | 2026-02 | 225 | 18,862 |
 | 2026-03 | 238 | 14,514 |
-| 2026-04 | 278 | 17,968 |
-| 2026-05 | 234 | 32,674 |
-| 2026-06 | 233 | 14,514 |
+| 2026-04 | 278 | 18,043 |
+| 2026-05 | 234 | 32,764 |
+| 2026-06 | 233 | 14,656 |
 | 2026-07 | 164 | 12,746 |
-| 2026-08 | 147 | 13,513 |
+| 2026-08 | 147 | 13,603 |
 
 Machine-readable trends (per-state monthly notices + workers affected, last 24
 months): [`data/trends.json`](data/trends.json) — stable raw URL for embedding
