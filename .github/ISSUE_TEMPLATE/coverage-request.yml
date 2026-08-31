@@ -1,0 +1,25 @@
+name: Coverage / feature request
+description: Ask for a state, field, format, or endpoint we don't have yet
+title: "[request] "
+labels: ["request"]
+body:
+  - type: textarea
+    id: need
+    attributes:
+      label: What do you need?
+      description: A state we don't cover, an extra field, a different format (Parquet, API endpoint), older history — tell us what and, if you can, what you're building with it.
+      placeholder: e.g. Ohio coverage, or a parquet export of the full dataset
+    validations:
+      required: true
+  - type: dropdown
+    id: usage
+    attributes:
+      label: How do you use WARN data?
+      options:
+        - Recruiting / outplacement
+        - Sales intelligence / prospecting
+        - Research / journalism
+        - Personal project
+        - Other
+    validations:
+      required: false

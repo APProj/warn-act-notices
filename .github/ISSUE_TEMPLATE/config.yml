@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Real-time feed (no 48h delay) — $49/mo
+    url: https://approj.gumroad.com/l/warn-realtime
+    about: The free dataset here is 48h-delayed. Zero-delay feed for recruiters and sales teams.
+  - name: Full historical archive (1988–present) — $199
+    url: https://approj.gumroad.com/l/warn-archive
+    about: 40,000+ notices, 29 states, one normalized CSV/JSON. Free tier covers 2024–present only.

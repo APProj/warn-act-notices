@@ -1,0 +1,36 @@
+name: Data problem
+description: A notice is wrong, missing, or duplicated
+title: "[data] "
+labels: ["data-problem"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks — corrections make the dataset better for everyone. We check issues daily.
+  - type: input
+    id: state
+    attributes:
+      label: State
+      placeholder: e.g. CA
+    validations:
+      required: true
+  - type: input
+    id: company
+    attributes:
+      label: Company (as it appears in the CSV, or should appear)
+      placeholder: e.g. Acme Corp
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What's wrong?
+      description: Wrong date/headcount, missing notice, duplicate row, bad canonical name — anything.
+      placeholder: The 2026-08-12 notice shows 40 employees; the state site says 400.
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Source link (state WARN page, news article, filing)
+      placeholder: https://...
