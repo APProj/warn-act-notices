@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "WARN Feed: US WARN Act layoff notices, normalized and daily-updated"
+type: dataset
+authors:
+  - name: "WARN Feed"
+    website: "https://approj.github.io/warn-act-notices/"
+repository-code: "https://github.com/APProj/warn-act-notices"
+url: "https://approj.github.io/warn-act-notices/"
+license: CC-BY-4.0
+keywords:
+  - WARN Act
+  - layoff notices
+  - layoffs
+  - labor market
+  - workforce data
+  - economic data
+  - open data
+abstract: >-
+  Deduplicated, schema-normalized dataset of US WARN Act layoff notices
+  collected from official state labor department listings across 29 states,
+  refreshed daily. Free tier covers 2024-present with a 48-hour delay; fields
+  include employer (raw and canonicalized), location, employees affected,
+  notice and effective dates, and notice type. Collection builds on the
+  Apache-2.0 biglocalnews/warn-scraper (Stanford Big Local News) plus an
+  independent normalization, dedup and employer-canonicalization layer.

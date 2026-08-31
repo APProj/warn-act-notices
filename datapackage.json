@@ -1,0 +1,68 @@
+{
+  "profile": "tabular-data-package",
+  "name": "warn-act-notices",
+  "title": "US WARN Act Layoff Notices — normalized, daily-updated (free tier)",
+  "description": "Deduplicated, schema-normalized US WARN Act layoff notices from official state labor department listings (29 states), refreshed daily. Free tier: 2024-present, 48h-delayed. Full 1988+ history and zero-delay feed available commercially — see homepage.",
+  "homepage": "https://approj.github.io/warn-act-notices/",
+  "repository": "https://github.com/APProj/warn-act-notices",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/",
+      "title": "Creative Commons Attribution 4.0 International"
+    }
+  ],
+  "keywords": ["WARN Act", "layoffs", "layoff notices", "labor market", "workforce", "economic data", "open data"],
+  "sources": [
+    {
+      "title": "Official state labor department WARN listings, collected via Apache-2.0 biglocalnews/warn-scraper plus independent normalization/dedup layer",
+      "path": "https://github.com/biglocalnews/warn-scraper"
+    }
+  ],
+  "resources": [
+    {
+      "profile": "tabular-data-resource",
+      "name": "warn_notices",
+      "path": "data/warn_notices.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {"name": "id", "type": "string", "description": "Stable dedupe id (source record number where available, else content hash)"},
+          {"name": "state", "type": "string", "description": "2-letter US postal code"},
+          {"name": "company", "type": "string", "description": "Employer name exactly as published by the state"},
+          {"name": "company_canonical", "type": "string", "description": "Cleaned employer name; groups the same employer across states, renotices and store numbers"},
+          {"name": "company_dba", "type": "string", "description": "Trade name when the state published a dba/aka alias"},
+          {"name": "location", "type": "string", "description": "City/county/address, best effort"},
+          {"name": "employees_affected", "type": "integer", "description": "Workers affected; empty if the state omitted it"},
+          {"name": "notice_date", "type": "date", "description": "ISO date the notice was received/posted (NJ: month precision, day pinned to 01)"},
+          {"name": "effective_date", "type": "date", "description": "ISO date the layoff/closure takes effect"},
+          {"name": "notice_type", "type": "string", "description": "Layoff/closure label as published"},
+          {"name": "first_seen", "type": "datetime", "description": "UTC timestamp the pipeline first saw this notice"}
+        ]
+      }
+    },
+    {
+      "name": "warn_notices_json",
+      "path": "data/warn_notices.json",
+      "format": "json",
+      "mediatype": "application/json",
+      "description": "Same records as warn_notices.csv, as a JSON array"
+    },
+    {
+      "name": "coverage",
+      "path": "data/coverage.json",
+      "format": "json",
+      "mediatype": "application/json",
+      "description": "Per-state coverage, row counts, source status and freshness metadata"
+    },
+    {
+      "name": "trends",
+      "path": "data/trends.json",
+      "format": "json",
+      "mediatype": "application/json",
+      "description": "Per-state monthly notice counts and workers affected, last 24 months"
+    }
+  ]
+}

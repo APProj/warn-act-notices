@@ -1,0 +1,29 @@
+# WARN Feed — US WARN Act layoff notices (normalized, daily-updated)
+
+> Free, no-login dataset of US WARN Act layoff notices from official state
+> labor department listings, normalized into one schema across 29 states and
+> refreshed daily. Free tier covers 2024-present, 48 hours delayed. Fields:
+> state, company (raw + canonicalized), location, employees_affected,
+> notice_date, effective_date, notice_type, first_seen. License: CC BY 4.0
+> (credit "WARN Feed").
+
+## Data (stable, keyless HTTPS URLs)
+
+- [All notices, CSV](https://raw.githubusercontent.com/APProj/warn-act-notices/main/data/warn_notices.csv): every free-tier notice, one row per notice
+- [All notices, JSON](https://raw.githubusercontent.com/APProj/warn-act-notices/main/data/warn_notices.json): same records as a JSON array
+- [Coverage metadata](https://raw.githubusercontent.com/APProj/warn-act-notices/main/data/coverage.json): which states are covered, row counts, freshness
+- [Monthly trends](https://raw.githubusercontent.com/APProj/warn-act-notices/main/data/trends.json): per-state monthly notices + workers affected, last 24 months
+- [RSS feed](https://approj.github.io/warn-act-notices/feed.xml): newly published notices
+- [API guide](https://github.com/APProj/warn-act-notices/blob/main/API.md): how to use the raw URLs as a free layoffs API
+- [Schema (machine-readable)](https://raw.githubusercontent.com/APProj/warn-act-notices/main/datapackage.json): Frictionless data package descriptor
+
+## Browse
+
+- [Stats page](https://approj.github.io/warn-act-notices/): weekly US layoff summary and per-state pages
+- [Layoffs by employer](https://approj.github.io/warn-act-notices/employers/): one page per employer with all their WARN notices
+- [GitHub repo](https://github.com/APProj/warn-act-notices): source of truth, README with full schema and coverage table
+
+## Commercial tiers
+
+- [Real-time feed, $49/mo](https://approj.gumroad.com/l/warn-realtime): the same dataset with zero delay, private GitHub repo delivery
+- [Full historical archive, $199](https://approj.gumroad.com/l/warn-archive): every notice back to 1988, all covered states, CSV + JSON
