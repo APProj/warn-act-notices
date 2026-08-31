@@ -23,7 +23,7 @@ deduplicated dataset, refreshed daily.
 No login, no API key. Scope of the free dataset, stated plainly: notices from
 **2024-01-01** onward, **48h-delayed** (newly scraped notices appear here 48 hours
 after our pipeline first sees them). The full archive back to 1988
-(40,258 notices) and the zero-delay feed are the commercial products
+(40,259 notices) and the zero-delay feed are the commercial products
 that fund the pipeline.
 
 ## Schema
@@ -66,7 +66,7 @@ that fund the pipeline.
 | [New Mexico](https://approj.github.io/warn-act-notices/states/new-mexico.html) (NM) | 116 | — | ok |
 | [New York](https://approj.github.io/warn-act-notices/states/new-york.html) (NY) | 141 | [ny.csv](data/by-state/ny.csv) | ok |
 | [Oklahoma](https://approj.github.io/warn-act-notices/states/oklahoma.html) (OK) | 219 | [ok.csv](data/by-state/ok.csv) | ok |
-| [Oregon](https://approj.github.io/warn-act-notices/states/oregon.html) (OR) | 1,363 | [or.csv](data/by-state/or.csv) | ok |
+| [Oregon](https://approj.github.io/warn-act-notices/states/oregon.html) (OR) | 1,364 | [or.csv](data/by-state/or.csv) | ok |
 | [Rhode Island](https://approj.github.io/warn-act-notices/states/rhode-island.html) (RI) | 126 | [ri.csv](data/by-state/ri.csv) | ok |
 | [South Carolina](https://approj.github.io/warn-act-notices/states/south-carolina.html) (SC) | 603 | [sc.csv](data/by-state/sc.csv) | ok |
 | [South Dakota](https://approj.github.io/warn-act-notices/states/south-dakota.html) (SD) | 80 | [sd.csv](data/by-state/sd.csv) | ok |
@@ -138,7 +138,7 @@ expensive part. Commercial options:
   delay, including notices seen in the last 48h, refreshed on every pipeline
   run. Delivered as a private GitHub repo you can pull/watch.
 - **[Full historical archive — $199 one-time](https://approj.gumroad.com/l/warn-archive)** — every notice
-  we have back to 1988 (40,258 rows, all 29 states), CSV + JSON.
+  we have back to 1988 (40,259 rows, all 29 states), CSV + JSON.
 
 Delivery is automatic: enter your GitHub username at checkout and you're
 invited to the private repo. Questions first? [Open an issue](https://github.com/APProj/warn-act-notices/issues)

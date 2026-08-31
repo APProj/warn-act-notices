@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-31T19:18:38.989451Z",
-  "total_rows": 40258,
+  "generated_at": "2026-08-31T20:19:07.499092Z",
+  "total_rows": 40259,
   "free_rows": 6729,
   "free_window_start": "2024-01-01",
   "new_ids_this_run": 1,
@@ -107,8 +107,8 @@
       "status": "ok"
     },
     "OR": {
-      "rows": 1363,
-      "raw_rows": 1363,
+      "rows": 1364,
+      "raw_rows": 1364,
       "status": "ok"
     },
     "RI": {
