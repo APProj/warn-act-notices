@@ -13,6 +13,7 @@ deduplicated dataset, refreshed daily.
 - Coverage/freshness metadata: [`data/coverage.json`](data/coverage.json)
 - Per-state CSVs: [`data/by-state/`](data/by-state/) — see table below
 - Stats page: https://approj.github.io/warn-act-notices/
+- Browse layoffs by employer: https://approj.github.io/warn-act-notices/employers/
 
 No login, no API key. Scope of the free dataset, stated plainly: notices from
 **2024-01-01** onward, **48h-delayed** (newly scraped notices appear here 48 hours
