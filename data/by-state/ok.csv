@@ -1,29 +1,29 @@
-id,state,company,location,employees_affected,notice_date,effective_date,notice_type,first_seen
-596a3c542ab92704,OK,"T-Mobile USA, Inc.",Oklahoma City,,2026-08-17,,Other,2026-08-30T21:43:41.512264Z
-7b4c2bae4922dfc4,OK,PepsiCo,Purchase,,2026-07-14,,Mass Layoff,2026-08-30T21:43:41.512264Z
-ed2956dbf3166519,OK,CONDUENT PATIENT ACCESS SOLUTIONS,FLORHAM PARK,,2026-06-26,,Mass Layoff,2026-08-30T21:43:41.512264Z
-c86650b13c341d50,OK,Arvest Bank,Lowell,,2026-05-04,,Mass Layoff,2026-08-30T21:43:41.512264Z
-5c4854f10601ce13,OK,CAE USA Inc,Altus AFB,,2026-03-25,,Plant Closing,2026-08-30T21:43:41.512264Z
-2448e815e5a724c6,OK,VITAL ENERGY INC,TULSA,,2026-03-13,,Plant Closing,2026-08-30T21:43:41.512264Z
-ed64a0724ac7eed0,OK,Hopkins Mfg- Miami,Miami,,2026-02-23,,Plant Closing,2026-08-30T21:43:41.512264Z
-1619665625bce032,OK,Bright Horizons,Watertown,,2026-01-30,,Plant Closing,2026-08-30T21:43:41.512264Z
-5502c258555d4b99,OK,TTEC,,,2026-01-26,,Plant Closing,2026-08-30T21:43:41.512264Z
-b9d2fac292bc7f8a,OK,Macy's Distribution,Owasso,,2026-01-15,,Plant Closing,2026-08-30T21:43:41.512264Z
-b85d9bc1350ed830,OK,Carrus Lakeside Hospital,Sherman,,2025-12-15,,Plant Closing,2026-08-30T21:43:41.512264Z
-8d2b2f787049bd1c,OK,Kroger,Oklahoma City,,2025-12-03,,Plant Closing,2026-08-30T21:43:41.512264Z
-71ca5c9d1213c9e8,OK,Paycom,Oklahoma City,,2025-10-01,,Mass Layoff,2026-08-30T21:43:41.512264Z
-dde7912114260486,OK,Fellers,,,2025-09-26,,Other,2026-08-30T21:43:41.512264Z
-66f7078d561437ec,OK,Jindal Films Americas LLC,Shawnee,,2025-09-25,,Plant Closing,2026-08-30T21:43:41.512264Z
-1e9d27802dc39e52,OK,LarKen Logistics LLC,St. Peters,,2025-09-03,,Plant Closing,2026-08-30T21:43:41.512264Z
-6c8621a0b3970cc9,OK,Novo Logistics,,,2025-01-30,,Plant Closing,2026-08-30T21:43:41.512264Z
-5c2bbbe686031f8e,OK,Ruan Transport Corporation,Des Moines,,2024-12-20,,Plant Closing,2026-08-30T21:43:41.512264Z
-e9db5fdf759b987d,OK,Big Lots Durant DC,Durant,,2024-12-19,,Plant Closing,2026-08-30T21:43:41.512264Z
-8f3fc2d0e4099e86,OK,UPS,,,2024-11-18,,Mass Layoff,2026-08-30T21:43:41.512264Z
-0ffad498a045f671,OK,WIT Services Co LLC,Sapulpa,,2024-10-22,,Mass Layoff,2026-08-30T21:43:41.512264Z
-73cad31438a862b5,OK,Airgas,Lawton,,2024-08-29,,Mass Layoff,2026-08-30T21:43:41.512264Z
-ae260d1be8d08df9,OK,Sound Physicians of Oklahoma,Tacoma,,2024-08-13,,Other,2026-08-30T21:43:41.512264Z
-7dc143082d18da80,OK,"NuCera Solutions, LLC",Barnsdall,,2024-07-30,,Plant Closing,2026-08-30T21:43:41.512264Z
-61eee52907463f31,OK,Dollar Tree,,,2024-05-24,,Plant Closing,2026-08-30T21:43:41.512264Z
-91ad61592403d588,OK,7-Eleven,,,2024-05-23,,Other,2026-08-30T21:43:41.512264Z
-7ff7b92c5ab336fd,OK,ABM INDUSTRIES INC,SUGAR LAND,,2024-01-19,,Mass Layoff,2026-08-30T21:43:41.512264Z
-fc678245e98b83a0,OK,Warehouse Specialist LLC,Appleton,,2024-01-10,,Plant Closing,2026-08-30T21:43:41.512264Z
+id,state,company,company_canonical,company_dba,location,employees_affected,notice_date,effective_date,notice_type,first_seen
+596a3c542ab92704,OK,"T-Mobile USA, Inc.",T-Mobile,,Oklahoma City,,2026-08-17,,Other,2026-08-30T21:43:41.512264Z
+7b4c2bae4922dfc4,OK,PepsiCo,PepsiCo,,Purchase,,2026-07-14,,Mass Layoff,2026-08-30T21:43:41.512264Z
+ed2956dbf3166519,OK,CONDUENT PATIENT ACCESS SOLUTIONS,Conduent Patient Access Solutions,,FLORHAM PARK,,2026-06-26,,Mass Layoff,2026-08-30T21:43:41.512264Z
+c86650b13c341d50,OK,Arvest Bank,Arvest Bank,,Lowell,,2026-05-04,,Mass Layoff,2026-08-30T21:43:41.512264Z
+5c4854f10601ce13,OK,CAE USA Inc,CAE,,Altus AFB,,2026-03-25,,Plant Closing,2026-08-30T21:43:41.512264Z
+2448e815e5a724c6,OK,VITAL ENERGY INC,Vital Energy,,TULSA,,2026-03-13,,Plant Closing,2026-08-30T21:43:41.512264Z
+ed64a0724ac7eed0,OK,Hopkins Mfg- Miami,Hopkins Mfg- Miami,,Miami,,2026-02-23,,Plant Closing,2026-08-30T21:43:41.512264Z
+1619665625bce032,OK,Bright Horizons,Bright Horizons,,Watertown,,2026-01-30,,Plant Closing,2026-08-30T21:43:41.512264Z
+5502c258555d4b99,OK,TTEC,TTEC,,,,2026-01-26,,Plant Closing,2026-08-30T21:43:41.512264Z
+b9d2fac292bc7f8a,OK,Macy's Distribution,Macy's Distribution,,Owasso,,2026-01-15,,Plant Closing,2026-08-30T21:43:41.512264Z
+b85d9bc1350ed830,OK,Carrus Lakeside Hospital,Carrus Lakeside Hospital,,Sherman,,2025-12-15,,Plant Closing,2026-08-30T21:43:41.512264Z
+8d2b2f787049bd1c,OK,Kroger,Kroger,,Oklahoma City,,2025-12-03,,Plant Closing,2026-08-30T21:43:41.512264Z
+71ca5c9d1213c9e8,OK,Paycom,Paycom,,Oklahoma City,,2025-10-01,,Mass Layoff,2026-08-30T21:43:41.512264Z
+dde7912114260486,OK,Fellers,Fellers,,,,2025-09-26,,Other,2026-08-30T21:43:41.512264Z
+66f7078d561437ec,OK,Jindal Films Americas LLC,Jindal Films Americas,,Shawnee,,2025-09-25,,Plant Closing,2026-08-30T21:43:41.512264Z
+1e9d27802dc39e52,OK,LarKen Logistics LLC,LarKen Logistics,,St. Peters,,2025-09-03,,Plant Closing,2026-08-30T21:43:41.512264Z
+6c8621a0b3970cc9,OK,Novo Logistics,Novo Logistics,,,,2025-01-30,,Plant Closing,2026-08-30T21:43:41.512264Z
+5c2bbbe686031f8e,OK,Ruan Transport Corporation,Ruan Transport,,Des Moines,,2024-12-20,,Plant Closing,2026-08-30T21:43:41.512264Z
+e9db5fdf759b987d,OK,Big Lots Durant DC,Big Lots Durant DC,,Durant,,2024-12-19,,Plant Closing,2026-08-30T21:43:41.512264Z
+8f3fc2d0e4099e86,OK,UPS,UPS,,,,2024-11-18,,Mass Layoff,2026-08-30T21:43:41.512264Z
+0ffad498a045f671,OK,WIT Services Co LLC,WIT Services,,Sapulpa,,2024-10-22,,Mass Layoff,2026-08-30T21:43:41.512264Z
+73cad31438a862b5,OK,Airgas,Airgas,,Lawton,,2024-08-29,,Mass Layoff,2026-08-30T21:43:41.512264Z
+ae260d1be8d08df9,OK,Sound Physicians of Oklahoma,Sound Physicians of Oklahoma,,Tacoma,,2024-08-13,,Other,2026-08-30T21:43:41.512264Z
+7dc143082d18da80,OK,"NuCera Solutions, LLC",NuCera Solutions,,Barnsdall,,2024-07-30,,Plant Closing,2026-08-30T21:43:41.512264Z
+61eee52907463f31,OK,Dollar Tree,Dollar Tree,,,,2024-05-24,,Plant Closing,2026-08-30T21:43:41.512264Z
+91ad61592403d588,OK,7-Eleven,7-Eleven,,,,2024-05-23,,Other,2026-08-30T21:43:41.512264Z
+7ff7b92c5ab336fd,OK,ABM INDUSTRIES INC,Abm Industries,,SUGAR LAND,,2024-01-19,,Mass Layoff,2026-08-30T21:43:41.512264Z
+fc678245e98b83a0,OK,Warehouse Specialist LLC,Warehouse Specialist,,Appleton,,2024-01-10,,Plant Closing,2026-08-30T21:43:41.512264Z

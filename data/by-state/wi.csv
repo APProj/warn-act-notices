@@ -1,202 +1,202 @@
-id,state,company,location,employees_affected,notice_date,effective_date,notice_type,first_seen
-c363d475d12dd7dc,WI,Foremost Farms USA,Marshfield,68,2026-08-24,2026-12-15,CL,2026-08-30T21:43:41.512264Z
-212a611aaa9b3621,WI,"Durr CTS, Inc.<br/></a><a><em style=""font-size:80%; text-decoration:none !important; color:#000"">* The company provided a separate communication clarifying that the number impacted is 75.</em>",De Pere,75,2026-08-12,2026-10-13,CL,2026-08-30T21:43:41.512264Z
-983bd1a3888bd3b3,WI,Samuel Pressure Vessel Group,Tomahawk,76,2026-08-05,2026-08-04,CL,2026-08-30T21:43:41.512264Z
-6eb231e7c79a6574,WI,UnityPoint Health,Madison,1,2026-08-04,2027-02-28,WR,2026-08-30T21:43:41.512264Z
-f9adc4f5704d3927,WI,UnityPoint Health,Unknown - Remote Employees,17,2026-08-04,2027-02-28,WR,2026-08-30T21:43:41.512264Z
-1a9d69f4e095225f,WI,"School Specialty, LLC",Fort Atkinson,59,2026-07-28,2026-09-25,CL,2026-08-30T21:43:41.512264Z
-831a05722226ddea,WI,"Wisconsin Green, LLC<br/></a><a><em style=""font-size:80%; text-decoration:none !important; color:#000"">* Notice outlines multiple scenarios for layoffs. Information displayed reflects the worst-case scenario.</em>",Washington,59,2026-07-21,2026-07-22,CL,2026-08-30T21:43:41.512264Z
-1f8200c6d5f4b884,WI,"Prairie Farms Dairy, Inc. Shullsburg Creamery",Shullsburg,43,2026-07-20,2026-07-20,CL,2026-08-30T21:43:41.512264Z
-3a508fbbde31073c,WI,"Prairie Farms Dairy, Inc. White Hill Cheese",Shullsburg,54,2026-07-20,2026-08-14,CL,2026-08-30T21:43:41.512264Z
-ef9cc87969bfd8da,WI,Centers for Independence-MCFI Home Care,Milwaukee,43,2026-07-14,2026-10-31,CL,2026-08-30T21:43:41.512264Z
-dd3af8f90e764bd5,WI,PPD d/b/a Thermo Fisher Scientific,Middleton,69,2026-07-08,2026-09-28,WR,2026-08-30T21:43:41.512264Z
-d843abafa317bfb3,WI,GW Mireles Inc.,Milwaukee,26,2026-07-01,2026-09-01,CL,2026-08-30T21:43:41.512264Z
-353f72105f37ec6f,WI,"Conduent Commercial Solutions, LLC",Unknown - Remote Employees,6,2026-06-29,2026-08-28,WR,2026-08-30T21:43:41.512264Z
-ba11f9ded06f9485,WI,"Sparhawk Trucking Inc. / Sparhawk Truck and Trailer Inc.<br/></a><a><em style=""font-size:80%; text-decoration:none !important; color:#000"">* Received from the Ch 11 Trustee but notice is addressed to employees. DWD emailed Trustee requesting more details.</em>",Wisconsin Rapids,,2026-05-29,,Unknown,2026-08-30T21:43:41.512264Z
-c086cc597a727c55,WI,"Parkhurst Dining, LLC<br/></a><a><em style=""font-size:80%; text-decoration:none !important; color:#000"">* Layoff Begin Date: 05/21/26 (temporary layoff through 05/28/26); 07/03/26 (permanent layoff)</em>",Kenosha,160,2026-05-15,2026-07-03,CL,2026-08-30T21:43:41.512264Z
-c75d2f67c5ffebb6,WI,Cree Lighting,Racine,28,2026-05-14,2026-05-15,WR,2026-08-30T21:43:41.512264Z
-c4eb0a62cd1a9774,WI,"Cell.Plus, LLC",Chilton,4,2026-05-05,2026-07-31,CL,2026-08-30T21:43:41.512264Z
-7c3f9145be9462be,WI,"Cell.Plus, LLC","Suamico, Two Rivers, Seymour, Shawano, Wautoma",12,2026-05-05,2026-07-31,CL,2026-08-30T21:43:41.512264Z
-f0145321cfe4e4fd,WI,"Cell.Plus, LLC","Black River Falls, Mauston, La Crosse, Holmen, Sparta, Viroqua",21,2026-05-05,2026-07-31,CL,2026-08-30T21:43:41.512264Z
-76e690077962374e,WI,"Cell.Plus, LLC","Baraboo, Wisconsin Dells, Spring Green, Reedsburg",22,2026-05-05,2026-07-31,CL,2026-08-30T21:43:41.512264Z
-308563334d700dd3,WI,"Cell.Plus, LLC",Richland Center,3,2026-05-05,2026-07-31,CL,2026-08-30T21:43:41.512264Z
-8a662221ee5e5e03,WI,Henkel US Operations Corporation,Oak Creek,57,2026-05-01,2026-06-20,CL,2026-08-30T21:43:41.512264Z
-f3ea8000d0713857,WI,"Ryder Integrated Logistics, Inc.",Green Bay,151,2026-04-30,2026-06-30,CL,2026-08-30T21:43:41.512264Z
-b36f565e3c47f800,WI,"MTI Electronics, LLC",Menomonee Falls,91,2026-04-29,2026-06-28,CL,2026-08-30T21:43:41.512264Z
-19ab06da56abb8ab,WI,Green Bay Converting Inc,Green Bay,32,2026-04-22,2026-04-25,WR,2026-08-30T21:43:41.512264Z
-caaef5d02404e86e,WI,Polaris Inc.,Osceola,189,2026-04-21,2026-07-27,CL,2026-08-30T21:43:41.512264Z
-a47e4458f2d639e9,WI,UnityPoint Health,Madison,25,2026-04-20,2026-07-24,WR,2026-08-30T21:43:41.512264Z
-6078e74dcaa40a93,WI,"Lakeshore Community Health Care, Inc.","Manitowoc, Sheboygan, West Bend",178,2026-04-08,2026-03-31,CL,2026-08-30T21:43:41.512264Z
-cfa9c3e19e16839e,WI,Regal Rexnord Corporation,Cudahy,70,2026-04-01,2026-06-30,CL,2026-08-30T21:43:41.512264Z
-61ff8f0ad910f86d,WI,Wells Vehicle Electronics,Fond Du Lac,100,2026-03-30,2026-06-02,CL,2026-08-30T21:43:41.512264Z
-85e669f0c4d181c0,WI,"Daybreak Foods, Inc.<br/></a><a><em style=""font-size:80%; text-decoration:none !important; color:#000"">* The company provided a separate communication with the breakdown of the number affected at each site.</em>",Palmyra,55,2026-03-27,2026-04-01,WR,2026-08-30T21:43:41.512264Z
-af13773a5f0ab9e1,WI,"Daybreak Foods, Inc.<br/></a><a><em style=""font-size:80%; text-decoration:none !important; color:#000"">* The company provided a separate communication with the breakdown of the number affected at each site.</em>",Whitewater,32,2026-03-27,2026-04-01,WR,2026-08-30T21:43:41.512264Z
-e6962190f3b12309,WI,"Charter Communications, Inc.",Appleton,313,2026-03-18,2026-06-21,CL,2026-08-30T21:43:41.512264Z
-93bbeb24a9257760,WI,"United Natural Foods, Inc.",Sturtevant,443,2026-03-16,2026-06-20,CL,2026-08-30T21:43:41.512264Z
-567cf9af0746621a,WI,Cree Lighting,Racine,172,2026-03-12,2026-03-12,WR,2026-08-30T21:43:41.512264Z
-1ee0330dacd74e60,WI,Midwest Energy Resources Co.,Superior,54,2026-03-03,2026-06-30,CL,2026-08-30T21:43:41.512264Z
-60f6a39e79a6ae04,WI,Ahlstrom Mosinee LLC,Mosinee,,2026-02-27,2026-06-30,WR,2026-08-30T21:43:41.512264Z
-309b3a430b208e39,WI,"TJ Hale<br/></a><a><em style=""font-size:80%; text-decoration:none !important; color:#000"">* The company attempted to submit a layoff notice to DWD on 02/05/26 but used an invalid email address. It sent another one on 02/25/26.</em>",Menomonee Falls,64,2026-02-25,2026-02-05,CL,2026-08-30T21:43:41.512264Z
-73466ab457d51f95,WI,"Main Street Sports Group, LLC",Brookfield,2,2026-02-13,2026-04-14,CL,2026-08-30T21:43:41.512264Z
-7c950f10b78e3456,WI,SpartanNash,Chippewa Falls,57,2026-02-10,2026-04-11,CL,2026-08-30T21:43:41.512264Z
-417109617fa91497,WI,Cargill Meat Solutions Corp,Milwaukee,221,2026-02-10,2026-04-11,CL,2026-08-30T21:43:41.512264Z
-9499373093cd201d,WI,Artisans Inc.,Glen Flora,46,2026-02-04,2026-03-31,CL,2026-08-30T21:43:41.512264Z
-c8ffe0d16ed31bb4,WI,Associated Milk Producers Inc.,Blair,86,2026-01-30,2026-03-31,WR,2026-08-30T21:43:41.512264Z
-5a103b2b1222f33f,WI,Fresenius USA MFG INC,Kenosha,41,2026-01-28,2026-04-10,WR,2026-08-30T21:43:41.512264Z
-dc5766c6bb89317b,WI,"Bank First, N.A.",Beloit,47,2026-01-27,2026-03-31,CL,2026-08-30T21:43:41.512264Z
-b847c412755a5f5e,WI,Tekni-Plex,Milwaukee,39,2026-01-26,2026-03-27,CL,2026-08-30T21:43:41.512264Z
-dbc0c768bf22875d,WI,"H4 Logistics, LLC",Kenosha,41,2026-01-21,2026-03-23,CL,2026-08-30T21:43:41.512264Z
-17d170bcf6f451ac,WI,"United Piston Ring, Inc.",Manitowoc,60,2026-01-05,2026-03-06,CL,2026-08-30T21:43:41.512264Z
-7104a9a75e19736e,WI,"Lakeside Curative Services, Inc.",Racine,52,2026-01-05,2026-03-06,WR,2026-08-30T21:43:41.512264Z
-d3e0bbdb0941a39d,WI,Prince Corporation,Marshfield,80,2025-12-19,2026-02-19,CL,2026-08-30T21:43:41.512264Z
-96038a19b253300c,WI,Nordstrom,N/A,1,2025-11-19,2026-03-01,WR,2026-08-30T21:43:41.512264Z
-ce7999b09ee5f10d,WI,"Kroger Fulfillment Network, LLC",Pleasant Prairie,211,2025-11-18,2026-02-01,CL,2026-08-30T21:43:41.512264Z
-937303f4a6949212,WI,Superior YMCA,Superior,112,2025-11-13,2025-12-31,WR,2026-08-30T21:43:41.512264Z
-fce4770924df688d,WI,"PrimeFlight Aviation Services, Inc.",Milwaukee,27,2025-11-09,2026-01-09,CL,2026-08-30T21:43:41.512264Z
-7d0ab50dbb231d88,WI,"Daybreak Foods, Inc. (Cold Spring Farm)",Palmyra,65,2025-11-05,2025-11-07,WR,2026-08-30T21:43:41.512264Z
-c929d40ddb423f85,WI,"Elior, Inc.",Oshkosh,155,2025-11-03,2026-05-17,CL,2026-08-30T21:43:41.512264Z
-ae1e33d6a7c4022c,WI,The First Step Community Recovery Center,Milwaukee,85,2025-10-24,2025-12-31,CL,2026-08-30T21:43:41.512264Z
-d4d0409c62e426bf,WI,"Xylem, Inc.",Waukesha,40,2025-10-13,2025-10-13,WR,2026-08-30T21:43:41.512264Z
-720cf2721b2232f3,WI,"Wausau Equipment Company, LLC",New Berlin,67,2025-10-08,2025-12-07,CL,2026-08-30T21:43:41.512264Z
-7fb30a02bc02578f,WI,Action Printing (A JAL Equity Corp),Fond Du Lac,44,2025-09-25,2025-08-07,CL,2026-08-30T21:43:41.512264Z
-22d96ee78345faff,WI,Sheridan Random Lake,Random Lake,104,2025-09-23,2025-11-21,CL,2026-08-30T21:43:41.512264Z
-4585958785723d8f,WI,"Pregis Innovative Packaging, LLC",Germantown,48,2025-09-10,2026-04-30,CL,2026-08-30T21:43:41.512264Z
-325a60a0e61ed64a,WI,"Saputo Cheese USA Inc<br/></a><a><em style=""font-size:80%; text-decoration:none !important; color:#000"">* Layoff start date differs from notice; employer clarified phased layoffs will run Nov–Dec 2025, with exact dates still TBD.</em>",Suamico,240,2025-09-05,2025-11-01,CL,2026-08-30T21:43:41.512264Z
-de7bdc1db12f23dd,WI,"Air Wisconsin Airlines LLC (ATW)<br/></a><a><em style=""font-size:80%; text-decoration:none !important; color:#000"">* The company provided a separate communication with the breakdown of the number affected at each site.</em>",Appleton,127,2025-09-05,2025-10-28,WR,2026-08-30T21:43:41.512264Z
-5c287073e37c8c3a,WI,"Air Wisconsin Airlines LLC (MKE Hangar)<br/></a><a><em style=""font-size:80%; text-decoration:none !important; color:#000"">* The company provided a separate communication with the breakdown of the number affected at each site.</em>",Milwaukee,30,2025-09-05,2025-10-28,WR,2026-08-30T21:43:41.512264Z
-3f4fa5f413042ab5,WI,"Air Wisconsin Airlines LLC (MKE)<br/></a><a><em style=""font-size:80%; text-decoration:none !important; color:#000"">* The company provided a separate communication with the breakdown of the number affected at each site.</em>",Milwaukee,84,2025-09-05,2025-10-28,WR,2026-08-30T21:43:41.512264Z
-eac47fbe7da16ded,WI,360x Logistics LLC,Sturtevant,59,2025-09-05,2025-10-04,CL,2026-08-30T21:43:41.512264Z
-fefccfce8879b28c,WI,ZeniMax Media Inc.,Madison,39,2025-08-15,2025-09-01,WR,2026-08-30T21:43:41.512264Z
-34ee75b699fba5df,WI,"Equiniti Trust Company, LLC",Milwaukee,4,2025-08-11,2025-11-14,WR,2026-08-30T21:43:41.512264Z
-42cd57580f63736a,WI,"Renewed Hope Home Care, LLC",Milwaukee,50,2025-08-04,2025-11-30,CL,2026-08-30T21:43:41.512264Z
-e19e5b3dc12f769f,WI,Krueger's True Value,Neenah,37,2025-07-24,2025-10-14,CL,2026-08-30T21:43:41.512264Z
-5c780ec1c81d87d9,WI,TouchPoint Services (aka Compass Group),Milwaukee,52,2025-07-10,2025-08-01,CL,2026-08-30T21:43:41.512264Z
-4720e7037d6433dc,WI,CHS Inc,Superior,25,2025-07-10,2025-09-08,CL,2026-08-30T21:43:41.512264Z
-0b5924bdfe58e358,WI,StoneRidge Piggly Wiggly,Wautoma,56,2025-07-09,2025-09-15,CL,2026-08-30T21:43:41.512264Z
-07f025006d706094,WI,"United States Cellular Corporation<br/></a><a><em style=""font-size:80%; text-decoration:none !important; color:#000"">* DWD received this layoff notice after receiving the revision.</em>",Multiple,,2025-07-09,2025-06-02,WR,2026-08-30T21:43:41.512264Z
-29b14002e1487aa3,WI,"Wisconsin Physicians Service Insurance Corporation (""WPS"")",Madison,51,2025-06-27,2025-09-30,WR,2026-08-30T21:43:41.512264Z
-99f4c5843b18afb4,WI,Quick Motors,Milwaukee,16,2025-06-24,2025-06-30,CL,2026-08-30T21:43:41.512264Z
-f833bbf6bd691387,WI,Nasco Education LLC,Fort Atkinson,30,2025-06-23,2025-08-22,WR,2026-08-30T21:43:41.512264Z
-2c5b55fad0d11f16,WI,Milwaukee Forge LLC,Milwaukee,67,2025-06-18,2025-08-18,CL,2026-08-30T21:43:41.512264Z
-afd843599f53c235,WI,HyPro Inc.,Berlin,24,2025-06-17,2025-08-15,CL,2026-08-30T21:43:41.512264Z
-8985585486b023af,WI,"Discovery Energy, LLC d/b/a Rehlko",Saukville,66,2025-06-11,2025-08-08,CL,2026-08-30T21:43:41.512264Z
-6fafb9c5871c8499,WI,BRP US Inc.,Sturtevant,61,2025-06-05,2025-06-05,WR,2026-08-30T21:43:41.512264Z
-f01cd15e9dac05ec,WI,"Milwaukee Job Corps Center (Horizons Youth Services, LLC)",Milwaukee,104,2025-06-03,2025-06-06,WR,2026-08-30T21:43:41.512264Z
-47b44491c5bd503c,WI,"McDonald Plastic Molding, Inc.",Poynette,28,2025-05-28,2025-06-27,CL,2026-08-30T21:43:41.512264Z
-87236ffbe3ade494,WI,Silgan Containers Manufacturing Corp,Oconomowoc,56,2025-05-21,2025-07-21,CL,2026-08-30T21:43:41.512264Z
-6c23083ec726121d,WI,Truvant North America,Prairie du Chien,74,2025-05-15,2025-07-15,CL,2026-08-30T21:43:41.512264Z
-5961bbd02a22fe00,WI,"Accelerate360 Distribution, LLC (Dakota Merchandising Remote Work Unit)",Statewide-Remote Employees,50,2025-04-25,2025-06-28,CL,2026-08-30T21:43:41.512264Z
-468ade01427ced6c,WI,Air Wisconsin Airlines LLC,Milwaukee,11,2025-04-10,2025-06-01,WR,2026-08-30T21:43:41.512264Z
-fc9ae92c365fa566,WI,Air Wisconsin Airlines LLC,Appleton,117,2025-04-10,2025-06-01,WR,2026-08-30T21:43:41.512264Z
-7883a12b57fb517f,WI,ProTec Dynatronix,Amery,53,2025-04-08,2025-04-28,CL,2026-08-30T21:43:41.512264Z
-c7852d2d09a32663,WI,Midwest Perishables Inc.,Madison,50,2025-04-06,2025-04-02,CL,2026-08-30T21:43:41.512264Z
-4246a991e4ab4017,WI,UPS,Holmen,42,2025-04-04,2025-06-10,CL,2026-08-30T21:43:41.512264Z
-567a99ffedec3e0d,WI,Northland College,Ashland,112,2025-04-01,2025-05-31,CL,2026-08-30T21:43:41.512264Z
-0b5ef8486b4782c5,WI,"Concordia University, Inc.",Mequon,5,2025-03-31,2025-05-31,WR,2026-08-30T21:43:41.512264Z
-068ac3b9acb0d859,WI,Oxbo International Corporation,Clear Lake,68,2025-03-27,2025-06-06,CL,2026-08-30T21:43:41.512264Z
-8681573a59e2d2b7,WI,BH Security LLC,Milwaukee,1,2025-03-17,2025-06-30,WR,2026-08-30T21:43:41.512264Z
-70ed36a866b12de7,WI,Northlake Engineering,Bristol,36,2025-02-27,2025-05-30,CL,2026-08-30T21:43:41.512264Z
-060f6adff54bc543,WI,U-Line Corporation,Milwaukee,71,2025-02-17,2025-07-31,CL,2026-08-30T21:43:41.512264Z
-64f43e042a7fbd97,WI,"Badger Truck and Automotive Group, Inc.",Milwaukee,40,2025-02-03,2025-04-04,CL,2026-08-30T21:43:41.512264Z
-04ec3cc27ac96dae,WI,"Air Wisconsin Airlines LLC<br/></a><a><em style=""font-size:80%; text-decoration:none !important; color:#000"">* The company provided a separate communication with the breakdown of the number affected at each site.</em>",Milwaukee,219,2025-01-30,2025-03-31,WR,2026-08-30T21:43:41.512264Z
-0a0680b26fb4e1ed,WI,"Air Wisconsin Airlines LLC<br/></a><a><em style=""font-size:80%; text-decoration:none !important; color:#000"">* The company provided a separate communication with the breakdown of the number affected at each site.</em>",Appleton,284,2025-01-30,2025-03-31,WR,2026-08-30T21:43:41.512264Z
-dbc1a66278be3136,WI,SpartanNash,Chippewa Falls,45,2025-01-15,2025-03-16,CL,2026-08-30T21:43:41.512264Z
-5c0ac406a01ef762,WI,ORBIS Corporation,Menasha,109,2025-01-15,2025-03-16,CL,2026-08-30T21:43:41.512264Z
-f46d96b8e24dc9f0,WI,"Genpact RW Services, Inc",Statewide-Remote Employees,54,2025-01-09,2025-03-10,WR,2026-08-30T21:43:41.512264Z
-3a039d051f874844,WI,Guy & O'Neill Inc,Fredonia,196,2024-12-30,2025-01-31,CL,2026-08-30T21:43:41.512264Z
-83768236d76f5ef3,WI,"Allied Plastics, LLC",Twin Lakes,132,2024-12-12,2024-12-21,WR,2026-08-30T21:43:41.512264Z
-376dced68975bb0a,WI,"Barko Hydraulics, LLC",Superior,57,2024-11-18,2024-12-01,CL,2026-08-30T21:43:41.512264Z
-8f123c4b6e0a6c1f,WI,Advance Stores Co Inc,Milwaukee,51,2024-11-15,2025-01-27,CL,2026-08-30T21:43:41.512264Z
-9ee6758a20591de9,WI,Wisconsin Physicians Service Insurance Corporation (WPS),Madison,313,2024-11-14,2025-01-21,WR,2026-08-30T21:43:41.512264Z
-e36f3c7e87b20bc0,WI,"Hultafors Group North America, LLC",Mequon,45,2024-11-11,2025-03-28,CL,2026-08-30T21:43:41.512264Z
-464233180394261d,WI,Molson Coors Beverage Company USA,Milwaukee,34,2024-11-06,2025-01-17,CL,2026-08-30T21:43:41.512264Z
-6a9466db24badb9c,WI,Molson Coors Beverage Company USA,Chippewa,56,2024-11-06,2025-01-17,CL,2026-08-30T21:43:41.512264Z
-5a103226b326197b,WI,Packers Sanitation Services Inc Ltd,Kieler,83,2024-11-01,2024-12-31,CL,2026-08-30T21:43:41.512264Z
-4d51f998353c08ec,WI,National Regency of New Berlin Inc.,"New Berlin, Muskego, Brookfield",279,2024-10-31,2024-12-31,CL,2026-08-30T21:43:41.512264Z
-e91a6e9d568275e6,WI,J BAUER TRUCKING,Medford,64,2024-10-30,2024-12-31,CL,2026-08-30T21:43:41.512264Z
-8a49f4fb23593b40,WI,ALCOM LLC,Hartford,113,2024-10-21,2025-01-12,CL,2026-08-30T21:43:41.512264Z
-584b98af975cb233,WI,Democratic Party of Wisconsin,"Madison, Milwaukee",249,2024-10-16,2024-11-15,WR,2026-08-30T21:43:41.512264Z
-ee627d0d4cbb37fb,WI,Solina USA,Oak Creek,88,2024-10-09,2024-12-20,CL,2026-08-30T21:43:41.512264Z
-5afb817db0256188,WI,"Cygnus Home Service, LLC",Fennimore,6,2024-09-23,2024-11-22,CL,2026-08-30T21:43:41.512264Z
-46952d4aee988b99,WI,"Cygnus Home Service, LLC",Fond du Lac,5,2024-09-23,2024-11-22,CL,2026-08-30T21:43:41.512264Z
-2dec4e8b3b39eca3,WI,"Cygnus Home Service, LLC",Franklin,13,2024-09-23,2024-11-22,CL,2026-08-30T21:43:41.512264Z
-d522f06bccb375af,WI,"Cygnus Home Service, LLC",Green Bay,11,2024-09-23,2024-11-22,CL,2026-08-30T21:43:41.512264Z
-cc3765496ac4f49e,WI,"Cygnus Home Service, LLC",River Falls,8,2024-09-23,2024-11-22,CL,2026-08-30T21:43:41.512264Z
-4d234a3c7e205867,WI,"Mayville Engineering Company, Inc.",Wautoma,43,2024-09-19,2024-11-16,CL,2026-08-30T21:43:41.512264Z
-b83b160d60d7834c,WI,"Equiniti Trust Company, LLC",Milwaukee,8,2024-09-17,2024-12-16,WR,2026-08-30T21:43:41.512264Z
-2fc9a616fe3d73c1,WI,Connexus Credit Union,Wausau,16,2024-09-12,2024-11-11,WR,2026-08-30T21:43:41.512264Z
-e0afae00e9b37fe6,WI,CNH Industrial America LLC,St. Nazianz,52,2024-09-10,2024-11-14,WR,2026-08-30T21:43:41.512264Z
-b6642aa9965d6231,WI,Lost Boys Interactive LLC,Madison,23,2024-09-09,2024-09-09,WR,2026-08-30T21:43:41.512264Z
-d616887986c24827,WI,DHL Distribution,Sturtevant,32,2024-08-30,2025-02-28,CL,2026-08-30T21:43:41.512264Z
-fb08602eea3b0f38,WI,Charter Communications LLC,Madison,36,2024-08-28,2024-10-28,WR,2026-08-30T21:43:41.512264Z
-ad95e449ccd80717,WI,EYM Chicken of Wisconsin dba KFC,Janesville & Beloit,34,2024-08-22,2024-08-18,CL,2026-08-30T21:43:41.512264Z
-e87a8d5067b07e53,WI,EYM Chicken of Wisconsin dba KFC,Stoughton,12,2024-08-22,2024-08-18,CL,2026-08-30T21:43:41.512264Z
-ad4ab0180db193ba,WI,EYM Chicken of Wisconsin dba KFC,Reedsburg,19,2024-08-22,2024-08-18,CL,2026-08-30T21:43:41.512264Z
-3e1d1fcd121a2f9d,WI,EYM Chicken of Wisconsin dba KFC,Watertown,16,2024-08-22,2024-08-18,CL,2026-08-30T21:43:41.512264Z
-fcad4ef2ffe91b4b,WI,Festival Foods,Greenfield,91,2024-08-13,2024-11-04,CL,2026-08-30T21:43:41.512264Z
-6b2dc786d29cc043,WI,Wisconsin Veneer and Plywood,Mattoon,42,2024-08-01,2024-08-02,CL,2026-08-30T21:43:41.512264Z
-9f277d2532d734af,WI,Birchwood Manufacturing,Rice Lake,46,2024-08-01,2024-08-02,CL,2026-08-30T21:43:41.512264Z
-7455d2347d73c6a0,WI,Goodman Veneer & Lumber Company,Goodman,48,2024-08-01,2024-08-02,CL,2026-08-30T21:43:41.512264Z
-193b032520f6490e,WI,"Bradshaw Medical, Inc., dba Intech",Kenosha,37,2024-07-29,2024-09-26,WR,2026-08-30T21:43:41.512264Z
-b9c7d585b4515590,WI,"Cygnus Home Service, LLC",Fennimore,1,2024-07-16,2024-09-14,WR,2026-08-30T21:43:41.512264Z
-415061a8f007d54f,WI,Equintiti Trust Company,Milwaukee,5,2024-07-12,2024-09-30,CL,2026-08-30T21:43:41.512264Z
-679b4062dcd3d38b,WI,Charter Communications LLC,Fond du Lac,122,2024-06-28,2024-08-27,WR,2026-08-30T21:43:41.512264Z
-4e0afeb883feb7be,WI,Baxter Healthcare Corp,Milwaukee,32,2024-06-28,2024-08-30,CL,2026-08-30T21:43:41.512264Z
-d9064f5170cbf273,WI,Sun Nuclear Corporation,Middleton,39,2024-06-25,2024-08-30,CL,2026-08-30T21:43:41.512264Z
-87a6f824f931b7ee,WI,Strauss Brands & Logistics,Franklin,70,2024-06-04,2024-08-05,CL,2026-08-30T21:43:41.512264Z
-fd02ccb145cc84ec,WI,Goodwill Manufacturing Inc,Milwaukee,136,2024-06-04,2024-08-03,CL,2026-08-30T21:43:41.512264Z
-3167d096575ac04b,WI,Bon Appetit Management Company,Appleton,62,2024-06-03,2024-06-17,CL,2026-08-30T21:43:41.512264Z
-cfcf9027f8aabc5a,WI,"Cygnus Home Service, LLC","Eau Claire, Marshfield, Rice Lake, Wausau",32,2024-05-28,2024-07-27,WR,2026-08-30T21:43:41.512264Z
-2f2367e3afe81523,WI,Ward Manufacturing,Milwaukee,62,2024-05-23,2024-08-01,CL,2026-08-30T21:43:41.512264Z
-8109ca46293a4184,WI,BRP US Inc.,Sturtevant,298,2024-05-23,2024-03-21,WR,2026-08-30T21:43:41.512264Z
-1c4c07984626ca8d,WI,"Sodexo, Inc and Affiliates",West Allis,51,2024-05-21,2024-06-30,CL,2026-08-30T21:43:41.512264Z
-dffd03bed715eb70,WI,Charter Communications LLC,Madison,50,2024-05-09,2024-07-08,WR,2026-08-30T21:43:41.512264Z
-08a2619b7877357a,WI,Mauser Packaging Solutions,Sturtevant,42,2024-05-09,2024-07-27,CL,2026-08-30T21:43:41.512264Z
-575b86af6ffbcd02,WI,Kalmbach Media Co.,Waukesha,67,2024-05-03,2024-07-01,WR,2026-08-30T21:43:41.512264Z
-a07e4ee91b78ac28,WI,Pace Industries LLC,Grafton,90,2024-05-03,2024-06-15,WR,2026-08-30T21:43:41.512264Z
-a5086bef332a2204,WI,"Radial, Inc.",N/A,63,2024-05-01,2024-06-28,WR,2026-08-30T21:43:41.512264Z
-1a237282f2fa80f1,WI,Jennie-O Turkey Store Inc.,Barron,38,2024-04-24,2024-06-28,CL,2026-08-30T21:43:41.512264Z
-2a5f536c07b9216c,WI,Messmer Catholic Schools,Milwaukee,73,2024-04-24,2024-06-30,CL,2026-08-30T21:43:41.512264Z
-8d706880b889506b,WI,"Staff Management Solutions, LLC",Sheboygan Falls,87,2024-04-22,2024-05-03,WR,2026-08-30T21:43:41.512264Z
-1c994c28bb5b3877,WI,JELD-WEN Inc.,Hawkins,338,2024-04-22,2024-06-10,CL,2026-08-30T21:43:41.512264Z
-654fe75d02311875,WI,Walmart,Milwaukee,105,2024-04-19,2024-07-26,CL,2026-08-30T21:43:41.512264Z
-74425385b703427c,WI,Sientra Inc.,Franklin,128,2024-04-19,2024-06-18,CL,2026-08-30T21:43:41.512264Z
-e70ffebaa97a2d25,WI,"Conagra Brands, Inc.",Beaver Dam,252,2024-04-08,2024-06-10,CL,2026-08-30T21:43:41.512264Z
-bba35860b6cfcd8c,WI,Cadrex Manufacturing Solutions,"Dresser, Osceola",30,2024-04-08,2024-04-11,WR,2026-08-30T21:43:41.512264Z
-5da90cc4d05bb796,WI,"Poblocki Sign Company, LLC",West Allis,91,2024-04-08,2024-06-07,CL,2026-08-30T21:43:41.512264Z
-57ae011f1250e443,WI,"Concordia University, Inc.",Mequon,24,2024-04-01,2024-05-31,WR,2026-08-30T21:43:41.512264Z
-a34730844925f6b3,WI,Volta Charging Industries,San Francisco,1,2024-04-01,2024-05-31,CL,2026-08-30T21:43:41.512264Z
-a12573175b69f20e,WI,"Interflight Parking, LLC",Milwaukee,53,2024-03-26,2024-05-31,CL,2026-08-30T21:43:41.512264Z
-46092466e4120501,WI,"Zoomlion Heavy Industry NA, Inc.",Yorkville,31,2024-03-20,2024-03-20,WR,2026-08-30T21:43:41.512264Z
-3cc0db5ed80df8fc,WI,Social Development Commission,"Milwaukee, West Allis",28,2024-03-20,2024-03-21,WR,2026-08-30T21:43:41.512264Z
-4bfa26ba38939c7b,WI,Continence & Pelvic Wellness Clinic,Mequon,1,2024-03-13,2024-03-31,CL,2026-08-30T21:43:41.512264Z
-154005448b402314,WI,DWF Wholesale Florists of Milwaukee,Milwaukee,8,2024-02-27,2024-03-08,CL,2026-08-30T21:43:41.512264Z
-898c472214c1dbae,WI,Lakeside Book Company,Menasha,339,2024-02-27,2024-06-07,CL,2026-08-30T21:43:41.512264Z
-543ba1fdaf2ff340,WI,Sierra Electrotek LLC,Oak Creek,37,2024-02-27,2024-03-08,CL,2026-08-30T21:43:41.512264Z
-42e942c4fc76bff6,WI,"Del Monte Foods, Inc.",Markesan,90,2024-02-26,2024-04-26,CL,2026-08-30T21:43:41.512264Z
-2bc9e4a59487decd,WI,"ABS Global, GENUS INTELLIGEN TECHNOLOGIES (Windsor)","Windsor, Waunakee, Deforest",8,2024-02-19,2024-04-19,WR,2026-08-30T21:43:41.512264Z
-2e4b3dfd8d517be8,WI,ABS Global,Poynette,36,2024-02-19,2024-04-19,WR,2026-08-30T21:43:41.512264Z
-9f72ed2fa2d784b7,WI,ODW Logistics,Waukesha,107,2024-02-14,2024-04-14,CL,2026-08-30T21:43:41.512264Z
-75b0a3cdd6ba32cf,WI,Saputo Cheese USA Inc,Lancaster,98,2024-02-13,2024-03-29,CL,2026-08-30T21:43:41.512264Z
-2a1de15ccdf29975,WI,Sheridan Wisconsin,Madison,116,2024-02-12,2024-04-13,CL,2026-08-30T21:43:41.512264Z
-1a874709a74a92f2,WI,H & S MFG CO Inc,Clintonville,42,2024-02-08,2024-04-04,CL,2026-08-30T21:43:41.512264Z
-aee5fd823716529a,WI,Hutchinson Technology Incorporated,Eau Claire,90,2024-02-05,2024-04-05,WR,2026-08-30T21:43:41.512264Z
-160033a4e0f4b4dc,WI,Rehabilitation Hospital of Western Wisconsin,Eau Claire,117,2024-02-02,2024-04-02,CL,2026-08-30T21:43:41.512264Z
-7fbfafd8e84cc44e,WI,"Block, Inc.",Grafton,1,2024-01-30,2024-03-30,WR,2026-08-30T21:43:41.512264Z
-2a315daf925d1894,WI,Charter Communications,Milwaukee,173,2024-01-29,2024-03-28,WR,2026-08-30T21:43:41.512264Z
-ed905cc4b9c484bb,WI,HSHS St. Joseph's Hospital Chippewa Falls,Chippewa Falls,244,2024-01-23,2024-03-22,CL,2026-08-30T21:43:41.512264Z
-bbb32f95d1cb3508,WI,HSHS St. Joseph's Hospital Chippewa Falls,Ladysmith,1,2024-01-23,2024-03-22,CL,2026-08-30T21:43:41.512264Z
-b5fa46ece23c4b6b,WI,HSHS St. Joseph's Hospital Chippewa Falls,Rice Lake,2,2024-01-23,2024-03-22,CL,2026-08-30T21:43:41.512264Z
-346cffb8490630e9,WI,Hospital Sisters Health System Sacred Heart Hospital of Eau Claire (SHEC),"Altoona, Eau Claire",821,2024-01-23,2024-03-22,CL,2026-08-30T21:43:41.512264Z
-0d801a229807dd8f,WI,Hospital Sisters Health System Sacred Heart Hospital of Eau Claire (SHEC),Mondovi,1,2024-01-23,2024-03-22,CL,2026-08-30T21:43:41.512264Z
-f038d5fb32cf322a,WI,Prevea Clinic Inc,"Altoona, Eau Claire, Augusta",140,2024-01-22,2024-03-22,"CL, WR",2026-08-30T21:43:41.512264Z
-864c7f658a7ed307,WI,Prevea Clinic Inc,Phillips,2,2024-01-22,2024-03-22,WR,2026-08-30T21:43:41.512264Z
-75771c7f6fb3becb,WI,Prevea Clinic Inc,"Chippewa Falls, Cornell",103,2024-01-22,2024-03-22,CL,2026-08-30T21:43:41.512264Z
-c404446baf1a1bbf,WI,Prevea Clinic Inc,Menomonie,27,2024-01-22,2024-03-22,"CL, WR",2026-08-30T21:43:41.512264Z
-d52288bd97e5cf2d,WI,Prevea Clinic Inc,Ladysmith,16,2024-01-22,2024-03-22,CL,2026-08-30T21:43:41.512264Z
-a503918bce772d4b,WI,Prevea Clinic Inc,Rice Lake,30,2024-01-22,2024-03-22,CL,2026-08-30T21:43:41.512264Z
-06d123589ec207c5,WI,Prevea Clinic Inc,Mondovi,5,2024-01-22,2024-03-22,CL,2026-08-30T21:43:41.512264Z
-3cf0be2285eda758,WI,Credit Union National Association (DBA America's Credit Union) (CORRECTED),Madison,38,2024-01-13,2024-03-15,WR,2026-08-30T21:43:41.512264Z
-3181215b0cba8122,WI,Lost Boys Interactive LLC,Madison,12,2024-01-12,2024-03-15,WR,2026-08-30T21:43:41.512264Z
-878ac3705e7ff9e0,WI,STRATATECH CORP,Madison,35,2024-01-09,2024-01-09,WR,2026-08-30T21:43:41.512264Z
-5f97b7b93ce074e7,WI,Energizer Holdings Inc.,Portage,135,2024-01-05,2024-03-05,CL,2026-08-30T21:43:41.512264Z
+id,state,company,company_canonical,company_dba,location,employees_affected,notice_date,effective_date,notice_type,first_seen
+c363d475d12dd7dc,WI,Foremost Farms USA,Foremost Farms,,Marshfield,68,2026-08-24,2026-12-15,CL,2026-08-30T21:43:41.512264Z
+212a611aaa9b3621,WI,"Durr CTS, Inc.<br/></a><a><em style=""font-size:80%; text-decoration:none !important; color:#000"">* The company provided a separate communication clarifying that the number impacted is 75.</em>","Durr CTS, Inc.<br/></a><a><em style=""font-size:80%; text-decoration:none !important; color:#000"">* The company provided a separate communication clarifying that the number impacted is 75.</em>",,De Pere,75,2026-08-12,2026-10-13,CL,2026-08-30T21:43:41.512264Z
+983bd1a3888bd3b3,WI,Samuel Pressure Vessel Group,Samuel Pressure Vessel Group,,Tomahawk,76,2026-08-05,2026-08-04,CL,2026-08-30T21:43:41.512264Z
+6eb231e7c79a6574,WI,UnityPoint Health,UnityPoint Health,,Madison,1,2026-08-04,2027-02-28,WR,2026-08-30T21:43:41.512264Z
+f9adc4f5704d3927,WI,UnityPoint Health,UnityPoint Health,,Unknown - Remote Employees,17,2026-08-04,2027-02-28,WR,2026-08-30T21:43:41.512264Z
+1a9d69f4e095225f,WI,"School Specialty, LLC",School Specialty,,Fort Atkinson,59,2026-07-28,2026-09-25,CL,2026-08-30T21:43:41.512264Z
+831a05722226ddea,WI,"Wisconsin Green, LLC<br/></a><a><em style=""font-size:80%; text-decoration:none !important; color:#000"">* Notice outlines multiple scenarios for layoffs. Information displayed reflects the worst-case scenario.</em>","Wisconsin Green, LLC<br/></a><a><em style=""font-size:80%; text-decoration:none !important; color:#000"">* Notice outlines multiple scenarios for layoffs. Information displayed reflects the worst-case scenario.</em>",,Washington,59,2026-07-21,2026-07-22,CL,2026-08-30T21:43:41.512264Z
+1f8200c6d5f4b884,WI,"Prairie Farms Dairy, Inc. Shullsburg Creamery","Prairie Farms Dairy, Inc. Shullsburg Creamery",,Shullsburg,43,2026-07-20,2026-07-20,CL,2026-08-30T21:43:41.512264Z
+3a508fbbde31073c,WI,"Prairie Farms Dairy, Inc. White Hill Cheese","Prairie Farms Dairy, Inc. White Hill Cheese",,Shullsburg,54,2026-07-20,2026-08-14,CL,2026-08-30T21:43:41.512264Z
+ef9cc87969bfd8da,WI,Centers for Independence-MCFI Home Care,Centers for Independence-MCFI Home Care,,Milwaukee,43,2026-07-14,2026-10-31,CL,2026-08-30T21:43:41.512264Z
+dd3af8f90e764bd5,WI,PPD d/b/a Thermo Fisher Scientific,PPD,Thermo Fisher Scientific,Middleton,69,2026-07-08,2026-09-28,WR,2026-08-30T21:43:41.512264Z
+d843abafa317bfb3,WI,GW Mireles Inc.,GW Mireles,,Milwaukee,26,2026-07-01,2026-09-01,CL,2026-08-30T21:43:41.512264Z
+353f72105f37ec6f,WI,"Conduent Commercial Solutions, LLC",Conduent Commercial Solutions,,Unknown - Remote Employees,6,2026-06-29,2026-08-28,WR,2026-08-30T21:43:41.512264Z
+ba11f9ded06f9485,WI,"Sparhawk Trucking Inc. / Sparhawk Truck and Trailer Inc.<br/></a><a><em style=""font-size:80%; text-decoration:none !important; color:#000"">* Received from the Ch 11 Trustee but notice is addressed to employees. DWD emailed Trustee requesting more details.</em>","Sparhawk Trucking Inc. / Sparhawk Truck and Trailer Inc.<br/></a><a><em style=""font-size:80%; text-decoration:none !important; color:#000"">* Received from the Ch 11 Trustee but notice is addressed to employees. DWD emailed Trustee requesting more details.</em>",,Wisconsin Rapids,,2026-05-29,,Unknown,2026-08-30T21:43:41.512264Z
+c086cc597a727c55,WI,"Parkhurst Dining, LLC<br/></a><a><em style=""font-size:80%; text-decoration:none !important; color:#000"">* Layoff Begin Date: 05/21/26 (temporary layoff through 05/28/26); 07/03/26 (permanent layoff)</em>","Parkhurst Dining, LLC<br/></a><a><em style=""font-size:80%; text-decoration:none !important; color:#000"">* Layoff Begin Date: 05/21/26 (temporary layoff through 05/28/26); 07/03/26 (permanent layoff)</em>",,Kenosha,160,2026-05-15,2026-07-03,CL,2026-08-30T21:43:41.512264Z
+c75d2f67c5ffebb6,WI,Cree Lighting,Cree Lighting,,Racine,28,2026-05-14,2026-05-15,WR,2026-08-30T21:43:41.512264Z
+c4eb0a62cd1a9774,WI,"Cell.Plus, LLC",Cell.Plus,,Chilton,4,2026-05-05,2026-07-31,CL,2026-08-30T21:43:41.512264Z
+7c3f9145be9462be,WI,"Cell.Plus, LLC",Cell.Plus,,"Suamico, Two Rivers, Seymour, Shawano, Wautoma",12,2026-05-05,2026-07-31,CL,2026-08-30T21:43:41.512264Z
+f0145321cfe4e4fd,WI,"Cell.Plus, LLC",Cell.Plus,,"Black River Falls, Mauston, La Crosse, Holmen, Sparta, Viroqua",21,2026-05-05,2026-07-31,CL,2026-08-30T21:43:41.512264Z
+76e690077962374e,WI,"Cell.Plus, LLC",Cell.Plus,,"Baraboo, Wisconsin Dells, Spring Green, Reedsburg",22,2026-05-05,2026-07-31,CL,2026-08-30T21:43:41.512264Z
+308563334d700dd3,WI,"Cell.Plus, LLC",Cell.Plus,,Richland Center,3,2026-05-05,2026-07-31,CL,2026-08-30T21:43:41.512264Z
+8a662221ee5e5e03,WI,Henkel US Operations Corporation,Henkel US Operations,,Oak Creek,57,2026-05-01,2026-06-20,CL,2026-08-30T21:43:41.512264Z
+f3ea8000d0713857,WI,"Ryder Integrated Logistics, Inc.",Ryder Integrated Logistics,,Green Bay,151,2026-04-30,2026-06-30,CL,2026-08-30T21:43:41.512264Z
+b36f565e3c47f800,WI,"MTI Electronics, LLC",MTI Electronics,,Menomonee Falls,91,2026-04-29,2026-06-28,CL,2026-08-30T21:43:41.512264Z
+19ab06da56abb8ab,WI,Green Bay Converting Inc,Green Bay Converting,,Green Bay,32,2026-04-22,2026-04-25,WR,2026-08-30T21:43:41.512264Z
+caaef5d02404e86e,WI,Polaris Inc.,Polaris,,Osceola,189,2026-04-21,2026-07-27,CL,2026-08-30T21:43:41.512264Z
+a47e4458f2d639e9,WI,UnityPoint Health,UnityPoint Health,,Madison,25,2026-04-20,2026-07-24,WR,2026-08-30T21:43:41.512264Z
+6078e74dcaa40a93,WI,"Lakeshore Community Health Care, Inc.",Lakeshore Community Health Care,,"Manitowoc, Sheboygan, West Bend",178,2026-04-08,2026-03-31,CL,2026-08-30T21:43:41.512264Z
+cfa9c3e19e16839e,WI,Regal Rexnord Corporation,Regal Rexnord,,Cudahy,70,2026-04-01,2026-06-30,CL,2026-08-30T21:43:41.512264Z
+61ff8f0ad910f86d,WI,Wells Vehicle Electronics,Wells Vehicle Electronics,,Fond Du Lac,100,2026-03-30,2026-06-02,CL,2026-08-30T21:43:41.512264Z
+85e669f0c4d181c0,WI,"Daybreak Foods, Inc.<br/></a><a><em style=""font-size:80%; text-decoration:none !important; color:#000"">* The company provided a separate communication with the breakdown of the number affected at each site.</em>","Daybreak Foods, Inc.<br/></a><a><em style=""font-size:80%; text-decoration:none !important; color:#000"">* The company provided a separate communication with the breakdown of the number affected at each site.</em>",,Palmyra,55,2026-03-27,2026-04-01,WR,2026-08-30T21:43:41.512264Z
+af13773a5f0ab9e1,WI,"Daybreak Foods, Inc.<br/></a><a><em style=""font-size:80%; text-decoration:none !important; color:#000"">* The company provided a separate communication with the breakdown of the number affected at each site.</em>","Daybreak Foods, Inc.<br/></a><a><em style=""font-size:80%; text-decoration:none !important; color:#000"">* The company provided a separate communication with the breakdown of the number affected at each site.</em>",,Whitewater,32,2026-03-27,2026-04-01,WR,2026-08-30T21:43:41.512264Z
+e6962190f3b12309,WI,"Charter Communications, Inc.",Charter Communications,,Appleton,313,2026-03-18,2026-06-21,CL,2026-08-30T21:43:41.512264Z
+93bbeb24a9257760,WI,"United Natural Foods, Inc.",United Natural Foods,,Sturtevant,443,2026-03-16,2026-06-20,CL,2026-08-30T21:43:41.512264Z
+567cf9af0746621a,WI,Cree Lighting,Cree Lighting,,Racine,172,2026-03-12,2026-03-12,WR,2026-08-30T21:43:41.512264Z
+1ee0330dacd74e60,WI,Midwest Energy Resources Co.,Midwest Energy Resources,,Superior,54,2026-03-03,2026-06-30,CL,2026-08-30T21:43:41.512264Z
+60f6a39e79a6ae04,WI,Ahlstrom Mosinee LLC,Ahlstrom Mosinee,,Mosinee,,2026-02-27,2026-06-30,WR,2026-08-30T21:43:41.512264Z
+309b3a430b208e39,WI,"TJ Hale<br/></a><a><em style=""font-size:80%; text-decoration:none !important; color:#000"">* The company attempted to submit a layoff notice to DWD on 02/05/26 but used an invalid email address. It sent another one on 02/25/26.</em>","TJ Hale<br/></a><a><em style=""font-size:80%; text-decoration:none !important; color:#000"">* The company attempted to submit a layoff notice to DWD on 02/05/26 but used an invalid email address. It sent another one on 02/25/26.</em>",,Menomonee Falls,64,2026-02-25,2026-02-05,CL,2026-08-30T21:43:41.512264Z
+73466ab457d51f95,WI,"Main Street Sports Group, LLC",Main Street Sports Group,,Brookfield,2,2026-02-13,2026-04-14,CL,2026-08-30T21:43:41.512264Z
+7c950f10b78e3456,WI,SpartanNash,SpartanNash,,Chippewa Falls,57,2026-02-10,2026-04-11,CL,2026-08-30T21:43:41.512264Z
+417109617fa91497,WI,Cargill Meat Solutions Corp,Cargill Meat Solutions,,Milwaukee,221,2026-02-10,2026-04-11,CL,2026-08-30T21:43:41.512264Z
+9499373093cd201d,WI,Artisans Inc.,Artisans,,Glen Flora,46,2026-02-04,2026-03-31,CL,2026-08-30T21:43:41.512264Z
+c8ffe0d16ed31bb4,WI,Associated Milk Producers Inc.,Associated Milk Producers,,Blair,86,2026-01-30,2026-03-31,WR,2026-08-30T21:43:41.512264Z
+5a103b2b1222f33f,WI,Fresenius USA MFG INC,Fresenius USA MFG,,Kenosha,41,2026-01-28,2026-04-10,WR,2026-08-30T21:43:41.512264Z
+dc5766c6bb89317b,WI,"Bank First, N.A.",Bank First,,Beloit,47,2026-01-27,2026-03-31,CL,2026-08-30T21:43:41.512264Z
+b847c412755a5f5e,WI,Tekni-Plex,Tekni-Plex,,Milwaukee,39,2026-01-26,2026-03-27,CL,2026-08-30T21:43:41.512264Z
+dbc0c768bf22875d,WI,"H4 Logistics, LLC",H4 Logistics,,Kenosha,41,2026-01-21,2026-03-23,CL,2026-08-30T21:43:41.512264Z
+17d170bcf6f451ac,WI,"United Piston Ring, Inc.",United Piston Ring,,Manitowoc,60,2026-01-05,2026-03-06,CL,2026-08-30T21:43:41.512264Z
+7104a9a75e19736e,WI,"Lakeside Curative Services, Inc.",Lakeside Curative Services,,Racine,52,2026-01-05,2026-03-06,WR,2026-08-30T21:43:41.512264Z
+d3e0bbdb0941a39d,WI,Prince Corporation,Prince,,Marshfield,80,2025-12-19,2026-02-19,CL,2026-08-30T21:43:41.512264Z
+96038a19b253300c,WI,Nordstrom,Nordstrom,,N/A,1,2025-11-19,2026-03-01,WR,2026-08-30T21:43:41.512264Z
+ce7999b09ee5f10d,WI,"Kroger Fulfillment Network, LLC",Kroger Fulfillment Network,,Pleasant Prairie,211,2025-11-18,2026-02-01,CL,2026-08-30T21:43:41.512264Z
+937303f4a6949212,WI,Superior YMCA,Superior YMCA,,Superior,112,2025-11-13,2025-12-31,WR,2026-08-30T21:43:41.512264Z
+fce4770924df688d,WI,"PrimeFlight Aviation Services, Inc.",PrimeFlight Aviation Services,,Milwaukee,27,2025-11-09,2026-01-09,CL,2026-08-30T21:43:41.512264Z
+7d0ab50dbb231d88,WI,"Daybreak Foods, Inc. (Cold Spring Farm)","Daybreak Foods, Inc. (Cold Spring Farm)",,Palmyra,65,2025-11-05,2025-11-07,WR,2026-08-30T21:43:41.512264Z
+c929d40ddb423f85,WI,"Elior, Inc.",Elior,,Oshkosh,155,2025-11-03,2026-05-17,CL,2026-08-30T21:43:41.512264Z
+ae1e33d6a7c4022c,WI,The First Step Community Recovery Center,First Step Community Recovery Center,,Milwaukee,85,2025-10-24,2025-12-31,CL,2026-08-30T21:43:41.512264Z
+d4d0409c62e426bf,WI,"Xylem, Inc.",Xylem,,Waukesha,40,2025-10-13,2025-10-13,WR,2026-08-30T21:43:41.512264Z
+720cf2721b2232f3,WI,"Wausau Equipment Company, LLC",Wausau Equipment,,New Berlin,67,2025-10-08,2025-12-07,CL,2026-08-30T21:43:41.512264Z
+7fb30a02bc02578f,WI,Action Printing (A JAL Equity Corp),Action Printing (A JAL Equity Corp),,Fond Du Lac,44,2025-09-25,2025-08-07,CL,2026-08-30T21:43:41.512264Z
+22d96ee78345faff,WI,Sheridan Random Lake,Sheridan Random Lake,,Random Lake,104,2025-09-23,2025-11-21,CL,2026-08-30T21:43:41.512264Z
+4585958785723d8f,WI,"Pregis Innovative Packaging, LLC",Pregis Innovative Packaging,,Germantown,48,2025-09-10,2026-04-30,CL,2026-08-30T21:43:41.512264Z
+325a60a0e61ed64a,WI,"Saputo Cheese USA Inc<br/></a><a><em style=""font-size:80%; text-decoration:none !important; color:#000"">* Layoff start date differs from notice; employer clarified phased layoffs will run Nov–Dec 2025, with exact dates still TBD.</em>","Saputo Cheese USA Inc<br/></a><a><em style=""font-size:80%; text-decoration:none !important; color:#000"">* Layoff start date differs from notice; employer clarified phased layoffs will run Nov–Dec 2025, with exact dates still TBD.</em>",,Suamico,240,2025-09-05,2025-11-01,CL,2026-08-30T21:43:41.512264Z
+de7bdc1db12f23dd,WI,"Air Wisconsin Airlines LLC (ATW)<br/></a><a><em style=""font-size:80%; text-decoration:none !important; color:#000"">* The company provided a separate communication with the breakdown of the number affected at each site.</em>","Air Wisconsin Airlines LLC (ATW)<br/></a><a><em style=""font-size:80%; text-decoration:none !important; color:#000"">* The company provided a separate communication with the breakdown of the number affected at each site.</em>",,Appleton,127,2025-09-05,2025-10-28,WR,2026-08-30T21:43:41.512264Z
+5c287073e37c8c3a,WI,"Air Wisconsin Airlines LLC (MKE Hangar)<br/></a><a><em style=""font-size:80%; text-decoration:none !important; color:#000"">* The company provided a separate communication with the breakdown of the number affected at each site.</em>","Air Wisconsin Airlines LLC (MKE Hangar)<br/></a><a><em style=""font-size:80%; text-decoration:none !important; color:#000"">* The company provided a separate communication with the breakdown of the number affected at each site.</em>",,Milwaukee,30,2025-09-05,2025-10-28,WR,2026-08-30T21:43:41.512264Z
+3f4fa5f413042ab5,WI,"Air Wisconsin Airlines LLC (MKE)<br/></a><a><em style=""font-size:80%; text-decoration:none !important; color:#000"">* The company provided a separate communication with the breakdown of the number affected at each site.</em>","Air Wisconsin Airlines LLC (MKE)<br/></a><a><em style=""font-size:80%; text-decoration:none !important; color:#000"">* The company provided a separate communication with the breakdown of the number affected at each site.</em>",,Milwaukee,84,2025-09-05,2025-10-28,WR,2026-08-30T21:43:41.512264Z
+eac47fbe7da16ded,WI,360x Logistics LLC,360x Logistics,,Sturtevant,59,2025-09-05,2025-10-04,CL,2026-08-30T21:43:41.512264Z
+fefccfce8879b28c,WI,ZeniMax Media Inc.,ZeniMax Media,,Madison,39,2025-08-15,2025-09-01,WR,2026-08-30T21:43:41.512264Z
+34ee75b699fba5df,WI,"Equiniti Trust Company, LLC",Equiniti Trust,,Milwaukee,4,2025-08-11,2025-11-14,WR,2026-08-30T21:43:41.512264Z
+42cd57580f63736a,WI,"Renewed Hope Home Care, LLC",Renewed Hope Home Care,,Milwaukee,50,2025-08-04,2025-11-30,CL,2026-08-30T21:43:41.512264Z
+e19e5b3dc12f769f,WI,Krueger's True Value,Krueger's True Value,,Neenah,37,2025-07-24,2025-10-14,CL,2026-08-30T21:43:41.512264Z
+5c780ec1c81d87d9,WI,TouchPoint Services (aka Compass Group),TouchPoint Services,Compass Group,Milwaukee,52,2025-07-10,2025-08-01,CL,2026-08-30T21:43:41.512264Z
+4720e7037d6433dc,WI,CHS Inc,CHS,,Superior,25,2025-07-10,2025-09-08,CL,2026-08-30T21:43:41.512264Z
+0b5924bdfe58e358,WI,StoneRidge Piggly Wiggly,StoneRidge Piggly Wiggly,,Wautoma,56,2025-07-09,2025-09-15,CL,2026-08-30T21:43:41.512264Z
+07f025006d706094,WI,"United States Cellular Corporation<br/></a><a><em style=""font-size:80%; text-decoration:none !important; color:#000"">* DWD received this layoff notice after receiving the revision.</em>","United States Cellular Corporation<br/></a><a><em style=""font-size:80%; text-decoration:none !important; color:#000"">* DWD received this layoff notice after receiving the revision.</em>",,Multiple,,2025-07-09,2025-06-02,WR,2026-08-30T21:43:41.512264Z
+29b14002e1487aa3,WI,"Wisconsin Physicians Service Insurance Corporation (""WPS"")","Wisconsin Physicians Service Insurance Corporation (""WPS"")",,Madison,51,2025-06-27,2025-09-30,WR,2026-08-30T21:43:41.512264Z
+99f4c5843b18afb4,WI,Quick Motors,Quick Motors,,Milwaukee,16,2025-06-24,2025-06-30,CL,2026-08-30T21:43:41.512264Z
+f833bbf6bd691387,WI,Nasco Education LLC,Nasco Education,,Fort Atkinson,30,2025-06-23,2025-08-22,WR,2026-08-30T21:43:41.512264Z
+2c5b55fad0d11f16,WI,Milwaukee Forge LLC,Milwaukee Forge,,Milwaukee,67,2025-06-18,2025-08-18,CL,2026-08-30T21:43:41.512264Z
+afd843599f53c235,WI,HyPro Inc.,HyPro,,Berlin,24,2025-06-17,2025-08-15,CL,2026-08-30T21:43:41.512264Z
+8985585486b023af,WI,"Discovery Energy, LLC d/b/a Rehlko",Discovery Energy,Rehlko,Saukville,66,2025-06-11,2025-08-08,CL,2026-08-30T21:43:41.512264Z
+6fafb9c5871c8499,WI,BRP US Inc.,BRP US,,Sturtevant,61,2025-06-05,2025-06-05,WR,2026-08-30T21:43:41.512264Z
+f01cd15e9dac05ec,WI,"Milwaukee Job Corps Center (Horizons Youth Services, LLC)","Milwaukee Job Corps Center (Horizons Youth Services, LLC)",,Milwaukee,104,2025-06-03,2025-06-06,WR,2026-08-30T21:43:41.512264Z
+47b44491c5bd503c,WI,"McDonald Plastic Molding, Inc.",McDonald Plastic Molding,,Poynette,28,2025-05-28,2025-06-27,CL,2026-08-30T21:43:41.512264Z
+87236ffbe3ade494,WI,Silgan Containers Manufacturing Corp,Silgan Containers Manufacturing,,Oconomowoc,56,2025-05-21,2025-07-21,CL,2026-08-30T21:43:41.512264Z
+6c23083ec726121d,WI,Truvant North America,Truvant North America,,Prairie du Chien,74,2025-05-15,2025-07-15,CL,2026-08-30T21:43:41.512264Z
+5961bbd02a22fe00,WI,"Accelerate360 Distribution, LLC (Dakota Merchandising Remote Work Unit)","Accelerate360 Distribution, LLC (Dakota Merchandising Remote Work Unit)",,Statewide-Remote Employees,50,2025-04-25,2025-06-28,CL,2026-08-30T21:43:41.512264Z
+468ade01427ced6c,WI,Air Wisconsin Airlines LLC,Air Wisconsin Airlines,,Milwaukee,11,2025-04-10,2025-06-01,WR,2026-08-30T21:43:41.512264Z
+fc9ae92c365fa566,WI,Air Wisconsin Airlines LLC,Air Wisconsin Airlines,,Appleton,117,2025-04-10,2025-06-01,WR,2026-08-30T21:43:41.512264Z
+7883a12b57fb517f,WI,ProTec Dynatronix,ProTec Dynatronix,,Amery,53,2025-04-08,2025-04-28,CL,2026-08-30T21:43:41.512264Z
+c7852d2d09a32663,WI,Midwest Perishables Inc.,Midwest Perishables,,Madison,50,2025-04-06,2025-04-02,CL,2026-08-30T21:43:41.512264Z
+4246a991e4ab4017,WI,UPS,UPS,,Holmen,42,2025-04-04,2025-06-10,CL,2026-08-30T21:43:41.512264Z
+567a99ffedec3e0d,WI,Northland College,Northland College,,Ashland,112,2025-04-01,2025-05-31,CL,2026-08-30T21:43:41.512264Z
+0b5ef8486b4782c5,WI,"Concordia University, Inc.",Concordia University,,Mequon,5,2025-03-31,2025-05-31,WR,2026-08-30T21:43:41.512264Z
+068ac3b9acb0d859,WI,Oxbo International Corporation,Oxbo International,,Clear Lake,68,2025-03-27,2025-06-06,CL,2026-08-30T21:43:41.512264Z
+8681573a59e2d2b7,WI,BH Security LLC,BH Security,,Milwaukee,1,2025-03-17,2025-06-30,WR,2026-08-30T21:43:41.512264Z
+70ed36a866b12de7,WI,Northlake Engineering,Northlake Engineering,,Bristol,36,2025-02-27,2025-05-30,CL,2026-08-30T21:43:41.512264Z
+060f6adff54bc543,WI,U-Line Corporation,U-Line,,Milwaukee,71,2025-02-17,2025-07-31,CL,2026-08-30T21:43:41.512264Z
+64f43e042a7fbd97,WI,"Badger Truck and Automotive Group, Inc.",Badger Truck and Automotive Group,,Milwaukee,40,2025-02-03,2025-04-04,CL,2026-08-30T21:43:41.512264Z
+04ec3cc27ac96dae,WI,"Air Wisconsin Airlines LLC<br/></a><a><em style=""font-size:80%; text-decoration:none !important; color:#000"">* The company provided a separate communication with the breakdown of the number affected at each site.</em>","Air Wisconsin Airlines LLC<br/></a><a><em style=""font-size:80%; text-decoration:none !important; color:#000"">* The company provided a separate communication with the breakdown of the number affected at each site.</em>",,Milwaukee,219,2025-01-30,2025-03-31,WR,2026-08-30T21:43:41.512264Z
+0a0680b26fb4e1ed,WI,"Air Wisconsin Airlines LLC<br/></a><a><em style=""font-size:80%; text-decoration:none !important; color:#000"">* The company provided a separate communication with the breakdown of the number affected at each site.</em>","Air Wisconsin Airlines LLC<br/></a><a><em style=""font-size:80%; text-decoration:none !important; color:#000"">* The company provided a separate communication with the breakdown of the number affected at each site.</em>",,Appleton,284,2025-01-30,2025-03-31,WR,2026-08-30T21:43:41.512264Z
+dbc1a66278be3136,WI,SpartanNash,SpartanNash,,Chippewa Falls,45,2025-01-15,2025-03-16,CL,2026-08-30T21:43:41.512264Z
+5c0ac406a01ef762,WI,ORBIS Corporation,Orbis,,Menasha,109,2025-01-15,2025-03-16,CL,2026-08-30T21:43:41.512264Z
+f46d96b8e24dc9f0,WI,"Genpact RW Services, Inc",Genpact RW Services,,Statewide-Remote Employees,54,2025-01-09,2025-03-10,WR,2026-08-30T21:43:41.512264Z
+3a039d051f874844,WI,Guy & O'Neill Inc,Guy & O'Neill,,Fredonia,196,2024-12-30,2025-01-31,CL,2026-08-30T21:43:41.512264Z
+83768236d76f5ef3,WI,"Allied Plastics, LLC",Allied Plastics,,Twin Lakes,132,2024-12-12,2024-12-21,WR,2026-08-30T21:43:41.512264Z
+376dced68975bb0a,WI,"Barko Hydraulics, LLC",Barko Hydraulics,,Superior,57,2024-11-18,2024-12-01,CL,2026-08-30T21:43:41.512264Z
+8f123c4b6e0a6c1f,WI,Advance Stores Co Inc,Advance Stores,,Milwaukee,51,2024-11-15,2025-01-27,CL,2026-08-30T21:43:41.512264Z
+9ee6758a20591de9,WI,Wisconsin Physicians Service Insurance Corporation (WPS),Wisconsin Physicians Service Insurance Corporation (WPS),,Madison,313,2024-11-14,2025-01-21,WR,2026-08-30T21:43:41.512264Z
+e36f3c7e87b20bc0,WI,"Hultafors Group North America, LLC",Hultafors Group North America,,Mequon,45,2024-11-11,2025-03-28,CL,2026-08-30T21:43:41.512264Z
+464233180394261d,WI,Molson Coors Beverage Company USA,Molson Coors Beverage,,Milwaukee,34,2024-11-06,2025-01-17,CL,2026-08-30T21:43:41.512264Z
+6a9466db24badb9c,WI,Molson Coors Beverage Company USA,Molson Coors Beverage,,Chippewa,56,2024-11-06,2025-01-17,CL,2026-08-30T21:43:41.512264Z
+5a103226b326197b,WI,Packers Sanitation Services Inc Ltd,Packers Sanitation Services,,Kieler,83,2024-11-01,2024-12-31,CL,2026-08-30T21:43:41.512264Z
+4d51f998353c08ec,WI,National Regency of New Berlin Inc.,National Regency of New Berlin,,"New Berlin, Muskego, Brookfield",279,2024-10-31,2024-12-31,CL,2026-08-30T21:43:41.512264Z
+e91a6e9d568275e6,WI,J BAUER TRUCKING,J Bauer Trucking,,Medford,64,2024-10-30,2024-12-31,CL,2026-08-30T21:43:41.512264Z
+8a49f4fb23593b40,WI,ALCOM LLC,Alcom,,Hartford,113,2024-10-21,2025-01-12,CL,2026-08-30T21:43:41.512264Z
+584b98af975cb233,WI,Democratic Party of Wisconsin,Democratic Party of Wisconsin,,"Madison, Milwaukee",249,2024-10-16,2024-11-15,WR,2026-08-30T21:43:41.512264Z
+ee627d0d4cbb37fb,WI,Solina USA,Solina,,Oak Creek,88,2024-10-09,2024-12-20,CL,2026-08-30T21:43:41.512264Z
+5afb817db0256188,WI,"Cygnus Home Service, LLC",Cygnus Home Service,,Fennimore,6,2024-09-23,2024-11-22,CL,2026-08-30T21:43:41.512264Z
+46952d4aee988b99,WI,"Cygnus Home Service, LLC",Cygnus Home Service,,Fond du Lac,5,2024-09-23,2024-11-22,CL,2026-08-30T21:43:41.512264Z
+2dec4e8b3b39eca3,WI,"Cygnus Home Service, LLC",Cygnus Home Service,,Franklin,13,2024-09-23,2024-11-22,CL,2026-08-30T21:43:41.512264Z
+d522f06bccb375af,WI,"Cygnus Home Service, LLC",Cygnus Home Service,,Green Bay,11,2024-09-23,2024-11-22,CL,2026-08-30T21:43:41.512264Z
+cc3765496ac4f49e,WI,"Cygnus Home Service, LLC",Cygnus Home Service,,River Falls,8,2024-09-23,2024-11-22,CL,2026-08-30T21:43:41.512264Z
+4d234a3c7e205867,WI,"Mayville Engineering Company, Inc.",Mayville Engineering,,Wautoma,43,2024-09-19,2024-11-16,CL,2026-08-30T21:43:41.512264Z
+b83b160d60d7834c,WI,"Equiniti Trust Company, LLC",Equiniti Trust,,Milwaukee,8,2024-09-17,2024-12-16,WR,2026-08-30T21:43:41.512264Z
+2fc9a616fe3d73c1,WI,Connexus Credit Union,Connexus Credit Union,,Wausau,16,2024-09-12,2024-11-11,WR,2026-08-30T21:43:41.512264Z
+e0afae00e9b37fe6,WI,CNH Industrial America LLC,CNH Industrial America,,St. Nazianz,52,2024-09-10,2024-11-14,WR,2026-08-30T21:43:41.512264Z
+b6642aa9965d6231,WI,Lost Boys Interactive LLC,Lost Boys Interactive,,Madison,23,2024-09-09,2024-09-09,WR,2026-08-30T21:43:41.512264Z
+d616887986c24827,WI,DHL Distribution,DHL Distribution,,Sturtevant,32,2024-08-30,2025-02-28,CL,2026-08-30T21:43:41.512264Z
+fb08602eea3b0f38,WI,Charter Communications LLC,Charter Communications,,Madison,36,2024-08-28,2024-10-28,WR,2026-08-30T21:43:41.512264Z
+ad95e449ccd80717,WI,EYM Chicken of Wisconsin dba KFC,EYM Chicken of Wisconsin,KFC,Janesville & Beloit,34,2024-08-22,2024-08-18,CL,2026-08-30T21:43:41.512264Z
+e87a8d5067b07e53,WI,EYM Chicken of Wisconsin dba KFC,EYM Chicken of Wisconsin,KFC,Stoughton,12,2024-08-22,2024-08-18,CL,2026-08-30T21:43:41.512264Z
+ad4ab0180db193ba,WI,EYM Chicken of Wisconsin dba KFC,EYM Chicken of Wisconsin,KFC,Reedsburg,19,2024-08-22,2024-08-18,CL,2026-08-30T21:43:41.512264Z
+3e1d1fcd121a2f9d,WI,EYM Chicken of Wisconsin dba KFC,EYM Chicken of Wisconsin,KFC,Watertown,16,2024-08-22,2024-08-18,CL,2026-08-30T21:43:41.512264Z
+fcad4ef2ffe91b4b,WI,Festival Foods,Festival Foods,,Greenfield,91,2024-08-13,2024-11-04,CL,2026-08-30T21:43:41.512264Z
+6b2dc786d29cc043,WI,Wisconsin Veneer and Plywood,Wisconsin Veneer and Plywood,,Mattoon,42,2024-08-01,2024-08-02,CL,2026-08-30T21:43:41.512264Z
+9f277d2532d734af,WI,Birchwood Manufacturing,Birchwood Manufacturing,,Rice Lake,46,2024-08-01,2024-08-02,CL,2026-08-30T21:43:41.512264Z
+7455d2347d73c6a0,WI,Goodman Veneer & Lumber Company,Goodman Veneer & Lumber,,Goodman,48,2024-08-01,2024-08-02,CL,2026-08-30T21:43:41.512264Z
+193b032520f6490e,WI,"Bradshaw Medical, Inc., dba Intech",Bradshaw Medical,Intech,Kenosha,37,2024-07-29,2024-09-26,WR,2026-08-30T21:43:41.512264Z
+b9c7d585b4515590,WI,"Cygnus Home Service, LLC",Cygnus Home Service,,Fennimore,1,2024-07-16,2024-09-14,WR,2026-08-30T21:43:41.512264Z
+415061a8f007d54f,WI,Equintiti Trust Company,Equintiti Trust,,Milwaukee,5,2024-07-12,2024-09-30,CL,2026-08-30T21:43:41.512264Z
+679b4062dcd3d38b,WI,Charter Communications LLC,Charter Communications,,Fond du Lac,122,2024-06-28,2024-08-27,WR,2026-08-30T21:43:41.512264Z
+4e0afeb883feb7be,WI,Baxter Healthcare Corp,Baxter Healthcare,,Milwaukee,32,2024-06-28,2024-08-30,CL,2026-08-30T21:43:41.512264Z
+d9064f5170cbf273,WI,Sun Nuclear Corporation,Sun Nuclear,,Middleton,39,2024-06-25,2024-08-30,CL,2026-08-30T21:43:41.512264Z
+87a6f824f931b7ee,WI,Strauss Brands & Logistics,Strauss Brands & Logistics,,Franklin,70,2024-06-04,2024-08-05,CL,2026-08-30T21:43:41.512264Z
+fd02ccb145cc84ec,WI,Goodwill Manufacturing Inc,Goodwill Manufacturing,,Milwaukee,136,2024-06-04,2024-08-03,CL,2026-08-30T21:43:41.512264Z
+3167d096575ac04b,WI,Bon Appetit Management Company,Bon Appetit Management,,Appleton,62,2024-06-03,2024-06-17,CL,2026-08-30T21:43:41.512264Z
+cfcf9027f8aabc5a,WI,"Cygnus Home Service, LLC",Cygnus Home Service,,"Eau Claire, Marshfield, Rice Lake, Wausau",32,2024-05-28,2024-07-27,WR,2026-08-30T21:43:41.512264Z
+2f2367e3afe81523,WI,Ward Manufacturing,Ward Manufacturing,,Milwaukee,62,2024-05-23,2024-08-01,CL,2026-08-30T21:43:41.512264Z
+8109ca46293a4184,WI,BRP US Inc.,BRP US,,Sturtevant,298,2024-05-23,2024-03-21,WR,2026-08-30T21:43:41.512264Z
+1c4c07984626ca8d,WI,"Sodexo, Inc and Affiliates","Sodexo, Inc and Affiliates",,West Allis,51,2024-05-21,2024-06-30,CL,2026-08-30T21:43:41.512264Z
+dffd03bed715eb70,WI,Charter Communications LLC,Charter Communications,,Madison,50,2024-05-09,2024-07-08,WR,2026-08-30T21:43:41.512264Z
+08a2619b7877357a,WI,Mauser Packaging Solutions,Mauser Packaging Solutions,,Sturtevant,42,2024-05-09,2024-07-27,CL,2026-08-30T21:43:41.512264Z
+575b86af6ffbcd02,WI,Kalmbach Media Co.,Kalmbach Media,,Waukesha,67,2024-05-03,2024-07-01,WR,2026-08-30T21:43:41.512264Z
+a07e4ee91b78ac28,WI,Pace Industries LLC,Pace Industries,,Grafton,90,2024-05-03,2024-06-15,WR,2026-08-30T21:43:41.512264Z
+a5086bef332a2204,WI,"Radial, Inc.",Radial,,N/A,63,2024-05-01,2024-06-28,WR,2026-08-30T21:43:41.512264Z
+1a237282f2fa80f1,WI,Jennie-O Turkey Store Inc.,Jennie-O Turkey Store,,Barron,38,2024-04-24,2024-06-28,CL,2026-08-30T21:43:41.512264Z
+2a5f536c07b9216c,WI,Messmer Catholic Schools,Messmer Catholic Schools,,Milwaukee,73,2024-04-24,2024-06-30,CL,2026-08-30T21:43:41.512264Z
+8d706880b889506b,WI,"Staff Management Solutions, LLC",Staff Management Solutions,,Sheboygan Falls,87,2024-04-22,2024-05-03,WR,2026-08-30T21:43:41.512264Z
+1c994c28bb5b3877,WI,JELD-WEN Inc.,Jeld-Wen,,Hawkins,338,2024-04-22,2024-06-10,CL,2026-08-30T21:43:41.512264Z
+654fe75d02311875,WI,Walmart,Walmart,,Milwaukee,105,2024-04-19,2024-07-26,CL,2026-08-30T21:43:41.512264Z
+74425385b703427c,WI,Sientra Inc.,Sientra,,Franklin,128,2024-04-19,2024-06-18,CL,2026-08-30T21:43:41.512264Z
+e70ffebaa97a2d25,WI,"Conagra Brands, Inc.",Conagra Brands,,Beaver Dam,252,2024-04-08,2024-06-10,CL,2026-08-30T21:43:41.512264Z
+bba35860b6cfcd8c,WI,Cadrex Manufacturing Solutions,Cadrex Manufacturing Solutions,,"Dresser, Osceola",30,2024-04-08,2024-04-11,WR,2026-08-30T21:43:41.512264Z
+5da90cc4d05bb796,WI,"Poblocki Sign Company, LLC",Poblocki Sign,,West Allis,91,2024-04-08,2024-06-07,CL,2026-08-30T21:43:41.512264Z
+57ae011f1250e443,WI,"Concordia University, Inc.",Concordia University,,Mequon,24,2024-04-01,2024-05-31,WR,2026-08-30T21:43:41.512264Z
+a34730844925f6b3,WI,Volta Charging Industries,Volta Charging Industries,,San Francisco,1,2024-04-01,2024-05-31,CL,2026-08-30T21:43:41.512264Z
+a12573175b69f20e,WI,"Interflight Parking, LLC",Interflight Parking,,Milwaukee,53,2024-03-26,2024-05-31,CL,2026-08-30T21:43:41.512264Z
+46092466e4120501,WI,"Zoomlion Heavy Industry NA, Inc.",Zoomlion Heavy Industry,,Yorkville,31,2024-03-20,2024-03-20,WR,2026-08-30T21:43:41.512264Z
+3cc0db5ed80df8fc,WI,Social Development Commission,Social Development Commission,,"Milwaukee, West Allis",28,2024-03-20,2024-03-21,WR,2026-08-30T21:43:41.512264Z
+4bfa26ba38939c7b,WI,Continence & Pelvic Wellness Clinic,Continence & Pelvic Wellness Clinic,,Mequon,1,2024-03-13,2024-03-31,CL,2026-08-30T21:43:41.512264Z
+154005448b402314,WI,DWF Wholesale Florists of Milwaukee,DWF Wholesale Florists of Milwaukee,,Milwaukee,8,2024-02-27,2024-03-08,CL,2026-08-30T21:43:41.512264Z
+898c472214c1dbae,WI,Lakeside Book Company,Lakeside Book,,Menasha,339,2024-02-27,2024-06-07,CL,2026-08-30T21:43:41.512264Z
+543ba1fdaf2ff340,WI,Sierra Electrotek LLC,Sierra Electrotek,,Oak Creek,37,2024-02-27,2024-03-08,CL,2026-08-30T21:43:41.512264Z
+42e942c4fc76bff6,WI,"Del Monte Foods, Inc.",Del Monte Foods,,Markesan,90,2024-02-26,2024-04-26,CL,2026-08-30T21:43:41.512264Z
+2bc9e4a59487decd,WI,"ABS Global, GENUS INTELLIGEN TECHNOLOGIES (Windsor)","ABS Global, GENUS INTELLIGEN TECHNOLOGIES (Windsor)",,"Windsor, Waunakee, Deforest",8,2024-02-19,2024-04-19,WR,2026-08-30T21:43:41.512264Z
+2e4b3dfd8d517be8,WI,ABS Global,ABS Global,,Poynette,36,2024-02-19,2024-04-19,WR,2026-08-30T21:43:41.512264Z
+9f72ed2fa2d784b7,WI,ODW Logistics,ODW Logistics,,Waukesha,107,2024-02-14,2024-04-14,CL,2026-08-30T21:43:41.512264Z
+75b0a3cdd6ba32cf,WI,Saputo Cheese USA Inc,Saputo Cheese,,Lancaster,98,2024-02-13,2024-03-29,CL,2026-08-30T21:43:41.512264Z
+2a1de15ccdf29975,WI,Sheridan Wisconsin,Sheridan Wisconsin,,Madison,116,2024-02-12,2024-04-13,CL,2026-08-30T21:43:41.512264Z
+1a874709a74a92f2,WI,H & S MFG CO Inc,H & S MFG,,Clintonville,42,2024-02-08,2024-04-04,CL,2026-08-30T21:43:41.512264Z
+aee5fd823716529a,WI,Hutchinson Technology Incorporated,Hutchinson Technology,,Eau Claire,90,2024-02-05,2024-04-05,WR,2026-08-30T21:43:41.512264Z
+160033a4e0f4b4dc,WI,Rehabilitation Hospital of Western Wisconsin,Rehabilitation Hospital of Western Wisconsin,,Eau Claire,117,2024-02-02,2024-04-02,CL,2026-08-30T21:43:41.512264Z
+7fbfafd8e84cc44e,WI,"Block, Inc.",Block,,Grafton,1,2024-01-30,2024-03-30,WR,2026-08-30T21:43:41.512264Z
+2a315daf925d1894,WI,Charter Communications,Charter Communications,,Milwaukee,173,2024-01-29,2024-03-28,WR,2026-08-30T21:43:41.512264Z
+ed905cc4b9c484bb,WI,HSHS St. Joseph's Hospital Chippewa Falls,HSHS St. Joseph's Hospital Chippewa Falls,,Chippewa Falls,244,2024-01-23,2024-03-22,CL,2026-08-30T21:43:41.512264Z
+bbb32f95d1cb3508,WI,HSHS St. Joseph's Hospital Chippewa Falls,HSHS St. Joseph's Hospital Chippewa Falls,,Ladysmith,1,2024-01-23,2024-03-22,CL,2026-08-30T21:43:41.512264Z
+b5fa46ece23c4b6b,WI,HSHS St. Joseph's Hospital Chippewa Falls,HSHS St. Joseph's Hospital Chippewa Falls,,Rice Lake,2,2024-01-23,2024-03-22,CL,2026-08-30T21:43:41.512264Z
+346cffb8490630e9,WI,Hospital Sisters Health System Sacred Heart Hospital of Eau Claire (SHEC),Hospital Sisters Health System Sacred Heart Hospital of Eau Claire (SHEC),,"Altoona, Eau Claire",821,2024-01-23,2024-03-22,CL,2026-08-30T21:43:41.512264Z
+0d801a229807dd8f,WI,Hospital Sisters Health System Sacred Heart Hospital of Eau Claire (SHEC),Hospital Sisters Health System Sacred Heart Hospital of Eau Claire (SHEC),,Mondovi,1,2024-01-23,2024-03-22,CL,2026-08-30T21:43:41.512264Z
+f038d5fb32cf322a,WI,Prevea Clinic Inc,Prevea Clinic,,"Altoona, Eau Claire, Augusta",140,2024-01-22,2024-03-22,"CL, WR",2026-08-30T21:43:41.512264Z
+864c7f658a7ed307,WI,Prevea Clinic Inc,Prevea Clinic,,Phillips,2,2024-01-22,2024-03-22,WR,2026-08-30T21:43:41.512264Z
+75771c7f6fb3becb,WI,Prevea Clinic Inc,Prevea Clinic,,"Chippewa Falls, Cornell",103,2024-01-22,2024-03-22,CL,2026-08-30T21:43:41.512264Z
+c404446baf1a1bbf,WI,Prevea Clinic Inc,Prevea Clinic,,Menomonie,27,2024-01-22,2024-03-22,"CL, WR",2026-08-30T21:43:41.512264Z
+d52288bd97e5cf2d,WI,Prevea Clinic Inc,Prevea Clinic,,Ladysmith,16,2024-01-22,2024-03-22,CL,2026-08-30T21:43:41.512264Z
+a503918bce772d4b,WI,Prevea Clinic Inc,Prevea Clinic,,Rice Lake,30,2024-01-22,2024-03-22,CL,2026-08-30T21:43:41.512264Z
+06d123589ec207c5,WI,Prevea Clinic Inc,Prevea Clinic,,Mondovi,5,2024-01-22,2024-03-22,CL,2026-08-30T21:43:41.512264Z
+3cf0be2285eda758,WI,Credit Union National Association (DBA America's Credit Union) (CORRECTED),Credit Union National Association,America's Credit Union) (CORRECTED,Madison,38,2024-01-13,2024-03-15,WR,2026-08-30T21:43:41.512264Z
+3181215b0cba8122,WI,Lost Boys Interactive LLC,Lost Boys Interactive,,Madison,12,2024-01-12,2024-03-15,WR,2026-08-30T21:43:41.512264Z
+878ac3705e7ff9e0,WI,STRATATECH CORP,Stratatech,,Madison,35,2024-01-09,2024-01-09,WR,2026-08-30T21:43:41.512264Z
+5f97b7b93ce074e7,WI,Energizer Holdings Inc.,Energizer Holdings,,Portage,135,2024-01-05,2024-03-05,CL,2026-08-30T21:43:41.512264Z

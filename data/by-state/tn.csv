@@ -1,98 +1,98 @@
-id,state,company,location,employees_affected,notice_date,effective_date,notice_type,first_seen
-61c93862980b9534,TN,Identity Group,Putnam,63,2026-08-24,2026-10-20,,2026-08-30T21:43:41.512264Z
-7a0cf1d1e64d53de,TN,Wise Company LLC,Hardin,129,2026-08-14,,,2026-08-30T21:43:41.512264Z
-00a1a1d396ae26b7,TN,Resource Label,Williamson,68,2026-08-06,2026-10-03,,2026-08-30T21:43:41.512264Z
-5e3dc270566425d5,TN,TikTok USDS JV,Davidson,250,2026-08-05,2026-10-05,,2026-08-30T21:43:41.512264Z
-478d18b911181275,TN,Wellpath,Shelby,119,2026-08-04,2026-09-30,,2026-08-30T21:43:41.512264Z
-23cd08d787fd96b4,TN,Carlex,Monroe,325,2026-07-13,2026-09-07,,2026-08-30T21:43:41.512264Z
-1d4177b6f460d5d6,TN,Regional One Extended Care Hospital,Shelby,103,2026-07-07,2026-09-01,,2026-08-30T21:43:41.512264Z
-68c049728cad2305,TN,Stanley Black & Decker,Sumner,116,2026-06-24,,,2026-08-30T21:43:41.512264Z
-697912ce54a7fd8a,TN,Hard Rock Cafe,Sevier,61,2026-06-22,2026-08-23,,2026-08-30T21:43:41.512264Z
-e9e3590730ee4505,TN,JBS USA Food Company,Shelby,208,2026-06-17,2026-08-14,,2026-08-30T21:43:41.512264Z
-a3c69714f6426ddb,TN,Smurfit Westrock,Wilson,52,2026-06-17,2026-08-14,,2026-08-30T21:43:41.512264Z
-3e0903d3688dd286,TN,YesCare Corp.,Williamson,150,2026-06-17,2026-06-22,,2026-08-30T21:43:41.512264Z
-00257d531b2b92bb,TN,Pilgrim's Pride Corporation,Hamilton,315,2026-06-16,2026-09-25,,2026-08-30T21:43:41.512264Z
-745c9bec4567cbe1,TN,"CACI, Inc.",Shelby,75,2026-06-15,2026-08-01,,2026-08-30T21:43:41.512264Z
-0fec6197fe965418,TN,WK Kellogg Co,Shelby,117,2026-06-08,2026-08-07,,2026-08-30T21:43:41.512264Z
-9b0666a951abe3db,TN,Dura-Shiloh,Dickson,69,2026-05-26,2026-07-18,,2026-08-30T21:43:41.512264Z
-637d64c5cb21a25f,TN,"Shimmick Construction Company, Inc.",Hamilton,183,2026-05-26,2026-05-12,,2026-08-30T21:43:41.512264Z
-5bb91ba397862cf8,TN,"Greenbean Ventures, LLC",Washington,121,2026-05-14,2026-07-13,,2026-08-30T21:43:41.512264Z
-2e0712cc551b7220,TN,Tsubaki Nakashima,Unicoi,110,2026-05-14,2026-07-31,,2026-08-30T21:43:41.512264Z
-0a56dea27b4ad7f3,TN,"The Brand House Collective, Inc.",Williamson,88,2026-05-05,,,2026-08-30T21:43:41.512264Z
-15aa6585d3c73ace,TN,Fayette County Public Schools,Fayette,75,2026-05-04,2026-06-30,,2026-08-30T21:43:41.512264Z
-1de81e9ec87c8de9,TN,Yanfeng International Automotive Technology US I LLC,Hamilton,153,2026-04-29,2026-06-29,,2026-08-30T21:43:41.512264Z
-fe1f982b787c9c50,TN,Adient,McMinn,210,2026-04-21,2026-06-30,,2026-08-30T21:43:41.512264Z
-c3601bee863f0dc1,TN,"T-Mobile USA, Inc.",Hamilton,200,2026-04-16,2026-06-08,,2026-08-30T21:43:41.512264Z
-b52c37eb07de67a5,TN,Pave It Forward Logistics,Rutherford,100,2026-04-15,2026-03-31,,2026-08-30T21:43:41.512264Z
-e9e76acdc936f75e,TN,Durham School Services,Warren,79,2026-04-10,2026-06-06,,2026-08-30T21:43:41.512264Z
-b38713dbc746aef1,TN,Legacy Supply Chain,McNairy,4,2026-04-10,2026-06-06,,2026-08-30T21:43:41.512264Z
-438c9fea29d595d9,TN,Blount Memorial Hospital,Blount,85,2026-03-24,2026-05-01,,2026-08-30T21:43:41.512264Z
-8d2efff565ecfb1e,TN,Titan International,Madison,153,2026-03-24,2026-05-18,,2026-08-30T21:43:41.512264Z
-ccc884c7be88fa37,TN,BlueOval SK,Haywood,150,2026-03-23,2026-05-06,,2026-08-30T21:43:41.512264Z
-5f595433a1d2cabb,TN,IKEA Memphis,Shelby,114,2026-03-05,,,2026-08-30T21:43:41.512264Z
-21cdf2ebaa64dc29,TN,All Heart Pediatric Cardiology,Hamilton,1,2026-03-05,2026-03-06,,2026-08-30T21:43:41.512264Z
-0aa1b19806b6dcc8,TN,"First Brands Group, LLC",Lincoln,333,2026-03-04,2026-04-30,,2026-08-30T21:43:41.512264Z
-46bf09c90e2f112f,TN,"PMC Biogenix, Inc.",Shelby,172,2026-03-03,2026-04-26,,2026-08-30T21:43:41.512264Z
-888e4736a3130d94,TN,"McKay Books, Inc.",Knox,54,2026-03-02,2026-05-03,,2026-08-30T21:43:41.512264Z
-17dcc09b2692dd08,TN,Pace Industries,Madison,59,2026-02-26,2026-04-26,,2026-08-30T21:43:41.512264Z
-6c5ba85d0a5a472d,TN,Liberty Dental Plan,Bradley,1,2026-02-19,2026-04-06,,2026-08-30T21:43:41.512264Z
-ec9736701397e3d8,TN,GXO,Shelby,185,2026-02-19,2026-04-03,,2026-08-30T21:43:41.512264Z
-1038ba13cfbf0ff5,TN,Premiere Building Maintenance Corporation,Knox,154,2026-02-03,2026-03-31,,2026-08-30T21:43:41.512264Z
-3c45026b7b2d5686,TN,Danfoss Power Solutions,Bradley,100,2026-01-30,2026-04-01,,2026-08-30T21:43:41.512264Z
-9cc7eb4cfd5e7dee,TN,DLH Solutions,Rutherford,209,2026-01-30,2026-03-31,,2026-08-30T21:43:41.512264Z
-f11024d54cf87a60,TN,"NIKE Retail Services, Inc.",Shelby,583,2026-01-27,2026-04-03,,2026-08-30T21:43:41.512264Z
-1387c5eb477ddadd,TN,"Smoky Mountain Logistics, LLC",Wilson,100,2026-01-26,2026-03-24,,2026-08-30T21:43:41.512264Z
-54bed626428e511c,TN,"Music City Delivery, LLC",Williamson,98,2026-01-26,2026-04-02,,2026-08-30T21:43:41.512264Z
-7a22703635eea567,TN,Linamar Shelbyville,Bedford,80,2026-01-13,,,2026-08-30T21:43:41.512264Z
-c930e2ede4aac511,TN,"US Endodontics, LLC",Washington,70,2025-12-30,2026-02-27,,2026-08-30T21:43:41.512264Z
-0a221181c6d12f09,TN,Archer Daniels Midland Company,Shelby,95,2025-12-19,2026-01-30,,2026-08-30T21:43:41.512264Z
-dea94dd8e350a148,TN,JTEKT North America Corporation,Washington,136,2025-12-04,2026-08-31,,2026-08-30T21:43:41.512264Z
-2a6c4d9dcf4fd609,TN,Kroger Fulfillment Network LLC,Davidson,132,2025-12-03,2026-02-01,,2026-08-30T21:43:41.512264Z
-1e874764b255cdd0,TN,ABC Technologies,Sumner,85,2025-11-17,2025-11-24,,2026-08-30T21:43:41.512264Z
-e9f0ed1523b4461d,TN,Edgewell Personal Care,Knox,132,2025-11-14,2026-06-01,,2026-08-30T21:43:41.512264Z
-e76c41da125e5da6,TN,"Creative Dining Services, Inc.",Chester,100,2025-11-07,2025-12-13,,2026-08-30T21:43:41.512264Z
-98e89f6e9afb19ef,TN,Renova Health LLC,Sullivan,80,2025-11-07,2025-10-24,,2026-08-30T21:43:41.512264Z
-ca993bc4d46dbe29,TN,"Dexter Stamping Company, LLC",Rutherford,114,2025-10-30,2025-10-28,,2026-08-30T21:43:41.512264Z
-2ae1beafa4f2d8bb,TN,NTT Data,Davidson,108,2025-10-30,2025-12-31,,2026-08-30T21:43:41.512264Z
-2a93d44c915f6027,TN,GM - Ultium Cells Facility,Maury,710,2025-10-30,2026-01-05,,2026-08-30T21:43:41.512264Z
-8fe0461459361c67,TN,HD Supply,Rutherford,108,2025-10-27,2026-01-09,,2026-08-30T21:43:41.512264Z
-47d38fadbb68a3c8,TN,Crescent Park Corporation,Shelby,76,2025-10-17,2025-12-19,,2026-08-30T21:43:41.512264Z
-9d8f1abc4f2ea046,TN,"Georgia-Pacific, LLC",Shelby,151,2025-10-17,2025-12-16,,2026-08-30T21:43:41.512264Z
-6bc1e8b7ae02c347,TN,Club Wyndham Resort at Fairfield Glade,Cumberland,88,2025-10-13,2025-12-31,,2026-08-30T21:43:41.512264Z
-dc80d4a1e9cdfb5d,TN,OP Mobility,Maury,82,2025-10-07,2025-11-21,,2026-08-30T21:43:41.512264Z
-edb432f90d33f43e,TN,Wellpath,Davidson,91,2025-10-06,2025-11-07,,2026-08-30T21:43:41.512264Z
-76214fd9b5dba5fc,TN,DoubleTree by Memphis,Shelby,88,2025-09-30,2025-11-30,,2026-08-30T21:43:41.512264Z
-a9acf114de085aad,TN,Tenneco,Williamson,82,2025-09-05,2024-12-02,,2026-08-30T21:43:41.512264Z
-3212b3a5951d54ce,TN,FedEx Supply Chain,Shelby,611,2025-08-27,2025-10-11,,2026-08-30T21:43:41.512264Z
-b35d375c4f2b444e,TN,BSH Home Appliances Corporation,Campbell,24,2025-08-19,2025-12-31,,2026-08-30T21:43:41.512264Z
-0b7ef5b0371d1706,TN,"GEODIS Logistics, LLC",Wilson,57,2025-07-24,2025-09-30,,2026-08-30T21:43:41.512264Z
-0a05565858e995d7,TN,CAM Industrial Solutions,Sullivan,413,2025-07-15,2025-08-03,,2026-08-30T21:43:41.512264Z
-df18f51b766ce47a,TN,"BlueCross BlueShield of Tennessee, Inc.",Hamilton,150,2025-07-02,2025-09-01,,2026-08-30T21:43:41.512264Z
-6955cd13b123782c,TN,"DeRoyal Industries, Inc.",Campbell,153,2025-06-24,2025-12-31,,2026-08-30T21:43:41.512264Z
-dce5360b2b52c2f2,TN,Vanderbilt University Medical Center,Davidson,615,2025-06-20,2025-04-08,,2026-08-30T21:43:41.512264Z
-619c783953820a83,TN,The Public Building Authority for the City of Manchester TN dba The Manchester Coffee County Conference Center,Coffee,27,2025-06-11,2025-07-01,,2026-08-30T21:43:41.512264Z
-68afdbcb99ce7a76,TN,"GEODIS Logistics, LLC",Wilson,40,2025-06-10,2025-07-31,,2026-08-30T21:43:41.512264Z
-b5be4eb0c310a7be,TN,"Bridgestone Americas Tire Operations, LLC",Rutherford,658,2025-05-30,2025-07-31,,2026-08-30T21:43:41.512264Z
-2261c900dfe0078a,TN,"GMRI, Inc. dba Bahama Breeze",Shelby,97,2025-05-29,2025-05-15,,2026-08-30T21:43:41.512264Z
-7e6bee748afb9892,TN,Saddle Creek Corporation,Shelby,88,2025-05-28,2025-07-31,,2026-08-30T21:43:41.512264Z
-ee327eb3e5c9c3fe,TN,Tenneco Automotive Operating Company Inc.,DeKalb,25,2025-05-21,2025-06-27,,2026-08-30T21:43:41.512264Z
-58b73cacc202dfde,TN,Quickway Transportation Inc.,Rutherford,45,2025-04-24,2025-06-15,,2026-08-30T21:43:41.512264Z
-e57f953e583c7fd1,TN,Adient,Henderson,320,2025-04-23,2025-06-27,,2026-08-30T21:43:41.512264Z
-c825add8e78d9f45,TN,Adient plc,Maury,95,2025-04-22,2025-06-27,,2026-08-30T21:43:41.512264Z
-ad348a06f93b3de7,TN,United States Cellular Corporation,"Blount, Knox, Monroe, and Sevier",286,2025-04-17,2025-06-02,,2026-08-30T21:43:41.512264Z
-ad0f6eff697bbb0e,TN,Saks Global Tennessee Fulfillment Center,Rutherford,446,2025-04-17,2025-06-04,,2026-08-30T21:43:41.512264Z
-8224d73560c056d6,TN,Corsicana Mattress Company,Bedford,47,2025-04-16,2025-06-13,,2026-08-30T21:43:41.512264Z
-1cc06f6461149e7f,TN,Bunzl Distribution USA Inc.,Shelby,106,2025-04-04,2025-06-30,,2026-08-30T21:43:41.512264Z
-f47a5de1217f7070,TN,FedEx,Wilson,217,2025-03-31,2025-05-09,,2026-08-30T21:43:41.512264Z
-1441d6f6ed67ac17,TN,SSC Services,Hamilton,296,2025-03-31,2025-05-31,,2026-08-30T21:43:41.512264Z
-6c1b768dfe69cf4b,TN,SHG Inc,Davidson,100,2025-03-31,2025-05-05,,2026-08-30T21:43:41.512264Z
-ac2e83d4694756f0,TN,Wellpath Healthcare,Davidson,64,2025-03-31,2025-04-30,,2026-08-30T21:43:41.512264Z
-9dace5953d436d83,TN,"WWL Vehicle Services Americas, Inc.",Rutherford,40,2025-02-27,2025-04-15,,2026-08-30T21:43:41.512264Z
-ac534884a1a2aaaa,TN,"Rambo 1, LLC","Paulding and Polk counties, Georgia",135,2025-02-07,2025-01-31,,2026-08-30T21:43:41.512264Z
-46fcc6fc2add4ca8,TN,Modine Manufacturing,Lawrence,162,2025-02-05,2025-04-01,,2026-08-30T21:43:41.512264Z
-82e1574221dff54d,TN,"S&B Engineers and Constructors, Ltd.",Sullivan,112,2025-02-05,2025-03-28,,2026-08-30T21:43:41.512264Z
-45e22b1651bfec1e,TN,Federal Express Corporation,Sullivan,88,2025-02-05,2025-03-31,,2026-08-30T21:43:41.512264Z
-b215090cf7509c38,TN,Orchid Orthopedic Solutions,Shelby,62,2025-02-05,2025-06-30,,2026-08-30T21:43:41.512264Z
-8e519729b3de92b4,TN,UPS Athens Facility,McMinn,150,2025-02-05,2025-01-10,,2026-08-30T21:43:41.512264Z
-2cef76d184ee9f27,TN,"Essex Technology Group, LLC dba Bargain Hunt Stores",Davidson,294,2025-01-23,2025-01-22,,2026-08-30T21:43:41.512264Z
-8141422dcd94e2c3,TN,Perdue Farms,Putnam,433,2025-01-21,2025-03-28,,2026-08-30T21:43:41.512264Z
+id,state,company,company_canonical,company_dba,location,employees_affected,notice_date,effective_date,notice_type,first_seen
+61c93862980b9534,TN,Identity Group,Identity Group,,Putnam,63,2026-08-24,2026-10-20,,2026-08-30T21:43:41.512264Z
+7a0cf1d1e64d53de,TN,Wise Company LLC,Wise,,Hardin,129,2026-08-14,,,2026-08-30T21:43:41.512264Z
+00a1a1d396ae26b7,TN,Resource Label,Resource Label,,Williamson,68,2026-08-06,2026-10-03,,2026-08-30T21:43:41.512264Z
+5e3dc270566425d5,TN,TikTok USDS JV,TikTok USDS JV,,Davidson,250,2026-08-05,2026-10-05,,2026-08-30T21:43:41.512264Z
+478d18b911181275,TN,Wellpath,Wellpath,,Shelby,119,2026-08-04,2026-09-30,,2026-08-30T21:43:41.512264Z
+23cd08d787fd96b4,TN,Carlex,Carlex,,Monroe,325,2026-07-13,2026-09-07,,2026-08-30T21:43:41.512264Z
+1d4177b6f460d5d6,TN,Regional One Extended Care Hospital,Regional One Extended Care Hospital,,Shelby,103,2026-07-07,2026-09-01,,2026-08-30T21:43:41.512264Z
+68c049728cad2305,TN,Stanley Black & Decker,Stanley Black & Decker,,Sumner,116,2026-06-24,,,2026-08-30T21:43:41.512264Z
+697912ce54a7fd8a,TN,Hard Rock Cafe,Hard Rock Cafe,,Sevier,61,2026-06-22,2026-08-23,,2026-08-30T21:43:41.512264Z
+e9e3590730ee4505,TN,JBS USA Food Company,JBS USA Food,,Shelby,208,2026-06-17,2026-08-14,,2026-08-30T21:43:41.512264Z
+a3c69714f6426ddb,TN,Smurfit Westrock,Smurfit Westrock,,Wilson,52,2026-06-17,2026-08-14,,2026-08-30T21:43:41.512264Z
+3e0903d3688dd286,TN,YesCare Corp.,YesCare,,Williamson,150,2026-06-17,2026-06-22,,2026-08-30T21:43:41.512264Z
+00257d531b2b92bb,TN,Pilgrim's Pride Corporation,Pilgrim's Pride,,Hamilton,315,2026-06-16,2026-09-25,,2026-08-30T21:43:41.512264Z
+745c9bec4567cbe1,TN,"CACI, Inc.",CACI,,Shelby,75,2026-06-15,2026-08-01,,2026-08-30T21:43:41.512264Z
+0fec6197fe965418,TN,WK Kellogg Co,WK Kellogg,,Shelby,117,2026-06-08,2026-08-07,,2026-08-30T21:43:41.512264Z
+9b0666a951abe3db,TN,Dura-Shiloh,Dura-Shiloh,,Dickson,69,2026-05-26,2026-07-18,,2026-08-30T21:43:41.512264Z
+637d64c5cb21a25f,TN,"Shimmick Construction Company, Inc.",Shimmick Construction,,Hamilton,183,2026-05-26,2026-05-12,,2026-08-30T21:43:41.512264Z
+5bb91ba397862cf8,TN,"Greenbean Ventures, LLC",Greenbean Ventures,,Washington,121,2026-05-14,2026-07-13,,2026-08-30T21:43:41.512264Z
+2e0712cc551b7220,TN,Tsubaki Nakashima,Tsubaki Nakashima,,Unicoi,110,2026-05-14,2026-07-31,,2026-08-30T21:43:41.512264Z
+0a56dea27b4ad7f3,TN,"The Brand House Collective, Inc.",Brand House Collective,,Williamson,88,2026-05-05,,,2026-08-30T21:43:41.512264Z
+15aa6585d3c73ace,TN,Fayette County Public Schools,Fayette County Public Schools,,Fayette,75,2026-05-04,2026-06-30,,2026-08-30T21:43:41.512264Z
+1de81e9ec87c8de9,TN,Yanfeng International Automotive Technology US I LLC,Yanfeng International Automotive Technology US I,,Hamilton,153,2026-04-29,2026-06-29,,2026-08-30T21:43:41.512264Z
+fe1f982b787c9c50,TN,Adient,Adient,,McMinn,210,2026-04-21,2026-06-30,,2026-08-30T21:43:41.512264Z
+c3601bee863f0dc1,TN,"T-Mobile USA, Inc.",T-Mobile,,Hamilton,200,2026-04-16,2026-06-08,,2026-08-30T21:43:41.512264Z
+b52c37eb07de67a5,TN,Pave It Forward Logistics,Pave It Forward Logistics,,Rutherford,100,2026-04-15,2026-03-31,,2026-08-30T21:43:41.512264Z
+e9e76acdc936f75e,TN,Durham School Services,Durham School Services,,Warren,79,2026-04-10,2026-06-06,,2026-08-30T21:43:41.512264Z
+b38713dbc746aef1,TN,Legacy Supply Chain,Legacy Supply Chain,,McNairy,4,2026-04-10,2026-06-06,,2026-08-30T21:43:41.512264Z
+438c9fea29d595d9,TN,Blount Memorial Hospital,Blount Memorial Hospital,,Blount,85,2026-03-24,2026-05-01,,2026-08-30T21:43:41.512264Z
+8d2efff565ecfb1e,TN,Titan International,Titan International,,Madison,153,2026-03-24,2026-05-18,,2026-08-30T21:43:41.512264Z
+ccc884c7be88fa37,TN,BlueOval SK,BlueOval SK,,Haywood,150,2026-03-23,2026-05-06,,2026-08-30T21:43:41.512264Z
+5f595433a1d2cabb,TN,IKEA Memphis,IKEA Memphis,,Shelby,114,2026-03-05,,,2026-08-30T21:43:41.512264Z
+21cdf2ebaa64dc29,TN,All Heart Pediatric Cardiology,All Heart Pediatric Cardiology,,Hamilton,1,2026-03-05,2026-03-06,,2026-08-30T21:43:41.512264Z
+0aa1b19806b6dcc8,TN,"First Brands Group, LLC",First Brands Group,,Lincoln,333,2026-03-04,2026-04-30,,2026-08-30T21:43:41.512264Z
+46bf09c90e2f112f,TN,"PMC Biogenix, Inc.",PMC Biogenix,,Shelby,172,2026-03-03,2026-04-26,,2026-08-30T21:43:41.512264Z
+888e4736a3130d94,TN,"McKay Books, Inc.",McKay Books,,Knox,54,2026-03-02,2026-05-03,,2026-08-30T21:43:41.512264Z
+17dcc09b2692dd08,TN,Pace Industries,Pace Industries,,Madison,59,2026-02-26,2026-04-26,,2026-08-30T21:43:41.512264Z
+6c5ba85d0a5a472d,TN,Liberty Dental Plan,Liberty Dental Plan,,Bradley,1,2026-02-19,2026-04-06,,2026-08-30T21:43:41.512264Z
+ec9736701397e3d8,TN,GXO,GXO,,Shelby,185,2026-02-19,2026-04-03,,2026-08-30T21:43:41.512264Z
+1038ba13cfbf0ff5,TN,Premiere Building Maintenance Corporation,Premiere Building Maintenance,,Knox,154,2026-02-03,2026-03-31,,2026-08-30T21:43:41.512264Z
+3c45026b7b2d5686,TN,Danfoss Power Solutions,Danfoss Power Solutions,,Bradley,100,2026-01-30,2026-04-01,,2026-08-30T21:43:41.512264Z
+9cc7eb4cfd5e7dee,TN,DLH Solutions,DLH Solutions,,Rutherford,209,2026-01-30,2026-03-31,,2026-08-30T21:43:41.512264Z
+f11024d54cf87a60,TN,"NIKE Retail Services, Inc.",NIKE Retail Services,,Shelby,583,2026-01-27,2026-04-03,,2026-08-30T21:43:41.512264Z
+1387c5eb477ddadd,TN,"Smoky Mountain Logistics, LLC",Smoky Mountain Logistics,,Wilson,100,2026-01-26,2026-03-24,,2026-08-30T21:43:41.512264Z
+54bed626428e511c,TN,"Music City Delivery, LLC",Music City Delivery,,Williamson,98,2026-01-26,2026-04-02,,2026-08-30T21:43:41.512264Z
+7a22703635eea567,TN,Linamar Shelbyville,Linamar Shelbyville,,Bedford,80,2026-01-13,,,2026-08-30T21:43:41.512264Z
+c930e2ede4aac511,TN,"US Endodontics, LLC",US Endodontics,,Washington,70,2025-12-30,2026-02-27,,2026-08-30T21:43:41.512264Z
+0a221181c6d12f09,TN,Archer Daniels Midland Company,Archer Daniels Midland,,Shelby,95,2025-12-19,2026-01-30,,2026-08-30T21:43:41.512264Z
+dea94dd8e350a148,TN,JTEKT North America Corporation,JTEKT North America,,Washington,136,2025-12-04,2026-08-31,,2026-08-30T21:43:41.512264Z
+2a6c4d9dcf4fd609,TN,Kroger Fulfillment Network LLC,Kroger Fulfillment Network,,Davidson,132,2025-12-03,2026-02-01,,2026-08-30T21:43:41.512264Z
+1e874764b255cdd0,TN,ABC Technologies,ABC Technologies,,Sumner,85,2025-11-17,2025-11-24,,2026-08-30T21:43:41.512264Z
+e9f0ed1523b4461d,TN,Edgewell Personal Care,Edgewell Personal Care,,Knox,132,2025-11-14,2026-06-01,,2026-08-30T21:43:41.512264Z
+e76c41da125e5da6,TN,"Creative Dining Services, Inc.",Creative Dining Services,,Chester,100,2025-11-07,2025-12-13,,2026-08-30T21:43:41.512264Z
+98e89f6e9afb19ef,TN,Renova Health LLC,Renova Health,,Sullivan,80,2025-11-07,2025-10-24,,2026-08-30T21:43:41.512264Z
+ca993bc4d46dbe29,TN,"Dexter Stamping Company, LLC",Dexter Stamping,,Rutherford,114,2025-10-30,2025-10-28,,2026-08-30T21:43:41.512264Z
+2ae1beafa4f2d8bb,TN,NTT Data,NTT Data,,Davidson,108,2025-10-30,2025-12-31,,2026-08-30T21:43:41.512264Z
+2a93d44c915f6027,TN,GM - Ultium Cells Facility,GM - Ultium Cells Facility,,Maury,710,2025-10-30,2026-01-05,,2026-08-30T21:43:41.512264Z
+8fe0461459361c67,TN,HD Supply,HD Supply,,Rutherford,108,2025-10-27,2026-01-09,,2026-08-30T21:43:41.512264Z
+47d38fadbb68a3c8,TN,Crescent Park Corporation,Crescent Park,,Shelby,76,2025-10-17,2025-12-19,,2026-08-30T21:43:41.512264Z
+9d8f1abc4f2ea046,TN,"Georgia-Pacific, LLC",Georgia-Pacific,,Shelby,151,2025-10-17,2025-12-16,,2026-08-30T21:43:41.512264Z
+6bc1e8b7ae02c347,TN,Club Wyndham Resort at Fairfield Glade,Club Wyndham Resort at Fairfield Glade,,Cumberland,88,2025-10-13,2025-12-31,,2026-08-30T21:43:41.512264Z
+dc80d4a1e9cdfb5d,TN,OP Mobility,OP Mobility,,Maury,82,2025-10-07,2025-11-21,,2026-08-30T21:43:41.512264Z
+edb432f90d33f43e,TN,Wellpath,Wellpath,,Davidson,91,2025-10-06,2025-11-07,,2026-08-30T21:43:41.512264Z
+76214fd9b5dba5fc,TN,DoubleTree by Memphis,DoubleTree by Memphis,,Shelby,88,2025-09-30,2025-11-30,,2026-08-30T21:43:41.512264Z
+a9acf114de085aad,TN,Tenneco,Tenneco,,Williamson,82,2025-09-05,2024-12-02,,2026-08-30T21:43:41.512264Z
+3212b3a5951d54ce,TN,FedEx Supply Chain,FedEx Supply Chain,,Shelby,611,2025-08-27,2025-10-11,,2026-08-30T21:43:41.512264Z
+b35d375c4f2b444e,TN,BSH Home Appliances Corporation,BSH Home Appliances,,Campbell,24,2025-08-19,2025-12-31,,2026-08-30T21:43:41.512264Z
+0b7ef5b0371d1706,TN,"GEODIS Logistics, LLC",GEODIS Logistics,,Wilson,57,2025-07-24,2025-09-30,,2026-08-30T21:43:41.512264Z
+0a05565858e995d7,TN,CAM Industrial Solutions,CAM Industrial Solutions,,Sullivan,413,2025-07-15,2025-08-03,,2026-08-30T21:43:41.512264Z
+df18f51b766ce47a,TN,"BlueCross BlueShield of Tennessee, Inc.",BlueCross BlueShield of Tennessee,,Hamilton,150,2025-07-02,2025-09-01,,2026-08-30T21:43:41.512264Z
+6955cd13b123782c,TN,"DeRoyal Industries, Inc.",DeRoyal Industries,,Campbell,153,2025-06-24,2025-12-31,,2026-08-30T21:43:41.512264Z
+dce5360b2b52c2f2,TN,Vanderbilt University Medical Center,Vanderbilt University Medical Center,,Davidson,615,2025-06-20,2025-04-08,,2026-08-30T21:43:41.512264Z
+619c783953820a83,TN,The Public Building Authority for the City of Manchester TN dba The Manchester Coffee County Conference Center,Public Building Authority for the City of Manchester TN,The Manchester Coffee County Conference Center,Coffee,27,2025-06-11,2025-07-01,,2026-08-30T21:43:41.512264Z
+68afdbcb99ce7a76,TN,"GEODIS Logistics, LLC",GEODIS Logistics,,Wilson,40,2025-06-10,2025-07-31,,2026-08-30T21:43:41.512264Z
+b5be4eb0c310a7be,TN,"Bridgestone Americas Tire Operations, LLC",Bridgestone Americas Tire Operations,,Rutherford,658,2025-05-30,2025-07-31,,2026-08-30T21:43:41.512264Z
+2261c900dfe0078a,TN,"GMRI, Inc. dba Bahama Breeze",GMRI,Bahama Breeze,Shelby,97,2025-05-29,2025-05-15,,2026-08-30T21:43:41.512264Z
+7e6bee748afb9892,TN,Saddle Creek Corporation,Saddle Creek,,Shelby,88,2025-05-28,2025-07-31,,2026-08-30T21:43:41.512264Z
+ee327eb3e5c9c3fe,TN,Tenneco Automotive Operating Company Inc.,Tenneco Automotive Operating,,DeKalb,25,2025-05-21,2025-06-27,,2026-08-30T21:43:41.512264Z
+58b73cacc202dfde,TN,Quickway Transportation Inc.,Quickway Transportation,,Rutherford,45,2025-04-24,2025-06-15,,2026-08-30T21:43:41.512264Z
+e57f953e583c7fd1,TN,Adient,Adient,,Henderson,320,2025-04-23,2025-06-27,,2026-08-30T21:43:41.512264Z
+c825add8e78d9f45,TN,Adient plc,Adient,,Maury,95,2025-04-22,2025-06-27,,2026-08-30T21:43:41.512264Z
+ad348a06f93b3de7,TN,United States Cellular Corporation,United States Cellular,,"Blount, Knox, Monroe, and Sevier",286,2025-04-17,2025-06-02,,2026-08-30T21:43:41.512264Z
+ad0f6eff697bbb0e,TN,Saks Global Tennessee Fulfillment Center,Saks Global Tennessee Fulfillment Center,,Rutherford,446,2025-04-17,2025-06-04,,2026-08-30T21:43:41.512264Z
+8224d73560c056d6,TN,Corsicana Mattress Company,Corsicana Mattress,,Bedford,47,2025-04-16,2025-06-13,,2026-08-30T21:43:41.512264Z
+1cc06f6461149e7f,TN,Bunzl Distribution USA Inc.,Bunzl Distribution,,Shelby,106,2025-04-04,2025-06-30,,2026-08-30T21:43:41.512264Z
+f47a5de1217f7070,TN,FedEx,FedEx,,Wilson,217,2025-03-31,2025-05-09,,2026-08-30T21:43:41.512264Z
+1441d6f6ed67ac17,TN,SSC Services,SSC Services,,Hamilton,296,2025-03-31,2025-05-31,,2026-08-30T21:43:41.512264Z
+6c1b768dfe69cf4b,TN,SHG Inc,SHG,,Davidson,100,2025-03-31,2025-05-05,,2026-08-30T21:43:41.512264Z
+ac2e83d4694756f0,TN,Wellpath Healthcare,Wellpath Healthcare,,Davidson,64,2025-03-31,2025-04-30,,2026-08-30T21:43:41.512264Z
+9dace5953d436d83,TN,"WWL Vehicle Services Americas, Inc.",WWL Vehicle Services Americas,,Rutherford,40,2025-02-27,2025-04-15,,2026-08-30T21:43:41.512264Z
+ac534884a1a2aaaa,TN,"Rambo 1, LLC",Rambo 1,,"Paulding and Polk counties, Georgia",135,2025-02-07,2025-01-31,,2026-08-30T21:43:41.512264Z
+46fcc6fc2add4ca8,TN,Modine Manufacturing,Modine Manufacturing,,Lawrence,162,2025-02-05,2025-04-01,,2026-08-30T21:43:41.512264Z
+82e1574221dff54d,TN,"S&B Engineers and Constructors, Ltd.",S&B Engineers and Constructors,,Sullivan,112,2025-02-05,2025-03-28,,2026-08-30T21:43:41.512264Z
+45e22b1651bfec1e,TN,Federal Express Corporation,Federal Express,,Sullivan,88,2025-02-05,2025-03-31,,2026-08-30T21:43:41.512264Z
+b215090cf7509c38,TN,Orchid Orthopedic Solutions,Orchid Orthopedic Solutions,,Shelby,62,2025-02-05,2025-06-30,,2026-08-30T21:43:41.512264Z
+8e519729b3de92b4,TN,UPS Athens Facility,UPS Athens Facility,,McMinn,150,2025-02-05,2025-01-10,,2026-08-30T21:43:41.512264Z
+2cef76d184ee9f27,TN,"Essex Technology Group, LLC dba Bargain Hunt Stores",Essex Technology Group,Bargain Hunt Stores,Davidson,294,2025-01-23,2025-01-22,,2026-08-30T21:43:41.512264Z
+8141422dcd94e2c3,TN,Perdue Farms,Perdue Farms,,Putnam,433,2025-01-21,2025-03-28,,2026-08-30T21:43:41.512264Z

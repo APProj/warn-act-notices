@@ -1,28 +1,28 @@
-id,state,company,location,employees_affected,notice_date,effective_date,notice_type,first_seen
-0de965e694fd4c10,CT,"Conduent Commercial Solutions, LLC",Remote,2,2026-06-28,2026-08-28,,2026-08-30T21:43:41.512264Z
-50ee8f953246b3e0,CT,"G2 Secure Staffing, LLC",Windsor Locks,100,2026-06-19,2026-08-19,,2026-08-30T21:43:41.512264Z
-4e7eb501c6b42c9b,CT,Guida-Seibert Dairy Company,New Britain,205,2026-05-21,2026-07-20,,2026-08-30T21:43:41.512264Z
-89a68578e2135239,CT,IDEX Health and Science LLC,Bristol,73,2026-05-05,2026-07-15,,2026-08-30T21:43:41.512264Z
-99b6b95a559c5bca,CT,CVS Health Aetnas Clinical Solutions/Aetna Business Operations,Remote,6,2026-05-04,2026-07-03,,2026-08-30T21:43:41.512264Z
-de998a9405bfdfbb,CT,Stanley Black and Decker,New Britain,300,2026-03-04,2026-05-04,,2026-08-30T21:43:41.512264Z
-ad495f39d261424f,CT,"Talcott Resolution Life, Inc.",Hartford,101,2026-02-18,2026-04-24,,2026-08-30T21:43:41.512264Z
-08ebd06716118cec,CT,"Main Street Sports Group, LLC",Southport,44,2026-02-13,2026-04-14,,2026-08-30T21:43:41.512264Z
-55b109887aafc3b1,CT,CVS Heath - Aetna,Hartford - Remote,313,2026-02-04,2026-04-03,,2026-08-30T21:43:41.512264Z
-c896e50a772aec23,CT,Macys Cheshire Fulfillment Center,Cheshire,993,2026-01-13,2026-03-14,,2026-08-30T21:43:41.512264Z
-926652ec31e55b74,CT,Macys Store Delivery Center (SDS) and Customer Returns Center (CRD) Operations,South Windsor,57,2026-01-12,2026-03-14,,2026-08-30T21:43:41.512264Z
-c14712dfa413f64e,CT,JeniusBank,Remote,161,2026-01-08,2026-03-10,,2026-08-30T21:43:41.512264Z
-d4a0700cf4e0db69,CT,"Tessera Therapeutics, Inc",Remote,1,2026-01-06,2026-03-08,,2026-08-30T21:43:41.512264Z
-10207eec36d5077a,CT,Connecticut Custom Car,Enfield,5,2025-12-08,2025-11-26,,2026-08-30T21:43:41.512264Z
-9ab9e6efbfe20548,CT,PosiGen Developer LLC,Shelton,,2025-11-14,2025-11-23,,2026-08-30T21:43:41.512264Z
-d3b8d90901016eda,CT,Edgewell Personal Care/Schick,Milford,293,2025-11-13,2026-03-02,,2026-08-30T21:43:41.512264Z
-63ca30307b6314ec,CT,"Metallics, Inc",Bristol,33,2025-11-07,2026-05-01,,2026-08-30T21:43:41.512264Z
-6922dcd3f08773f4,CT,"ELG Utica Alloys (Harford), Inc.",Hartford,51,2025-10-31,2025-12-31,Not Provided,2026-08-30T21:43:41.512264Z
-a95c8e0028db8ed2,CT,Macys South Windsor Distribution Center,South Windsor,106,2025-10-28,2025-12-28,,2026-08-30T21:43:41.512264Z
-597b366ea666505e,CT,Baduccis,Westport,59,2025-10-24,2026-02-28,,2026-08-30T21:43:41.512264Z
-71d0e2ec22a6007c,CT,PosiGen Developer LLC,Shelton,,2025-10-24,2025-11-02,,2026-08-30T21:43:41.512264Z
-f75575ef0b23e0be,CT,CVS Health,Remote,72,2025-10-17,2025-12-31,,2026-08-30T21:43:41.512264Z
-dc900d8ec60b8902,CT,"ImageFIRST Healthcare Laundry Specialists, LLC",12/08/2025,69,2025-10-09,2025-12-08,,2026-08-30T21:43:41.512264Z
-6d3ed49f33e458a2,CT,"SimplyIOA, LLC",Remote,66,2025-10-07,2025-12-02,,2026-08-30T21:43:41.512264Z
-ca8666a0517ab686,CT,PosiGen Developer LLC,"Shelton, Danbury, Wethersfield",,2025-10-03,2025-10-12,,2026-08-30T21:43:41.512264Z
-de3478c71b713281,CT,PerkinElmer U.S. LLC,Shelton,68,2025-09-23,2025-11-24,PerkinElmer WARN,2026-08-30T21:43:41.512264Z
-a13c5023b77c692a,CT,PosiGen Developer LLC,"Shelton, Danbury, Wethersfield",,2025-09-12,2025-09-21,PosiGen Supplemental WARN 9.12.25,2026-08-30T21:43:41.512264Z
+id,state,company,company_canonical,company_dba,location,employees_affected,notice_date,effective_date,notice_type,first_seen
+0de965e694fd4c10,CT,"Conduent Commercial Solutions, LLC",Conduent Commercial Solutions,,Remote,2,2026-06-28,2026-08-28,,2026-08-30T21:43:41.512264Z
+50ee8f953246b3e0,CT,"G2 Secure Staffing, LLC",G2 Secure Staffing,,Windsor Locks,100,2026-06-19,2026-08-19,,2026-08-30T21:43:41.512264Z
+4e7eb501c6b42c9b,CT,Guida-Seibert Dairy Company,Guida-Seibert Dairy,,New Britain,205,2026-05-21,2026-07-20,,2026-08-30T21:43:41.512264Z
+89a68578e2135239,CT,IDEX Health and Science LLC,IDEX Health and Science,,Bristol,73,2026-05-05,2026-07-15,,2026-08-30T21:43:41.512264Z
+99b6b95a559c5bca,CT,CVS Health Aetnas Clinical Solutions/Aetna Business Operations,CVS Health Aetnas Clinical Solutions/Aetna Business Operations,,Remote,6,2026-05-04,2026-07-03,,2026-08-30T21:43:41.512264Z
+de998a9405bfdfbb,CT,Stanley Black and Decker,Stanley Black and Decker,,New Britain,300,2026-03-04,2026-05-04,,2026-08-30T21:43:41.512264Z
+ad495f39d261424f,CT,"Talcott Resolution Life, Inc.",Talcott Resolution Life,,Hartford,101,2026-02-18,2026-04-24,,2026-08-30T21:43:41.512264Z
+08ebd06716118cec,CT,"Main Street Sports Group, LLC",Main Street Sports Group,,Southport,44,2026-02-13,2026-04-14,,2026-08-30T21:43:41.512264Z
+55b109887aafc3b1,CT,CVS Heath - Aetna,CVS Heath - Aetna,,Hartford - Remote,313,2026-02-04,2026-04-03,,2026-08-30T21:43:41.512264Z
+c896e50a772aec23,CT,Macys Cheshire Fulfillment Center,Macys Cheshire Fulfillment Center,,Cheshire,993,2026-01-13,2026-03-14,,2026-08-30T21:43:41.512264Z
+926652ec31e55b74,CT,Macys Store Delivery Center (SDS) and Customer Returns Center (CRD) Operations,Macys Store Delivery Center (SDS) and Customer Returns Center (CRD) Operations,,South Windsor,57,2026-01-12,2026-03-14,,2026-08-30T21:43:41.512264Z
+c14712dfa413f64e,CT,JeniusBank,JeniusBank,,Remote,161,2026-01-08,2026-03-10,,2026-08-30T21:43:41.512264Z
+d4a0700cf4e0db69,CT,"Tessera Therapeutics, Inc",Tessera Therapeutics,,Remote,1,2026-01-06,2026-03-08,,2026-08-30T21:43:41.512264Z
+10207eec36d5077a,CT,Connecticut Custom Car,Connecticut Custom Car,,Enfield,5,2025-12-08,2025-11-26,,2026-08-30T21:43:41.512264Z
+9ab9e6efbfe20548,CT,PosiGen Developer LLC,PosiGen Developer,,Shelton,,2025-11-14,2025-11-23,,2026-08-30T21:43:41.512264Z
+d3b8d90901016eda,CT,Edgewell Personal Care/Schick,Edgewell Personal Care/Schick,,Milford,293,2025-11-13,2026-03-02,,2026-08-30T21:43:41.512264Z
+63ca30307b6314ec,CT,"Metallics, Inc",Metallics,,Bristol,33,2025-11-07,2026-05-01,,2026-08-30T21:43:41.512264Z
+6922dcd3f08773f4,CT,"ELG Utica Alloys (Harford), Inc.",ELG Utica Alloys (Harford),,Hartford,51,2025-10-31,2025-12-31,Not Provided,2026-08-30T21:43:41.512264Z
+a95c8e0028db8ed2,CT,Macys South Windsor Distribution Center,Macys South Windsor Distribution Center,,South Windsor,106,2025-10-28,2025-12-28,,2026-08-30T21:43:41.512264Z
+597b366ea666505e,CT,Baduccis,Baduccis,,Westport,59,2025-10-24,2026-02-28,,2026-08-30T21:43:41.512264Z
+71d0e2ec22a6007c,CT,PosiGen Developer LLC,PosiGen Developer,,Shelton,,2025-10-24,2025-11-02,,2026-08-30T21:43:41.512264Z
+f75575ef0b23e0be,CT,CVS Health,CVS Health,,Remote,72,2025-10-17,2025-12-31,,2026-08-30T21:43:41.512264Z
+dc900d8ec60b8902,CT,"ImageFIRST Healthcare Laundry Specialists, LLC",ImageFIRST Healthcare Laundry Specialists,,12/08/2025,69,2025-10-09,2025-12-08,,2026-08-30T21:43:41.512264Z
+6d3ed49f33e458a2,CT,"SimplyIOA, LLC",SimplyIOA,,Remote,66,2025-10-07,2025-12-02,,2026-08-30T21:43:41.512264Z
+ca8666a0517ab686,CT,PosiGen Developer LLC,PosiGen Developer,,"Shelton, Danbury, Wethersfield",,2025-10-03,2025-10-12,,2026-08-30T21:43:41.512264Z
+de3478c71b713281,CT,PerkinElmer U.S. LLC,PerkinElmer U.S,,Shelton,68,2025-09-23,2025-11-24,PerkinElmer WARN,2026-08-30T21:43:41.512264Z
+a13c5023b77c692a,CT,PosiGen Developer LLC,PosiGen Developer,,"Shelton, Danbury, Wethersfield",,2025-09-12,2025-09-21,PosiGen Supplemental WARN 9.12.25,2026-08-30T21:43:41.512264Z

@@ -1,19 +1,19 @@
-id,state,company,location,employees_affected,notice_date,effective_date,notice_type,first_seen
-01b30287f065fcc1,MT,Wells Fargo & Company,Yellowstone,2,2026-07-21,2026-09-19,,2026-08-30T21:43:41.512264Z
-fb9fe303032c2d93,MT,Wells Fargo & Company,Yellowstone,16,2026-06-23,2026-08-22,,2026-08-30T21:43:41.512264Z
-4dec57e2260c24de,MT,Wells Fargo & Company,Yellowstone,77,2026-03-30,2026-05-30,,2026-08-30T21:43:41.512264Z
-2751183850d49967,MT,Exxon Mobile/Denbury Onshore LLC,"Dawson, Fallon, Prairie and Wibaux",78,,2026-01-15,,2026-08-30T21:43:41.512264Z
-844ffe1456554f3f,MT,Pacific Source Health,Lewis & Clark,3,2025-10-29,,,2026-08-30T21:43:41.512264Z
-5b960097d7590f72,MT,George's Distributing,Lewis & Clark,112,2025-10-27,2025-12-03,,2026-08-30T21:43:41.512264Z
-66783e6453f1ac16,MT,Missoula County/Partnership Health,Missoula,300,2025-09-26,2025-12-31,,2026-08-30T21:43:41.512264Z
-42ed42f35b56f7d5,MT,Zeco Systems,Unknown,1,2025-08-18,2025-10-25,,2026-08-30T21:43:41.512264Z
-5158030e2ab922fa,MT,UFP Edge,Missoula,104,2025-07-28,2025-09-27,,2026-08-30T21:43:41.512264Z
-07d7f89a5501df83,MT,Accelerate360 Distrubution,Multiple,29,2025-04-25,2025-06-28,,2026-08-30T21:43:41.512264Z
-056738bc030bb290,MT,Gary & Leo's Fresh Foods,Ravalli/Pondera/Hill,164,2025-04-03,,,2026-08-30T21:43:41.512264Z
-3a29aef927766d55,MT,"Block, Inc",Unknown,1,2025-03-27,2024-05-24,,2026-08-30T21:43:41.512264Z
-3ddc8efe1bed7ab5,MT,Mann Mortgage,Flathead,109,2024-09-23,2024-09-25,,2026-08-30T21:43:41.512264Z
-92c061fb23c83b96,MT,Nelson Laboratories,Gallatin,40,2024-09-16,2024-11-15,,2026-08-30T21:43:41.512264Z
-db0cd13674216a90,MT,Sibayne-Stillwater,Stillwater/Sweetgrass,700,2024-09-12,2024-11-12,,2026-08-30T21:43:41.512264Z
-2a0a8c7fc6cf7fa3,MT,VOLTA,Bozeman/Gallatin,1,2024-03-29,2024-05-31,,2026-08-30T21:43:41.512264Z
-f6473c5f9b6447e7,MT,Roseburg Forest Products,Missoula,159,2024-03-20,2024-05-22,,2026-08-30T21:43:41.512264Z
-59f97c9284fa1bb7,MT,Pyramid Lumber,Missoula,101,2024-03-14,2024-05-01,,2026-08-30T21:43:41.512264Z
+id,state,company,company_canonical,company_dba,location,employees_affected,notice_date,effective_date,notice_type,first_seen
+01b30287f065fcc1,MT,Wells Fargo & Company,Wells Fargo &,,Yellowstone,2,2026-07-21,2026-09-19,,2026-08-30T21:43:41.512264Z
+fb9fe303032c2d93,MT,Wells Fargo & Company,Wells Fargo &,,Yellowstone,16,2026-06-23,2026-08-22,,2026-08-30T21:43:41.512264Z
+4dec57e2260c24de,MT,Wells Fargo & Company,Wells Fargo &,,Yellowstone,77,2026-03-30,2026-05-30,,2026-08-30T21:43:41.512264Z
+2751183850d49967,MT,Exxon Mobile/Denbury Onshore LLC,Exxon Mobile/Denbury Onshore,,"Dawson, Fallon, Prairie and Wibaux",78,,2026-01-15,,2026-08-30T21:43:41.512264Z
+844ffe1456554f3f,MT,Pacific Source Health,Pacific Source Health,,Lewis & Clark,3,2025-10-29,,,2026-08-30T21:43:41.512264Z
+5b960097d7590f72,MT,George's Distributing,George's Distributing,,Lewis & Clark,112,2025-10-27,2025-12-03,,2026-08-30T21:43:41.512264Z
+66783e6453f1ac16,MT,Missoula County/Partnership Health,Missoula County/Partnership Health,,Missoula,300,2025-09-26,2025-12-31,,2026-08-30T21:43:41.512264Z
+42ed42f35b56f7d5,MT,Zeco Systems,Zeco Systems,,Unknown,1,2025-08-18,2025-10-25,,2026-08-30T21:43:41.512264Z
+5158030e2ab922fa,MT,UFP Edge,UFP Edge,,Missoula,104,2025-07-28,2025-09-27,,2026-08-30T21:43:41.512264Z
+07d7f89a5501df83,MT,Accelerate360 Distrubution,Accelerate360 Distrubution,,Multiple,29,2025-04-25,2025-06-28,,2026-08-30T21:43:41.512264Z
+056738bc030bb290,MT,Gary & Leo's Fresh Foods,Gary & Leo's Fresh Foods,,Ravalli/Pondera/Hill,164,2025-04-03,,,2026-08-30T21:43:41.512264Z
+3a29aef927766d55,MT,"Block, Inc",Block,,Unknown,1,2025-03-27,2024-05-24,,2026-08-30T21:43:41.512264Z
+3ddc8efe1bed7ab5,MT,Mann Mortgage,Mann Mortgage,,Flathead,109,2024-09-23,2024-09-25,,2026-08-30T21:43:41.512264Z
+92c061fb23c83b96,MT,Nelson Laboratories,Nelson Laboratories,,Gallatin,40,2024-09-16,2024-11-15,,2026-08-30T21:43:41.512264Z
+db0cd13674216a90,MT,Sibayne-Stillwater,Sibayne-Stillwater,,Stillwater/Sweetgrass,700,2024-09-12,2024-11-12,,2026-08-30T21:43:41.512264Z
+2a0a8c7fc6cf7fa3,MT,VOLTA,Volta,,Bozeman/Gallatin,1,2024-03-29,2024-05-31,,2026-08-30T21:43:41.512264Z
+f6473c5f9b6447e7,MT,Roseburg Forest Products,Roseburg Forest Products,,Missoula,159,2024-03-20,2024-05-22,,2026-08-30T21:43:41.512264Z
+59f97c9284fa1bb7,MT,Pyramid Lumber,Pyramid Lumber,,Missoula,101,2024-03-14,2024-05-01,,2026-08-30T21:43:41.512264Z

@@ -1,261 +1,261 @@
-id,state,company,location,employees_affected,notice_date,effective_date,notice_type,first_seen
-4837064cfb328c8c,IN,Postal Center International Inc,Brownsburg,151,2026-08-13,2026-08-13,CL,2026-08-30T21:43:41.512264Z
-3760e2e00b20710e,IN,Owens Corning,Walkerton,130,2026-07-21,2026-09-19,CL,2026-08-30T21:43:41.512264Z
-c3af09eece6a42f0,IN,"Forest River, Inc.",Bristol,105,2026-07-17,2026-09-17,CL,2026-08-30T21:43:41.512264Z
-05c6c8549b1a2bad,IN,Thyssenkrupp Presta North America,Terre Haute,207,2026-06-30,2027-03-31,CL,2026-08-30T21:43:41.512264Z
-5131ecfbbd23b390,IN,"Conduent Commercial Solutions, LLC",Statewide,7,2026-06-26,2026-08-28,LO,2026-08-30T21:43:41.512264Z
-06ce1372bafe6932,IN,"Snyder’s-Lance, Inc d/b/a Campbell Snacks",Jeffersonville,111,2026-06-18,2026-09-15,CL,2026-08-30T21:43:41.512264Z
-df1bd0d2d781e9a7,IN,humano LLC,Avon,586,2026-06-17,2026-08-17,CL,2026-08-30T21:43:41.512264Z
-b42fe49a91522364,IN,"SIMOS Insourcing Solutions, LLC",Avon,572,2026-06-17,2026-08-17,LO,2026-08-30T21:43:41.512264Z
-30a8e1c31a6301e4,IN,Ryder Integrated Logistics,Plainfield,76,2026-06-08,2026-07-31,LO,2026-08-30T21:43:41.512264Z
-9510d78dd9056c91,IN,Noble Inc,Indianapolis,85,2026-06-02,2026-06-02,LO,2026-08-30T21:43:41.512264Z
-55e93113a9efec9e,IN,"Eclipse Advantage, LLC",Whitestown,21,2026-05-19,2026-07-18,CL,2026-08-30T21:43:41.512264Z
-65a6fd8585484715,IN,Cummins Inc,Whitestown,59,2026-05-01,2020-07-31,CL,2026-08-30T21:43:41.512264Z
-4dba6b3826e50f35,IN,CICOA Aging & In-Home Solutions,Indianapolis,90,2026-04-30,2026-05-15,LO,2026-08-30T21:43:41.512264Z
-0635180bba724cfc,IN,RESRG Automotive,Evansville,266,2026-04-14,2026-06-06,CL,2026-08-30T21:43:41.512264Z
-2a24284155181d1d,IN,"Oakland City University, Inc",Oakland City,167,2026-04-01,2026-06-01,LO,2026-08-30T21:43:41.512264Z
-ac780f63cc617ccb,IN,"WIT Logistics, LLC",Plainfield,65,2026-03-13,2026-05-31,CL,2026-08-30T21:43:41.512264Z
-e78aac2b1d1439c1,IN,Kem Krest LLC,Carmel,77,2026-03-10,2026-08-31,CL,2026-08-30T21:43:41.512264Z
-91e846cc4c3fe030,IN,"First Brands Group, LLC",Jasper,345,2026-02-27,2026-04-30,CL,2026-08-30T21:43:41.512264Z
-2436ba908ce23bf2,IN,"First Brands Group, LLC",Logansport,38,2026-02-27,2026-04-30,CL,2026-08-30T21:43:41.512264Z
-e494f7daae9b7f8d,IN,"Grouper Acquisition Company, LLC, dba Shiloh Industries, Inc",Goshen,172,2026-02-02,2026-03-31,CL,2026-08-30T21:43:41.512264Z
-4162d101855c38f3,IN,National Distribution Centers,Lebanon,53,2026-01-30,2026-04-03,CL,2026-08-30T21:43:41.512264Z
-599d5162baa32768,IN,"Inari Agriculture, Inc.",West Lafayette,64,2026-01-20,2026-01-20,LO,2026-08-30T21:43:41.512264Z
-bfb43031d3343ddf,IN,Margaret Mary Community Hospital (dba Margaret Mary Health),Batesville,55,2026-01-13,2026-03-02,TR,2026-08-30T21:43:41.512264Z
-582bed8ebd752b2c,IN,Wabash,Goshen,144,2026-01-05,2026-03-06,CL,2026-08-30T21:43:41.512264Z
-7b4ef744e3f269bd,IN,Dalton Corporation,Warsaw,257,2025-12-29,2026-02-27,CL,2026-08-30T21:43:41.512264Z
-936d235c85ffa496,IN,AAR Aircraft Services,Indianapolis,329,2025-12-23,2026-02-15,CL,2026-08-30T21:43:41.512264Z
-2d68e5e850619850,IN,Spartech LLC,Muncie,125,2025-12-12,2025-12-23,CL,2026-08-30T21:43:41.512264Z
-e3acbd9d4a816a15,IN,FreshRealm,Indianapolis,168,2025-12-02,2026-01-31,CL,2026-08-30T21:43:41.512264Z
-50fb2fe20b815e67,IN,Kloeckner Metals,Indianapolis,54,2025-11-18,2026-01-20,LO,2026-08-30T21:43:41.512264Z
-48441fac854ff2a6,IN,MDWise,Indianapolis,238,2025-11-13,2026-01-16,CL,2026-08-30T21:43:41.512264Z
-af9d5dfe32b88b95,IN,"JMS Engineered Plastics, Inc.",South Bend,49,2025-10-29,2025-10-29,LO,2026-08-30T21:43:41.512264Z
-57ed598899659b60,IN,"Freudenberg Residential Filtration Technologies, Inc.",LaPorte,173,2025-10-06,2025-12-05,CL,2026-08-30T21:43:41.512264Z
-d9f154f687881cd0,IN,"GT Industries, Inc.",North Vernon,95,2025-09-29,2025-12-01,LO,2026-08-30T21:43:41.512264Z
-d0963757c8fcdb8c,IN,Raydia Food Group,"Bloomington, Mishawaka, South Bend",200,2025-09-19,2025-11-26,CL,2026-08-30T21:43:41.512264Z
-4308f3bfcd663684,IN,Perdue Foods LLC,Washington,293,2025-09-03,2025-11-02,LO,2026-08-30T21:43:41.512264Z
-3bf2ae016a033927,IN,General Aluminum,Huntington,62,2025-08-29,2025-12-14,CL,2026-08-30T21:43:41.512264Z
-2989295cf0fb153c,IN,"Thermal Structures, Inc.",Plainfield,155,2025-08-25,,CL (Holiday),2026-08-30T21:43:41.512264Z
-6c41cc174dbe8caa,IN,"National Distribution Centers, LLC & NFI Interactive Logistics, LLC",Lebanon,79,2025-08-13,2025-10-18,CL,2026-08-30T21:43:41.512264Z
-056964751e77962c,IN,"Shine Early Learning, Inc",Fishers,57,2025-08-05,2025-10-01,LO,2026-08-30T21:43:41.512264Z
-f81e3997968e32e6,IN,Target Corp. Distribution Center,Indianapolis,201,2025-08-05,2025-09-19,CL,2026-08-30T21:43:41.512264Z
-36fd7f7edfce0824,IN,Navient Solutions LLC,Fishers,128,2025-08-04,2025-10-03,L/O,2026-08-30T21:43:41.512264Z
-183123a63d773305,IN,ASM Global/ Old National Event Plaza,Evansville,248,2025-08-01,2025-09-01,TR,2026-08-30T21:43:41.512264Z
-7bd4d59d0e8da50d,IN,Community Development Institute Head Start,Richmond,65,2025-07-31,2025-09-30,CL,2026-08-30T21:43:41.512264Z
-3a1bc285c7ffdb87,IN,Columbus Regional Health,Columbus,50,2025-06-24,2025-08-23,CL,2026-08-30T21:43:41.512264Z
-6e1327281a3c2a6d,IN,"Hoffmaster Group, Inc",Fort Wayne,53,2025-05-13,2025-11-07,CL,2026-08-30T21:43:41.512264Z
-e2f0c7421ac94a2b,IN,NFI Industries,Crown Point,78,2025-05-02,2025-07-25,CL,2026-08-30T21:43:41.512264Z
-9808473aa8cce8be,IN,SSC Services for Education dba South Bend School District,South Bend,203,2025-04-23,2025-06-30,CL,2026-08-30T21:43:41.512264Z
-0840f59d6aee30ad,IN,SSC Services for Education dba Muncie Community Schools,Muncie,58,2025-04-23,2025-06-30,CL,2026-08-30T21:43:41.512264Z
-233bc1c0f9f66dd3,IN,"DRV, LLC",Howe,51,2025-04-21,2025-06-20,CL,2026-08-30T21:43:41.512264Z
-44492a9ffd69b40c,IN,Cruiser RV,Howe,251,2025-04-21,2025-06-20,CL,2026-08-30T21:43:41.512264Z
-8388e9710a404702,IN,"Heartland Recreational Vehicles, LLC",Elkhart,147,2025-04-21,2025-06-20,CL,2026-08-30T21:43:41.512264Z
-7918fce0b6149077,IN,Nachi Technology Inc (NTI),Greenwood,72,2025-03-19,2025-12-31,CL,2026-08-30T21:43:41.512264Z
-d3d11a3fc9020ba0,IN,RR Donnelley,Seymour,96,2025-03-04,2025-05-03,CL,2026-08-30T21:43:41.512264Z
-fa32487aed93643f,IN,ABM,Indianapolis,77,2025-02-28,2025-04-30,CL,2026-08-30T21:43:41.512264Z
-bec276e8815a737b,IN,Jack Cooper Transport Company,Roanoke,251,2025-02-08,2025-02-08,CL,2026-08-30T21:43:41.512264Z
-44a19e8f8db14847,IN,US Arconic LLCRevised (3/27/25),Lafayette,80,2025-02-05,2025-06-07,CL,2026-08-30T21:43:41.512264Z
-0f457ac05fee6474,IN,Phoenix Financial Services,Fishers,94,2025-01-24,2024-12-31,CL,2026-08-30T21:43:41.512264Z
-089387320da82b0c,IN,Resident Home,Jeffersonville,106,2025-01-15,2025-03-16,CL,2026-08-30T21:43:41.512264Z
-4ce1645cf57f4467,IN,"Management & Training Corp, dba Atterbury Job Corp Center",Edinburgh,204,2024-11-13,2024-11-30,LO,2026-08-30T21:43:41.512264Z
-713361957434bbc1,IN,"UNFI Wholesale Inc, (UNFI) Distribution Center",Fort Wayne,157,2024-11-12,2025-02-14,LO,2026-08-30T21:43:41.512264Z
-a1386ee92d0f2216,IN,Forest River Inc.,Elkhart,160,2024-10-31,2024-12-31,CL,2026-08-30T21:43:41.512264Z
-a6b49568654cad6e,IN,"Pridgeon & Clay, Inc.",Franklin,125,2024-10-07,2026-03-27,CL,2026-08-30T21:43:41.512264Z
-34deebf3c63f1bf3,IN,Copeland Corp,Greenfield,75,2024-09-27,2025-01-13,CL,2026-08-30T21:43:41.512264Z
-4609de3c026de08c,IN,Novae LLC,North Manchester,80,2024-09-05,2024-11-02,CL,2026-08-30T21:43:41.512264Z
-cf51255390eab22e,IN,Hancock Regional Hospital,Greenfield,50,2024-09-04,2024-11-03,TR,2026-08-30T21:43:41.512264Z
-328073a40265922b,IN,EYM Chicken of Indiana,"Indianapolis, Franklin, Greencastle, Brazil, Batesville, Elkhart, Gary, Valparaiso, Hobart, Michigan City, Mooresville, Brazil",193,2024-08-21,2024-08-28,CL,2026-08-30T21:43:41.512264Z
-ad2001c0cda3c29f,IN,TBK America Inc,Richmond,86,2024-07-30,2024-09-30,CL,2026-08-30T21:43:41.512264Z
-1765640b613be9db,IN,Triple Canopy,"Anderson, Auburn, Bloomington, Columbus, Elkhart, Evansville, Fort Wayne, Gary, Hammond, Indianapolis, Kokomo, Lafayette, Madison, Marion, Merrillville, Michigan City, Muncie, Richmond, South Bend, Terre Haute, Valparaiso, and Vincennes",123,2024-07-23,2024-09-30,CL,2026-08-30T21:43:41.512264Z
-6fdf1bc488313635,IN,SmartStyle Salon,Anderson,1,2024-07-15,2024-07-15,CL,2026-08-30T21:43:41.512264Z
-fe5fb01e10b7a13f,IN,North American Stamping Group,Muncie,62,2024-06-26,2024-11-30,CL,2026-08-30T21:43:41.512264Z
-d8086aeeafc403e1,IN,Daimler Truck North America,Plainfield,80,2024-06-17,2024-12-31,CL,2026-08-30T21:43:41.512264Z
-a268d7a269c5378b,IN,"Cygnus Home Services, LLC, DBA Yelloh","Elkhart, Muncie",21,2024-06-03,2024-07-27,LO,2026-08-30T21:43:41.512264Z
-dace544ff776ebe3,IN,Campbell Snacks,Jeffersonville,85,2024-05-28,2024-07-27,LO,2026-08-30T21:43:41.512264Z
-b619e462dbfd27d7,IN,"HAAS Cabinet Co, INC",Sellersburg,119,2024-04-30,2024-07-11,CL,2026-08-30T21:43:41.512264Z
-35cbe013208ab238,IN,Gannett Publishing Services (Indianapolis Star),Indianapolis,1,2024-04-30,2024-12-31,CL,2026-08-30T21:43:41.512264Z
-54a610be24e1b2b5,IN,DHL Supply Chain,Clayton,170,2024-04-23,2024-08-01,CL,2026-08-30T21:43:41.512264Z
-7bd169bfde80e8ae,IN,"Pridgeon and Clay, Inc.",Franklin,75,2024-04-17,2024-06-17,LO,2026-08-30T21:43:41.512264Z
-5390bd7a491f37c2,IN,KCARC,Vincennes,15,2024-04-15,2024-05-10,CL,2026-08-30T21:43:41.512264Z
-8a4f45b98f546a04,IN,Geodis,Plainfield,99,2024-03-25,2024-06-12,LO,2026-08-30T21:43:41.512264Z
-4496d61dd9dd15b8,IN,Kenco Logistics Services LLC,Indianapolis,10,2024-03-22,2024-06-28,CL,2026-08-30T21:43:41.512264Z
-3fb287c9dba81569,IN,"Cygnus Home Services, LLC, DBA",Bedford,1,2024-03-14,2024-05-03,LO,2026-08-30T21:43:41.512264Z
-64df4205b4860a17,IN,"Strick Trailers, LLC",Monroe,103,2024-02-28,2025-09-01,LO,2026-08-30T21:43:41.512264Z
-8fc15ae973130681,IN,Sunrise Coal,"Edwardsport, Freelandville, Oaktown, Petersburg",112,2024-02-23,2024-04-23,LO,2026-08-30T21:43:41.512264Z
-0c6f1bd33ba898d7,IN,Tyson FoodsRevised (2/19/24)/td>,Corydon,168,2024-02-19,2024-08-10,CL,2026-08-30T21:43:41.512264Z
-c802c01ddd83a021,IN,BorgWarner PDSRevised (2/16/24),Kokomo,101,2024-02-16,2024-04-12,CL,2026-08-30T21:43:41.512264Z
-ae19daf846d51638,IN,Refresco,Evansville,45,2024-02-13,2024-03-28,CL,2026-08-30T21:43:41.512264Z
-8d24645fd1e32587,IN,Forest River Inc.,Elkhart,83,2024-02-12,2024-04-19,CL,2026-08-30T21:43:41.512264Z
-9a95587252948ffe,IN,Gannett Publishing Services,Indianapolis,90,2024-01-31,2024-04-07,CL,2026-08-30T21:43:41.512264Z
-bc6a481ce6de3919,IN,Integra Lifesciences,Lafayette,60,2024-01-31,2024-04-26,CL,2026-08-30T21:43:41.512264Z
-185f08fa63e9d0ce,IN,Block Inc,"Carmel, Sellersburg",2,2024-01-30,2024-03-30,LO,2026-08-30T21:43:41.512264Z
-07843c9e75d15d5e,IN,Meetings & Events International (MEI),Evansville,69,2024-01-26,2024-03-31,CL,2026-08-30T21:43:41.512264Z
-f2badc223467e6cc,IN,Energizer,Franklin,64,2024-01-22,2024-04-01,CL,2026-08-30T21:43:41.512264Z
-f7e33c12c70e5674,IN,Kenco Logistic Services,Indianapolis,110,2024-01-19,2024-03-19,CL,2026-08-30T21:43:41.512264Z
-d915d2886aebe87f,IN,"Lost Boys Interactive, LLC","Merrillville, Bloomington",2,2024-01-11,2024-03-15,LO,2026-08-30T21:43:41.512264Z
-e418bbd6c36437de,IN,Pitney Bowes Inc.,Greenwood,107,2024-01-08,2024-03-09,CL,2026-08-30T21:43:41.512264Z
-efff70f0def1e0b0,IN,GDI Services,Jeffersonville,67,2024-01-05,2024-03-05,CL,2026-08-30T21:43:41.512264Z
-4bdac84becfffd69,IN,"DFA Dairy Brands Ice Cream, LLC-Revised (9/15/21)",Decatur,,,,N/A,2026-08-30T21:43:41.512264Z
-4acf6e6c40686cd0,IN,"Steel Parts Manufacturing, Inc.-Revised (7/22/21)",Tipton,,,,N/A,2026-08-30T21:43:41.512264Z
-fe08452b30a24401,IN,Bell Techlogix-Revised (11/9/20),Plainfield,,,,N/A,2026-08-30T21:43:41.512264Z
-38cc906873390224,IN,Metaldyne BSM LLC - AAM Fremont Manufacturing Facility-Revised (12/17/20),Fremont,,,,N/A,2026-08-30T21:43:41.512264Z
-d1550e6e28e6c8e4,IN,"Regal Beloit America, Inc.-Revised (7/27/21)",Valparaiso,,,,N/A,2026-08-30T21:43:41.512264Z
-49e70b5e109c2ac1,IN,"Regal Beloit America, Inc.-Revised (9/13/21)",Valparaiso,,,,N/A,2026-08-30T21:43:41.512264Z
-c27636cbef5eaaee,IN,"United Airlines, Inc.-Revised (7/31/20)",Indianapolis,,,,N/A,2026-08-30T21:43:41.512264Z
-a8f26bcaf20665b4,IN,White Lodging Services Corporation dba JW Indianapolis-Revised (8/31/20),Indianapolis,,,,N/A,2026-08-30T21:43:41.512264Z
-da3bbb902c7a2b4f,IN,White Lodging Services Corporation dba Marriot Indianapolis-Revised (8/31/20),Indianapolis,,,,N/A,2026-08-30T21:43:41.512264Z
-27e322453ee93baa,IN,Hollywood Casino Lawrenceburg-Revised (8/19/20),Lawrenceburg,,,,N/A,2026-08-30T21:43:41.512264Z
-c43ac53088ac5093,IN,Ameristar Casino Hotel East Chicago-Revised (7/16/20),East Chicago,,,,N/A,2026-08-30T21:43:41.512264Z
-779a6e0ed5b6e2de,IN,Ameristar Casino Hotel East Chicago-Revised (9/15/20),East Chicago,,,,N/A,2026-08-30T21:43:41.512264Z
-0db760a88d25909e,IN,Vitro Automotive / Pittsburgh Glass Works-Revised (8/6/20),Evansville,,,,N/A,2026-08-30T21:43:41.512264Z
-d5bc25f568857711,IN,The Westin Hotel Indianapolis-Revised (9/9/20),Indianapolis,,,,N/A,2026-08-30T21:43:41.512264Z
-f3ec820566d6a542,IN,Exide Technologies-Revised (7/29/20),Muncie,,,,N/A,2026-08-30T21:43:41.512264Z
-f9779da05c82d51d,IN,White Lodging Services Corporation-Revised (7/8/20),Merrillville,,,,N/A,2026-08-30T21:43:41.512264Z
-f11a5b234a5414ff,IN,"Allison Transmission, Inc. Revised (5/21/20)",Indianapolis,,,,N/A,2026-08-30T21:43:41.512264Z
-522ee84f210d1149,IN,"Allison Transmission, Inc.Revised (6/4/20)",Indianapolis,,,,N/A,2026-08-30T21:43:41.512264Z
-ccdad6526574baf7,IN,ArcelorMittal USA dba ArcelorMittal Indiana Harbor Revised (4/27/20),East Chicago,,,,N/A,2026-08-30T21:43:41.512264Z
-1050664d0d27c838,IN,ArcelorMittal USA dba ArcelorMittal Indiana Harbor Revised (5/28/20),East Chicago,,,,N/A,2026-08-30T21:43:41.512264Z
-5eec9f77ba9c6ff1,IN,ArcelorMittal USA dba ArcelorMittal Indiana HarborRevised (7/28/20),East Chicago,,,,N/A,2026-08-30T21:43:41.512264Z
-b67b672362f299b2,IN,Flex-N-Gate Corporation Revised (6/24/20),Covington,,,,N/A,2026-08-30T21:43:41.512264Z
-6540a03211cc463b,IN,"ArcelorMittal USA, LLC dba ArcelorMittal Burns Harbor Revised (4/21/20)",Burns Harbor,,,,N/A,2026-08-30T21:43:41.512264Z
-581b60d60ef50b8b,IN,"ArcelorMittal USA, LLC dba ArcelorMittal Burns HarborRevised (4/29/20)",Burns Harbor,,,,N/A,2026-08-30T21:43:41.512264Z
-b20a22dd68f8b5de,IN,"ArcelorMittal USA, LLC dba ArcelorMittal Burns HarborRevised (7/29/20)",Burns Harbor,,,,N/A,2026-08-30T21:43:41.512264Z
-c58a1c896b9cf974,IN,"Jim’s Formal Wear, LLC Revised (5/27/20)",Anderson,,,,N/A,2026-08-30T21:43:41.512264Z
-fa1c161772dbbe71,IN,"Asbury Automotive GroupRevised(Doc 1, Doc 2, Doc 3, Doc 4, Doc 5, & Doc 6)","Avon, Brownsburg, Indianapolis, Lebanon and Noblesville",,,,N/A,2026-08-30T21:43:41.512264Z
-456ea03a66b3e221,IN,ZF Active Safety & Electronics US LLC Revised (4/17/20),Lafayette,,,,N/A,2026-08-30T21:43:41.512264Z
-bf6652da47adf12f,IN,"Modex Global (Formerly Busche Performance Group, Inc.)-Revised (4/28/20)","Albion, Avilla & Franklin",,,,N/A,2026-08-30T21:43:41.512264Z
-c46e6b0d16eb188c,IN,"Modex Global (Formerly Busche Performance Group, Inc.) -Revised (9/15/20)","Albion, Avilla & Franklin",,,,N/A,2026-08-30T21:43:41.512264Z
-b9b9b5128422f209,IN,BWI Group-Revised (6/15/20),Greenfield,,,,N/A,2026-08-30T21:43:41.512264Z
-2a9a2b7f135c2f68,IN,"Image One, LLC-Revised (4/15/20)",McCordsville,,,,N/A,2026-08-30T21:43:41.512264Z
-27b37105ffaf9dca,IN,Hilton Garden Inn South Bend-Revised (6/15/20),South Bend,,,,N/A,2026-08-30T21:43:41.512264Z
-3cbaebaf96ce9c05,IN,Double Tree by Hilton South Bend-Revised (3/26/20 Notice & Positions),South Bend,,,,N/A,2026-08-30T21:43:41.512264Z
-0ed251cd09cd8e3b,IN,Double Tree by Hilton South Bend-Revised (5/7/20 Notice & Positions),South Bend,,,,N/A,2026-08-30T21:43:41.512264Z
-f035e9f470061581,IN,Double Tree by Hilton South Bend-Revised (5/21/20),South Bend,,,,N/A,2026-08-30T21:43:41.512264Z
-cd0fc0ffe9ed11b5,IN,Indianapolis Marriott East-Revised (5/27/20),Indianapolis,,,,N/A,2026-08-30T21:43:41.512264Z
-cde119f5c1ef6161,IN,Double Tree Evansville-Revised (5/27/20),Evansville,,,,N/A,2026-08-30T21:43:41.512264Z
-ce001c9ce929d246,IN,Le Meridien Indianapolis-Revised (6/10/20),Indianapolis,,,,N/A,2026-08-30T21:43:41.512264Z
-ffb4dbf02364cf7c,IN,Sheraton Indianapolis at Keystone Crossing-Revised (5/27/20),Indianapolis,,,,N/A,2026-08-30T21:43:41.512264Z
-352ddcceabcfe124,IN,Stanley Black & Decker-Revised (2/10/20),Greenfield,,,,N/A,2026-08-30T21:43:41.512264Z
-27bb9c88eb4792ad,IN,Stanley Black & Decker-Revised (8/19/20),Greenfield,,,,N/A,2026-08-30T21:43:41.512264Z
-6870a65c166b9a39,IN,United States Steel Corporation-Revised (10/7/19),East Chicago,,,,N/A,2026-08-30T21:43:41.512264Z
-93a8f5d44c0bd808,IN,"Nestle USA, Inc.-Revised (8/23/19)",Fort Wayne,,,,N/A,2026-08-30T21:43:41.512264Z
-292ad7a5c9bb07e1,IN,"Peabody Indiana Services, LLC-Revised (9/30/19)",Oakland City,,,,N/A,2026-08-30T21:43:41.512264Z
-93b4f1e86f759337,IN,"Peabody Indiana Services, LLC-Revised (12/27/19)",Oakland City,,,,N/A,2026-08-30T21:43:41.512264Z
-7bccc4cef7270b34,IN,"Peabody Indiana Services, LLC-Revised (3/31/20:Doc 1 & Doc 2)",Oakland City,,,,N/A,2026-08-30T21:43:41.512264Z
-c6145b7d81dfa55f,IN,"Peabody Indiana Services, LLC-Revised (6/24/20:Doc 1 & Doc 2)",Oakland City,,,,N/A,2026-08-30T21:43:41.512264Z
-7191c25535243ce0,IN,"NIBCO, Inc.-Revised (5/24/19)",Charlestown,,,,N/A,2026-08-30T21:43:41.512264Z
-e21d7157851207cb,IN,"NIBCO, Inc.-Revised (6/7/19)",Charlestown,,,,N/A,2026-08-30T21:43:41.512264Z
-5849014a2b2d291d,IN,"NIBCO, Inc.-Revised (6/21/19)",Charlestown,,,,N/A,2026-08-30T21:43:41.512264Z
-899aca503a30ebe2,IN,"NIBCO, Inc.-Revised (6/28/19)",Charlestown,,,,N/A,2026-08-30T21:43:41.512264Z
-28c1696eca711662,IN,"NIBCO, Inc.-Revised (7/26/19)",Charlestown,,,,N/A,2026-08-30T21:43:41.512264Z
-1a89d996ab62228e,IN,"NIBCO, Inc.-Revised (8/9/19)",Charlestown,,,,N/A,2026-08-30T21:43:41.512264Z
-58cc2f97c75f87d4,IN,"NIBCO, Inc.-Revised (8/15/19)",Charlestown,,,,N/A,2026-08-30T21:43:41.512264Z
-c5e440c46f99d988,IN,"NIBCO, Inc.-Revised (8/29/19)",Charlestown,,,,N/A,2026-08-30T21:43:41.512264Z
-a8ada1ef07472e0d,IN,"NIBCO, Inc.-Revised (9/13/19)",Charlestown,,,,N/A,2026-08-30T21:43:41.512264Z
-fbda9e5cf3fce533,IN,"NIBCO, Inc.-Revised (10/10/19)",Charlestown,,,,N/A,2026-08-30T21:43:41.512264Z
-00f77e9a5decab58,IN,"NIBCO, Inc.-Revised (11/1/19)",Charlestown,,,,N/A,2026-08-30T21:43:41.512264Z
-fa729cb8f650c9ae,IN,Schneider Electric-Revised (6/25/19),Peru,,,,N/A,2026-08-30T21:43:41.512264Z
-e84eb7a6745e0cb0,IN,Schneider Electric-Revised (7/31/19),Peru,,,,N/A,2026-08-30T21:43:41.512264Z
-a593494706ea25d3,IN,Schneider Electric-Revised (8/29/19),Peru,,,,N/A,2026-08-30T21:43:41.512264Z
-4762754c5cd0a89c,IN,Schneider Electric-Revised (9/23/19),Peru,,,,N/A,2026-08-30T21:43:41.512264Z
-fa4dd407c487f537,IN,Schneider Electric-Revised (10/28/19),Peru,,,,N/A,2026-08-30T21:43:41.512264Z
-45705f0762fb7472,IN,Schneider Electric-Revised (12/27/19),Peru,,,,N/A,2026-08-30T21:43:41.512264Z
-29f54445d51d19be,IN,Schneider Electric-Revised (1/28/20),Peru,,,,N/A,2026-08-30T21:43:41.512264Z
-6acc66e1034aaacd,IN,Schneider Electric-Revised (2/24/20),Peru,,,,N/A,2026-08-30T21:43:41.512264Z
-c6e65b3c583253db,IN,Matthews International Corporation-Revised (6/14/19),Richmond,,,,N/A,2026-08-30T21:43:41.512264Z
-9db67796545bdb50,IN,"Deufol Sunman, Inc.-Revised (5/2/19)",Sunman,,,,N/A,2026-08-30T21:43:41.512264Z
-ec06e768ee1cf97e,IN,"Deufol Sunman, Inc.-Revised (6/27/19)",Sunman,,,,N/A,2026-08-30T21:43:41.512264Z
-af18902435c4b014,IN,"Deufol Sunman, Inc.-Revised (8/2/19)",Sunman,,,,N/A,2026-08-30T21:43:41.512264Z
-0b4a777567795ee2,IN,"Deufol Sunman, Inc.-Revised (8/9/19)",Sunman,,,,N/A,2026-08-30T21:43:41.512264Z
-53d5960e9f089f9c,IN,DJO Global-Revised (7/26/18),Plainfield,,,,N/A,2026-08-30T21:43:41.512264Z
-3c7c4a9f69ce2192,IN,DJO Global-Revised (8/23/18),Plainfield,,,,N/A,2026-08-30T21:43:41.512264Z
-c0f64e80579b4bc6,IN,DJO Global-Revised (10/5/18),Plainfield,,,,N/A,2026-08-30T21:43:41.512264Z
-ffae13e4fd9d30cc,IN,Janesville Acoustics-Revised (2/12/18),Richmond,,,,N/A,2026-08-30T21:43:41.512264Z
-10c342b12fa1cd70,IN,Janesville Acoustics-Revised (5/30/18),Richmond,,,,N/A,2026-08-30T21:43:41.512264Z
-8dd1f74d34427a56,IN,Harman International Industries- Revised (11/22/17),Elkhart,,,,N/A,2026-08-30T21:43:41.512264Z
-06b13899b5484a89,IN,Harman International Industries- Revised (4/20/18),Elkhart,,,,N/A,2026-08-30T21:43:41.512264Z
-e06de689a6e0ed88,IN,"Bay Valley Foods LLC, Tree House Foods- Revised (9/19/17)",Plymouth,,,,N/A,2026-08-30T21:43:41.512264Z
-87e48d8bda396c17,IN,"Deufol Sunman, Inc-Revised 9/29/17",Sunman,,,,N/A,2026-08-30T21:43:41.512264Z
-2133f2190ebb8262,IN,White's Residential and Family Services-Revised (7/27/17),Wheatfield,,,,N/A,2026-08-30T21:43:41.512264Z
-7d174ebb2fc31b89,IN,White's Residential and Family Services-Revised (10/24/17),Wheatfield,,,,N/A,2026-08-30T21:43:41.512264Z
-1638c7cdbdeff2b3,IN,White's Residential and Family Services-Revised (12/14/18),Wheatfield,,,,N/A,2026-08-30T21:43:41.512264Z
-be5cd56b3d493460,IN,White's Residential and Family Services-Revised (2/7/19),Wheatfield,,,,N/A,2026-08-30T21:43:41.512264Z
-bd9408798a9fc826,IN,White's Residential and Family Services-Revised (3/22/19),Wheatfield,,,,N/A,2026-08-30T21:43:41.512264Z
-2808e352880b9330,IN,White's Residential and Family Services-Revised (11/19/19),Wheatfield,,,,N/A,2026-08-30T21:43:41.512264Z
-27822d6e752d0994,IN,St. Vincent Health-Revised (7/20/17),"Anderson, Evansville, Indianapolis, Kokomo, Salem",,,,N/A,2026-08-30T21:43:41.512264Z
-89115bc39b3d140a,IN,Buckhorn Inc-Revised (5/26/17),Bluffton,,,,N/A,2026-08-30T21:43:41.512264Z
-144ffee28a77a9be,IN,Buckhorn Inc-Revised (9/5/17),Bluffton,,,,N/A,2026-08-30T21:43:41.512264Z
-707b2db23c5a3270,IN,Schneider Electric-Revised (5/25/17),Peru,,,,N/A,2026-08-30T21:43:41.512264Z
-e3b80746fc2fbea7,IN,Saint Joseph's College Revised (3/6/17),Rensselaer,,,,N/A,2026-08-30T21:43:41.512264Z
-f001da05d0ab4c6a,IN,Saint Joseph's College Revised (3/10/17),Rensselaer,,,,N/A,2026-08-30T21:43:41.512264Z
-9de4f2ba2eedb12b,IN,Saint Joseph's College Revised (4/11/17),Rensselaer,,,,N/A,2026-08-30T21:43:41.512264Z
-7b705b81a5128147,IN,Saint Joseph's College Revised (4/28/17),Rensselaer,,,,N/A,2026-08-30T21:43:41.512264Z
-321a59f4ef48bd34,IN,Saint Joseph's College Revised (5/10/17),Rensselaer,,,,N/A,2026-08-30T21:43:41.512264Z
-a7ee7a259e305377,IN,Saint Joseph's College Revised (7/5/17),Rensselaer,,,,N/A,2026-08-30T21:43:41.512264Z
-8fef80cefa1dc9e8,IN,Saint Joseph's College Revised (7/24/17),Rensselaer,,,,N/A,2026-08-30T21:43:41.512264Z
-6e56ea21b65d8e1f,IN,Saint Joseph's College Revised (1/17/18),Rensselaer,,,,N/A,2026-08-30T21:43:41.512264Z
-21b220a82573f383,IN,Harman International Industries Revised (5/17/17),Elkhart,,,,N/A,2026-08-30T21:43:41.512264Z
-dea5246c2dcbe6d2,IN,Eli Lilly and Company Revised (2/3/17),Nationwide,,,,N/A,2026-08-30T21:43:41.512264Z
-6f6fdb00b4e9dbb5,IN,Saint Meinrad Archabbey-Revised (4/28/17),Saint Meinrad,,,,N/A,2026-08-30T21:43:41.512264Z
-0f23881ff83919b7,IN,Paoli LLC-Revised (12/6/17),Orleans,,,,N/A,2026-08-30T21:43:41.512264Z
-6fa5c8e5614c4e86,IN,Indianapolis Haulage-Revised (9/20/16),Indianapolis & Yorktown,,,,N/A,2026-08-30T21:43:41.512264Z
-388b01219cc1a295,IN,Indianapolis Haulage -Revised (9/30/16),Indianapolis & Yorktown,,,,N/A,2026-08-30T21:43:41.512264Z
-f7235c74b7379d5e,IN,Indianapolis Logistics-Revised (9/20/16),Indianapolis & Yorktown,,,,N/A,2026-08-30T21:43:41.512264Z
-ccb95befca657211,IN,Indianapolis Logistics-Revised (9/30/16),Indianapolis & Yorktown,,,,N/A,2026-08-30T21:43:41.512264Z
-2c247552d19d8e56,IN,"Applegate Livestock Equipment, Inc.-Revised (6/14/16)",Union City,,,,N/A,2026-08-30T21:43:41.512264Z
-dcd219e263279984,IN,"Applegate Livestock Equipment, Inc.-Revised (7/15/16)",Union City,,,,N/A,2026-08-30T21:43:41.512264Z
-00a5d50b29794caa,IN,Silgan Containers -Revised,LaPorte,,,,N/A,2026-08-30T21:43:41.512264Z
-a47e6ef37a8d9243,IN,Silgan Containers -Revised(7/29/16),LaPorte,,,,N/A,2026-08-30T21:43:41.512264Z
-528faf05a4929694,IN,Carter Fuel Systems-Revised (10/5/15),Logansport,,,,N/A,2026-08-30T21:43:41.512264Z
-5d335e2b2d1e8960,IN,Carter Fuel Systems-Revised (12/11/15),Logansport,,,,N/A,2026-08-30T21:43:41.512264Z
-ea3ff28a57a55e33,IN,"Pall Filter Specialists, Inc.-Revised (12/2/15)",Michigan City,,,,N/A,2026-08-30T21:43:41.512264Z
-861e972e97b0f3de,IN,Silgan Plastics Corporation-Revised (8/24/15),Ligonier,,,,N/A,2026-08-30T21:43:41.512264Z
-adcbf2c05a2b5c25,IN,Goodwill Industries of Central Indiana-Revised,Indianapolis,,,,N/A,2026-08-30T21:43:41.512264Z
-9ab4a8a9f276b289,IN,Tecomet - Symmetry Medical Manufacturing Inc.-Revised,Avilla,,,,N/A,2026-08-30T21:43:41.512264Z
-2838247488b2021c,IN,Schott Gemtron-Revised,Vincennes,,,,N/A,2026-08-30T21:43:41.512264Z
-ff669261310ca7db,IN,Northrop Grumman-Revised,Edinburg,,,,N/A,2026-08-30T21:43:41.512264Z
-37d91b40b3206eed,IN,Northrop Grumman--Revised,Edinburg,,,,N/A,2026-08-30T21:43:41.512264Z
-ae5a46620c60b0a9,IN,Rural Metro Corporation-Revised,"Indianapolis, Anderson, Logansport, Martinsville, and Richmond",,,,N/A,2026-08-30T21:43:41.512264Z
-dda5f797d319f5e8,IN,Chesapeake Pharmaceutical and Healthcare Packaging-Revised,Evansville,,,,N/A,2026-08-30T21:43:41.512264Z
-a7ffe8d148ef25a0,IN,"Peabody Indiana Services, LLC -Revised",Cannelburg,,,,N/A,2026-08-30T21:43:41.512264Z
-b7cb2a2827fde49c,IN,"Peabody Midwest Management Services, LLC-Revised",Cannelburg,,,,N/A,2026-08-30T21:43:41.512264Z
-739c37a09bc3bb47,IN,"The Arc of Northwest Indiana, Inc-Revised",Lake and Porter Counties,,,,N/A,2026-08-30T21:43:41.512264Z
-47e5bcaf8cecf094,IN,CMW International Inc.-Revised,Indianapolis,,,,N/A,2026-08-30T21:43:41.512264Z
-39c50b7b79876f48,IN,"Cequent Performance Products, Inc-Revised",Huntington,,,,N/A,2026-08-30T21:43:41.512264Z
-869e674e03e0b7b6,IN,Unilever Ice Cream Manufacturing-Revised,Huntington,,,,N/A,2026-08-30T21:43:41.512264Z
-42c19eea7b1a8ffb,IN,Warner Transitional Services-Revised,Indianapolis,,,,N/A,2026-08-30T21:43:41.512264Z
-bf17a0318487254d,IN,International Paper Company-Revised,Indianapolis,,,,N/A,2026-08-30T21:43:41.512264Z
-6074147cc29f3dfe,IN,U.S. Cellular Corporation-Revised,"Elkhart, Fort Wayne, Merrillville, Michigan City, Mishawaka, Portage, Schererville, South Bend",,,,N/A,2026-08-30T21:43:41.512264Z
-ed2a4463210c9533,IN,Pitney Bowes-Revised,Plainfield,,,,N/A,2026-08-30T21:43:41.512264Z
-cf290a85f2c8e677,IN,"Hologic, Inc.-Revised",Indianapolis,,,,N/A,2026-08-30T21:43:41.512264Z
-a1ad0d93a983dab1,IN,Steel Parts Manufacturing Inc-Revised,Tipton,,,,N/A,2026-08-30T21:43:41.512264Z
-d760403d7b329f1a,IN,Amsted Rail Inc-Revised,Hammond,,,,N/A,2026-08-30T21:43:41.512264Z
-4875f0887203960e,IN,Whirlpool Corporation-Revised,Evansville,,,,N/A,2026-08-30T21:43:41.512264Z
-d1a6dbbdc692d421,IN,Manitowoc Foodservice-Revised,Fort Wayne,,,,N/A,2026-08-30T21:43:41.512264Z
-3b2bd5a7d179fee9,IN,Peabody Energy-Revised,Vincennes,,,,N/A,2026-08-30T21:43:41.512264Z
-3d49a3e00dc424a6,IN,"JCIM, LLC-Revised",Kendallville,,,,N/A,2026-08-30T21:43:41.512264Z
-6f80610a08329a73,IN,"Sunrise Publications, Inc.-Revised",Bloomington,,,,N/A,2026-08-30T21:43:41.512264Z
-f980e14ad86958cb,IN,"Ross Sand Casting Industries, Inc. Plant 3-Revised",Winchester,,,,N/A,2026-08-30T21:43:41.512264Z
-0a6509f0710c13eb,IN,Bon L Manufacturing Co.-Revised,Kentland,,,,N/A,2026-08-30T21:43:41.512264Z
-ebd60a3109076d82,IN,International Paper Company Shorewood Packaging-Revised,Indianapolis,,,,N/A,2026-08-30T21:43:41.512264Z
-3de81529c6751172,IN,Fortis Plastics-Corporate Offices,South Bend,,,,N/A,2026-08-30T21:43:41.512264Z
-cacba1913f44529f,IN,Fortis Plastics-Revised Corporate,South Bend,,,,N/A,2026-08-30T21:43:41.512264Z
-b1ac814ef3704359,IN,Fortis Plastics-Manufacturing Facilities,South Bend,,,,N/A,2026-08-30T21:43:41.512264Z
-70bcde0af0e48330,IN,Fortis Plastics-Revised Manufacturing,South Bend,,,,N/A,2026-08-30T21:43:41.512264Z
-4e51c6fd647fc4be,IN,Ford Motor Company-Revised,Indianapolis,,,,N/A,2026-08-30T21:43:41.512264Z
-b5e5cdfbbd1410df,IN,"Vantiv, LLC-Revised",Evansville,,,,N/A,2026-08-30T21:43:41.512264Z
-037fbab80a3e76f1,IN,"Navistar, Inc-Revised",Fort Wayne,,,,N/A,2026-08-30T21:43:41.512264Z
-fc3d3cc1c9c95dac,IN,"Navistar, Inc-Attachment",Fort Wayne,,,,N/A,2026-08-30T21:43:41.512264Z
-22053af0dc5b9115,IN,Workhorse Custom Chassis LLC-Revised,Union City,,,,N/A,2026-08-30T21:43:41.512264Z
-afcb3482eae203d6,IN,Ficosa North America-Revised,Berne,,,,N/A,2026-08-30T21:43:41.512264Z
-7bbd5d44bde338ea,IN,Ficosa North America-Exhibit A,Berne,,,,N/A,2026-08-30T21:43:41.512264Z
-c23e3337e0bb7a7e,IN,General Motors Stamping Plant-Revised,Indianapolis,,,,N/A,2026-08-30T21:43:41.512264Z
-f3b5aef140822f60,IN,Printpack Inc.-Revised,Greensburg,,,,N/A,2026-08-30T21:43:41.512264Z
-0688ba465a32c632,IN,"Automotive Components Holding, LLC-Revised",Indianapolis,,,,N/A,2026-08-30T21:43:41.512264Z
-d4bce2ebf5d2ba09,IN,Camryn Industries-Revised,Berne,,,,N/A,2026-08-30T21:43:41.512264Z
-cf4b3e7a6d6021cf,IN,MHP Pharmacy -dba- Freedom Pharmacy-Revised,Indianapolis,,,,N/A,2026-08-30T21:43:41.512264Z
-f454e84ced1bea3e,IN,Dawn Foods-Revised,Crown Point,,,,N/A,2026-08-30T21:43:41.512264Z
-c35407f1b55ffd1d,IN,Newport Chemical Depot-Revised,Newport,,,,N/A,2026-08-30T21:43:41.512264Z
-bc70d1d832a821f4,IN,Visteon Corporation-Revised,Indianapolis,,,,N/A,2026-08-30T21:43:41.512264Z
-6e3dbacddded0104,IN,Heraeus Electro-Nite Co.-Revised,Peru,,,,N/A,2026-08-30T21:43:41.512264Z
-e5235112204a261d,IN,Modine Manufacturing-Revised,Logansport,,,,N/A,2026-08-30T21:43:41.512264Z
+id,state,company,company_canonical,company_dba,location,employees_affected,notice_date,effective_date,notice_type,first_seen
+4837064cfb328c8c,IN,Postal Center International Inc,Postal Center International,,Brownsburg,151,2026-08-13,2026-08-13,CL,2026-08-30T21:43:41.512264Z
+3760e2e00b20710e,IN,Owens Corning,Owens Corning,,Walkerton,130,2026-07-21,2026-09-19,CL,2026-08-30T21:43:41.512264Z
+c3af09eece6a42f0,IN,"Forest River, Inc.",Forest River,,Bristol,105,2026-07-17,2026-09-17,CL,2026-08-30T21:43:41.512264Z
+05c6c8549b1a2bad,IN,Thyssenkrupp Presta North America,Thyssenkrupp Presta North America,,Terre Haute,207,2026-06-30,2027-03-31,CL,2026-08-30T21:43:41.512264Z
+5131ecfbbd23b390,IN,"Conduent Commercial Solutions, LLC",Conduent Commercial Solutions,,Statewide,7,2026-06-26,2026-08-28,LO,2026-08-30T21:43:41.512264Z
+06ce1372bafe6932,IN,"Snyder’s-Lance, Inc d/b/a Campbell Snacks",Snyder's-Lance,Campbell Snacks,Jeffersonville,111,2026-06-18,2026-09-15,CL,2026-08-30T21:43:41.512264Z
+df1bd0d2d781e9a7,IN,humano LLC,humano,,Avon,586,2026-06-17,2026-08-17,CL,2026-08-30T21:43:41.512264Z
+b42fe49a91522364,IN,"SIMOS Insourcing Solutions, LLC",SIMOS Insourcing Solutions,,Avon,572,2026-06-17,2026-08-17,LO,2026-08-30T21:43:41.512264Z
+30a8e1c31a6301e4,IN,Ryder Integrated Logistics,Ryder Integrated Logistics,,Plainfield,76,2026-06-08,2026-07-31,LO,2026-08-30T21:43:41.512264Z
+9510d78dd9056c91,IN,Noble Inc,Noble,,Indianapolis,85,2026-06-02,2026-06-02,LO,2026-08-30T21:43:41.512264Z
+55e93113a9efec9e,IN,"Eclipse Advantage, LLC",Eclipse Advantage,,Whitestown,21,2026-05-19,2026-07-18,CL,2026-08-30T21:43:41.512264Z
+65a6fd8585484715,IN,Cummins Inc,Cummins,,Whitestown,59,2026-05-01,2020-07-31,CL,2026-08-30T21:43:41.512264Z
+4dba6b3826e50f35,IN,CICOA Aging & In-Home Solutions,CICOA Aging & In-Home Solutions,,Indianapolis,90,2026-04-30,2026-05-15,LO,2026-08-30T21:43:41.512264Z
+0635180bba724cfc,IN,RESRG Automotive,RESRG Automotive,,Evansville,266,2026-04-14,2026-06-06,CL,2026-08-30T21:43:41.512264Z
+2a24284155181d1d,IN,"Oakland City University, Inc",Oakland City University,,Oakland City,167,2026-04-01,2026-06-01,LO,2026-08-30T21:43:41.512264Z
+ac780f63cc617ccb,IN,"WIT Logistics, LLC",WIT Logistics,,Plainfield,65,2026-03-13,2026-05-31,CL,2026-08-30T21:43:41.512264Z
+e78aac2b1d1439c1,IN,Kem Krest LLC,Kem Krest,,Carmel,77,2026-03-10,2026-08-31,CL,2026-08-30T21:43:41.512264Z
+91e846cc4c3fe030,IN,"First Brands Group, LLC",First Brands Group,,Jasper,345,2026-02-27,2026-04-30,CL,2026-08-30T21:43:41.512264Z
+2436ba908ce23bf2,IN,"First Brands Group, LLC",First Brands Group,,Logansport,38,2026-02-27,2026-04-30,CL,2026-08-30T21:43:41.512264Z
+e494f7daae9b7f8d,IN,"Grouper Acquisition Company, LLC, dba Shiloh Industries, Inc",Grouper Acquisition,"Shiloh Industries, Inc",Goshen,172,2026-02-02,2026-03-31,CL,2026-08-30T21:43:41.512264Z
+4162d101855c38f3,IN,National Distribution Centers,National Distribution Centers,,Lebanon,53,2026-01-30,2026-04-03,CL,2026-08-30T21:43:41.512264Z
+599d5162baa32768,IN,"Inari Agriculture, Inc.",Inari Agriculture,,West Lafayette,64,2026-01-20,2026-01-20,LO,2026-08-30T21:43:41.512264Z
+bfb43031d3343ddf,IN,Margaret Mary Community Hospital (dba Margaret Mary Health),Margaret Mary Community Hospital,Margaret Mary Health,Batesville,55,2026-01-13,2026-03-02,TR,2026-08-30T21:43:41.512264Z
+582bed8ebd752b2c,IN,Wabash,Wabash,,Goshen,144,2026-01-05,2026-03-06,CL,2026-08-30T21:43:41.512264Z
+7b4ef744e3f269bd,IN,Dalton Corporation,Dalton,,Warsaw,257,2025-12-29,2026-02-27,CL,2026-08-30T21:43:41.512264Z
+936d235c85ffa496,IN,AAR Aircraft Services,AAR Aircraft Services,,Indianapolis,329,2025-12-23,2026-02-15,CL,2026-08-30T21:43:41.512264Z
+2d68e5e850619850,IN,Spartech LLC,Spartech,,Muncie,125,2025-12-12,2025-12-23,CL,2026-08-30T21:43:41.512264Z
+e3acbd9d4a816a15,IN,FreshRealm,FreshRealm,,Indianapolis,168,2025-12-02,2026-01-31,CL,2026-08-30T21:43:41.512264Z
+50fb2fe20b815e67,IN,Kloeckner Metals,Kloeckner Metals,,Indianapolis,54,2025-11-18,2026-01-20,LO,2026-08-30T21:43:41.512264Z
+48441fac854ff2a6,IN,MDWise,MDWise,,Indianapolis,238,2025-11-13,2026-01-16,CL,2026-08-30T21:43:41.512264Z
+af9d5dfe32b88b95,IN,"JMS Engineered Plastics, Inc.",JMS Engineered Plastics,,South Bend,49,2025-10-29,2025-10-29,LO,2026-08-30T21:43:41.512264Z
+57ed598899659b60,IN,"Freudenberg Residential Filtration Technologies, Inc.",Freudenberg Residential Filtration Technologies,,LaPorte,173,2025-10-06,2025-12-05,CL,2026-08-30T21:43:41.512264Z
+d9f154f687881cd0,IN,"GT Industries, Inc.",GT Industries,,North Vernon,95,2025-09-29,2025-12-01,LO,2026-08-30T21:43:41.512264Z
+d0963757c8fcdb8c,IN,Raydia Food Group,Raydia Food Group,,"Bloomington, Mishawaka, South Bend",200,2025-09-19,2025-11-26,CL,2026-08-30T21:43:41.512264Z
+4308f3bfcd663684,IN,Perdue Foods LLC,Perdue Foods,,Washington,293,2025-09-03,2025-11-02,LO,2026-08-30T21:43:41.512264Z
+3bf2ae016a033927,IN,General Aluminum,General Aluminum,,Huntington,62,2025-08-29,2025-12-14,CL,2026-08-30T21:43:41.512264Z
+2989295cf0fb153c,IN,"Thermal Structures, Inc.",Thermal Structures,,Plainfield,155,2025-08-25,,CL (Holiday),2026-08-30T21:43:41.512264Z
+6c41cc174dbe8caa,IN,"National Distribution Centers, LLC & NFI Interactive Logistics, LLC","National Distribution Centers, LLC & NFI Interactive Logistics",,Lebanon,79,2025-08-13,2025-10-18,CL,2026-08-30T21:43:41.512264Z
+056964751e77962c,IN,"Shine Early Learning, Inc",Shine Early Learning,,Fishers,57,2025-08-05,2025-10-01,LO,2026-08-30T21:43:41.512264Z
+f81e3997968e32e6,IN,Target Corp. Distribution Center,Target Corp. Distribution Center,,Indianapolis,201,2025-08-05,2025-09-19,CL,2026-08-30T21:43:41.512264Z
+36fd7f7edfce0824,IN,Navient Solutions LLC,Navient Solutions,,Fishers,128,2025-08-04,2025-10-03,L/O,2026-08-30T21:43:41.512264Z
+183123a63d773305,IN,ASM Global/ Old National Event Plaza,ASM Global/ Old National Event Plaza,,Evansville,248,2025-08-01,2025-09-01,TR,2026-08-30T21:43:41.512264Z
+7bd4d59d0e8da50d,IN,Community Development Institute Head Start,Community Development Institute Head Start,,Richmond,65,2025-07-31,2025-09-30,CL,2026-08-30T21:43:41.512264Z
+3a1bc285c7ffdb87,IN,Columbus Regional Health,Columbus Regional Health,,Columbus,50,2025-06-24,2025-08-23,CL,2026-08-30T21:43:41.512264Z
+6e1327281a3c2a6d,IN,"Hoffmaster Group, Inc",Hoffmaster Group,,Fort Wayne,53,2025-05-13,2025-11-07,CL,2026-08-30T21:43:41.512264Z
+e2f0c7421ac94a2b,IN,NFI Industries,NFI Industries,,Crown Point,78,2025-05-02,2025-07-25,CL,2026-08-30T21:43:41.512264Z
+9808473aa8cce8be,IN,SSC Services for Education dba South Bend School District,SSC Services for Education,South Bend School District,South Bend,203,2025-04-23,2025-06-30,CL,2026-08-30T21:43:41.512264Z
+0840f59d6aee30ad,IN,SSC Services for Education dba Muncie Community Schools,SSC Services for Education,Muncie Community Schools,Muncie,58,2025-04-23,2025-06-30,CL,2026-08-30T21:43:41.512264Z
+233bc1c0f9f66dd3,IN,"DRV, LLC",DRV,,Howe,51,2025-04-21,2025-06-20,CL,2026-08-30T21:43:41.512264Z
+44492a9ffd69b40c,IN,Cruiser RV,Cruiser RV,,Howe,251,2025-04-21,2025-06-20,CL,2026-08-30T21:43:41.512264Z
+8388e9710a404702,IN,"Heartland Recreational Vehicles, LLC",Heartland Recreational Vehicles,,Elkhart,147,2025-04-21,2025-06-20,CL,2026-08-30T21:43:41.512264Z
+7918fce0b6149077,IN,Nachi Technology Inc (NTI),Nachi Technology Inc (NTI),,Greenwood,72,2025-03-19,2025-12-31,CL,2026-08-30T21:43:41.512264Z
+d3d11a3fc9020ba0,IN,RR Donnelley,RR Donnelley,,Seymour,96,2025-03-04,2025-05-03,CL,2026-08-30T21:43:41.512264Z
+fa32487aed93643f,IN,ABM,ABM,,Indianapolis,77,2025-02-28,2025-04-30,CL,2026-08-30T21:43:41.512264Z
+bec276e8815a737b,IN,Jack Cooper Transport Company,Jack Cooper Transport,,Roanoke,251,2025-02-08,2025-02-08,CL,2026-08-30T21:43:41.512264Z
+44a19e8f8db14847,IN,US Arconic LLCRevised (3/27/25),US Arconic LLCRevised (3/27/25),,Lafayette,80,2025-02-05,2025-06-07,CL,2026-08-30T21:43:41.512264Z
+0f457ac05fee6474,IN,Phoenix Financial Services,Phoenix Financial Services,,Fishers,94,2025-01-24,2024-12-31,CL,2026-08-30T21:43:41.512264Z
+089387320da82b0c,IN,Resident Home,Resident Home,,Jeffersonville,106,2025-01-15,2025-03-16,CL,2026-08-30T21:43:41.512264Z
+4ce1645cf57f4467,IN,"Management & Training Corp, dba Atterbury Job Corp Center",Management & Training,Atterbury Job Corp Center,Edinburgh,204,2024-11-13,2024-11-30,LO,2026-08-30T21:43:41.512264Z
+713361957434bbc1,IN,"UNFI Wholesale Inc, (UNFI) Distribution Center","UNFI Wholesale Inc, (UNFI) Distribution Center",,Fort Wayne,157,2024-11-12,2025-02-14,LO,2026-08-30T21:43:41.512264Z
+a1386ee92d0f2216,IN,Forest River Inc.,Forest River,,Elkhart,160,2024-10-31,2024-12-31,CL,2026-08-30T21:43:41.512264Z
+a6b49568654cad6e,IN,"Pridgeon & Clay, Inc.",Pridgeon & Clay,,Franklin,125,2024-10-07,2026-03-27,CL,2026-08-30T21:43:41.512264Z
+34deebf3c63f1bf3,IN,Copeland Corp,Copeland,,Greenfield,75,2024-09-27,2025-01-13,CL,2026-08-30T21:43:41.512264Z
+4609de3c026de08c,IN,Novae LLC,Novae,,North Manchester,80,2024-09-05,2024-11-02,CL,2026-08-30T21:43:41.512264Z
+cf51255390eab22e,IN,Hancock Regional Hospital,Hancock Regional Hospital,,Greenfield,50,2024-09-04,2024-11-03,TR,2026-08-30T21:43:41.512264Z
+328073a40265922b,IN,EYM Chicken of Indiana,EYM Chicken of Indiana,,"Indianapolis, Franklin, Greencastle, Brazil, Batesville, Elkhart, Gary, Valparaiso, Hobart, Michigan City, Mooresville, Brazil",193,2024-08-21,2024-08-28,CL,2026-08-30T21:43:41.512264Z
+ad2001c0cda3c29f,IN,TBK America Inc,TBK America,,Richmond,86,2024-07-30,2024-09-30,CL,2026-08-30T21:43:41.512264Z
+1765640b613be9db,IN,Triple Canopy,Triple Canopy,,"Anderson, Auburn, Bloomington, Columbus, Elkhart, Evansville, Fort Wayne, Gary, Hammond, Indianapolis, Kokomo, Lafayette, Madison, Marion, Merrillville, Michigan City, Muncie, Richmond, South Bend, Terre Haute, Valparaiso, and Vincennes",123,2024-07-23,2024-09-30,CL,2026-08-30T21:43:41.512264Z
+6fdf1bc488313635,IN,SmartStyle Salon,SmartStyle Salon,,Anderson,1,2024-07-15,2024-07-15,CL,2026-08-30T21:43:41.512264Z
+fe5fb01e10b7a13f,IN,North American Stamping Group,North American Stamping Group,,Muncie,62,2024-06-26,2024-11-30,CL,2026-08-30T21:43:41.512264Z
+d8086aeeafc403e1,IN,Daimler Truck North America,Daimler Truck North America,,Plainfield,80,2024-06-17,2024-12-31,CL,2026-08-30T21:43:41.512264Z
+a268d7a269c5378b,IN,"Cygnus Home Services, LLC, DBA Yelloh",Cygnus Home Services,Yelloh,"Elkhart, Muncie",21,2024-06-03,2024-07-27,LO,2026-08-30T21:43:41.512264Z
+dace544ff776ebe3,IN,Campbell Snacks,Campbell Snacks,,Jeffersonville,85,2024-05-28,2024-07-27,LO,2026-08-30T21:43:41.512264Z
+b619e462dbfd27d7,IN,"HAAS Cabinet Co, INC",HAAS Cabinet,,Sellersburg,119,2024-04-30,2024-07-11,CL,2026-08-30T21:43:41.512264Z
+35cbe013208ab238,IN,Gannett Publishing Services (Indianapolis Star),Gannett Publishing Services (Indianapolis Star),,Indianapolis,1,2024-04-30,2024-12-31,CL,2026-08-30T21:43:41.512264Z
+54a610be24e1b2b5,IN,DHL Supply Chain,DHL Supply Chain,,Clayton,170,2024-04-23,2024-08-01,CL,2026-08-30T21:43:41.512264Z
+7bd169bfde80e8ae,IN,"Pridgeon and Clay, Inc.",Pridgeon and Clay,,Franklin,75,2024-04-17,2024-06-17,LO,2026-08-30T21:43:41.512264Z
+5390bd7a491f37c2,IN,KCARC,Kcarc,,Vincennes,15,2024-04-15,2024-05-10,CL,2026-08-30T21:43:41.512264Z
+8a4f45b98f546a04,IN,Geodis,Geodis,,Plainfield,99,2024-03-25,2024-06-12,LO,2026-08-30T21:43:41.512264Z
+4496d61dd9dd15b8,IN,Kenco Logistics Services LLC,Kenco Logistics Services,,Indianapolis,10,2024-03-22,2024-06-28,CL,2026-08-30T21:43:41.512264Z
+3fb287c9dba81569,IN,"Cygnus Home Services, LLC, DBA",Cygnus Home Services,,Bedford,1,2024-03-14,2024-05-03,LO,2026-08-30T21:43:41.512264Z
+64df4205b4860a17,IN,"Strick Trailers, LLC",Strick Trailers,,Monroe,103,2024-02-28,2025-09-01,LO,2026-08-30T21:43:41.512264Z
+8fc15ae973130681,IN,Sunrise Coal,Sunrise Coal,,"Edwardsport, Freelandville, Oaktown, Petersburg",112,2024-02-23,2024-04-23,LO,2026-08-30T21:43:41.512264Z
+0c6f1bd33ba898d7,IN,Tyson FoodsRevised (2/19/24)/td>,Tyson FoodsRevised (2/19/24)/td>,,Corydon,168,2024-02-19,2024-08-10,CL,2026-08-30T21:43:41.512264Z
+c802c01ddd83a021,IN,BorgWarner PDSRevised (2/16/24),BorgWarner PDSRevised (2/16/24),,Kokomo,101,2024-02-16,2024-04-12,CL,2026-08-30T21:43:41.512264Z
+ae19daf846d51638,IN,Refresco,Refresco,,Evansville,45,2024-02-13,2024-03-28,CL,2026-08-30T21:43:41.512264Z
+8d24645fd1e32587,IN,Forest River Inc.,Forest River,,Elkhart,83,2024-02-12,2024-04-19,CL,2026-08-30T21:43:41.512264Z
+9a95587252948ffe,IN,Gannett Publishing Services,Gannett Publishing Services,,Indianapolis,90,2024-01-31,2024-04-07,CL,2026-08-30T21:43:41.512264Z
+bc6a481ce6de3919,IN,Integra Lifesciences,Integra Lifesciences,,Lafayette,60,2024-01-31,2024-04-26,CL,2026-08-30T21:43:41.512264Z
+185f08fa63e9d0ce,IN,Block Inc,Block,,"Carmel, Sellersburg",2,2024-01-30,2024-03-30,LO,2026-08-30T21:43:41.512264Z
+07843c9e75d15d5e,IN,Meetings & Events International (MEI),Meetings & Events International (MEI),,Evansville,69,2024-01-26,2024-03-31,CL,2026-08-30T21:43:41.512264Z
+f2badc223467e6cc,IN,Energizer,Energizer,,Franklin,64,2024-01-22,2024-04-01,CL,2026-08-30T21:43:41.512264Z
+f7e33c12c70e5674,IN,Kenco Logistic Services,Kenco Logistic Services,,Indianapolis,110,2024-01-19,2024-03-19,CL,2026-08-30T21:43:41.512264Z
+d915d2886aebe87f,IN,"Lost Boys Interactive, LLC",Lost Boys Interactive,,"Merrillville, Bloomington",2,2024-01-11,2024-03-15,LO,2026-08-30T21:43:41.512264Z
+e418bbd6c36437de,IN,Pitney Bowes Inc.,Pitney Bowes,,Greenwood,107,2024-01-08,2024-03-09,CL,2026-08-30T21:43:41.512264Z
+efff70f0def1e0b0,IN,GDI Services,GDI Services,,Jeffersonville,67,2024-01-05,2024-03-05,CL,2026-08-30T21:43:41.512264Z
+4bdac84becfffd69,IN,"DFA Dairy Brands Ice Cream, LLC-Revised (9/15/21)","DFA Dairy Brands Ice Cream, LLC-Revised (9/15/21)",,Decatur,,,,N/A,2026-08-30T21:43:41.512264Z
+4acf6e6c40686cd0,IN,"Steel Parts Manufacturing, Inc.-Revised (7/22/21)","Steel Parts Manufacturing, Inc.-Revised (7/22/21)",,Tipton,,,,N/A,2026-08-30T21:43:41.512264Z
+fe08452b30a24401,IN,Bell Techlogix-Revised (11/9/20),Bell Techlogix-Revised (11/9/20),,Plainfield,,,,N/A,2026-08-30T21:43:41.512264Z
+38cc906873390224,IN,Metaldyne BSM LLC - AAM Fremont Manufacturing Facility-Revised (12/17/20),Metaldyne BSM LLC - AAM Fremont Manufacturing Facility-Revised (12/17/20),,Fremont,,,,N/A,2026-08-30T21:43:41.512264Z
+d1550e6e28e6c8e4,IN,"Regal Beloit America, Inc.-Revised (7/27/21)","Regal Beloit America, Inc.-Revised (7/27/21)",,Valparaiso,,,,N/A,2026-08-30T21:43:41.512264Z
+49e70b5e109c2ac1,IN,"Regal Beloit America, Inc.-Revised (9/13/21)","Regal Beloit America, Inc.-Revised (9/13/21)",,Valparaiso,,,,N/A,2026-08-30T21:43:41.512264Z
+c27636cbef5eaaee,IN,"United Airlines, Inc.-Revised (7/31/20)","United Airlines, Inc.-Revised (7/31/20)",,Indianapolis,,,,N/A,2026-08-30T21:43:41.512264Z
+a8f26bcaf20665b4,IN,White Lodging Services Corporation dba JW Indianapolis-Revised (8/31/20),White Lodging Services,JW Indianapolis-Revised (8/31/20,Indianapolis,,,,N/A,2026-08-30T21:43:41.512264Z
+da3bbb902c7a2b4f,IN,White Lodging Services Corporation dba Marriot Indianapolis-Revised (8/31/20),White Lodging Services,Marriot Indianapolis-Revised (8/31/20,Indianapolis,,,,N/A,2026-08-30T21:43:41.512264Z
+27e322453ee93baa,IN,Hollywood Casino Lawrenceburg-Revised (8/19/20),Hollywood Casino Lawrenceburg-Revised (8/19/20),,Lawrenceburg,,,,N/A,2026-08-30T21:43:41.512264Z
+c43ac53088ac5093,IN,Ameristar Casino Hotel East Chicago-Revised (7/16/20),Ameristar Casino Hotel East Chicago-Revised (7/16/20),,East Chicago,,,,N/A,2026-08-30T21:43:41.512264Z
+779a6e0ed5b6e2de,IN,Ameristar Casino Hotel East Chicago-Revised (9/15/20),Ameristar Casino Hotel East Chicago-Revised (9/15/20),,East Chicago,,,,N/A,2026-08-30T21:43:41.512264Z
+0db760a88d25909e,IN,Vitro Automotive / Pittsburgh Glass Works-Revised (8/6/20),Vitro Automotive / Pittsburgh Glass Works-Revised (8/6/20),,Evansville,,,,N/A,2026-08-30T21:43:41.512264Z
+d5bc25f568857711,IN,The Westin Hotel Indianapolis-Revised (9/9/20),Westin Hotel Indianapolis-Revised (9/9/20),,Indianapolis,,,,N/A,2026-08-30T21:43:41.512264Z
+f3ec820566d6a542,IN,Exide Technologies-Revised (7/29/20),Exide Technologies-Revised (7/29/20),,Muncie,,,,N/A,2026-08-30T21:43:41.512264Z
+f9779da05c82d51d,IN,White Lodging Services Corporation-Revised (7/8/20),White Lodging Services Corporation-Revised (7/8/20),,Merrillville,,,,N/A,2026-08-30T21:43:41.512264Z
+f11a5b234a5414ff,IN,"Allison Transmission, Inc. Revised (5/21/20)","Allison Transmission, Inc. Revised (5/21/20)",,Indianapolis,,,,N/A,2026-08-30T21:43:41.512264Z
+522ee84f210d1149,IN,"Allison Transmission, Inc.Revised (6/4/20)","Allison Transmission, Inc.Revised (6/4/20)",,Indianapolis,,,,N/A,2026-08-30T21:43:41.512264Z
+ccdad6526574baf7,IN,ArcelorMittal USA dba ArcelorMittal Indiana Harbor Revised (4/27/20),ArcelorMittal,ArcelorMittal Indiana Harbor Revised (4/27/20,East Chicago,,,,N/A,2026-08-30T21:43:41.512264Z
+1050664d0d27c838,IN,ArcelorMittal USA dba ArcelorMittal Indiana Harbor Revised (5/28/20),ArcelorMittal,ArcelorMittal Indiana Harbor Revised (5/28/20,East Chicago,,,,N/A,2026-08-30T21:43:41.512264Z
+5eec9f77ba9c6ff1,IN,ArcelorMittal USA dba ArcelorMittal Indiana HarborRevised (7/28/20),ArcelorMittal,ArcelorMittal Indiana HarborRevised (7/28/20,East Chicago,,,,N/A,2026-08-30T21:43:41.512264Z
+b67b672362f299b2,IN,Flex-N-Gate Corporation Revised (6/24/20),Flex-N-Gate Corporation Revised (6/24/20),,Covington,,,,N/A,2026-08-30T21:43:41.512264Z
+6540a03211cc463b,IN,"ArcelorMittal USA, LLC dba ArcelorMittal Burns Harbor Revised (4/21/20)",ArcelorMittal,ArcelorMittal Burns Harbor Revised (4/21/20,Burns Harbor,,,,N/A,2026-08-30T21:43:41.512264Z
+581b60d60ef50b8b,IN,"ArcelorMittal USA, LLC dba ArcelorMittal Burns HarborRevised (4/29/20)",ArcelorMittal,ArcelorMittal Burns HarborRevised (4/29/20,Burns Harbor,,,,N/A,2026-08-30T21:43:41.512264Z
+b20a22dd68f8b5de,IN,"ArcelorMittal USA, LLC dba ArcelorMittal Burns HarborRevised (7/29/20)",ArcelorMittal,ArcelorMittal Burns HarborRevised (7/29/20,Burns Harbor,,,,N/A,2026-08-30T21:43:41.512264Z
+c58a1c896b9cf974,IN,"Jim’s Formal Wear, LLC Revised (5/27/20)","Jim's Formal Wear, LLC Revised (5/27/20)",,Anderson,,,,N/A,2026-08-30T21:43:41.512264Z
+fa1c161772dbbe71,IN,"Asbury Automotive GroupRevised(Doc 1, Doc 2, Doc 3, Doc 4, Doc 5, & Doc 6)","Asbury Automotive GroupRevised(Doc 1, Doc 2, Doc 3, Doc 4, Doc 5, & Doc 6)",,"Avon, Brownsburg, Indianapolis, Lebanon and Noblesville",,,,N/A,2026-08-30T21:43:41.512264Z
+456ea03a66b3e221,IN,ZF Active Safety & Electronics US LLC Revised (4/17/20),ZF Active Safety & Electronics US LLC Revised (4/17/20),,Lafayette,,,,N/A,2026-08-30T21:43:41.512264Z
+bf6652da47adf12f,IN,"Modex Global (Formerly Busche Performance Group, Inc.)-Revised (4/28/20)",Modex Global,"Busche Performance Group, Inc.)-Revised (4/28/20","Albion, Avilla & Franklin",,,,N/A,2026-08-30T21:43:41.512264Z
+c46e6b0d16eb188c,IN,"Modex Global (Formerly Busche Performance Group, Inc.) -Revised (9/15/20)",Modex Global,"Busche Performance Group, Inc.) -Revised (9/15/20","Albion, Avilla & Franklin",,,,N/A,2026-08-30T21:43:41.512264Z
+b9b9b5128422f209,IN,BWI Group-Revised (6/15/20),BWI Group-Revised (6/15/20),,Greenfield,,,,N/A,2026-08-30T21:43:41.512264Z
+2a9a2b7f135c2f68,IN,"Image One, LLC-Revised (4/15/20)","Image One, LLC-Revised (4/15/20)",,McCordsville,,,,N/A,2026-08-30T21:43:41.512264Z
+27b37105ffaf9dca,IN,Hilton Garden Inn South Bend-Revised (6/15/20),Hilton Garden Inn South Bend-Revised (6/15/20),,South Bend,,,,N/A,2026-08-30T21:43:41.512264Z
+3cbaebaf96ce9c05,IN,Double Tree by Hilton South Bend-Revised (3/26/20 Notice & Positions),Double Tree by Hilton South Bend-Revised (3/26/20 Notice & Positions),,South Bend,,,,N/A,2026-08-30T21:43:41.512264Z
+0ed251cd09cd8e3b,IN,Double Tree by Hilton South Bend-Revised (5/7/20 Notice & Positions),Double Tree by Hilton South Bend-Revised (5/7/20 Notice & Positions),,South Bend,,,,N/A,2026-08-30T21:43:41.512264Z
+f035e9f470061581,IN,Double Tree by Hilton South Bend-Revised (5/21/20),Double Tree by Hilton South Bend-Revised (5/21/20),,South Bend,,,,N/A,2026-08-30T21:43:41.512264Z
+cd0fc0ffe9ed11b5,IN,Indianapolis Marriott East-Revised (5/27/20),Indianapolis Marriott East-Revised (5/27/20),,Indianapolis,,,,N/A,2026-08-30T21:43:41.512264Z
+cde119f5c1ef6161,IN,Double Tree Evansville-Revised (5/27/20),Double Tree Evansville-Revised (5/27/20),,Evansville,,,,N/A,2026-08-30T21:43:41.512264Z
+ce001c9ce929d246,IN,Le Meridien Indianapolis-Revised (6/10/20),Le Meridien Indianapolis-Revised (6/10/20),,Indianapolis,,,,N/A,2026-08-30T21:43:41.512264Z
+ffb4dbf02364cf7c,IN,Sheraton Indianapolis at Keystone Crossing-Revised (5/27/20),Sheraton Indianapolis at Keystone Crossing-Revised (5/27/20),,Indianapolis,,,,N/A,2026-08-30T21:43:41.512264Z
+352ddcceabcfe124,IN,Stanley Black & Decker-Revised (2/10/20),Stanley Black & Decker-Revised (2/10/20),,Greenfield,,,,N/A,2026-08-30T21:43:41.512264Z
+27bb9c88eb4792ad,IN,Stanley Black & Decker-Revised (8/19/20),Stanley Black & Decker-Revised (8/19/20),,Greenfield,,,,N/A,2026-08-30T21:43:41.512264Z
+6870a65c166b9a39,IN,United States Steel Corporation-Revised (10/7/19),United States Steel Corporation-Revised (10/7/19),,East Chicago,,,,N/A,2026-08-30T21:43:41.512264Z
+93a8f5d44c0bd808,IN,"Nestle USA, Inc.-Revised (8/23/19)","Nestle USA, Inc.-Revised (8/23/19)",,Fort Wayne,,,,N/A,2026-08-30T21:43:41.512264Z
+292ad7a5c9bb07e1,IN,"Peabody Indiana Services, LLC-Revised (9/30/19)","Peabody Indiana Services, LLC-Revised (9/30/19)",,Oakland City,,,,N/A,2026-08-30T21:43:41.512264Z
+93b4f1e86f759337,IN,"Peabody Indiana Services, LLC-Revised (12/27/19)","Peabody Indiana Services, LLC-Revised (12/27/19)",,Oakland City,,,,N/A,2026-08-30T21:43:41.512264Z
+7bccc4cef7270b34,IN,"Peabody Indiana Services, LLC-Revised (3/31/20:Doc 1 & Doc 2)","Peabody Indiana Services, LLC-Revised (3/31/20:Doc 1 & Doc 2)",,Oakland City,,,,N/A,2026-08-30T21:43:41.512264Z
+c6145b7d81dfa55f,IN,"Peabody Indiana Services, LLC-Revised (6/24/20:Doc 1 & Doc 2)","Peabody Indiana Services, LLC-Revised (6/24/20:Doc 1 & Doc 2)",,Oakland City,,,,N/A,2026-08-30T21:43:41.512264Z
+7191c25535243ce0,IN,"NIBCO, Inc.-Revised (5/24/19)","NIBCO, Inc.-Revised (5/24/19)",,Charlestown,,,,N/A,2026-08-30T21:43:41.512264Z
+e21d7157851207cb,IN,"NIBCO, Inc.-Revised (6/7/19)","NIBCO, Inc.-Revised (6/7/19)",,Charlestown,,,,N/A,2026-08-30T21:43:41.512264Z
+5849014a2b2d291d,IN,"NIBCO, Inc.-Revised (6/21/19)","NIBCO, Inc.-Revised (6/21/19)",,Charlestown,,,,N/A,2026-08-30T21:43:41.512264Z
+899aca503a30ebe2,IN,"NIBCO, Inc.-Revised (6/28/19)","NIBCO, Inc.-Revised (6/28/19)",,Charlestown,,,,N/A,2026-08-30T21:43:41.512264Z
+28c1696eca711662,IN,"NIBCO, Inc.-Revised (7/26/19)","NIBCO, Inc.-Revised (7/26/19)",,Charlestown,,,,N/A,2026-08-30T21:43:41.512264Z
+1a89d996ab62228e,IN,"NIBCO, Inc.-Revised (8/9/19)","NIBCO, Inc.-Revised (8/9/19)",,Charlestown,,,,N/A,2026-08-30T21:43:41.512264Z
+58cc2f97c75f87d4,IN,"NIBCO, Inc.-Revised (8/15/19)","NIBCO, Inc.-Revised (8/15/19)",,Charlestown,,,,N/A,2026-08-30T21:43:41.512264Z
+c5e440c46f99d988,IN,"NIBCO, Inc.-Revised (8/29/19)","NIBCO, Inc.-Revised (8/29/19)",,Charlestown,,,,N/A,2026-08-30T21:43:41.512264Z
+a8ada1ef07472e0d,IN,"NIBCO, Inc.-Revised (9/13/19)","NIBCO, Inc.-Revised (9/13/19)",,Charlestown,,,,N/A,2026-08-30T21:43:41.512264Z
+fbda9e5cf3fce533,IN,"NIBCO, Inc.-Revised (10/10/19)","NIBCO, Inc.-Revised (10/10/19)",,Charlestown,,,,N/A,2026-08-30T21:43:41.512264Z
+00f77e9a5decab58,IN,"NIBCO, Inc.-Revised (11/1/19)","NIBCO, Inc.-Revised (11/1/19)",,Charlestown,,,,N/A,2026-08-30T21:43:41.512264Z
+fa729cb8f650c9ae,IN,Schneider Electric-Revised (6/25/19),Schneider Electric-Revised (6/25/19),,Peru,,,,N/A,2026-08-30T21:43:41.512264Z
+e84eb7a6745e0cb0,IN,Schneider Electric-Revised (7/31/19),Schneider Electric-Revised (7/31/19),,Peru,,,,N/A,2026-08-30T21:43:41.512264Z
+a593494706ea25d3,IN,Schneider Electric-Revised (8/29/19),Schneider Electric-Revised (8/29/19),,Peru,,,,N/A,2026-08-30T21:43:41.512264Z
+4762754c5cd0a89c,IN,Schneider Electric-Revised (9/23/19),Schneider Electric-Revised (9/23/19),,Peru,,,,N/A,2026-08-30T21:43:41.512264Z
+fa4dd407c487f537,IN,Schneider Electric-Revised (10/28/19),Schneider Electric-Revised (10/28/19),,Peru,,,,N/A,2026-08-30T21:43:41.512264Z
+45705f0762fb7472,IN,Schneider Electric-Revised (12/27/19),Schneider Electric-Revised (12/27/19),,Peru,,,,N/A,2026-08-30T21:43:41.512264Z
+29f54445d51d19be,IN,Schneider Electric-Revised (1/28/20),Schneider Electric-Revised (1/28/20),,Peru,,,,N/A,2026-08-30T21:43:41.512264Z
+6acc66e1034aaacd,IN,Schneider Electric-Revised (2/24/20),Schneider Electric-Revised (2/24/20),,Peru,,,,N/A,2026-08-30T21:43:41.512264Z
+c6e65b3c583253db,IN,Matthews International Corporation-Revised (6/14/19),Matthews International Corporation-Revised (6/14/19),,Richmond,,,,N/A,2026-08-30T21:43:41.512264Z
+9db67796545bdb50,IN,"Deufol Sunman, Inc.-Revised (5/2/19)","Deufol Sunman, Inc.-Revised (5/2/19)",,Sunman,,,,N/A,2026-08-30T21:43:41.512264Z
+ec06e768ee1cf97e,IN,"Deufol Sunman, Inc.-Revised (6/27/19)","Deufol Sunman, Inc.-Revised (6/27/19)",,Sunman,,,,N/A,2026-08-30T21:43:41.512264Z
+af18902435c4b014,IN,"Deufol Sunman, Inc.-Revised (8/2/19)","Deufol Sunman, Inc.-Revised (8/2/19)",,Sunman,,,,N/A,2026-08-30T21:43:41.512264Z
+0b4a777567795ee2,IN,"Deufol Sunman, Inc.-Revised (8/9/19)","Deufol Sunman, Inc.-Revised (8/9/19)",,Sunman,,,,N/A,2026-08-30T21:43:41.512264Z
+53d5960e9f089f9c,IN,DJO Global-Revised (7/26/18),DJO Global-Revised (7/26/18),,Plainfield,,,,N/A,2026-08-30T21:43:41.512264Z
+3c7c4a9f69ce2192,IN,DJO Global-Revised (8/23/18),DJO Global-Revised (8/23/18),,Plainfield,,,,N/A,2026-08-30T21:43:41.512264Z
+c0f64e80579b4bc6,IN,DJO Global-Revised (10/5/18),DJO Global-Revised (10/5/18),,Plainfield,,,,N/A,2026-08-30T21:43:41.512264Z
+ffae13e4fd9d30cc,IN,Janesville Acoustics-Revised (2/12/18),Janesville Acoustics-Revised (2/12/18),,Richmond,,,,N/A,2026-08-30T21:43:41.512264Z
+10c342b12fa1cd70,IN,Janesville Acoustics-Revised (5/30/18),Janesville Acoustics-Revised (5/30/18),,Richmond,,,,N/A,2026-08-30T21:43:41.512264Z
+8dd1f74d34427a56,IN,Harman International Industries- Revised (11/22/17),Harman International Industries- Revised (11/22/17),,Elkhart,,,,N/A,2026-08-30T21:43:41.512264Z
+06b13899b5484a89,IN,Harman International Industries- Revised (4/20/18),Harman International Industries- Revised (4/20/18),,Elkhart,,,,N/A,2026-08-30T21:43:41.512264Z
+e06de689a6e0ed88,IN,"Bay Valley Foods LLC, Tree House Foods- Revised (9/19/17)","Bay Valley Foods LLC, Tree House Foods- Revised (9/19/17)",,Plymouth,,,,N/A,2026-08-30T21:43:41.512264Z
+87e48d8bda396c17,IN,"Deufol Sunman, Inc-Revised 9/29/17","Deufol Sunman, Inc-Revised 9/29/17",,Sunman,,,,N/A,2026-08-30T21:43:41.512264Z
+2133f2190ebb8262,IN,White's Residential and Family Services-Revised (7/27/17),White's Residential and Family Services-Revised (7/27/17),,Wheatfield,,,,N/A,2026-08-30T21:43:41.512264Z
+7d174ebb2fc31b89,IN,White's Residential and Family Services-Revised (10/24/17),White's Residential and Family Services-Revised (10/24/17),,Wheatfield,,,,N/A,2026-08-30T21:43:41.512264Z
+1638c7cdbdeff2b3,IN,White's Residential and Family Services-Revised (12/14/18),White's Residential and Family Services-Revised (12/14/18),,Wheatfield,,,,N/A,2026-08-30T21:43:41.512264Z
+be5cd56b3d493460,IN,White's Residential and Family Services-Revised (2/7/19),White's Residential and Family Services-Revised (2/7/19),,Wheatfield,,,,N/A,2026-08-30T21:43:41.512264Z
+bd9408798a9fc826,IN,White's Residential and Family Services-Revised (3/22/19),White's Residential and Family Services-Revised (3/22/19),,Wheatfield,,,,N/A,2026-08-30T21:43:41.512264Z
+2808e352880b9330,IN,White's Residential and Family Services-Revised (11/19/19),White's Residential and Family Services-Revised (11/19/19),,Wheatfield,,,,N/A,2026-08-30T21:43:41.512264Z
+27822d6e752d0994,IN,St. Vincent Health-Revised (7/20/17),St. Vincent Health-Revised (7/20/17),,"Anderson, Evansville, Indianapolis, Kokomo, Salem",,,,N/A,2026-08-30T21:43:41.512264Z
+89115bc39b3d140a,IN,Buckhorn Inc-Revised (5/26/17),Buckhorn Inc-Revised (5/26/17),,Bluffton,,,,N/A,2026-08-30T21:43:41.512264Z
+144ffee28a77a9be,IN,Buckhorn Inc-Revised (9/5/17),Buckhorn Inc-Revised (9/5/17),,Bluffton,,,,N/A,2026-08-30T21:43:41.512264Z
+707b2db23c5a3270,IN,Schneider Electric-Revised (5/25/17),Schneider Electric-Revised (5/25/17),,Peru,,,,N/A,2026-08-30T21:43:41.512264Z
+e3b80746fc2fbea7,IN,Saint Joseph's College Revised (3/6/17),Saint Joseph's College Revised (3/6/17),,Rensselaer,,,,N/A,2026-08-30T21:43:41.512264Z
+f001da05d0ab4c6a,IN,Saint Joseph's College Revised (3/10/17),Saint Joseph's College Revised (3/10/17),,Rensselaer,,,,N/A,2026-08-30T21:43:41.512264Z
+9de4f2ba2eedb12b,IN,Saint Joseph's College Revised (4/11/17),Saint Joseph's College Revised (4/11/17),,Rensselaer,,,,N/A,2026-08-30T21:43:41.512264Z
+7b705b81a5128147,IN,Saint Joseph's College Revised (4/28/17),Saint Joseph's College Revised (4/28/17),,Rensselaer,,,,N/A,2026-08-30T21:43:41.512264Z
+321a59f4ef48bd34,IN,Saint Joseph's College Revised (5/10/17),Saint Joseph's College Revised (5/10/17),,Rensselaer,,,,N/A,2026-08-30T21:43:41.512264Z
+a7ee7a259e305377,IN,Saint Joseph's College Revised (7/5/17),Saint Joseph's College Revised (7/5/17),,Rensselaer,,,,N/A,2026-08-30T21:43:41.512264Z
+8fef80cefa1dc9e8,IN,Saint Joseph's College Revised (7/24/17),Saint Joseph's College Revised (7/24/17),,Rensselaer,,,,N/A,2026-08-30T21:43:41.512264Z
+6e56ea21b65d8e1f,IN,Saint Joseph's College Revised (1/17/18),Saint Joseph's College Revised (1/17/18),,Rensselaer,,,,N/A,2026-08-30T21:43:41.512264Z
+21b220a82573f383,IN,Harman International Industries Revised (5/17/17),Harman International Industries Revised (5/17/17),,Elkhart,,,,N/A,2026-08-30T21:43:41.512264Z
+dea5246c2dcbe6d2,IN,Eli Lilly and Company Revised (2/3/17),Eli Lilly and Company Revised (2/3/17),,Nationwide,,,,N/A,2026-08-30T21:43:41.512264Z
+6f6fdb00b4e9dbb5,IN,Saint Meinrad Archabbey-Revised (4/28/17),Saint Meinrad Archabbey-Revised (4/28/17),,Saint Meinrad,,,,N/A,2026-08-30T21:43:41.512264Z
+0f23881ff83919b7,IN,Paoli LLC-Revised (12/6/17),Paoli LLC-Revised (12/6/17),,Orleans,,,,N/A,2026-08-30T21:43:41.512264Z
+6fa5c8e5614c4e86,IN,Indianapolis Haulage-Revised (9/20/16),Indianapolis Haulage-Revised (9/20/16),,Indianapolis & Yorktown,,,,N/A,2026-08-30T21:43:41.512264Z
+388b01219cc1a295,IN,Indianapolis Haulage -Revised (9/30/16),Indianapolis Haulage -Revised (9/30/16),,Indianapolis & Yorktown,,,,N/A,2026-08-30T21:43:41.512264Z
+f7235c74b7379d5e,IN,Indianapolis Logistics-Revised (9/20/16),Indianapolis Logistics-Revised (9/20/16),,Indianapolis & Yorktown,,,,N/A,2026-08-30T21:43:41.512264Z
+ccb95befca657211,IN,Indianapolis Logistics-Revised (9/30/16),Indianapolis Logistics-Revised (9/30/16),,Indianapolis & Yorktown,,,,N/A,2026-08-30T21:43:41.512264Z
+2c247552d19d8e56,IN,"Applegate Livestock Equipment, Inc.-Revised (6/14/16)","Applegate Livestock Equipment, Inc.-Revised (6/14/16)",,Union City,,,,N/A,2026-08-30T21:43:41.512264Z
+dcd219e263279984,IN,"Applegate Livestock Equipment, Inc.-Revised (7/15/16)","Applegate Livestock Equipment, Inc.-Revised (7/15/16)",,Union City,,,,N/A,2026-08-30T21:43:41.512264Z
+00a5d50b29794caa,IN,Silgan Containers -Revised,Silgan Containers -Revised,,LaPorte,,,,N/A,2026-08-30T21:43:41.512264Z
+a47e6ef37a8d9243,IN,Silgan Containers -Revised(7/29/16),Silgan Containers -Revised(7/29/16),,LaPorte,,,,N/A,2026-08-30T21:43:41.512264Z
+528faf05a4929694,IN,Carter Fuel Systems-Revised (10/5/15),Carter Fuel Systems-Revised (10/5/15),,Logansport,,,,N/A,2026-08-30T21:43:41.512264Z
+5d335e2b2d1e8960,IN,Carter Fuel Systems-Revised (12/11/15),Carter Fuel Systems-Revised (12/11/15),,Logansport,,,,N/A,2026-08-30T21:43:41.512264Z
+ea3ff28a57a55e33,IN,"Pall Filter Specialists, Inc.-Revised (12/2/15)","Pall Filter Specialists, Inc.-Revised (12/2/15)",,Michigan City,,,,N/A,2026-08-30T21:43:41.512264Z
+861e972e97b0f3de,IN,Silgan Plastics Corporation-Revised (8/24/15),Silgan Plastics Corporation-Revised (8/24/15),,Ligonier,,,,N/A,2026-08-30T21:43:41.512264Z
+adcbf2c05a2b5c25,IN,Goodwill Industries of Central Indiana-Revised,Goodwill Industries of Central Indiana-Revised,,Indianapolis,,,,N/A,2026-08-30T21:43:41.512264Z
+9ab4a8a9f276b289,IN,Tecomet - Symmetry Medical Manufacturing Inc.-Revised,Tecomet - Symmetry Medical Manufacturing Inc.-Revised,,Avilla,,,,N/A,2026-08-30T21:43:41.512264Z
+2838247488b2021c,IN,Schott Gemtron-Revised,Schott Gemtron-Revised,,Vincennes,,,,N/A,2026-08-30T21:43:41.512264Z
+ff669261310ca7db,IN,Northrop Grumman-Revised,Northrop Grumman-Revised,,Edinburg,,,,N/A,2026-08-30T21:43:41.512264Z
+37d91b40b3206eed,IN,Northrop Grumman--Revised,Northrop Grumman--Revised,,Edinburg,,,,N/A,2026-08-30T21:43:41.512264Z
+ae5a46620c60b0a9,IN,Rural Metro Corporation-Revised,Rural Metro Corporation-Revised,,"Indianapolis, Anderson, Logansport, Martinsville, and Richmond",,,,N/A,2026-08-30T21:43:41.512264Z
+dda5f797d319f5e8,IN,Chesapeake Pharmaceutical and Healthcare Packaging-Revised,Chesapeake Pharmaceutical and Healthcare Packaging-Revised,,Evansville,,,,N/A,2026-08-30T21:43:41.512264Z
+a7ffe8d148ef25a0,IN,"Peabody Indiana Services, LLC -Revised","Peabody Indiana Services, LLC -Revised",,Cannelburg,,,,N/A,2026-08-30T21:43:41.512264Z
+b7cb2a2827fde49c,IN,"Peabody Midwest Management Services, LLC-Revised","Peabody Midwest Management Services, LLC-Revised",,Cannelburg,,,,N/A,2026-08-30T21:43:41.512264Z
+739c37a09bc3bb47,IN,"The Arc of Northwest Indiana, Inc-Revised","Arc of Northwest Indiana, Inc-Revised",,Lake and Porter Counties,,,,N/A,2026-08-30T21:43:41.512264Z
+47e5bcaf8cecf094,IN,CMW International Inc.-Revised,CMW International Inc.-Revised,,Indianapolis,,,,N/A,2026-08-30T21:43:41.512264Z
+39c50b7b79876f48,IN,"Cequent Performance Products, Inc-Revised","Cequent Performance Products, Inc-Revised",,Huntington,,,,N/A,2026-08-30T21:43:41.512264Z
+869e674e03e0b7b6,IN,Unilever Ice Cream Manufacturing-Revised,Unilever Ice Cream Manufacturing-Revised,,Huntington,,,,N/A,2026-08-30T21:43:41.512264Z
+42c19eea7b1a8ffb,IN,Warner Transitional Services-Revised,Warner Transitional Services-Revised,,Indianapolis,,,,N/A,2026-08-30T21:43:41.512264Z
+bf17a0318487254d,IN,International Paper Company-Revised,International Paper Company-Revised,,Indianapolis,,,,N/A,2026-08-30T21:43:41.512264Z
+6074147cc29f3dfe,IN,U.S. Cellular Corporation-Revised,U.S. Cellular Corporation-Revised,,"Elkhart, Fort Wayne, Merrillville, Michigan City, Mishawaka, Portage, Schererville, South Bend",,,,N/A,2026-08-30T21:43:41.512264Z
+ed2a4463210c9533,IN,Pitney Bowes-Revised,Pitney Bowes-Revised,,Plainfield,,,,N/A,2026-08-30T21:43:41.512264Z
+cf290a85f2c8e677,IN,"Hologic, Inc.-Revised","Hologic, Inc.-Revised",,Indianapolis,,,,N/A,2026-08-30T21:43:41.512264Z
+a1ad0d93a983dab1,IN,Steel Parts Manufacturing Inc-Revised,Steel Parts Manufacturing Inc-Revised,,Tipton,,,,N/A,2026-08-30T21:43:41.512264Z
+d760403d7b329f1a,IN,Amsted Rail Inc-Revised,Amsted Rail Inc-Revised,,Hammond,,,,N/A,2026-08-30T21:43:41.512264Z
+4875f0887203960e,IN,Whirlpool Corporation-Revised,Whirlpool Corporation-Revised,,Evansville,,,,N/A,2026-08-30T21:43:41.512264Z
+d1a6dbbdc692d421,IN,Manitowoc Foodservice-Revised,Manitowoc Foodservice-Revised,,Fort Wayne,,,,N/A,2026-08-30T21:43:41.512264Z
+3b2bd5a7d179fee9,IN,Peabody Energy-Revised,Peabody Energy-Revised,,Vincennes,,,,N/A,2026-08-30T21:43:41.512264Z
+3d49a3e00dc424a6,IN,"JCIM, LLC-Revised","JCIM, LLC-Revised",,Kendallville,,,,N/A,2026-08-30T21:43:41.512264Z
+6f80610a08329a73,IN,"Sunrise Publications, Inc.-Revised","Sunrise Publications, Inc.-Revised",,Bloomington,,,,N/A,2026-08-30T21:43:41.512264Z
+f980e14ad86958cb,IN,"Ross Sand Casting Industries, Inc. Plant 3-Revised","Ross Sand Casting Industries, Inc. Plant 3-Revised",,Winchester,,,,N/A,2026-08-30T21:43:41.512264Z
+0a6509f0710c13eb,IN,Bon L Manufacturing Co.-Revised,Bon L Manufacturing Co.-Revised,,Kentland,,,,N/A,2026-08-30T21:43:41.512264Z
+ebd60a3109076d82,IN,International Paper Company Shorewood Packaging-Revised,International Paper Company Shorewood Packaging-Revised,,Indianapolis,,,,N/A,2026-08-30T21:43:41.512264Z
+3de81529c6751172,IN,Fortis Plastics-Corporate Offices,Fortis Plastics-Corporate Offices,,South Bend,,,,N/A,2026-08-30T21:43:41.512264Z
+cacba1913f44529f,IN,Fortis Plastics-Revised Corporate,Fortis Plastics-Revised Corporate,,South Bend,,,,N/A,2026-08-30T21:43:41.512264Z
+b1ac814ef3704359,IN,Fortis Plastics-Manufacturing Facilities,Fortis Plastics-Manufacturing Facilities,,South Bend,,,,N/A,2026-08-30T21:43:41.512264Z
+70bcde0af0e48330,IN,Fortis Plastics-Revised Manufacturing,Fortis Plastics-Revised Manufacturing,,South Bend,,,,N/A,2026-08-30T21:43:41.512264Z
+4e51c6fd647fc4be,IN,Ford Motor Company-Revised,Ford Motor Company-Revised,,Indianapolis,,,,N/A,2026-08-30T21:43:41.512264Z
+b5e5cdfbbd1410df,IN,"Vantiv, LLC-Revised","Vantiv, LLC-Revised",,Evansville,,,,N/A,2026-08-30T21:43:41.512264Z
+037fbab80a3e76f1,IN,"Navistar, Inc-Revised","Navistar, Inc-Revised",,Fort Wayne,,,,N/A,2026-08-30T21:43:41.512264Z
+fc3d3cc1c9c95dac,IN,"Navistar, Inc-Attachment","Navistar, Inc-Attachment",,Fort Wayne,,,,N/A,2026-08-30T21:43:41.512264Z
+22053af0dc5b9115,IN,Workhorse Custom Chassis LLC-Revised,Workhorse Custom Chassis LLC-Revised,,Union City,,,,N/A,2026-08-30T21:43:41.512264Z
+afcb3482eae203d6,IN,Ficosa North America-Revised,Ficosa North America-Revised,,Berne,,,,N/A,2026-08-30T21:43:41.512264Z
+7bbd5d44bde338ea,IN,Ficosa North America-Exhibit A,Ficosa North America-Exhibit A,,Berne,,,,N/A,2026-08-30T21:43:41.512264Z
+c23e3337e0bb7a7e,IN,General Motors Stamping Plant-Revised,General Motors Stamping Plant-Revised,,Indianapolis,,,,N/A,2026-08-30T21:43:41.512264Z
+f3b5aef140822f60,IN,Printpack Inc.-Revised,Printpack Inc.-Revised,,Greensburg,,,,N/A,2026-08-30T21:43:41.512264Z
+0688ba465a32c632,IN,"Automotive Components Holding, LLC-Revised","Automotive Components Holding, LLC-Revised",,Indianapolis,,,,N/A,2026-08-30T21:43:41.512264Z
+d4bce2ebf5d2ba09,IN,Camryn Industries-Revised,Camryn Industries-Revised,,Berne,,,,N/A,2026-08-30T21:43:41.512264Z
+cf4b3e7a6d6021cf,IN,MHP Pharmacy -dba- Freedom Pharmacy-Revised,MHP Pharmacy,- Freedom Pharmacy-Revised,Indianapolis,,,,N/A,2026-08-30T21:43:41.512264Z
+f454e84ced1bea3e,IN,Dawn Foods-Revised,Dawn Foods-Revised,,Crown Point,,,,N/A,2026-08-30T21:43:41.512264Z
+c35407f1b55ffd1d,IN,Newport Chemical Depot-Revised,Newport Chemical Depot-Revised,,Newport,,,,N/A,2026-08-30T21:43:41.512264Z
+bc70d1d832a821f4,IN,Visteon Corporation-Revised,Visteon Corporation-Revised,,Indianapolis,,,,N/A,2026-08-30T21:43:41.512264Z
+6e3dbacddded0104,IN,Heraeus Electro-Nite Co.-Revised,Heraeus Electro-Nite Co.-Revised,,Peru,,,,N/A,2026-08-30T21:43:41.512264Z
+e5235112204a261d,IN,Modine Manufacturing-Revised,Modine Manufacturing-Revised,,Logansport,,,,N/A,2026-08-30T21:43:41.512264Z

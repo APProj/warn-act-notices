@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-31T03:32:57.915961Z",
+  "generated_at": "2026-08-31T04:20:01.004730Z",
   "total_rows": 35181,
-  "free_rows": 10088,
+  "free_rows": 10085,
   "free_window_start": "2024-01-01",
-  "new_ids_this_run": 175,
+  "new_ids_this_run": 26,
   "delay_hours": 48,
   "states": {
     "AZ": {
-      "rows": 621,
+      "rows": 620,
       "raw_rows": 636,
       "status": "ok"
     },
@@ -117,7 +117,7 @@
       "status": "ok"
     },
     "VT": {
-      "rows": 69,
+      "rows": 70,
       "raw_rows": 70,
       "status": "ok"
     },

@@ -1,30 +1,30 @@
-id,state,company,location,employees_affected,notice_date,effective_date,notice_type,first_seen
-b40d410dbfc13334,NE,Fortrex 0129 Madison,Madison,91,2026-08-26,,,2026-08-30T21:43:41.512264Z
-e09ecf1b531f807e,NE,Conduent,Remote,2,2026-06-26,,,2026-08-30T21:43:41.512264Z
-af37f5e2f570658e,NE,"Skylark Meats, LLC",Omaha,218,2026-06-26,,,2026-08-30T21:43:41.512264Z
-1e56f63f16bdecd0,NE,WK Kellogg Co,Omaha,451,2026-05-22,,,2026-08-30T21:43:41.512264Z
-7621a5ad98198d51,NE,Republic National Distributing Co,La Vista,87,2026-05-18,,,2026-08-30T21:43:41.512264Z
-9eaae82853ff1c74,NE,Tyson Extension - Lexington,Lexington,294,2026-01-21,,,2026-08-30T21:43:41.512264Z
-91d7aec56beefe9f,NE,Fortrex 0127 Lexington,Lexington,139,2025-11-26,,,2026-08-30T21:43:41.512264Z
-0aeaf5ee34a9520b,NE,Tyson - Lexington,Lexington,3212,2025-11-21,,,2026-08-30T21:43:41.512264Z
-2132f4af679bbc90,NE,ITC Federal,Lincoln,192,2025-09-30,,,2026-08-30T21:43:41.512264Z
-4e71866430ace772,NE,Burlington Trailways,Omaha,11,2025-09-19,,,2026-08-30T21:43:41.512264Z
-2614a10ee3b93034,NE,Safeway Store 2563,Chadron,49,2025-09-09,,,2026-08-30T21:43:41.512264Z
-344554a535bccb59,NE,Neenah Foundry,Lincoln,103,2025-09-09,,,2026-08-30T21:43:41.512264Z
-69af606927f65183,NE,Eaton Corporation,Kearney,219,2025-07-10,,,2026-08-30T21:43:41.512264Z
-c46facf08d2d28f2,NE,Federal Express Corporation,Omaha,102,2025-06-30,,,2026-08-30T21:43:41.512264Z
-90602c56db08c02f,NE,Hyatt Corporation,Omaha/Remote,286,2025-06-17,,,2026-08-30T21:43:41.512264Z
-0994f7017c6c711c,NE,CommuteAir LLC,Lincoln,100,2025-05-19,,,2026-08-30T21:43:41.512264Z
-c67758b6de191bf3,NE,Accenture,Omaha,85,2025-05-14,,,2026-08-30T21:43:41.512264Z
-24c82f2efa61e6f6,NE,Student Transportation of America (STA),Omaha,39,2025-05-12,,,2026-08-30T21:43:41.512264Z
-d32aac074d87e42c,NE,"Accelerate360 Distribution, LLC",Remote,13,2025-04-25,,,2026-08-30T21:43:41.512264Z
-6cb7988f824d9c4f,NE,United States Cellular Corporation (USCC),"Omaha, Papillion, Grand Island, and Remote Locations",4100,2025-03-26,,,2026-08-30T21:43:41.512264Z
-5da7fa4bea3974c6,NE,ITC Federal,Lincoln,141,2024-12-03,,,2026-08-30T21:43:41.512264Z
-e6109686d1ea4e0f,NE,Wellpath,Omaha,64,2024-07-10,,,2026-08-30T21:43:41.512264Z
-72e9723a229d382a,NE,"Global Industries, Inc.",Grand Island,100,2024-06-04,,,2026-08-30T21:43:41.512264Z
-84fd8e0796636eb0,NE,Bimbo Bakeries USA Inc.,Bellevue,165,2024-05-10,,,2026-08-30T21:43:41.512264Z
-690f09603fd581fe,NE,Garner Industries,Waverly,63,2024-05-06,,,2026-08-30T21:43:41.512264Z
-bc23b3e9fb761877,NE,"Student Transportation of America (STA), Inc.",Omaha,243,2024-03-22,,,2026-08-30T21:43:41.512264Z
-97a01d4aaa76b822,NE,Cardinal Health,Norfolk,5,2024-02-07,,,2026-08-30T21:43:41.512264Z
-1440cccc3f156f45,NE,"LBF Holdings, LLC",Omaha,62,2024-01-11,,,2026-08-30T21:43:41.512264Z
-bdb9275b03e180b6,NE,Cardinal Health,Norfolk,13,2024-01-08,,,2026-08-30T21:43:41.512264Z
+id,state,company,company_canonical,company_dba,location,employees_affected,notice_date,effective_date,notice_type,first_seen
+b40d410dbfc13334,NE,Fortrex 0129 Madison,Fortrex 0129 Madison,,Madison,91,2026-08-26,,,2026-08-30T21:43:41.512264Z
+e09ecf1b531f807e,NE,Conduent,Conduent,,Remote,2,2026-06-26,,,2026-08-30T21:43:41.512264Z
+af37f5e2f570658e,NE,"Skylark Meats, LLC",Skylark Meats,,Omaha,218,2026-06-26,,,2026-08-30T21:43:41.512264Z
+1e56f63f16bdecd0,NE,WK Kellogg Co,WK Kellogg,,Omaha,451,2026-05-22,,,2026-08-30T21:43:41.512264Z
+7621a5ad98198d51,NE,Republic National Distributing Co,Republic National Distributing,,La Vista,87,2026-05-18,,,2026-08-30T21:43:41.512264Z
+9eaae82853ff1c74,NE,Tyson Extension - Lexington,Tyson Extension - Lexington,,Lexington,294,2026-01-21,,,2026-08-30T21:43:41.512264Z
+91d7aec56beefe9f,NE,Fortrex 0127 Lexington,Fortrex 0127 Lexington,,Lexington,139,2025-11-26,,,2026-08-30T21:43:41.512264Z
+0aeaf5ee34a9520b,NE,Tyson - Lexington,Tyson - Lexington,,Lexington,3212,2025-11-21,,,2026-08-30T21:43:41.512264Z
+2132f4af679bbc90,NE,ITC Federal,ITC Federal,,Lincoln,192,2025-09-30,,,2026-08-30T21:43:41.512264Z
+4e71866430ace772,NE,Burlington Trailways,Burlington Trailways,,Omaha,11,2025-09-19,,,2026-08-30T21:43:41.512264Z
+2614a10ee3b93034,NE,Safeway Store 2563,Safeway Store 2563,,Chadron,49,2025-09-09,,,2026-08-30T21:43:41.512264Z
+344554a535bccb59,NE,Neenah Foundry,Neenah Foundry,,Lincoln,103,2025-09-09,,,2026-08-30T21:43:41.512264Z
+69af606927f65183,NE,Eaton Corporation,Eaton,,Kearney,219,2025-07-10,,,2026-08-30T21:43:41.512264Z
+c46facf08d2d28f2,NE,Federal Express Corporation,Federal Express,,Omaha,102,2025-06-30,,,2026-08-30T21:43:41.512264Z
+90602c56db08c02f,NE,Hyatt Corporation,Hyatt,,Omaha/Remote,286,2025-06-17,,,2026-08-30T21:43:41.512264Z
+0994f7017c6c711c,NE,CommuteAir LLC,CommuteAir,,Lincoln,100,2025-05-19,,,2026-08-30T21:43:41.512264Z
+c67758b6de191bf3,NE,Accenture,Accenture,,Omaha,85,2025-05-14,,,2026-08-30T21:43:41.512264Z
+24c82f2efa61e6f6,NE,Student Transportation of America (STA),Student Transportation of America (STA),,Omaha,39,2025-05-12,,,2026-08-30T21:43:41.512264Z
+d32aac074d87e42c,NE,"Accelerate360 Distribution, LLC",Accelerate360 Distribution,,Remote,13,2025-04-25,,,2026-08-30T21:43:41.512264Z
+6cb7988f824d9c4f,NE,United States Cellular Corporation (USCC),United States Cellular Corporation (USCC),,"Omaha, Papillion, Grand Island, and Remote Locations",4100,2025-03-26,,,2026-08-30T21:43:41.512264Z
+5da7fa4bea3974c6,NE,ITC Federal,ITC Federal,,Lincoln,141,2024-12-03,,,2026-08-30T21:43:41.512264Z
+e6109686d1ea4e0f,NE,Wellpath,Wellpath,,Omaha,64,2024-07-10,,,2026-08-30T21:43:41.512264Z
+72e9723a229d382a,NE,"Global Industries, Inc.",Global Industries,,Grand Island,100,2024-06-04,,,2026-08-30T21:43:41.512264Z
+84fd8e0796636eb0,NE,Bimbo Bakeries USA Inc.,Bimbo Bakeries,,Bellevue,165,2024-05-10,,,2026-08-30T21:43:41.512264Z
+690f09603fd581fe,NE,Garner Industries,Garner Industries,,Waverly,63,2024-05-06,,,2026-08-30T21:43:41.512264Z
+bc23b3e9fb761877,NE,"Student Transportation of America (STA), Inc.",Student Transportation of America (STA),,Omaha,243,2024-03-22,,,2026-08-30T21:43:41.512264Z
+97a01d4aaa76b822,NE,Cardinal Health,Cardinal Health,,Norfolk,5,2024-02-07,,,2026-08-30T21:43:41.512264Z
+1440cccc3f156f45,NE,"LBF Holdings, LLC",LBF Holdings,,Omaha,62,2024-01-11,,,2026-08-30T21:43:41.512264Z
+bdb9275b03e180b6,NE,Cardinal Health,Cardinal Health,,Norfolk,13,2024-01-08,,,2026-08-30T21:43:41.512264Z

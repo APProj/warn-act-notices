@@ -1,28 +1,28 @@
-id,state,company,location,employees_affected,notice_date,effective_date,notice_type,first_seen
-492507f3f7c2803a,RI,Conduent,United States,1,2026-06-29,2026-08-28,,2026-08-30T21:43:41.512264Z
-f2724ebd7c427940,RI,Ideal US Talent Systems Worker OpCo LLC,"Minneapolis, MN",9891,2026-05-05,2026-07-01,,2026-08-30T21:43:41.512264Z
-f73a7b7787029f48,RI,"Allied Group, LLC","Cumberland, RI",154,2026-03-31,2026-05-25,Closing,2026-08-30T21:43:41.512264Z
-8ccd210bd888e4f3,RI,Northeast Transportation Services LLC,"Pawtucket, RI",52,2026-03-19,2026-05-09,Closing,2026-08-30T21:43:41.512264Z
-d3b7e093edd72751,RI,EaglePicher,East Greenwich,38,2026-01-13,2026-03-15,Closing,2026-08-30T21:43:41.512264Z
-9a9ea93fdf9d2a6a,RI,UNFI,Lincon,2,2025-09-10,2025-11-14,,2026-08-30T21:43:41.512264Z
-d4a0ad74a3967387,RI,Hotel Viking,Newport,105,2025-09-03,2025-11-03,,2026-08-30T21:43:41.512264Z
-3a6e5e832c0a10ec,RI,Vertex Pharmaceuticals,Providence,125,2025-06-08,2025-08-05,,2026-08-30T21:43:41.512264Z
-4f20b6d600795ed6,RI,UNFI,Lincoln,20,2025-03-20,2025-05-23,Closing,2026-08-30T21:43:41.512264Z
-b498e37f9930c855,RI,CVS,Woonsocket,,2025-02-06,2025-06-07,,2026-08-30T21:43:41.512264Z
-cc857d0f32eb72fb,RI,CVS,Woonsocket,796,2024-11-25,2025-01-25,,2026-08-30T21:43:41.512264Z
-0e841e4619700a8d,RI,UNFI,Lincoln,121,2024-11-21,2025-01-24,,2026-08-30T21:43:41.512264Z
-bde556b3ccf18a2c,RI,Gannett Publishing,Providence,136,2024-11-12,2025-03-10,Closing,2026-08-30T21:43:41.512264Z
-94c25e18bfb92dba,RI,CVS,Rhode Island,632,2024-10-07,2024-12-08,,2026-08-30T21:43:41.512264Z
-4b874e184dbe75cf,RI,Kaleo,Rhode Island,1,2024-10-02,2024-11-30,,2026-08-30T21:43:41.512264Z
-1a3cf670f866cf81,RI,Riley Power Group,North Kingstown,13,2024-09-25,2024-11-22,,2026-08-30T21:43:41.512264Z
-86575fed0dfd57c5,RI,Riley Power Group,North Kingstown,117,2024-08-22,2024-10-21,,2026-08-30T21:43:41.512264Z
-0f3a8b8e36e9b7de,RI,Ennovi Advanced Mobility Solutions Rhode Island Inc,East Providence,205,2024-07-31,2025-01-01,Closing,2026-08-30T21:43:41.512264Z
-2d008267a881db6a,RI,Kirby Perkins Construction,Middletown,58,2024-07-12,2024-09-06,,2026-08-30T21:43:41.512264Z
-049c4b6560506762,RI,The Claflin Company,Warwick,30,2024-05-20,2024-07-15,,2026-08-30T21:43:41.512264Z
-9aec283fd84873c1,RI,ASM GLOBAL,Providence,1029,2024-05-09,2024-06-30,,2026-08-30T21:43:41.512264Z
-eca7f237dd76017d,RI,NMC,North Smithfield,36,2024-05-02,,Closing,2026-08-30T21:43:41.512264Z
-90f73e95568928a4,RI,UPS (updated from previous),Warwick,16,2024-04-01,2024-04-30,,2026-08-30T21:43:41.512264Z
-2186b161f50cc80c,RI,Volta Inc,Woonsocket,1,2024-04-01,2024-05-31,Closing,2026-08-30T21:43:41.512264Z
-29dd7e325b55bcc2,RI,Lakeside Book Company,Cumberland,48,2024-02-27,2024-11-15,Closing,2026-08-30T21:43:41.512264Z
-071645a06318ccbe,RI,UPS,Warwick,130,2024-02-06,2024-04-02,,2026-08-30T21:43:41.512264Z
-8ef8858db9f3e86c,RI,Los Angeles Times Communications LLC,Rhode Island,1,2024-01-25,2024-01-25,,2026-08-30T21:43:41.512264Z
+id,state,company,company_canonical,company_dba,location,employees_affected,notice_date,effective_date,notice_type,first_seen
+492507f3f7c2803a,RI,Conduent,Conduent,,United States,1,2026-06-29,2026-08-28,,2026-08-30T21:43:41.512264Z
+f2724ebd7c427940,RI,Ideal US Talent Systems Worker OpCo LLC,Ideal US Talent Systems Worker OpCo,,"Minneapolis, MN",9891,2026-05-05,2026-07-01,,2026-08-30T21:43:41.512264Z
+f73a7b7787029f48,RI,"Allied Group, LLC",Allied Group,,"Cumberland, RI",154,2026-03-31,2026-05-25,Closing,2026-08-30T21:43:41.512264Z
+8ccd210bd888e4f3,RI,Northeast Transportation Services LLC,Northeast Transportation Services,,"Pawtucket, RI",52,2026-03-19,2026-05-09,Closing,2026-08-30T21:43:41.512264Z
+d3b7e093edd72751,RI,EaglePicher,EaglePicher,,East Greenwich,38,2026-01-13,2026-03-15,Closing,2026-08-30T21:43:41.512264Z
+9a9ea93fdf9d2a6a,RI,UNFI,UNFI,,Lincon,2,2025-09-10,2025-11-14,,2026-08-30T21:43:41.512264Z
+d4a0ad74a3967387,RI,Hotel Viking,Hotel Viking,,Newport,105,2025-09-03,2025-11-03,,2026-08-30T21:43:41.512264Z
+3a6e5e832c0a10ec,RI,Vertex Pharmaceuticals,Vertex Pharmaceuticals,,Providence,125,2025-06-08,2025-08-05,,2026-08-30T21:43:41.512264Z
+4f20b6d600795ed6,RI,UNFI,UNFI,,Lincoln,20,2025-03-20,2025-05-23,Closing,2026-08-30T21:43:41.512264Z
+b498e37f9930c855,RI,CVS,CVS,,Woonsocket,,2025-02-06,2025-06-07,,2026-08-30T21:43:41.512264Z
+cc857d0f32eb72fb,RI,CVS,CVS,,Woonsocket,796,2024-11-25,2025-01-25,,2026-08-30T21:43:41.512264Z
+0e841e4619700a8d,RI,UNFI,UNFI,,Lincoln,121,2024-11-21,2025-01-24,,2026-08-30T21:43:41.512264Z
+bde556b3ccf18a2c,RI,Gannett Publishing,Gannett Publishing,,Providence,136,2024-11-12,2025-03-10,Closing,2026-08-30T21:43:41.512264Z
+94c25e18bfb92dba,RI,CVS,CVS,,Rhode Island,632,2024-10-07,2024-12-08,,2026-08-30T21:43:41.512264Z
+4b874e184dbe75cf,RI,Kaleo,Kaleo,,Rhode Island,1,2024-10-02,2024-11-30,,2026-08-30T21:43:41.512264Z
+1a3cf670f866cf81,RI,Riley Power Group,Riley Power Group,,North Kingstown,13,2024-09-25,2024-11-22,,2026-08-30T21:43:41.512264Z
+86575fed0dfd57c5,RI,Riley Power Group,Riley Power Group,,North Kingstown,117,2024-08-22,2024-10-21,,2026-08-30T21:43:41.512264Z
+0f3a8b8e36e9b7de,RI,Ennovi Advanced Mobility Solutions Rhode Island Inc,Ennovi Advanced Mobility Solutions Rhode Island,,East Providence,205,2024-07-31,2025-01-01,Closing,2026-08-30T21:43:41.512264Z
+2d008267a881db6a,RI,Kirby Perkins Construction,Kirby Perkins Construction,,Middletown,58,2024-07-12,2024-09-06,,2026-08-30T21:43:41.512264Z
+049c4b6560506762,RI,The Claflin Company,Claflin,,Warwick,30,2024-05-20,2024-07-15,,2026-08-30T21:43:41.512264Z
+9aec283fd84873c1,RI,ASM GLOBAL,Asm Global,,Providence,1029,2024-05-09,2024-06-30,,2026-08-30T21:43:41.512264Z
+eca7f237dd76017d,RI,NMC,NMC,,North Smithfield,36,2024-05-02,,Closing,2026-08-30T21:43:41.512264Z
+90f73e95568928a4,RI,UPS (updated from previous),UPS (updated from previous),,Warwick,16,2024-04-01,2024-04-30,,2026-08-30T21:43:41.512264Z
+2186b161f50cc80c,RI,Volta Inc,Volta,,Woonsocket,1,2024-04-01,2024-05-31,Closing,2026-08-30T21:43:41.512264Z
+29dd7e325b55bcc2,RI,Lakeside Book Company,Lakeside Book,,Cumberland,48,2024-02-27,2024-11-15,Closing,2026-08-30T21:43:41.512264Z
+071645a06318ccbe,RI,UPS,UPS,,Warwick,130,2024-02-06,2024-04-02,,2026-08-30T21:43:41.512264Z
+8ef8858db9f3e86c,RI,Los Angeles Times Communications LLC,Los Angeles Times Communications,,Rhode Island,1,2024-01-25,2024-01-25,,2026-08-30T21:43:41.512264Z

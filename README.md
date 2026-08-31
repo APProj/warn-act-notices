@@ -1,6 +1,6 @@
 # US WARN Act Layoff Notices — normalized, daily-updated dataset
 
-**10,088 layoff notices since 2024 · 25 states · one clean schema · CSV + JSON · updated 2026-08-31**
+**10,085 layoff notices since 2024 · 25 states · one clean schema · CSV + JSON · updated 2026-08-31**
 
 Every US state publishes WARN Act layoff notices differently — different sites,
 formats, column names, and date conventions. This repo normalizes them into one
@@ -27,6 +27,8 @@ that fund the pipeline.
 | `id` | stable dedupe hash of (state, company, effective_date, employees) |
 | `state` | 2-letter postal code |
 | `company` | employer name as published by the state |
+| `company_canonical` | cleaned employer name: legal suffixes (Inc/LLC/Corp), store numbers and site tails stripped, casing fixed — groups the same employer across states and renotices |
+| `company_dba` | trade name when the state published a "dba"/"aka" alias |
 | `location` | city/county/address, best effort |
 | `employees_affected` | integer count, empty if the state omitted it |
 | `notice_date` | ISO date the notice was received/posted |
@@ -38,7 +40,7 @@ that fund the pipeline.
 
 | State | Notices | CSV | Source status |
 |---|---:|---|---|
-| Arizona (AZ) | 621 | [az.csv](data/by-state/az.csv) | ok |
+| Arizona (AZ) | 620 | [az.csv](data/by-state/az.csv) | ok |
 | California (CA) | 16,526 | [ca.csv](data/by-state/ca.csv) | ok |
 | Connecticut (CT) | 27 | [ct.csv](data/by-state/ct.csv) | ok |
 | GA (GA) | 281 | — | ok |
@@ -60,7 +62,7 @@ that fund the pipeline.
 | South Dakota (SD) | 80 | [sd.csv](data/by-state/sd.csv) | ok |
 | Tennessee (TN) | 1,060 | [tn.csv](data/by-state/tn.csv) | ok |
 | Utah (UT) | 282 | [ut.csv](data/by-state/ut.csv) | ok |
-| Vermont (VT) | 69 | [vt.csv](data/by-state/vt.csv) | ok |
+| Vermont (VT) | 70 | [vt.csv](data/by-state/vt.csv) | ok |
 | Washington (WA) | 1,492 | [wa.csv](data/by-state/wa.csv) | ok |
 | Wisconsin (WI) | 617 | [wi.csv](data/by-state/wi.csv) | ok |
 
@@ -71,18 +73,18 @@ e.g. California layoff notices: [`data/by-state/ca.csv`](data/by-state/ca.csv).
 
 | Month | Notices | Workers affected |
 |---|---:|---:|
-| 2025-09 | 164 | 18,354 |
-| 2025-10 | 293 | 29,767 |
-| 2025-11 | 217 | 13,105 |
-| 2025-12 | 79 | 6,757 |
-| 2026-01 | 255 | 21,038 |
+| 2025-09 | 165 | 18,613 |
+| 2025-10 | 293 | 29,628 |
+| 2025-11 | 218 | 13,246 |
+| 2025-12 | 78 | 6,757 |
+| 2026-01 | 252 | 20,941 |
 | 2026-02 | 203 | 14,373 |
 | 2026-03 | 220 | 12,956 |
-| 2026-04 | 264 | 15,394 |
-| 2026-05 | 216 | 29,300 |
-| 2026-06 | 213 | 12,688 |
+| 2026-04 | 263 | 15,112 |
+| 2026-05 | 217 | 29,399 |
+| 2026-06 | 209 | 11,980 |
 | 2026-07 | 147 | 11,080 |
-| 2026-08 | 134 | 9,445 |
+| 2026-08 | 135 | 9,535 |
 
 More states are added as their sources are verified. Some states publish
 incomplete fields (e.g. NJ omits notice dates); we normalize what exists and
