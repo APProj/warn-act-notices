@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-01T07:22:46.114190Z",
-  "total_rows": 40261,
-  "free_rows": 6729,
+  "generated_at": "2026-09-01T22:27:50.881651Z",
+  "total_rows": 40293,
+  "free_rows": 6874,
   "free_window_start": "2024-01-01",
-  "new_ids_this_run": 2,
+  "new_ids_this_run": 32,
   "delay_hours": 48,
   "states": {
     "AZ": {
@@ -12,8 +12,8 @@
       "status": "ok"
     },
     "CA": {
-      "rows": 16526,
-      "raw_rows": 17399,
+      "rows": 16556,
+      "raw_rows": 17429,
       "status": "ok"
     },
     "CO": {
@@ -37,8 +37,8 @@
       "status": "ok"
     },
     "IA": {
-      "rows": 415,
-      "raw_rows": 429,
+      "rows": 416,
+      "raw_rows": 430,
       "status": "ok"
     },
     "IL": {
@@ -67,8 +67,8 @@
       "status": "ok"
     },
     "MD": {
-      "rows": 1273,
-      "raw_rows": 1417,
+      "rows": 1274,
+      "raw_rows": 1418,
       "status": "ok"
     },
     "MI": {
@@ -153,14 +153,16 @@
     }
   },
   "delay_gap": {
-    "count": 60,
-    "workers": 7588,
+    "count": 81,
+    "workers": 7084,
     "states": [
+      "CA",
       "CO",
       "FL",
       "GA",
+      "IA",
       "LA",
-      "MI",
+      "MD",
       "NJ",
       "OR",
       "WA"

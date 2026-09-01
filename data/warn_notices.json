@@ -1,5 +1,18 @@
 [
 {
+"company": "General Motors, LLC -- Lansing Region",
+"location": "Eaton, Ingham",
+"employees_affected": 350,
+"notice_date": "",
+"effective_date": "2027-01-14",
+"notice_type": "Mass layoff",
+"state": "MI",
+"company_canonical": "General Motors",
+"company_dba": "",
+"id": "926cfe22156a5df6",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
 "company": "Electrolux Consumer Products, Inc.",
 "location": "Anderson",
 "employees_affected": 10,
@@ -78,6 +91,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "SMBC MANUBANK",
+"location": "Remote",
+"employees_affected": 1,
+"notice_date": "",
+"effective_date": "2026-10-09",
+"notice_type": "Mass permanent layoff",
+"state": "MI",
+"company_canonical": "Smbc Manubank",
+"company_dba": "",
+"id": "2cd1c9c2d387600c",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
 "company": "Pactiv LLC",
 "location": "Aiken",
 "employees_affected": 133,
@@ -91,6 +117,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Kroger",
+"location": "Genesee",
+"employees_affected": 68,
+"notice_date": "",
+"effective_date": "2026-09-30",
+"notice_type": "Facility closure",
+"state": "MI",
+"company_canonical": "Kroger",
+"company_dba": "",
+"id": "e28833477764a02b",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
 "company": "Smith Drug Company",
 "location": "Spartanburg",
 "employees_affected": 195,
@@ -102,6 +141,71 @@
 "company_dba": "",
 "id": "47e1457146ce8d62",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Compass Group USA, Inc. / Morrison Healthcare",
+"location": "Cheboygan, Emmett, Genessee, Ingham, Lapeer",
+"employees_affected": 168,
+"notice_date": "",
+"effective_date": "2026-09-25",
+"notice_type": "Layoff",
+"state": "MI",
+"company_canonical": "Compass Group USA, Inc. / Morrison Healthcare",
+"company_dba": "",
+"id": "ef0db169b33e6621",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
+"company": "SK Siltron CSS, LLC",
+"location": "Bay",
+"employees_affected": 130,
+"notice_date": "",
+"effective_date": "2026-09-15",
+"notice_type": "Facility closure",
+"state": "MI",
+"company_canonical": "SK Siltron CSS",
+"company_dba": "",
+"id": "37c4a7abb28d1916",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
+"company": "Fifth Third Bank",
+"location": "Oakland",
+"employees_affected": 234,
+"notice_date": "",
+"effective_date": "2026-09-11",
+"notice_type": "Mass layoff",
+"state": "MI",
+"company_canonical": "Fifth Third Bank",
+"company_dba": "",
+"id": "c18643df422ff146",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
+"company": "Trystar, LLC",
+"location": "Oakland",
+"employees_affected": 71,
+"notice_date": "",
+"effective_date": "2026-09-04",
+"notice_type": "Facility closure",
+"state": "MI",
+"company_canonical": "Trystar",
+"company_dba": "",
+"id": "f6d6f5d4ff18c221",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
+"company": "Conduent Commercial Solutions, LLC",
+"location": "Statewide (remote)",
+"employees_affected": 15,
+"notice_date": "",
+"effective_date": "2026-08-28",
+"notice_type": "Layoff",
+"state": "MI",
+"company_canonical": "Conduent Commercial Solutions",
+"company_dba": "",
+"id": "ffaa39004fbe83cb",
+"first_seen": "2026-08-30T22:16:36.831610Z"
 },
 {
 "company": "Conduent Commercial Solutions, LLC",
@@ -551,7 +655,7 @@
 "employees_affected": 73,
 "notice_date": "2026-08-20",
 "effective_date": "2026-11-02",
-"notice_type": "Layoff Permanent",
+"notice_type": "Relocation Permanent",
 "state": "CA",
 "company_canonical": "Haas Automation",
 "company_dba": "",
@@ -754,6 +858,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Republic National Distributing Company (RNDC)",
+"location": "Delta, Grand Traverse, Kent, Saginaw, Wayne",
+"employees_affected": 641,
+"notice_date": "",
+"effective_date": "2026-08-17",
+"notice_type": "Layoff",
+"state": "MI",
+"company_canonical": "Republic National Distributing Company (RNDC)",
+"company_dba": "",
+"id": "ae9ee1af6c403924",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
 "company": "Pinnacle Transplant Technologies, LLC",
 "location": "Phoenix",
 "employees_affected": 90,
@@ -791,6 +908,19 @@
 "company_dba": "Organic Milling",
 "id": "277b15df26caa4f5",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Rec Boat Holdings, LLC",
+"location": "Wexford",
+"employees_affected": 239,
+"notice_date": "",
+"effective_date": "2026-08-15",
+"notice_type": "Facility closure",
+"state": "MI",
+"company_canonical": "Rec Boat Holdings",
+"company_dba": "",
+"id": "b2c27401a5516095",
+"first_seen": "2026-08-30T22:16:36.831610Z"
 },
 {
 "company": "Norwesco",
@@ -2808,6 +2938,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Compass Group USA, Inc. / Morrison Healthcare",
+"location": "Bay, Clare, Genesee, Huron, Isabella, Macomb, Oakland, Tuscola",
+"employees_affected": 311,
+"notice_date": "",
+"effective_date": "2026-07-24",
+"notice_type": "Layoff",
+"state": "MI",
+"company_canonical": "Compass Group USA, Inc. / Morrison Healthcare",
+"company_dba": "",
+"id": "03ba96ce86d89c0a",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
 "company": "Fortrex",
 "location": "Imperial County",
 "employees_affected": 91,
@@ -2926,7 +3069,7 @@
 },
 {
 "company": "Wisconsin Green, LLC<br/></a><a><em style=\"font-size:80%; text-decoration:none !important; color:#000\">* Notice outlines multiple scenarios for layoffs. Information displayed reflects the worst-case scenario.</em>",
-"location": "Washington",
+"location": "West Bend",
 "employees_affected": 59,
 "notice_date": "2026-07-21",
 "effective_date": "2026-07-22",
@@ -3471,6 +3614,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Navitas Systems, Inc.",
+"location": "Washtenaw",
+"employees_affected": 82,
+"notice_date": "",
+"effective_date": "2026-07-11",
+"notice_type": "Facility closure",
+"state": "MI",
+"company_canonical": "Navitas Systems",
+"company_dba": "",
+"id": "7270cb72d46baf70",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
 "company": "Swiss Krono, LLC",
 "location": "Barnwell",
 "employees_affected": 99,
@@ -4004,6 +4160,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Fifth Third Bank",
+"location": "Oakland",
+"employees_affected": 502,
+"notice_date": "",
+"effective_date": "2026-07-01",
+"notice_type": "Permanent layoff",
+"state": "MI",
+"company_canonical": "Fifth Third Bank",
+"company_dba": "",
+"id": "d180e0267e296974",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
 "company": "Kirson Medical LLC",
 "location": "8801 Kelso Drive Essex, MD 21221",
 "employees_affected": 20,
@@ -4015,6 +4184,19 @@
 "company_dba": "",
 "id": "cba32dc37b5a194c",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Compass Group USA, Inc.",
+"location": "",
+"employees_affected": 262,
+"notice_date": "",
+"effective_date": "2026-07-01",
+"notice_type": "Layoff",
+"state": "MI",
+"company_canonical": "Compass Group",
+"company_dba": "",
+"id": "c7c865d6f7643231",
+"first_seen": "2026-08-30T22:16:36.831610Z"
 },
 {
 "company": "Headquarters Hotel Mgmt, LLC d/b/a Sheraton Atlantic City Convention Center Hotel",
@@ -4368,6 +4550,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Dako Resources, LLC",
+"location": "Oakland",
+"employees_affected": 82,
+"notice_date": "",
+"effective_date": "2026-06-30",
+"notice_type": "Permanent layoff",
+"state": "MI",
+"company_canonical": "Dako Resources",
+"company_dba": "",
+"id": "64750f3b9f344a6f",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
 "company": "Ballast Point Brewing Company",
 "location": "San Francisco County",
 "employees_affected": 19,
@@ -4600,6 +4795,19 @@
 "company_dba": "",
 "id": "c5d80339716439ce",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Notions Marketing Corp.",
+"location": "Kent",
+"employees_affected": 181,
+"notice_date": "",
+"effective_date": "2026-06-28",
+"notice_type": "Mass layoff",
+"state": "MI",
+"company_canonical": "Notions Marketing",
+"company_dba": "",
+"id": "91fe05bd4f9f9d1a",
+"first_seen": "2026-08-30T22:16:36.831610Z"
 },
 {
 "company": "Conduent Commercial Solutions, LLC",
@@ -4860,6 +5068,19 @@
 "company_dba": "",
 "id": "87714797c7620bb9",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Ascend Wellness Holdings, Inc.",
+"location": "Ingham",
+"employees_affected": 94,
+"notice_date": "",
+"effective_date": "2026-06-26",
+"notice_type": "Permanent closure",
+"state": "MI",
+"company_canonical": "Ascend Wellness Holdings",
+"company_dba": "",
+"id": "74bc0d791a007f74",
+"first_seen": "2026-08-30T22:16:36.831610Z"
 },
 {
 "company": "Adventist Health Vallejo",
@@ -7332,6 +7553,32 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Daifuku Services America Corporation",
+"location": "Wayne",
+"employees_affected": 49,
+"notice_date": "",
+"effective_date": "2026-05-31",
+"notice_type": "Layoff",
+"state": "MI",
+"company_canonical": "Daifuku Services America",
+"company_dba": "",
+"id": "14d54af726086b20",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
+"company": "Day & Ross USA, Inc.",
+"location": "Livonia, Michigan, Wayne",
+"employees_affected": 32,
+"notice_date": "",
+"effective_date": "2026-05-30",
+"notice_type": "Layoff",
+"state": "MI",
+"company_canonical": "Day & Ross",
+"company_dba": "",
+"id": "ae3741ad9b2e4d17",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
 "company": "Sunrise Brands, Warehousing Facility LLC",
 "location": "Kern County",
 "employees_affected": 83,
@@ -9243,6 +9490,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Menard Inc., d/b/a Menards",
+"location": "St. Joseph",
+"employees_affected": 68,
+"notice_date": "",
+"effective_date": "2026-05-13",
+"notice_type": "Temporary layoff",
+"state": "MI",
+"company_canonical": "Menard",
+"company_dba": "Menards",
+"id": "84bf0e2a54028321",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
 "company": "Diamond Transportation Services, Inc.",
 "location": "3201 Hubbard Road Landover, MD 20785",
 "employees_affected": 571,
@@ -9958,6 +10218,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Spirit Airlines",
+"location": "Wayne",
+"employees_affected": 643,
+"notice_date": "",
+"effective_date": "2026-05-02",
+"notice_type": "Permanent layoff",
+"state": "MI",
+"company_canonical": "Spirit Airlines",
+"company_dba": "",
+"id": "aa27d189ba527b8c",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
 "company": "Spirit Airlines, LLC",
 "location": "New York",
 "employees_affected": 186,
@@ -10307,6 +10580,19 @@
 "company_dba": "",
 "id": "65a6fd8585484715",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "First Student",
+"location": "Cincinnati, 191 Rosa Parks St; Cincinnati, Ohio 45202",
+"employees_affected": 151,
+"notice_date": "2026-05-01",
+"effective_date": "",
+"notice_type": "WARN",
+"state": "KS",
+"company_canonical": "First Student",
+"company_dba": "",
+"id": "58a22abee242b5cf",
+"first_seen": "2026-08-30T22:16:36.831610Z"
 },
 {
 "company": "Brite Horizons Nonpublic School (Abrite)",
@@ -11024,6 +11310,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "General Shale, d/b/a Michigan Brick",
+"location": "Corunna, Michigan, Shiawassee",
+"employees_affected": 48,
+"notice_date": "",
+"effective_date": "2026-04-27",
+"notice_type": "Facility closure",
+"state": "MI",
+"company_canonical": "General Shale",
+"company_dba": "Michigan Brick",
+"id": "c62425de1df4cd56",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
 "company": "Medical Care at Home, P.C.",
 "location": "New York",
 "employees_affected": 28,
@@ -11126,6 +11425,19 @@
 "company_dba": "",
 "id": "0c0b3161aa7756fa",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Pace Industries, LLC",
+"location": "Muskegon, Michigan, Muskegon",
+"employees_affected": 145,
+"notice_date": "",
+"effective_date": "2026-04-25",
+"notice_type": "Facility closure",
+"state": "MI",
+"company_canonical": "Pace Industries",
+"company_dba": "",
+"id": "c57e1e0b1d4079dd",
+"first_seen": "2026-08-30T22:16:36.831610Z"
 },
 {
 "company": "Blue Diamond Growers",
@@ -12324,6 +12636,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Main Street Sports Group, LLC",
+"location": "Detroit, Michigan, Wayne",
+"employees_affected": 17,
+"notice_date": "",
+"effective_date": "2026-04-14",
+"notice_type": "Facility closure",
+"state": "MI",
+"company_canonical": "Main Street Sports Group",
+"company_dba": "",
+"id": "6b299552aa1de6b1",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
 "company": "Chen-Tech Industries LLC",
 "location": "Orange County",
 "employees_affected": 98,
@@ -13143,6 +13468,32 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Compass Group USA, Inc.",
+"location": "Madison Heights, Michigan, Oakland",
+"employees_affected": 114,
+"notice_date": "",
+"effective_date": "2026-04-06",
+"notice_type": "Facility closure",
+"state": "MI",
+"company_canonical": "Compass Group",
+"company_dba": "",
+"id": "042f7cec4e0dfa57",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
+"company": "GMRI, Inc., d/b/a Bahama Breeze",
+"location": "Livonia, Michigan, Wayne",
+"employees_affected": 66,
+"notice_date": "",
+"effective_date": "2026-04-05",
+"notice_type": "Company closure",
+"state": "MI",
+"company_canonical": "GMRI",
+"company_dba": "Bahama Breeze",
+"id": "2426fb220dae7fdc",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
 "company": "Good Sports Plus Ltd. dba Arc - Phoenix Rising/Desert Oasis High School",
 "location": "Imperial County",
 "employees_affected": 2,
@@ -13245,6 +13596,19 @@
 "company_dba": "",
 "id": "63df47f291f5178e",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Great Lakes Coca-Cola Distribution, LLC",
+"location": "Lansing, Michigan, Ingham",
+"employees_affected": 161,
+"notice_date": "",
+"effective_date": "2026-04-03",
+"notice_type": "Closure",
+"state": "MI",
+"company_canonical": "Great Lakes Coca-Cola Distribution",
+"company_dba": "",
+"id": "5ea3a42f70815b80",
+"first_seen": "2026-08-30T22:16:36.831610Z"
 },
 {
 "company": "Good Sports Plus, Ltd. dba Arc - J.W. Oakley Elementary School",
@@ -14144,6 +14508,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Grouper Acquisition Company, Inc.",
+"location": "Galesburg, Michigan, Kalamazoo",
+"employees_affected": 160,
+"notice_date": "",
+"effective_date": "2026-03-31",
+"notice_type": "Company closure",
+"state": "MI",
+"company_canonical": "Grouper Acquisition",
+"company_dba": "",
+"id": "a5a37c7b443f073d",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
 "company": "Southwest Airlines Co.",
 "location": "Chicago, 10000 W Ohare Ave",
 "employees_affected": 107,
@@ -14181,6 +14558,19 @@
 "company_dba": "",
 "id": "6bd58dfbc2e9defe",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Samaritas",
+"location": "Grand Rapids, Michigan, Kent",
+"employees_affected": 58,
+"notice_date": "",
+"effective_date": "2026-03-31",
+"notice_type": "Facility closure",
+"state": "MI",
+"company_canonical": "Samaritas",
+"company_dba": "",
+"id": "589eb31dfb49cac4",
+"first_seen": "2026-08-30T22:16:36.831610Z"
 },
 {
 "company": "*RESCINDED* Advanced Packaging, Inc.",
@@ -16289,6 +16679,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Labcorp Early Development Laboratories, Inc., and Laboratory Corporation of America Holdings (\u201cLabcorp\u201d)",
+"location": "Ann Arbor, Michigan, Washtenaw",
+"employees_affected": 76,
+"notice_date": "",
+"effective_date": "2026-03-09",
+"notice_type": "Facility closure",
+"state": "MI",
+"company_canonical": "Labcorp Early Development Laboratories, Inc., and Laboratory Corporation of America Holdings (\"Labcorp\")",
+"company_dba": "",
+"id": "237e37fc83c659ad",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
 "company": "Amentum",
 "location": "10530 Riverview Road Fort Washington, MD 20744",
 "employees_affected": 9,
@@ -17485,6 +17888,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "First Brands Group, LLC (Horizon Global)",
+"location": "Edgerton, 32901 W. 193rd St.; Edgerton, Kansas 66021",
+"employees_affected": 64,
+"notice_date": "2026-02-27",
+"effective_date": "",
+"notice_type": "WARN",
+"state": "KS",
+"company_canonical": "First Brands Group, LLC (Horizon Global)",
+"company_dba": "",
+"id": "63732291612f996e",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
 "company": "Ahlstrom Mosinee LLC",
 "location": "Mosinee",
 "employees_affected": "",
@@ -18005,6 +18421,32 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "First Brands Group, LLC (Hopkins)",
+"location": "Edgerton, W 185th St.; Edgerton, Kansas 66030",
+"employees_affected": 81,
+"notice_date": "2026-02-23",
+"effective_date": "",
+"notice_type": "WARN",
+"state": "KS",
+"company_canonical": "First Brands Group, LLC (Hopkins)",
+"company_dba": "",
+"id": "8805476cf54c4da7",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
+"company": "First Brands Group, LLC",
+"location": "Oakland",
+"employees_affected": 41,
+"notice_date": "",
+"effective_date": "2026-02-23",
+"notice_type": "Permanent layoff",
+"state": "MI",
+"company_canonical": "First Brands Group",
+"company_dba": "",
+"id": "7c6c4540b80b49f2",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
 "company": "Raley's",
 "location": "Contra Costa County",
 "employees_affected": 43,
@@ -18094,6 +18536,19 @@
 "company_dba": "",
 "id": "20d1583ffec8dbb2",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "First Brands Group, LLC (Hopkins)",
+"location": "Emporia, 428 Peyton St.; Emporia, Kansas 66801",
+"employees_affected": 130,
+"notice_date": "2026-02-23",
+"effective_date": "",
+"notice_type": "WARN",
+"state": "KS",
+"company_canonical": "First Brands Group, LLC (Hopkins)",
+"company_dba": "",
+"id": "1e0f0d03a9faea2d",
+"first_seen": "2026-08-30T22:16:36.831610Z"
 },
 {
 "company": "Nordstrom Card Services",
@@ -18772,6 +19227,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "The Common Ground Sanctuary",
+"location": "Pontiac, Michigan, Oakland",
+"employees_affected": 155,
+"notice_date": "",
+"effective_date": "2026-02-16",
+"notice_type": "Layoff",
+"state": "MI",
+"company_canonical": "Common Ground Sanctuary",
+"company_dba": "",
+"id": "923ddb8985f30dfd",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
 "company": "Peshastin Pear Packers, LLC.",
 "location": "Peshastin",
 "employees_affected": 31,
@@ -18913,6 +19381,19 @@
 "company_dba": "",
 "id": "73466ab457d51f95",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Lowe's",
+"location": "Charlotte",
+"employees_affected": 3,
+"notice_date": "2026-02-13",
+"effective_date": "",
+"notice_type": "WARN",
+"state": "KS",
+"company_canonical": "Lowe's",
+"company_dba": "",
+"id": "67b48d297aef6f4d",
+"first_seen": "2026-08-30T22:16:36.831610Z"
 },
 {
 "company": "Outdoor Research",
@@ -20384,6 +20865,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Utz Quality Foods, LLC",
+"location": "Grand Rapids, Michigan, Kent",
+"employees_affected": 75,
+"notice_date": "",
+"effective_date": "2026-01-30",
+"notice_type": "Company closure",
+"state": "MI",
+"company_canonical": "Utz Quality Foods",
+"company_dba": "",
+"id": "cc5d8ce75cca666a",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
 "company": "Amazon (SJC38)",
 "location": "Santa Clara County",
 "employees_affected": 141,
@@ -20616,6 +21110,19 @@
 "company_dba": "",
 "id": "61e7995414798cec",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Vornado Air, LLC.",
+"location": "Andover, 415 E. 13th ; Andover, Kansas 67002",
+"employees_affected": 72,
+"notice_date": "2026-01-30",
+"effective_date": "",
+"notice_type": "WARN",
+"state": "KS",
+"company_canonical": "Vornado Air",
+"company_dba": "",
+"id": "6198f7ef7f06c3a5",
+"first_seen": "2026-08-30T22:16:36.831610Z"
 },
 {
 "company": "Chan Zuckerberg Biohub, Inc.",
@@ -21669,6 +22176,19 @@
 "company_dba": "",
 "id": "69e2780baf053693",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Fluresh, LLC",
+"location": "Grand Rapids, Michigan, Kent",
+"employees_affected": 15,
+"notice_date": "",
+"effective_date": "2026-01-28",
+"notice_type": "Company closure",
+"state": "MI",
+"company_canonical": "Fluresh",
+"company_dba": "",
+"id": "69945ff77c47201d",
+"first_seen": "2026-08-30T22:16:36.831610Z"
 },
 {
 "company": "Amazonfresh LLC",
@@ -23348,6 +23868,32 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Inline Plastics",
+"location": "Gladwin, Michigan, Gladwin",
+"employees_affected": 25,
+"notice_date": "",
+"effective_date": "2026-01-11",
+"notice_type": "Facility closure",
+"state": "MI",
+"company_canonical": "Inline Plastics",
+"company_dba": "",
+"id": "8bd7ab72bb32ee54",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
+"company": "The Taubman Company LLC",
+"location": "Bloomfield Hills, Michigan, Oakland",
+"employees_affected": 105,
+"notice_date": "",
+"effective_date": "2026-01-09",
+"notice_type": "Facility closure",
+"state": "MI",
+"company_canonical": "Taubman",
+"company_dba": "",
+"id": "a69920c484b16b45",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
 "company": "Alameda Health System - John George Hospital",
 "location": "Alameda County",
 "employees_affected": 16,
@@ -23478,6 +24024,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Post Consumer Brands, LLC",
+"location": "Battle Creek, Michigan, Calhoun",
+"employees_affected": 71,
+"notice_date": "",
+"effective_date": "2026-01-08",
+"notice_type": "Layoff",
+"state": "MI",
+"company_canonical": "Post Consumer Brands",
+"company_dba": "",
+"id": "221ad231c7cf1307",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
 "company": "Alameda Health System - System Support Center",
 "location": "Alameda County",
 "employees_affected": 18,
@@ -23554,6 +24113,19 @@
 "company_dba": "",
 "id": "145ee379c0439299",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Our Next Energy",
+"location": "Novi, Michigan, Oakland",
+"employees_affected": 29,
+"notice_date": "",
+"effective_date": "2026-01-06",
+"notice_type": "Layoff",
+"state": "MI",
+"company_canonical": "Our Next Energy",
+"company_dba": "",
+"id": "e27b0269995c5528",
+"first_seen": "2026-08-30T22:16:36.831610Z"
 },
 {
 "company": "Tessera",
@@ -23673,6 +24245,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Yanfeng",
+"location": "Romulus, Michigan, Wayne",
+"employees_affected": 192,
+"notice_date": "",
+"effective_date": "2026-01-05",
+"notice_type": "Layoff",
+"state": "MI",
+"company_canonical": "Yanfeng",
+"company_dba": "",
+"id": "ed5952356ed9cb51",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
 "company": "Founders Insurance Company",
 "location": "Des Plaines, 1350 E Touhy Ave Ste 200W",
 "employees_affected": 43,
@@ -23697,6 +24282,19 @@
 "company_dba": "",
 "id": "7104a9a75e19736e",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Factory ZERO Detroit-Hamtramck Assembly Center",
+"location": "Detroit, Michigan, Wayne",
+"employees_affected": 1140,
+"notice_date": "",
+"effective_date": "2026-01-05",
+"notice_type": "Layoff",
+"state": "MI",
+"company_canonical": "Factory ZERO Detroit-Hamtramck Assembly Center",
+"company_dba": "",
+"id": "64a466b2a7341ef2",
+"first_seen": "2026-08-30T22:16:36.831610Z"
 },
 {
 "company": "Wabash",
@@ -23881,6 +24479,32 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Anderton Machining",
+"location": "Jackson, Michigan, Jackson",
+"employees_affected": 41,
+"notice_date": "",
+"effective_date": "2025-12-31",
+"notice_type": "Facility closure",
+"state": "MI",
+"company_canonical": "Anderton Machining",
+"company_dba": "",
+"id": "9e5de179103e8d5d",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
+"company": "Mercedes-Benz Financial Services USA LLC",
+"location": "Farmington Hills, Michigan, Oakland",
+"employees_affected": 265,
+"notice_date": "",
+"effective_date": "2025-12-31",
+"notice_type": "Company closure",
+"state": "MI",
+"company_canonical": "Mercedes-Benz Financial Services",
+"company_dba": "",
+"id": "67133c9c5bc38276",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
 "company": "US Endodontics, LLC",
 "location": "Washington",
 "employees_affected": 70,
@@ -23946,6 +24570,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "XALT Energy MI, LLC",
+"location": "Midland",
+"employees_affected": 123,
+"notice_date": "",
+"effective_date": "2025-12-29",
+"notice_type": "Permanent closure",
+"state": "MI",
+"company_canonical": "XALT Energy MI",
+"company_dba": "",
+"id": "a2f75c52758c88ce",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
 "company": "Dalton Corporation",
 "location": "Warsaw",
 "employees_affected": 257,
@@ -23959,6 +24596,32 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "XALT Energy MI, LLC",
+"location": "Auburn Hills, Michigan, Oakland",
+"employees_affected": 11,
+"notice_date": "",
+"effective_date": "2025-12-29",
+"notice_type": "Company closure",
+"state": "MI",
+"company_canonical": "XALT Energy MI",
+"company_dba": "",
+"id": "7921e38cfe612960",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
+"company": "Freudenberg Battery Power Systems, LLC",
+"location": "Midland",
+"employees_affected": 107,
+"notice_date": "",
+"effective_date": "2025-12-29",
+"notice_type": "Permanent closure",
+"state": "MI",
+"company_canonical": "Freudenberg Battery Power Systems",
+"company_dba": "",
+"id": "661eb75bf6b23185",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
 "company": "Doosan GridTech",
 "location": "Bellevue",
 "employees_affected": 24,
@@ -23970,6 +24633,19 @@
 "company_dba": "",
 "id": "50fd7db77f11b5f6",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Freudenberg Battery Power Systems, LLC",
+"location": "Auburn Hills, Michigan, Oakland",
+"employees_affected": 83,
+"notice_date": "",
+"effective_date": "2025-12-29",
+"notice_type": "Company closure",
+"state": "MI",
+"company_canonical": "Freudenberg Battery Power Systems",
+"company_dba": "",
+"id": "13492242aa2ee8bf",
+"first_seen": "2026-08-30T22:16:36.831610Z"
 },
 {
 "company": "Fullstack Modular LLC",
@@ -24074,6 +24750,19 @@
 "company_dba": "",
 "id": "1c2340604f21581e",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Vista Maria",
+"location": "Dearborn Heights, Michigan, Wayne",
+"employees_affected": 154,
+"notice_date": "",
+"effective_date": "2025-12-19",
+"notice_type": "Permanent layoff",
+"state": "MI",
+"company_canonical": "Vista Maria",
+"company_dba": "",
+"id": "f111a7799aa04ae6",
+"first_seen": "2026-08-30T22:16:36.831610Z"
 },
 {
 "company": "Value Village Thrift Stores, Inc.",
@@ -24349,6 +25038,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "IAC Alma, LLC",
+"location": "Alma, Michigan, Gratiot",
+"employees_affected": 72,
+"notice_date": "",
+"effective_date": "2025-12-12",
+"notice_type": "Layoff",
+"state": "MI",
+"company_canonical": "IAC Alma",
+"company_dba": "",
+"id": "bd7d289921548446",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
 "company": "Anheuser-Busch Commercial Strategy, LLC",
 "location": "Solano County",
 "employees_affected": 238,
@@ -24557,6 +25259,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "IAC Mendon, LLC",
+"location": "Mendon, Michigan, St. Joseph",
+"employees_affected": 178,
+"notice_date": "",
+"effective_date": "2025-12-08",
+"notice_type": "Layoff",
+"state": "MI",
+"company_canonical": "IAC Mendon",
+"company_dba": "",
+"id": "e0b9ebb8d77034c4",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
 "company": "Jabil, Inc.",
 "location": "Solano County",
 "employees_affected": 21,
@@ -24659,6 +25374,19 @@
 "company_dba": "",
 "id": "5a85d641d729941f",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Avancez",
+"location": "Hazel Park, Michigan, Oakland",
+"employees_affected": 143,
+"notice_date": "",
+"effective_date": "2025-12-05",
+"notice_type": "Layoff",
+"state": "MI",
+"company_canonical": "Avancez",
+"company_dba": "",
+"id": "46c4007101000c64",
+"first_seen": "2026-08-30T22:16:36.831610Z"
 },
 {
 "company": "Intel Corporation (SC-9)",
@@ -24856,6 +25584,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "SimplyIOA, LLC",
+"location": "Flint, Michigan, Genesee",
+"employees_affected": 1,
+"notice_date": "",
+"effective_date": "2025-12-02",
+"notice_type": "Facility closure",
+"state": "MI",
+"company_canonical": "SimplyIOA",
+"company_dba": "",
+"id": "a218e906725cb13c",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
 "company": "Peraton\u2019s Environmental Integration Services III (\u201cETIS\u201d)",
 "location": "8800 Greenbelt Road Greenbelt, MD 20771",
 "employees_affected": 130,
@@ -24997,6 +25738,19 @@
 "company_dba": "",
 "id": "831a0401009200ae",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Spirit Airlines",
+"location": "Detroit, Michigan, Wayne",
+"employees_affected": 103,
+"notice_date": "",
+"effective_date": "2025-12-01",
+"notice_type": "Temporary layoff",
+"state": "MI",
+"company_canonical": "Spirit Airlines",
+"company_dba": "",
+"id": "831992fa3240f465",
+"first_seen": "2026-08-30T22:16:36.831610Z"
 },
 {
 "company": "Ovations FanFare, L.P. dba OVG Hospitality",
@@ -26375,6 +27129,19 @@
 "company_dba": "",
 "id": "fce4770924df688d",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Cole's Quality Foods",
+"location": "Muskegon, Michigan, Muskegon",
+"employees_affected": 175,
+"notice_date": "",
+"effective_date": "2025-11-09",
+"notice_type": "Facility closure",
+"state": "MI",
+"company_canonical": "Cole's Quality Foods",
+"company_dba": "",
+"id": "3535c0fade6f6c99",
+"first_seen": "2026-08-30T22:16:36.831610Z"
 },
 {
 "company": "Ceryx Management LLC (Figueroa)",
@@ -28013,6 +28780,19 @@
 "company_dba": "",
 "id": "7d82c9b010644257",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Premier Care LLC",
+"location": "Bloomfield Hills, Michigan, Oakland",
+"employees_affected": 94,
+"notice_date": "",
+"effective_date": "2025-11-01",
+"notice_type": "Layoff",
+"state": "MI",
+"company_canonical": "Premier Care",
+"company_dba": "",
+"id": "7d0f5c32b75a5ed5",
+"first_seen": "2026-08-30T22:16:36.831610Z"
 },
 {
 "company": "Wonder Group",
@@ -30199,6 +30979,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "DTW North Partners JV, LLC",
+"location": "Detroit/Romulus, Wayne",
+"employees_affected": 13,
+"notice_date": "",
+"effective_date": "2025-10-19",
+"notice_type": "Temporary layoff",
+"state": "MI",
+"company_canonical": "DTW North Partners JV",
+"company_dba": "",
+"id": "81804ecda1be2e49",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
 "company": "CVS Health",
 "location": "Remote",
 "employees_affected": 72,
@@ -30888,6 +31681,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "NPR of America, Inc.",
+"location": "Grand Haven, Michigan, Ottawa",
+"employees_affected": 64,
+"notice_date": "",
+"effective_date": "2025-10-12",
+"notice_type": "Company closure",
+"state": "MI",
+"company_canonical": "NPR of America",
+"company_dba": "",
+"id": "31865b6217125c12",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
 "company": "King Fuji Ranch, Inc.",
 "location": "Mattawa",
 "employees_affected": 334,
@@ -31068,6 +31874,19 @@
 "company_dba": "Select Specialty Hospital - South Dakota",
 "id": "6a65954c3860469b",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Dana Thermal Products, LLC",
+"location": "Auburn Hills, Michigan, Oakland",
+"employees_affected": 200,
+"notice_date": "",
+"effective_date": "2025-10-09",
+"notice_type": "Closure",
+"state": "MI",
+"company_canonical": "Dana Thermal Products",
+"company_dba": "",
+"id": "59d36bd6c05d100e",
+"first_seen": "2026-08-30T22:16:36.831610Z"
 },
 {
 "company": "CRST Lincoln Sales, Inc. dba CRST Equipment Solutions, Inc.",
@@ -31525,6 +32344,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "DP World Contract Logistics US Inc.",
+"location": "Warren, Michigan, Macomb",
+"employees_affected": 70,
+"notice_date": "",
+"effective_date": "2025-10-05",
+"notice_type": "Closure",
+"state": "MI",
+"company_canonical": "DP World Contract Logistics US",
+"company_dba": "",
+"id": "b44263a6477c4b3f",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
 "company": "ZOLL Medical Corporation",
 "location": "Riverside County",
 "employees_affected": 96,
@@ -31746,6 +32578,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Davalor Mold Company, LLC",
+"location": "New Baltimore, Michigan, Macomb",
+"employees_affected": 45,
+"notice_date": "",
+"effective_date": "2025-10-03",
+"notice_type": "Layoff",
+"state": "MI",
+"company_canonical": "Davalor Mold",
+"company_dba": "",
+"id": "35f657aa59ee4b1b",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
 "company": "Monroe Operations, LLC dba Newport Academy",
 "location": "Orange County",
 "employees_affected": 27,
@@ -31796,6 +32641,19 @@
 "company_dba": "",
 "id": "851f11f49da7716f",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Gates Corporation \"Gates\"",
+"location": "Iola",
+"employees_affected": 81,
+"notice_date": "2025-10-02",
+"effective_date": "",
+"notice_type": "WARN",
+"state": "KS",
+"company_canonical": "Gates Corporation \"Gates",
+"company_dba": "",
+"id": "8297f7fb6e437fff",
+"first_seen": "2026-08-30T22:16:36.831610Z"
 },
 {
 "company": "Advanced Pressure Technology",
@@ -31861,6 +32719,19 @@
 "company_dba": "",
 "id": "fd7c4ea18cca6d5b",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Akebono Brake Corporation",
+"location": "Farmington Hills, Michigan, Oakland",
+"employees_affected": 48,
+"notice_date": "",
+"effective_date": "2025-10-01",
+"notice_type": "Layoff",
+"state": "MI",
+"company_canonical": "Akebono Brake",
+"company_dba": "",
+"id": "f7f11a3fea72ded6",
+"first_seen": "2026-08-30T22:16:36.831610Z"
 },
 {
 "company": "WeDriveU, Inc.",
@@ -32357,6 +33228,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Community Development Institute Head Start/CDI HS Serving St. Clair County, MI",
+"location": "Port Huron, Michigan; Marie City, Michigan; Casco, Michigan; Yale, Michigan, St. Clair",
+"employees_affected": 60,
+"notice_date": "",
+"effective_date": "2025-09-30",
+"notice_type": "Layoff",
+"state": "MI",
+"company_canonical": "Community Development Institute Head Start/CDI HS Serving St. Clair County, MI",
+"company_dba": "",
+"id": "b55b4eb4365f3c0b",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
 "company": "Google - 1175",
 "location": "Santa Clara County",
 "employees_affected": 1,
@@ -32732,6 +33616,32 @@
 "company_dba": "",
 "id": "d0430afddc452728",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Marshall Excelsior Co.",
+"location": "Marshall, Michigan, Calhoun",
+"employees_affected": 71,
+"notice_date": "",
+"effective_date": "2025-09-26",
+"notice_type": "Company Closure",
+"state": "MI",
+"company_canonical": "Marshall Excelsior",
+"company_dba": "",
+"id": "cd6e85de60f203a0",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
+"company": "United BioSource LLC (UBC)",
+"location": "Overland Park, 12900 Foster Street ; Overland Park, Kansas 66213",
+"employees_affected": 123,
+"notice_date": "2025-09-26",
+"effective_date": "",
+"notice_type": "WARN",
+"state": "KS",
+"company_canonical": "United BioSource LLC (UBC)",
+"company_dba": "",
+"id": "bdfbd4617ffdf5c4",
+"first_seen": "2026-08-30T22:16:36.831610Z"
 },
 {
 "company": "Warner Music Inc.",
@@ -33696,6 +34606,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "SalonCentric",
+"location": "Grand Rapids, Michigan, Kent",
+"employees_affected": 79,
+"notice_date": "",
+"effective_date": "2025-09-13",
+"notice_type": "Facility closure",
+"state": "MI",
+"company_canonical": "SalonCentric",
+"company_dba": "",
+"id": "ba5674973c5d2c64",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
 "company": "21st Amendment Brewery Cafe",
 "location": "San Francisco County",
 "employees_affected": 18,
@@ -34086,6 +35009,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Howard Miller Company",
+"location": "Zeeland, Michigan and Traverse City, Michigan, Ottawa and Grand Traverse",
+"employees_affected": 138,
+"notice_date": "",
+"effective_date": "2025-09-07",
+"notice_type": "Company closure",
+"state": "MI",
+"company_canonical": "Howard Miller",
+"company_dba": "",
+"id": "4e9ea7f288aae8a2",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
 "company": "Rivian, LLC",
 "location": "8787 Snouffer School Road Gaithersburg, MD 20879",
 "employees_affected": 19,
@@ -34398,6 +35334,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Natron Energy, Inc.",
+"location": "Holland, Michigan, Ottawa (maybe Allegan as it falls into both)",
+"employees_affected": 37,
+"notice_date": "",
+"effective_date": "2025-09-03",
+"notice_type": "Closure",
+"state": "MI",
+"company_canonical": "Natron Energy",
+"company_dba": "",
+"id": "d6a49cc83e0fc08a",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
 "company": "Hotel Viking",
 "location": "Newport",
 "employees_affected": 105,
@@ -34632,6 +35581,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Auto Warehousing Company",
+"location": "New Boston, Michigan, Wayne",
+"employees_affected": 75,
+"notice_date": "",
+"effective_date": "2025-09-01",
+"notice_type": "Facility closure",
+"state": "MI",
+"company_canonical": "Auto Warehousing",
+"company_dba": "",
+"id": "c85587eb1e932eda",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
 "company": "Prudential",
 "location": "Newark",
 "employees_affected": 63,
@@ -34760,6 +35722,45 @@
 "company_dba": "",
 "id": "45e0d0c68e146758",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "TerrAscend Corp., d/b/a Gage Cannabis, Cookies, Lemonade and Pinnacle Emporium",
+"location": "Statewide, multiple locations, Statewide, multiple locations",
+"employees_affected": 236,
+"notice_date": "",
+"effective_date": "2025-08-31",
+"notice_type": "Multiple facility closures",
+"state": "MI",
+"company_canonical": "TerrAscend",
+"company_dba": "Gage Cannabis, Cookies, Lemonade and Pinnacle Emporium",
+"id": "3a21ea780804770d",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
+"company": "Lansing Entertainment and Public Facilities Authority (LEPFA)",
+"location": "Lansing, Michigan, Ingham",
+"employees_affected": 181,
+"notice_date": "",
+"effective_date": "2025-08-30",
+"notice_type": "Layoff",
+"state": "MI",
+"company_canonical": "Lansing Entertainment and Public Facilities Authority (LEPFA)",
+"company_dba": "",
+"id": "26689087f1f7749b",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
+"company": "Kelly Services USA, LLC",
+"location": "Statewide, Statewide",
+"employees_affected": 47,
+"notice_date": "",
+"effective_date": "2025-08-30",
+"notice_type": "Layoff",
+"state": "MI",
+"company_canonical": "Kelly Services",
+"company_dba": "",
+"id": "14ce29e304fdef83",
+"first_seen": "2026-08-30T22:16:36.831610Z"
 },
 {
 "company": "Downtown Streets, Inc.",
@@ -35113,6 +36114,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "CNC Logistics, Inc.",
+"location": "Walker, Michigan, Kent",
+"employees_affected": 75,
+"notice_date": "",
+"effective_date": "2025-08-27",
+"notice_type": "Facility closure",
+"state": "MI",
+"company_canonical": "CNC Logistics",
+"company_dba": "",
+"id": "1319ad4b99cccdcc",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
 "company": "Vistar Green Rabbit",
 "location": "Tulare County",
 "employees_affected": 15,
@@ -35423,6 +36437,19 @@
 "company_dba": "",
 "id": "bbe6426a73d2a886",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "PepsiCo, Inc.",
+"location": "Detroit, Michigan, Wayne",
+"employees_affected": 84,
+"notice_date": "",
+"effective_date": "2025-08-25",
+"notice_type": "Layoff",
+"state": "MI",
+"company_canonical": "PepsiCo",
+"company_dba": "",
+"id": "baeac3626caf424f",
+"first_seen": "2026-08-30T22:16:36.831610Z"
 },
 {
 "company": "Intel Corporation",
@@ -35984,6 +37011,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Oldcastle Building Envelope, d/b/a Midwest Glass",
+"location": "Highland, Michigan, Oakland",
+"employees_affected": 124,
+"notice_date": "",
+"effective_date": "2025-08-18",
+"notice_type": "Facility closure",
+"state": "MI",
+"company_canonical": "Oldcastle Building Envelope",
+"company_dba": "Midwest Glass",
+"id": "9ea104f7ba9ce429",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
 "company": "Zeco Systems, Inc.",
 "location": "Los Angeles County",
 "employees_affected": 114,
@@ -36528,6 +37568,19 @@
 "company_dba": "",
 "id": "16e96aab9778d742",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Pratt (Classic Container) Inc.",
+"location": "Livonia, Michigan, Wayne",
+"employees_affected": 53,
+"notice_date": "",
+"effective_date": "2025-08-10",
+"notice_type": "Mass layoff",
+"state": "MI",
+"company_canonical": "Pratt (Classic Container)",
+"company_dba": "",
+"id": "50ae5c0d49d37f43",
+"first_seen": "2026-08-30T22:16:36.831610Z"
 },
 {
 "company": "TriLink Biotechnologies, LLC (10240)",
@@ -37648,6 +38701,32 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "SPO Management, LLC",
+"location": "Manhattan, 520 McCall Rd; Manhattan, Kansas 66502",
+"employees_affected": 72,
+"notice_date": "2025-07-29",
+"effective_date": "",
+"notice_type": "WARN",
+"state": "KS",
+"company_canonical": "SPO Management",
+"company_dba": "",
+"id": "582ba72ff6c2fa79",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
+"company": "Unrivaled Teamwear",
+"location": "Manhattan, 520 McCall Rd; Manhattan, Kansas 66502",
+"employees_affected": 72,
+"notice_date": "2025-07-29",
+"effective_date": "",
+"notice_type": "WARN",
+"state": "KS",
+"company_canonical": "Unrivaled Teamwear",
+"company_dba": "",
+"id": "412cb69b7ecee8ed",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
 "company": "Thermo Fisher Scientific (5781)",
 "location": "San Diego County",
 "employees_affected": 33,
@@ -37841,6 +38920,19 @@
 "company_dba": "",
 "id": "0b7ef5b0371d1706",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Panera, LLC Fresh Dough Facility",
+"location": "Romulus, Michigan, Wayne",
+"employees_affected": 66,
+"notice_date": "",
+"effective_date": "2025-07-23",
+"notice_type": "Facility closure",
+"state": "MI",
+"company_canonical": "Panera, LLC Fresh Dough Facility",
+"company_dba": "",
+"id": "e25c96424708dcf2",
+"first_seen": "2026-08-30T22:16:36.831610Z"
 },
 {
 "company": "Williamson Morgan & Associates LLC",
@@ -39390,6 +40482,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "BRP Marine US Inc.",
+"location": "Lansing, Michigan, Ingham",
+"employees_affected": 72,
+"notice_date": "",
+"effective_date": "2025-07-08",
+"notice_type": "Mass layoff",
+"state": "MI",
+"company_canonical": "BRP Marine US",
+"company_dba": "",
+"id": "54f8e015bfd0518a",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
 "company": "Intel Corporation (SC-1)",
 "location": "Santa Clara County",
 "employees_affected": 1,
@@ -39492,6 +40597,19 @@
 "company_dba": "",
 "id": "b225e26358666b0e",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Gannett Publishing",
+"location": "Sterling Heights, Michigan, Macomb",
+"employees_affected": 109,
+"notice_date": "",
+"effective_date": "2025-07-07",
+"notice_type": "Closure",
+"state": "MI",
+"company_canonical": "Gannett Publishing",
+"company_dba": "",
+"id": "b1e975958af3e7a3",
+"first_seen": "2026-08-30T22:16:36.831610Z"
 },
 {
 "company": "Paramount Global (1575)",
@@ -39767,6 +40885,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Plasan North America, Inc.",
+"location": "Grand Rapids, Michigan, Kent",
+"employees_affected": 64,
+"notice_date": "",
+"effective_date": "2025-07-02",
+"notice_type": "Mass layoff",
+"state": "MI",
+"company_canonical": "Plasan North America",
+"company_dba": "",
+"id": "4e91e499c3f02d3d",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
 "company": "Microsoft",
 "location": "Redmond and Bellevue",
 "employees_affected": 830,
@@ -39843,6 +40974,19 @@
 "company_dba": "",
 "id": "d64838029f7e007e",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Compass Group USA, Inc.",
+"location": "",
+"employees_affected": 244,
+"notice_date": "",
+"effective_date": "2025-07-01",
+"notice_type": "Permanent layoff",
+"state": "MI",
+"company_canonical": "Compass Group",
+"company_dba": "",
+"id": "cae823550e8f96a6",
+"first_seen": "2026-08-30T22:16:36.831610Z"
 },
 {
 "company": "Spiral Binding",
@@ -40222,6 +41366,32 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Aramark Campus, LLC",
+"location": "Detroit, Michigan, Wayne",
+"employees_affected": 137,
+"notice_date": "",
+"effective_date": "2025-06-30",
+"notice_type": "Layoff",
+"state": "MI",
+"company_canonical": "Aramark Campus",
+"company_dba": "",
+"id": "4b895f77ee884275",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
+"company": "Flagstar Bank, N.A.",
+"location": "Troy, Michigan, Oakland",
+"employees_affected": 12,
+"notice_date": "",
+"effective_date": "2025-06-30",
+"notice_type": "Layoff",
+"state": "MI",
+"company_canonical": "Flagstar Bank",
+"company_dba": "",
+"id": "428ad45d3c17dccc",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
 "company": "Bicycle Transit Systems",
 "location": "Los Angeles County",
 "employees_affected": 65,
@@ -40326,6 +41496,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Accelerate360 Distribution, LLC",
+"location": "Statewide, Statewide",
+"employees_affected": 2,
+"notice_date": "",
+"effective_date": "2025-06-28",
+"notice_type": "Layoff",
+"state": "MI",
+"company_canonical": "Accelerate360 Distribution",
+"company_dba": "",
+"id": "8f7f0d2d2fd6269b",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
 "company": "Beachbody, LLC",
 "location": "Los Angeles County",
 "employees_affected": 70,
@@ -40363,6 +41546,19 @@
 "company_dba": "",
 "id": "29b14002e1487aa3",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Conagra Brands, Inc.",
+"location": "Fennville, Michigan, Allegan",
+"employees_affected": 75,
+"notice_date": "",
+"effective_date": "2025-06-27",
+"notice_type": "Closure",
+"state": "MI",
+"company_canonical": "Conagra Brands",
+"company_dba": "",
+"id": "266561418ccc99fa",
+"first_seen": "2026-08-30T22:16:36.831610Z"
 },
 {
 "company": "Van Law Food Products, Inc.",
@@ -40807,6 +42003,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Heartland Recreational Vehicles, LLC",
+"location": "Sturgis, Michigan, St. Joseph",
+"employees_affected": 121,
+"notice_date": "",
+"effective_date": "2025-06-20",
+"notice_type": "Closure",
+"state": "MI",
+"company_canonical": "Heartland Recreational Vehicles",
+"company_dba": "",
+"id": "5907534332f664d4",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
 "company": "Safeway Inc.",
 "location": "Sonoma County",
 "employees_affected": 3,
@@ -40870,6 +42079,19 @@
 "company_dba": "",
 "id": "4aa6ed7bb8e48195",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Webasto Roof Systems",
+"location": "New Hudson, Michigan, Oakland",
+"employees_affected": 62,
+"notice_date": "",
+"effective_date": "2025-06-19",
+"notice_type": "Layoff",
+"state": "MI",
+"company_canonical": "Webasto Roof Systems",
+"company_dba": "",
+"id": "2e2ba09fc8dd3de5",
+"first_seen": "2026-08-30T22:16:36.831610Z"
 },
 {
 "company": "Kaiser Foundation Hospitals",
@@ -41613,6 +42835,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Flagstar Bank, N.A.",
+"location": "Troy, Michigan, Oakland",
+"employees_affected": 40,
+"notice_date": "",
+"effective_date": "2025-06-08",
+"notice_type": "Layoff",
+"state": "MI",
+"company_canonical": "Flagstar Bank",
+"company_dba": "",
+"id": "60c3449630f48671",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
 "company": "Vertex Pharmaceuticals",
 "location": "Providence",
 "employees_affected": 125,
@@ -41624,6 +42859,19 @@
 "company_dba": "",
 "id": "3a6e5e832c0a10ec",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Tribar Technologies",
+"location": "Wixom, Michigan, Oakland",
+"employees_affected": 188,
+"notice_date": "",
+"effective_date": "2025-06-08",
+"notice_type": "Closure",
+"state": "MI",
+"company_canonical": "Tribar Technologies",
+"company_dba": "",
+"id": "36c6f4a22a67c681",
+"first_seen": "2026-08-30T22:16:36.831610Z"
 },
 {
 "company": "Amtrak - Moorpark",
@@ -42341,6 +43589,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "United States Cellular Corporation",
+"location": "Statewide, Statewide",
+"employees_affected": 12,
+"notice_date": "",
+"effective_date": "2025-06-02",
+"notice_type": "Layoff",
+"state": "MI",
+"company_canonical": "United States Cellular",
+"company_dba": "",
+"id": "58f7a003a51b86a5",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
 "company": "All-Rite Leasing, Inc.",
 "location": "Orange County",
 "employees_affected": 111,
@@ -42393,6 +43654,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "LACROIX Electronics",
+"location": "Grand Rapids, Michigan, Kent",
+"employees_affected": 115,
+"notice_date": "",
+"effective_date": "2025-06-01",
+"notice_type": "Company closure",
+"state": "MI",
+"company_canonical": "LACROIX Electronics",
+"company_dba": "",
+"id": "885882f0cb29e9ce",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
 "company": "MetoKote Corporation",
 "location": "Greenville",
 "employees_affected": 113,
@@ -42443,6 +43717,19 @@
 "company_dba": "Charwells",
 "id": "5ff3acb463c3d6db",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Concordia University, Inc.",
+"location": "Ann Arbor, Michigan, Washtenaw",
+"employees_affected": 41,
+"notice_date": "",
+"effective_date": "2025-05-31",
+"notice_type": "Layoff",
+"state": "MI",
+"company_canonical": "Concordia University",
+"company_dba": "",
+"id": "bc3776d42226e8fb",
+"first_seen": "2026-08-30T22:16:36.831610Z"
 },
 {
 "company": "iQor Holdings US LLC",
@@ -43121,6 +44408,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "DEMDACO",
+"location": "Leawood",
+"employees_affected": 52,
+"notice_date": "2025-05-21",
+"effective_date": "",
+"notice_type": "WARN",
+"state": "KS",
+"company_canonical": "Demdaco",
+"company_dba": "",
+"id": "3b864432f04fc33c",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
 "company": "Allergan Aesthetics",
 "location": "Orange County",
 "employees_affected": 202,
@@ -43277,6 +44577,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Veyer, LLC",
+"location": "Edwardsville, 2401 Midpoint Drive; Edwardsville, Kansas 66111",
+"employees_affected": 77,
+"notice_date": "2025-05-16",
+"effective_date": "",
+"notice_type": "WARN",
+"state": "KS",
+"company_canonical": "Veyer",
+"company_dba": "",
+"id": "191547ce5e06f015",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
 "company": "UPS",
 "location": "Yolo County",
 "employees_affected": 355,
@@ -43327,6 +44640,19 @@
 "company_dba": "",
 "id": "473a962830e2f43e",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "GMRI, Inc., d/b/a Bahama Breeze",
+"location": "Troy, Michigan, Oakland",
+"employees_affected": 70,
+"notice_date": "",
+"effective_date": "2025-05-15",
+"notice_type": "Facility closure",
+"state": "MI",
+"company_canonical": "GMRI",
+"company_dba": "Bahama Breeze",
+"id": "2845169a3cae324c",
+"first_seen": "2026-08-30T22:16:36.831610Z"
 },
 {
 "company": "Amazon (SJC11 Facility)",
@@ -44876,6 +46202,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Federal Express Corporation (FedEx)",
+"location": "Wichita, 1530 South Hoover; Wichita, Kansas 67209",
+"employees_affected": 72,
+"notice_date": "2025-04-30",
+"effective_date": "",
+"notice_type": "WARN",
+"state": "KS",
+"company_canonical": "Federal Express Corporation (FedEx)",
+"company_dba": "",
+"id": "ca1ec8fdab8ddf38",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
 "company": "Newark Group, Inc.",
 "location": "Los Angeles County",
 "employees_affected": 74,
@@ -45212,6 +46551,19 @@
 "company_dba": "",
 "id": "40a47dbb11bb1f96",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "LNW Gaming, Inc.",
+"location": "Farmington Hills, Michigan, Oakland",
+"employees_affected": 92,
+"notice_date": "",
+"effective_date": "2025-04-27",
+"notice_type": "Closure",
+"state": "MI",
+"company_canonical": "LNW Gaming",
+"company_dba": "",
+"id": "d6ab0151031e7e61",
+"first_seen": "2026-08-30T22:16:36.831610Z"
 },
 {
 "company": "Portland Facility",
@@ -46033,6 +47385,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Flagstar Bank, N.A.",
+"location": "Troy, Michigan, Oakland",
+"employees_affected": 424,
+"notice_date": "",
+"effective_date": "2025-04-22",
+"notice_type": "Layoff",
+"state": "MI",
+"company_canonical": "Flagstar Bank",
+"company_dba": "",
+"id": "627d6f99330f6238",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
 "company": "Blue Shield of California _ Building A",
 "location": "Sacramento County",
 "employees_affected": 10,
@@ -46137,6 +47502,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Quality Metalcraft, Inc.",
+"location": "Sterling Heights, Michigan and Livonia, Michigan, Macomb, Wayne",
+"employees_affected": 41,
+"notice_date": "",
+"effective_date": "2025-04-21",
+"notice_type": "Permanent layoff",
+"state": "MI",
+"company_canonical": "Quality Metalcraft",
+"company_dba": "",
+"id": "d5f51444fd0b6bbd",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
 "company": "Boston Scientific Corporation",
 "location": "Santa Clara County",
 "employees_affected": 63,
@@ -46200,6 +47578,19 @@
 "company_dba": "",
 "id": "233bc1c0f9f66dd3",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Sherwood Food Distributors, LLC; Harvest Meat Company Inc.; and Western Boxed Meat Inc.",
+"location": "Detroit, Michigan, Wayne",
+"employees_affected": 255,
+"notice_date": "",
+"effective_date": "2025-04-21",
+"notice_type": "Closure",
+"state": "MI",
+"company_canonical": "Sherwood Food Distributors, LLC; Harvest Meat Company Inc.; and Western Boxed Meat",
+"company_dba": "",
+"id": "1daf68f4e72bfb39",
+"first_seen": "2026-08-30T22:16:36.831610Z"
 },
 {
 "company": "Yokohama TWS North America",
@@ -46722,6 +48113,32 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Akasol, Inc.",
+"location": "",
+"employees_affected": 188,
+"notice_date": "",
+"effective_date": "2025-04-14",
+"notice_type": "Closure",
+"state": "MI",
+"company_canonical": "Akasol",
+"company_dba": "",
+"id": "452f000b1a226927",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
+"company": "Vibracoustic USA Inc.",
+"location": "Sandusky, Michigan, Sanilac",
+"employees_affected": 18,
+"notice_date": "",
+"effective_date": "2025-04-12",
+"notice_type": "Layoff",
+"state": "MI",
+"company_canonical": "Vibracoustic",
+"company_dba": "",
+"id": "e8ecdffe70df1943",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
 "company": "LEGOLAND California Resort",
 "location": "San Diego County",
 "employees_affected": 2,
@@ -46733,6 +48150,19 @@
 "company_dba": "",
 "id": "ec8b461d69a0e9f0",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Evergreen Packaging LLC",
+"location": "Kalamazoo, Michigan, Kalamazoo",
+"employees_affected": 153,
+"notice_date": "",
+"effective_date": "2025-04-11",
+"notice_type": "Closure",
+"state": "MI",
+"company_canonical": "Evergreen Packaging",
+"company_dba": "",
+"id": "451512a5e060ba33",
+"first_seen": "2026-08-30T22:16:36.831610Z"
 },
 {
 "company": "Air Wisconsin Airlines LLC",
@@ -47489,6 +48919,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "McCann",
+"location": "Birmingham, Michigan, Oakland",
+"employees_affected": 60,
+"notice_date": "",
+"effective_date": "2025-04-05",
+"notice_type": "Layoff",
+"state": "MI",
+"company_canonical": "McCann",
+"company_dba": "",
+"id": "ceafafcd0d3fcb11",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
 "company": "Tupperware",
 "location": "Williamsburg",
 "employees_affected": 102,
@@ -47552,6 +48995,19 @@
 "company_dba": "",
 "id": "4246a991e4ab4017",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Lippert Components, Inc.",
+"location": "Chesaning, Michigan, Saginaw",
+"employees_affected": 159,
+"notice_date": "",
+"effective_date": "2025-04-04",
+"notice_type": "Closure",
+"state": "MI",
+"company_canonical": "Lippert Components",
+"company_dba": "",
+"id": "1d290f48e1a32bae",
+"first_seen": "2026-08-30T22:16:36.831610Z"
 },
 {
 "company": "Bunzl Distribution USA Inc.",
@@ -48230,6 +49686,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "US Farathane, LLC",
+"location": "Troy, Michigan, Oakland",
+"employees_affected": 180,
+"notice_date": "",
+"effective_date": "2025-03-28",
+"notice_type": "Closure",
+"state": "MI",
+"company_canonical": "US Farathane",
+"company_dba": "",
+"id": "7c190fc1f8c89d4a",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
 "company": "TreeHouse Private Brands, Inc.",
 "location": "South Beloit, 1450 Pate Plaza Dr",
 "employees_affected": 297,
@@ -48659,6 +50128,32 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "ORBIS Corporation",
+"location": "Osage City, 515 S 4th St.; Osage City, Kansas 66523",
+"employees_affected": 79,
+"notice_date": "2025-03-21",
+"effective_date": "",
+"notice_type": "WARN",
+"state": "KS",
+"company_canonical": "Orbis",
+"company_dba": "",
+"id": "675f85e7019db372",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
+"company": "Panera, LLC",
+"location": "Lenexa, 14335 W. 100th Street; Lenexa, Kansas 66215",
+"employees_affected": 59,
+"notice_date": "2025-03-21",
+"effective_date": "",
+"notice_type": "WARN",
+"state": "KS",
+"company_canonical": "Panera",
+"company_dba": "",
+"id": "571a58c2a5613ab4",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
 "company": "AppLovin Corporation",
 "location": "Santa Clara County",
 "employees_affected": 97,
@@ -48906,6 +50401,32 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Macy's -- Sterling Heights",
+"location": "Sterling Heights, Michigan, Macomb",
+"employees_affected": 117,
+"notice_date": "",
+"effective_date": "2025-03-18",
+"notice_type": "Closure",
+"state": "MI",
+"company_canonical": "Macy's",
+"company_dba": "",
+"id": "69b14480887587e7",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
+"company": "Macy's -- Troy",
+"location": "Troy, Michigan, Oakland",
+"employees_affected": 92,
+"notice_date": "",
+"effective_date": "2025-03-18",
+"notice_type": "Closure",
+"state": "MI",
+"company_canonical": "Macy's",
+"company_dba": "",
+"id": "09a3c79d221adb41",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
 "company": "Mattel, Inc.",
 "location": "Los Angeles County",
 "employees_affected": 120,
@@ -48956,6 +50477,19 @@
 "company_dba": "",
 "id": "26a4676d46e02645",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "SpartanNash",
+"location": "Caro, Michigan, Tuscola",
+"employees_affected": 54,
+"notice_date": "",
+"effective_date": "2025-03-16",
+"notice_type": "Closure",
+"state": "MI",
+"company_canonical": "SpartanNash",
+"company_dba": "",
+"id": "8c01390c23e26a2b",
+"first_seen": "2026-08-30T22:16:36.831610Z"
 },
 {
 "company": "Athena Services International",
@@ -49021,6 +50555,19 @@
 "company_dba": "Mauser Packaging Solutions",
 "id": "94fd226874bfd374",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Michigan Spring & Stamping of Muskegon, LLC",
+"location": "Muskegon, Michigan, Muskegon",
+"employees_affected": 116,
+"notice_date": "",
+"effective_date": "2025-03-14",
+"notice_type": "Closure",
+"state": "MI",
+"company_canonical": "Michigan Spring & Stamping of Muskegon",
+"company_dba": "",
+"id": "909fc33e7707de1a",
+"first_seen": "2026-08-30T22:16:36.831610Z"
 },
 {
 "company": "COR Restaurant Services, LLC (Little Blue Menu)",
@@ -50399,6 +51946,19 @@
 "company_dba": "Entertainment Partners",
 "id": "124f204a8b73e001",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "TC Transcontinental",
+"location": "Lenexa, 10810 Mid AMerica Dr. ; Lenexa, Kansas 66219",
+"employees_affected": 45,
+"notice_date": "2025-02-26",
+"effective_date": "",
+"notice_type": "WARN",
+"state": "KS",
+"company_canonical": "TC Transcontinental",
+"company_dba": "",
+"id": "dec1ff3a6e38cf87",
+"first_seen": "2026-08-30T22:16:36.831610Z"
 },
 {
 "company": "F21 OpCO, LLC dba Forever 21",
@@ -51948,6 +53508,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Jack Cooper Transport Company, LLC",
+"location": "Kansas City, 200 E. Marley Road; Kansas City, Kansas 66115",
+"employees_affected": 102,
+"notice_date": "2025-02-10",
+"effective_date": "",
+"notice_type": "WARN",
+"state": "KS",
+"company_canonical": "Jack Cooper Transport",
+"company_dba": "",
+"id": "3cda9f7a73182288",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
 "company": "Jack Cooper Transport Company",
 "location": "Roanoke",
 "employees_affected": 251,
@@ -51959,6 +53532,32 @@
 "company_dba": "",
 "id": "bec276e8815a737b",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Jack Cooper -- Flint",
+"location": "Flint, Michigan, Genesee",
+"employees_affected": 101,
+"notice_date": "",
+"effective_date": "2025-02-08",
+"notice_type": "Closure",
+"state": "MI",
+"company_canonical": "Jack Cooper",
+"company_dba": "",
+"id": "b69fa1c64533f2ed",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
+"company": "Jack Cooper LLC",
+"location": "Dimondale, Michigan, Eaton",
+"employees_affected": 119,
+"notice_date": "",
+"effective_date": "2025-02-08",
+"notice_type": "Closure",
+"state": "MI",
+"company_canonical": "Jack Cooper",
+"company_dba": "",
+"id": "8f4a6c6462a0dd79",
+"first_seen": "2026-08-30T22:16:36.831610Z"
 },
 {
 "company": "Natural Fiber Welding, Inc.",
@@ -52583,6 +54182,19 @@
 "company_dba": "",
 "id": "0542a85f9557e38f",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Jack Cooper Transport Company, LLC",
+"location": "Wayne, Michigan, Wayne",
+"employees_affected": 89,
+"notice_date": "",
+"effective_date": "2025-02-02",
+"notice_type": "Closure",
+"state": "MI",
+"company_canonical": "Jack Cooper Transport",
+"company_dba": "",
+"id": "9cb4076daeb896da",
+"first_seen": "2026-08-30T22:16:36.831610Z"
 },
 {
 "company": "JP Morgan Chase Bank",
@@ -53508,6 +55120,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Coperion K-Tron",
+"location": "Salina, 606 North Front Street; Salina, Kansas 67401",
+"employees_affected": 98,
+"notice_date": "2025-01-22",
+"effective_date": "",
+"notice_type": "WARN",
+"state": "KS",
+"company_canonical": "Coperion K-Tron",
+"company_dba": "",
+"id": "8a9041e14e4e6410",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
 "company": "Kaiser Foundation Hospitals",
 "location": "Alameda County",
 "employees_affected": 15,
@@ -53597,6 +55222,32 @@
 "company_dba": "",
 "id": "222f6c0435268b3e",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "United Parcel Service (UPS)",
+"location": "Wyoming, Michigan, Kent",
+"employees_affected": 67,
+"notice_date": "",
+"effective_date": "2025-01-20",
+"notice_type": "Layoff",
+"state": "MI",
+"company_canonical": "United Parcel Service (UPS)",
+"company_dba": "",
+"id": "abb3405ec593b51b",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
+"company": "S&S Activewear",
+"location": "Edwardsville, 9525 Woodend Road; Edwardsville, Kansas 66111",
+"employees_affected": 86,
+"notice_date": "2025-01-20",
+"effective_date": "",
+"notice_type": "WARN",
+"state": "KS",
+"company_canonical": "S&S Activewear",
+"company_dba": "",
+"id": "20d5f6857963c101",
+"first_seen": "2026-08-30T22:16:36.831610Z"
 },
 {
 "company": "ECAMSECURE",
@@ -54652,6 +56303,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "D&A Consulting Service",
+"location": "Mountain View, 1305 Terra Bella Avenue; Mountain View, California 94043",
+"employees_affected": 1,
+"notice_date": "2024-12-30",
+"effective_date": "",
+"notice_type": "WARN",
+"state": "KS",
+"company_canonical": "D&A Consulting Service",
+"company_dba": "",
+"id": "285e0a651a28225a",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
 "company": "HTX Services LLC",
 "location": "Los Angeles County",
 "employees_affected": 28,
@@ -54793,6 +56457,19 @@
 "company_dba": "",
 "id": "ccdd1a5a0bd7fb9c",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Vimo, Inc. dba GetInsured",
+"location": "Junction City, 1012 W 6th St, Suite A; Junction City, Kansas 66441",
+"employees_affected": 1,
+"notice_date": "2024-12-20",
+"effective_date": "",
+"notice_type": "WARN",
+"state": "KS",
+"company_canonical": "Vimo",
+"company_dba": "GetInsured",
+"id": "c67a4e987f881274",
+"first_seen": "2026-08-30T22:16:36.831610Z"
 },
 {
 "company": "Ruan Transport Corporation",
@@ -55900,6 +57577,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Tyson Food, Inc.",
+"location": "Emporia",
+"employees_affected": "",
+"notice_date": "2024-12-02",
+"effective_date": "",
+"notice_type": "WARN",
+"state": "KS",
+"company_canonical": "Tyson Food",
+"company_dba": "",
+"id": "5883aa388dae1390",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
 "company": "Ovations Fanfare, L.P. dba OVG Hospitality",
 "location": "Alameda County",
 "employees_affected": 106,
@@ -55950,6 +57640,19 @@
 "company_dba": "",
 "id": "29ddfd83e405c9b8",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Pontiac General Hospital",
+"location": "Pontiac, Michigan, Oakland",
+"employees_affected": 113,
+"notice_date": "",
+"effective_date": "2024-11-29",
+"notice_type": "Mass layoff",
+"state": "MI",
+"company_canonical": "Pontiac General Hospital",
+"company_dba": "",
+"id": "7517a9c0929f0aba",
+"first_seen": "2026-08-30T22:16:36.831610Z"
 },
 {
 "company": "A. Lava & Son LLC",
@@ -58134,6 +59837,19 @@
 "company_dba": "Atterbury Job Corp Center",
 "id": "4ce1645cf57f4467",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Caterpillar",
+"location": "Wamego, 400 Work Tools Dr. ; Wamego, Kansas 66547",
+"employees_affected": 300,
+"notice_date": "2024-11-12",
+"effective_date": "",
+"notice_type": "WARN",
+"state": "KS",
+"company_canonical": "Caterpillar",
+"company_dba": "",
+"id": "f862ffc4836d8846",
+"first_seen": "2026-08-30T22:16:36.831610Z"
 },
 {
 "company": "Straight Smile LLC dba Byte",
@@ -61568,6 +63284,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Comprehensive Logistics, Inc LLC",
+"location": "Kansas City, 230 Kindleberger Road; Kansas City, Kansas 66115",
+"employees_affected": 18,
+"notice_date": "2024-09-20",
+"effective_date": "",
+"notice_type": "WARN",
+"state": "KS",
+"company_canonical": "Comprehensive Logistics",
+"company_dba": "",
+"id": "d2435717a3988b5d",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
 "company": "Jabil Inc.",
 "location": "Orange County",
 "employees_affected": 59,
@@ -61607,6 +63336,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "General Motors LLC",
+"location": "Kansas City, 3201 Fairfax Trafficway; Kansas City, Kansas 66115",
+"employees_affected": 1695,
+"notice_date": "2024-09-19",
+"effective_date": "",
+"notice_type": "WARN",
+"state": "KS",
+"company_canonical": "General Motors",
+"company_dba": "",
+"id": "69ea3572e70ce4a2",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
 "company": "Mayville Engineering Company, Inc.",
 "location": "Wautoma",
 "employees_affected": 43,
@@ -61631,6 +63373,19 @@
 "company_dba": "",
 "id": "cd9df076901a2292",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "OPmobility",
+"location": "Kansas City, 220 Kindleberger Rd; Kansas City, Kansas 66115",
+"employees_affected": 72,
+"notice_date": "2024-09-18",
+"effective_date": "",
+"notice_type": "WARN",
+"state": "KS",
+"company_canonical": "OPmobility",
+"company_dba": "",
+"id": "cc89baa9d0fae6bd",
+"first_seen": "2026-08-30T22:16:36.831610Z"
 },
 {
 "company": "AGC Biologics, Inc.",
@@ -61852,6 +63607,19 @@
 "company_dba": "",
 "id": "4f4d2305525ae631",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Penske Logistics LLC",
+"location": "Kansas City",
+"employees_affected": "",
+"notice_date": "2024-09-16",
+"effective_date": "",
+"notice_type": "WARN",
+"state": "KS",
+"company_canonical": "Penske Logistics",
+"company_dba": "",
+"id": "4b581e7ae0adf6ab",
+"first_seen": "2026-08-30T22:16:36.831610Z"
 },
 {
 "company": "WM - Waste Management",
@@ -64584,6 +66352,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Hostess Brands",
+"location": "Lenexa, 7905 Quivira Rd; Lenexa, Kansas 66215",
+"employees_affected": 79,
+"notice_date": "2024-07-29",
+"effective_date": "",
+"notice_type": "WARN",
+"state": "KS",
+"company_canonical": "Hostess Brands",
+"company_dba": "",
+"id": "88ee3a16a2b06dd5",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
 "company": "SunPower Corporation",
 "location": "Bellevue",
 "employees_affected": 98,
@@ -66924,6 +68705,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Legacy",
+"location": "Kansas City, 233 S 42nd Street; Kansas City, Kansas 66106",
+"employees_affected": 76,
+"notice_date": "2024-06-13",
+"effective_date": "",
+"notice_type": "WARN",
+"state": "KS",
+"company_canonical": "Legacy",
+"company_dba": "",
+"id": "4b8d98d4342f4497",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
 "company": "UPS",
 "location": "San Bernardino County",
 "employees_affected": 153,
@@ -68664,6 +70458,19 @@
 "company_dba": "El Super Distribution Center",
 "id": "be9898d7b17e6b3d",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Walmart",
+"location": "Edgerton, 30801 W 191 Street; Edgerton, Kansas 66021",
+"employees_affected": 318,
+"notice_date": "2024-05-17",
+"effective_date": "",
+"notice_type": "WARN",
+"state": "KS",
+"company_canonical": "Walmart",
+"company_dba": "",
+"id": "b2b78eee638ab0bd",
+"first_seen": "2026-08-30T22:16:36.831610Z"
 },
 {
 "company": "Fresenius USA, Inc.",
@@ -83746,6 +85553,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Valu Merchandisers Company",
+"location": "Fort Scott, 4805 Campbell Drive; Fort Scott, Kansas 66701",
+"employees_affected": 118,
+"notice_date": "2024-01-08",
+"effective_date": "",
+"notice_type": "WARN",
+"state": "KS",
+"company_canonical": "Valu Merchandisers",
+"company_dba": "",
+"id": "47511979ccb02469",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
 "company": "Sunrun Inc.",
 "location": "San Diego County",
 "employees_affected": 10,
@@ -83757,6 +85577,19 @@
 "company_dba": "",
 "id": "4573d02ad23db8cb",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Timken Belts",
+"location": "Fort Scott",
+"employees_affected": "",
+"notice_date": "2024-01-08",
+"effective_date": "",
+"notice_type": "WARN",
+"state": "KS",
+"company_canonical": "Timken Belts",
+"company_dba": "",
+"id": "186489e6a2d2e431",
+"first_seen": "2026-08-30T22:16:36.831610Z"
 },
 {
 "company": "Dairy Farmers of America, Inc.",
@@ -83991,6 +85824,19 @@
 "company_dba": "",
 "id": "025cf8249c9446ca",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Unidine",
+"location": "Wichita, 7373 East 29th Street; Wichita, Kansas 67226",
+"employees_affected": 67,
+"notice_date": "2024-01-02",
+"effective_date": "",
+"notice_type": "WARN",
+"state": "KS",
+"company_canonical": "Unidine",
+"company_dba": "",
+"id": "fa9a25bb29afe7b5",
+"first_seen": "2026-08-30T22:16:36.831610Z"
 },
 {
 "company": "Adecco USA, Inc.",
@@ -84277,6 +86123,19 @@
 "company_dba": "",
 "id": "f9779da05c82d51d",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Siena Heights University",
+"location": "Adrian, Michigan, Lenawee",
+"employees_affected": 132,
+"notice_date": "",
+"effective_date": "",
+"notice_type": "Closure",
+"state": "MI",
+"company_canonical": "Siena Heights University",
+"company_dba": "",
+"id": "f88d3e04cd3412ac",
+"first_seen": "2026-08-30T22:16:36.831610Z"
 },
 {
 "company": "UBS",
@@ -85046,6 +86905,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "C3 Industries, Inc.",
+"location": "Webberville, Michigan, Ingham",
+"employees_affected": 62,
+"notice_date": "",
+"effective_date": "",
+"notice_type": "Closure",
+"state": "MI",
+"company_canonical": "C3 Industries",
+"company_dba": "",
+"id": "c505eaff7db888ab",
+"first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
 "company": "Modex Global (Formerly Busche Performance Group, Inc.) -Revised (9/15/20)",
 "location": "Albion, Avilla & Franklin",
 "employees_affected": "",
@@ -85551,6 +87423,19 @@
 "company_dba": "",
 "id": "a7ee7a259e305377",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Oakland Stamping LLC, d/b/a AUTOKINITON",
+"location": "Detroit, Michigan, Wayne",
+"employees_affected": 201,
+"notice_date": "",
+"effective_date": "",
+"notice_type": "Facility closure",
+"state": "MI",
+"company_canonical": "Oakland Stamping",
+"company_dba": "Autokiniton",
+"id": "a6c2657a35ac905c",
+"first_seen": "2026-08-30T22:16:36.831610Z"
 },
 {
 "company": "Mountain Coals Corporation Star Fire Mine Buckhorn Processing Plant",

@@ -1,0 +1,113 @@
+id,state,company,company_canonical,company_dba,location,employees_affected,notice_date,effective_date,notice_type,first_seen
+926cfe22156a5df6,MI,"General Motors, LLC -- Lansing Region",General Motors,,"Eaton, Ingham",350,,2027-01-14,Mass layoff,2026-08-30T22:16:36.831610Z
+2cd1c9c2d387600c,MI,SMBC MANUBANK,Smbc Manubank,,Remote,1,,2026-10-09,Mass permanent layoff,2026-08-30T22:16:36.831610Z
+e28833477764a02b,MI,Kroger,Kroger,,Genesee,68,,2026-09-30,Facility closure,2026-08-30T22:16:36.831610Z
+ef0db169b33e6621,MI,"Compass Group USA, Inc. / Morrison Healthcare","Compass Group USA, Inc. / Morrison Healthcare",,"Cheboygan, Emmett, Genessee, Ingham, Lapeer",168,,2026-09-25,Layoff,2026-08-30T22:16:36.831610Z
+37c4a7abb28d1916,MI,"SK Siltron CSS, LLC",SK Siltron CSS,,Bay,130,,2026-09-15,Facility closure,2026-08-30T22:16:36.831610Z
+c18643df422ff146,MI,Fifth Third Bank,Fifth Third Bank,,Oakland,234,,2026-09-11,Mass layoff,2026-08-30T22:16:36.831610Z
+f6d6f5d4ff18c221,MI,"Trystar, LLC",Trystar,,Oakland,71,,2026-09-04,Facility closure,2026-08-30T22:16:36.831610Z
+ffaa39004fbe83cb,MI,"Conduent Commercial Solutions, LLC",Conduent Commercial Solutions,,Statewide (remote),15,,2026-08-28,Layoff,2026-08-30T22:16:36.831610Z
+ae9ee1af6c403924,MI,Republic National Distributing Company (RNDC),Republic National Distributing Company (RNDC),,"Delta, Grand Traverse, Kent, Saginaw, Wayne",641,,2026-08-17,Layoff,2026-08-30T22:16:36.831610Z
+b2c27401a5516095,MI,"Rec Boat Holdings, LLC",Rec Boat Holdings,,Wexford,239,,2026-08-15,Facility closure,2026-08-30T22:16:36.831610Z
+03ba96ce86d89c0a,MI,"Compass Group USA, Inc. / Morrison Healthcare","Compass Group USA, Inc. / Morrison Healthcare",,"Bay, Clare, Genesee, Huron, Isabella, Macomb, Oakland, Tuscola",311,,2026-07-24,Layoff,2026-08-30T22:16:36.831610Z
+7270cb72d46baf70,MI,"Navitas Systems, Inc.",Navitas Systems,,Washtenaw,82,,2026-07-11,Facility closure,2026-08-30T22:16:36.831610Z
+d180e0267e296974,MI,Fifth Third Bank,Fifth Third Bank,,Oakland,502,,2026-07-01,Permanent layoff,2026-08-30T22:16:36.831610Z
+c7c865d6f7643231,MI,"Compass Group USA, Inc.",Compass Group,,,262,,2026-07-01,Layoff,2026-08-30T22:16:36.831610Z
+64750f3b9f344a6f,MI,"Dako Resources, LLC",Dako Resources,,Oakland,82,,2026-06-30,Permanent layoff,2026-08-30T22:16:36.831610Z
+91fe05bd4f9f9d1a,MI,Notions Marketing Corp.,Notions Marketing,,Kent,181,,2026-06-28,Mass layoff,2026-08-30T22:16:36.831610Z
+74bc0d791a007f74,MI,"Ascend Wellness Holdings, Inc.",Ascend Wellness Holdings,,Ingham,94,,2026-06-26,Permanent closure,2026-08-30T22:16:36.831610Z
+14d54af726086b20,MI,Daifuku Services America Corporation,Daifuku Services America,,Wayne,49,,2026-05-31,Layoff,2026-08-30T22:16:36.831610Z
+ae3741ad9b2e4d17,MI,"Day & Ross USA, Inc.",Day & Ross,,"Livonia, Michigan, Wayne",32,,2026-05-30,Layoff,2026-08-30T22:16:36.831610Z
+84bf0e2a54028321,MI,"Menard Inc., d/b/a Menards",Menard,Menards,St. Joseph,68,,2026-05-13,Temporary layoff,2026-08-30T22:16:36.831610Z
+aa27d189ba527b8c,MI,Spirit Airlines,Spirit Airlines,,Wayne,643,,2026-05-02,Permanent layoff,2026-08-30T22:16:36.831610Z
+c62425de1df4cd56,MI,"General Shale, d/b/a Michigan Brick",General Shale,Michigan Brick,"Corunna, Michigan, Shiawassee",48,,2026-04-27,Facility closure,2026-08-30T22:16:36.831610Z
+c57e1e0b1d4079dd,MI,"Pace Industries, LLC",Pace Industries,,"Muskegon, Michigan, Muskegon",145,,2026-04-25,Facility closure,2026-08-30T22:16:36.831610Z
+6b299552aa1de6b1,MI,"Main Street Sports Group, LLC",Main Street Sports Group,,"Detroit, Michigan, Wayne",17,,2026-04-14,Facility closure,2026-08-30T22:16:36.831610Z
+042f7cec4e0dfa57,MI,"Compass Group USA, Inc.",Compass Group,,"Madison Heights, Michigan, Oakland",114,,2026-04-06,Facility closure,2026-08-30T22:16:36.831610Z
+2426fb220dae7fdc,MI,"GMRI, Inc., d/b/a Bahama Breeze",GMRI,Bahama Breeze,"Livonia, Michigan, Wayne",66,,2026-04-05,Company closure,2026-08-30T22:16:36.831610Z
+5ea3a42f70815b80,MI,"Great Lakes Coca-Cola Distribution, LLC",Great Lakes Coca-Cola Distribution,,"Lansing, Michigan, Ingham",161,,2026-04-03,Closure,2026-08-30T22:16:36.831610Z
+a5a37c7b443f073d,MI,"Grouper Acquisition Company, Inc.",Grouper Acquisition,,"Galesburg, Michigan, Kalamazoo",160,,2026-03-31,Company closure,2026-08-30T22:16:36.831610Z
+589eb31dfb49cac4,MI,Samaritas,Samaritas,,"Grand Rapids, Michigan, Kent",58,,2026-03-31,Facility closure,2026-08-30T22:16:36.831610Z
+237e37fc83c659ad,MI,"Labcorp Early Development Laboratories, Inc., and Laboratory Corporation of America Holdings (“Labcorp”)","Labcorp Early Development Laboratories, Inc., and Laboratory Corporation of America Holdings (""Labcorp"")",,"Ann Arbor, Michigan, Washtenaw",76,,2026-03-09,Facility closure,2026-08-30T22:16:36.831610Z
+7c6c4540b80b49f2,MI,"First Brands Group, LLC",First Brands Group,,Oakland,41,,2026-02-23,Permanent layoff,2026-08-30T22:16:36.831610Z
+923ddb8985f30dfd,MI,The Common Ground Sanctuary,Common Ground Sanctuary,,"Pontiac, Michigan, Oakland",155,,2026-02-16,Layoff,2026-08-30T22:16:36.831610Z
+cc5d8ce75cca666a,MI,"Utz Quality Foods, LLC",Utz Quality Foods,,"Grand Rapids, Michigan, Kent",75,,2026-01-30,Company closure,2026-08-30T22:16:36.831610Z
+69945ff77c47201d,MI,"Fluresh, LLC",Fluresh,,"Grand Rapids, Michigan, Kent",15,,2026-01-28,Company closure,2026-08-30T22:16:36.831610Z
+8bd7ab72bb32ee54,MI,Inline Plastics,Inline Plastics,,"Gladwin, Michigan, Gladwin",25,,2026-01-11,Facility closure,2026-08-30T22:16:36.831610Z
+a69920c484b16b45,MI,The Taubman Company LLC,Taubman,,"Bloomfield Hills, Michigan, Oakland",105,,2026-01-09,Facility closure,2026-08-30T22:16:36.831610Z
+221ad231c7cf1307,MI,"Post Consumer Brands, LLC",Post Consumer Brands,,"Battle Creek, Michigan, Calhoun",71,,2026-01-08,Layoff,2026-08-30T22:16:36.831610Z
+e27b0269995c5528,MI,Our Next Energy,Our Next Energy,,"Novi, Michigan, Oakland",29,,2026-01-06,Layoff,2026-08-30T22:16:36.831610Z
+ed5952356ed9cb51,MI,Yanfeng,Yanfeng,,"Romulus, Michigan, Wayne",192,,2026-01-05,Layoff,2026-08-30T22:16:36.831610Z
+64a466b2a7341ef2,MI,Factory ZERO Detroit-Hamtramck Assembly Center,Factory ZERO Detroit-Hamtramck Assembly Center,,"Detroit, Michigan, Wayne",1140,,2026-01-05,Layoff,2026-08-30T22:16:36.831610Z
+9e5de179103e8d5d,MI,Anderton Machining,Anderton Machining,,"Jackson, Michigan, Jackson",41,,2025-12-31,Facility closure,2026-08-30T22:16:36.831610Z
+67133c9c5bc38276,MI,Mercedes-Benz Financial Services USA LLC,Mercedes-Benz Financial Services,,"Farmington Hills, Michigan, Oakland",265,,2025-12-31,Company closure,2026-08-30T22:16:36.831610Z
+a2f75c52758c88ce,MI,"XALT Energy MI, LLC",XALT Energy MI,,Midland,123,,2025-12-29,Permanent closure,2026-08-30T22:16:36.831610Z
+7921e38cfe612960,MI,"XALT Energy MI, LLC",XALT Energy MI,,"Auburn Hills, Michigan, Oakland",11,,2025-12-29,Company closure,2026-08-30T22:16:36.831610Z
+661eb75bf6b23185,MI,"Freudenberg Battery Power Systems, LLC",Freudenberg Battery Power Systems,,Midland,107,,2025-12-29,Permanent closure,2026-08-30T22:16:36.831610Z
+13492242aa2ee8bf,MI,"Freudenberg Battery Power Systems, LLC",Freudenberg Battery Power Systems,,"Auburn Hills, Michigan, Oakland",83,,2025-12-29,Company closure,2026-08-30T22:16:36.831610Z
+f111a7799aa04ae6,MI,Vista Maria,Vista Maria,,"Dearborn Heights, Michigan, Wayne",154,,2025-12-19,Permanent layoff,2026-08-30T22:16:36.831610Z
+bd7d289921548446,MI,"IAC Alma, LLC",IAC Alma,,"Alma, Michigan, Gratiot",72,,2025-12-12,Layoff,2026-08-30T22:16:36.831610Z
+e0b9ebb8d77034c4,MI,"IAC Mendon, LLC",IAC Mendon,,"Mendon, Michigan, St. Joseph",178,,2025-12-08,Layoff,2026-08-30T22:16:36.831610Z
+46c4007101000c64,MI,Avancez,Avancez,,"Hazel Park, Michigan, Oakland",143,,2025-12-05,Layoff,2026-08-30T22:16:36.831610Z
+a218e906725cb13c,MI,"SimplyIOA, LLC",SimplyIOA,,"Flint, Michigan, Genesee",1,,2025-12-02,Facility closure,2026-08-30T22:16:36.831610Z
+831992fa3240f465,MI,Spirit Airlines,Spirit Airlines,,"Detroit, Michigan, Wayne",103,,2025-12-01,Temporary layoff,2026-08-30T22:16:36.831610Z
+3535c0fade6f6c99,MI,Cole's Quality Foods,Cole's Quality Foods,,"Muskegon, Michigan, Muskegon",175,,2025-11-09,Facility closure,2026-08-30T22:16:36.831610Z
+7d0f5c32b75a5ed5,MI,Premier Care LLC,Premier Care,,"Bloomfield Hills, Michigan, Oakland",94,,2025-11-01,Layoff,2026-08-30T22:16:36.831610Z
+81804ecda1be2e49,MI,"DTW North Partners JV, LLC",DTW North Partners JV,,"Detroit/Romulus, Wayne",13,,2025-10-19,Temporary layoff,2026-08-30T22:16:36.831610Z
+31865b6217125c12,MI,"NPR of America, Inc.",NPR of America,,"Grand Haven, Michigan, Ottawa",64,,2025-10-12,Company closure,2026-08-30T22:16:36.831610Z
+59d36bd6c05d100e,MI,"Dana Thermal Products, LLC",Dana Thermal Products,,"Auburn Hills, Michigan, Oakland",200,,2025-10-09,Closure,2026-08-30T22:16:36.831610Z
+b44263a6477c4b3f,MI,DP World Contract Logistics US Inc.,DP World Contract Logistics US,,"Warren, Michigan, Macomb",70,,2025-10-05,Closure,2026-08-30T22:16:36.831610Z
+35f657aa59ee4b1b,MI,"Davalor Mold Company, LLC",Davalor Mold,,"New Baltimore, Michigan, Macomb",45,,2025-10-03,Layoff,2026-08-30T22:16:36.831610Z
+f7f11a3fea72ded6,MI,Akebono Brake Corporation,Akebono Brake,,"Farmington Hills, Michigan, Oakland",48,,2025-10-01,Layoff,2026-08-30T22:16:36.831610Z
+b55b4eb4365f3c0b,MI,"Community Development Institute Head Start/CDI HS Serving St. Clair County, MI","Community Development Institute Head Start/CDI HS Serving St. Clair County, MI",,"Port Huron, Michigan; Marie City, Michigan; Casco, Michigan; Yale, Michigan, St. Clair",60,,2025-09-30,Layoff,2026-08-30T22:16:36.831610Z
+cd6e85de60f203a0,MI,Marshall Excelsior Co.,Marshall Excelsior,,"Marshall, Michigan, Calhoun",71,,2025-09-26,Company Closure,2026-08-30T22:16:36.831610Z
+ba5674973c5d2c64,MI,SalonCentric,SalonCentric,,"Grand Rapids, Michigan, Kent",79,,2025-09-13,Facility closure,2026-08-30T22:16:36.831610Z
+4e9ea7f288aae8a2,MI,Howard Miller Company,Howard Miller,,"Zeeland, Michigan and Traverse City, Michigan, Ottawa and Grand Traverse",138,,2025-09-07,Company closure,2026-08-30T22:16:36.831610Z
+d6a49cc83e0fc08a,MI,"Natron Energy, Inc.",Natron Energy,,"Holland, Michigan, Ottawa (maybe Allegan as it falls into both)",37,,2025-09-03,Closure,2026-08-30T22:16:36.831610Z
+c85587eb1e932eda,MI,Auto Warehousing Company,Auto Warehousing,,"New Boston, Michigan, Wayne",75,,2025-09-01,Facility closure,2026-08-30T22:16:36.831610Z
+3a21ea780804770d,MI,"TerrAscend Corp., d/b/a Gage Cannabis, Cookies, Lemonade and Pinnacle Emporium",TerrAscend,"Gage Cannabis, Cookies, Lemonade and Pinnacle Emporium","Statewide, multiple locations, Statewide, multiple locations",236,,2025-08-31,Multiple facility closures,2026-08-30T22:16:36.831610Z
+26689087f1f7749b,MI,Lansing Entertainment and Public Facilities Authority (LEPFA),Lansing Entertainment and Public Facilities Authority (LEPFA),,"Lansing, Michigan, Ingham",181,,2025-08-30,Layoff,2026-08-30T22:16:36.831610Z
+14ce29e304fdef83,MI,"Kelly Services USA, LLC",Kelly Services,,"Statewide, Statewide",47,,2025-08-30,Layoff,2026-08-30T22:16:36.831610Z
+1319ad4b99cccdcc,MI,"CNC Logistics, Inc.",CNC Logistics,,"Walker, Michigan, Kent",75,,2025-08-27,Facility closure,2026-08-30T22:16:36.831610Z
+baeac3626caf424f,MI,"PepsiCo, Inc.",PepsiCo,,"Detroit, Michigan, Wayne",84,,2025-08-25,Layoff,2026-08-30T22:16:36.831610Z
+9ea104f7ba9ce429,MI,"Oldcastle Building Envelope, d/b/a Midwest Glass",Oldcastle Building Envelope,Midwest Glass,"Highland, Michigan, Oakland",124,,2025-08-18,Facility closure,2026-08-30T22:16:36.831610Z
+50ae5c0d49d37f43,MI,Pratt (Classic Container) Inc.,Pratt (Classic Container),,"Livonia, Michigan, Wayne",53,,2025-08-10,Mass layoff,2026-08-30T22:16:36.831610Z
+e25c96424708dcf2,MI,"Panera, LLC Fresh Dough Facility","Panera, LLC Fresh Dough Facility",,"Romulus, Michigan, Wayne",66,,2025-07-23,Facility closure,2026-08-30T22:16:36.831610Z
+54f8e015bfd0518a,MI,BRP Marine US Inc.,BRP Marine US,,"Lansing, Michigan, Ingham",72,,2025-07-08,Mass layoff,2026-08-30T22:16:36.831610Z
+b1e975958af3e7a3,MI,Gannett Publishing,Gannett Publishing,,"Sterling Heights, Michigan, Macomb",109,,2025-07-07,Closure,2026-08-30T22:16:36.831610Z
+4e91e499c3f02d3d,MI,"Plasan North America, Inc.",Plasan North America,,"Grand Rapids, Michigan, Kent",64,,2025-07-02,Mass layoff,2026-08-30T22:16:36.831610Z
+cae823550e8f96a6,MI,"Compass Group USA, Inc.",Compass Group,,,244,,2025-07-01,Permanent layoff,2026-08-30T22:16:36.831610Z
+4b895f77ee884275,MI,"Aramark Campus, LLC",Aramark Campus,,"Detroit, Michigan, Wayne",137,,2025-06-30,Layoff,2026-08-30T22:16:36.831610Z
+428ad45d3c17dccc,MI,"Flagstar Bank, N.A.",Flagstar Bank,,"Troy, Michigan, Oakland",12,,2025-06-30,Layoff,2026-08-30T22:16:36.831610Z
+8f7f0d2d2fd6269b,MI,"Accelerate360 Distribution, LLC",Accelerate360 Distribution,,"Statewide, Statewide",2,,2025-06-28,Layoff,2026-08-30T22:16:36.831610Z
+266561418ccc99fa,MI,"Conagra Brands, Inc.",Conagra Brands,,"Fennville, Michigan, Allegan",75,,2025-06-27,Closure,2026-08-30T22:16:36.831610Z
+5907534332f664d4,MI,"Heartland Recreational Vehicles, LLC",Heartland Recreational Vehicles,,"Sturgis, Michigan, St. Joseph",121,,2025-06-20,Closure,2026-08-30T22:16:36.831610Z
+2e2ba09fc8dd3de5,MI,Webasto Roof Systems,Webasto Roof Systems,,"New Hudson, Michigan, Oakland",62,,2025-06-19,Layoff,2026-08-30T22:16:36.831610Z
+60c3449630f48671,MI,"Flagstar Bank, N.A.",Flagstar Bank,,"Troy, Michigan, Oakland",40,,2025-06-08,Layoff,2026-08-30T22:16:36.831610Z
+36c6f4a22a67c681,MI,Tribar Technologies,Tribar Technologies,,"Wixom, Michigan, Oakland",188,,2025-06-08,Closure,2026-08-30T22:16:36.831610Z
+58f7a003a51b86a5,MI,United States Cellular Corporation,United States Cellular,,"Statewide, Statewide",12,,2025-06-02,Layoff,2026-08-30T22:16:36.831610Z
+885882f0cb29e9ce,MI,LACROIX Electronics,LACROIX Electronics,,"Grand Rapids, Michigan, Kent",115,,2025-06-01,Company closure,2026-08-30T22:16:36.831610Z
+bc3776d42226e8fb,MI,"Concordia University, Inc.",Concordia University,,"Ann Arbor, Michigan, Washtenaw",41,,2025-05-31,Layoff,2026-08-30T22:16:36.831610Z
+2845169a3cae324c,MI,"GMRI, Inc., d/b/a Bahama Breeze",GMRI,Bahama Breeze,"Troy, Michigan, Oakland",70,,2025-05-15,Facility closure,2026-08-30T22:16:36.831610Z
+d6ab0151031e7e61,MI,"LNW Gaming, Inc.",LNW Gaming,,"Farmington Hills, Michigan, Oakland",92,,2025-04-27,Closure,2026-08-30T22:16:36.831610Z
+627d6f99330f6238,MI,"Flagstar Bank, N.A.",Flagstar Bank,,"Troy, Michigan, Oakland",424,,2025-04-22,Layoff,2026-08-30T22:16:36.831610Z
+d5f51444fd0b6bbd,MI,"Quality Metalcraft, Inc.",Quality Metalcraft,,"Sterling Heights, Michigan and Livonia, Michigan, Macomb, Wayne",41,,2025-04-21,Permanent layoff,2026-08-30T22:16:36.831610Z
+1daf68f4e72bfb39,MI,"Sherwood Food Distributors, LLC; Harvest Meat Company Inc.; and Western Boxed Meat Inc.","Sherwood Food Distributors, LLC; Harvest Meat Company Inc.; and Western Boxed Meat",,"Detroit, Michigan, Wayne",255,,2025-04-21,Closure,2026-08-30T22:16:36.831610Z
+452f000b1a226927,MI,"Akasol, Inc.",Akasol,,,188,,2025-04-14,Closure,2026-08-30T22:16:36.831610Z
+e8ecdffe70df1943,MI,Vibracoustic USA Inc.,Vibracoustic,,"Sandusky, Michigan, Sanilac",18,,2025-04-12,Layoff,2026-08-30T22:16:36.831610Z
+451512a5e060ba33,MI,Evergreen Packaging LLC,Evergreen Packaging,,"Kalamazoo, Michigan, Kalamazoo",153,,2025-04-11,Closure,2026-08-30T22:16:36.831610Z
+ceafafcd0d3fcb11,MI,McCann,McCann,,"Birmingham, Michigan, Oakland",60,,2025-04-05,Layoff,2026-08-30T22:16:36.831610Z
+1d290f48e1a32bae,MI,"Lippert Components, Inc.",Lippert Components,,"Chesaning, Michigan, Saginaw",159,,2025-04-04,Closure,2026-08-30T22:16:36.831610Z
+7c190fc1f8c89d4a,MI,"US Farathane, LLC",US Farathane,,"Troy, Michigan, Oakland",180,,2025-03-28,Closure,2026-08-30T22:16:36.831610Z
+69b14480887587e7,MI,Macy's -- Sterling Heights,Macy's,,"Sterling Heights, Michigan, Macomb",117,,2025-03-18,Closure,2026-08-30T22:16:36.831610Z
+09a3c79d221adb41,MI,Macy's -- Troy,Macy's,,"Troy, Michigan, Oakland",92,,2025-03-18,Closure,2026-08-30T22:16:36.831610Z
+8c01390c23e26a2b,MI,SpartanNash,SpartanNash,,"Caro, Michigan, Tuscola",54,,2025-03-16,Closure,2026-08-30T22:16:36.831610Z
+909fc33e7707de1a,MI,"Michigan Spring & Stamping of Muskegon, LLC",Michigan Spring & Stamping of Muskegon,,"Muskegon, Michigan, Muskegon",116,,2025-03-14,Closure,2026-08-30T22:16:36.831610Z
+b69fa1c64533f2ed,MI,Jack Cooper -- Flint,Jack Cooper,,"Flint, Michigan, Genesee",101,,2025-02-08,Closure,2026-08-30T22:16:36.831610Z
+8f4a6c6462a0dd79,MI,Jack Cooper LLC,Jack Cooper,,"Dimondale, Michigan, Eaton",119,,2025-02-08,Closure,2026-08-30T22:16:36.831610Z
+9cb4076daeb896da,MI,"Jack Cooper Transport Company, LLC",Jack Cooper Transport,,"Wayne, Michigan, Wayne",89,,2025-02-02,Closure,2026-08-30T22:16:36.831610Z
+abb3405ec593b51b,MI,United Parcel Service (UPS),United Parcel Service (UPS),,"Wyoming, Michigan, Kent",67,,2025-01-20,Layoff,2026-08-30T22:16:36.831610Z
+7517a9c0929f0aba,MI,Pontiac General Hospital,Pontiac General Hospital,,"Pontiac, Michigan, Oakland",113,,2024-11-29,Mass layoff,2026-08-30T22:16:36.831610Z
+f88d3e04cd3412ac,MI,Siena Heights University,Siena Heights University,,"Adrian, Michigan, Lenawee",132,,,Closure,2026-08-30T22:16:36.831610Z
+c505eaff7db888ab,MI,"C3 Industries, Inc.",C3 Industries,,"Webberville, Michigan, Ingham",62,,,Closure,2026-08-30T22:16:36.831610Z
+a6c2657a35ac905c,MI,"Oakland Stamping LLC, d/b/a AUTOKINITON",Oakland Stamping,Autokiniton,"Detroit, Michigan, Wayne",201,,,Facility closure,2026-08-30T22:16:36.831610Z

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-01T07:22:46.114190Z",
+ "generated_at": "2026-09-01T22:27:50.881651Z",
  "window_days": 7,
  "count": 0,
  "note": "Notices newly added to the free (48h-delayed) tier in the last 7 days, newest first. Excludes the 2026-08-30 initial import. Empty means no new rows cleared the delay window in this period.",

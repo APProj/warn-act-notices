@@ -1,0 +1,34 @@
+id,state,company,company_canonical,company_dba,location,employees_affected,notice_date,effective_date,notice_type,first_seen
+58a22abee242b5cf,KS,First Student,First Student,,"Cincinnati, 191 Rosa Parks St; Cincinnati, Ohio 45202",151,2026-05-01,,WARN,2026-08-30T22:16:36.831610Z
+63732291612f996e,KS,"First Brands Group, LLC (Horizon Global)","First Brands Group, LLC (Horizon Global)",,"Edgerton, 32901 W. 193rd St.; Edgerton, Kansas 66021",64,2026-02-27,,WARN,2026-08-30T22:16:36.831610Z
+8805476cf54c4da7,KS,"First Brands Group, LLC (Hopkins)","First Brands Group, LLC (Hopkins)",,"Edgerton, W 185th St.; Edgerton, Kansas 66030",81,2026-02-23,,WARN,2026-08-30T22:16:36.831610Z
+1e0f0d03a9faea2d,KS,"First Brands Group, LLC (Hopkins)","First Brands Group, LLC (Hopkins)",,"Emporia, 428 Peyton St.; Emporia, Kansas 66801",130,2026-02-23,,WARN,2026-08-30T22:16:36.831610Z
+67b48d297aef6f4d,KS,Lowe's,Lowe's,,Charlotte,3,2026-02-13,,WARN,2026-08-30T22:16:36.831610Z
+6198f7ef7f06c3a5,KS,"Vornado Air, LLC.",Vornado Air,,"Andover, 415 E. 13th ; Andover, Kansas 67002",72,2026-01-30,,WARN,2026-08-30T22:16:36.831610Z
+8297f7fb6e437fff,KS,"Gates Corporation ""Gates""","Gates Corporation ""Gates",,Iola,81,2025-10-02,,WARN,2026-08-30T22:16:36.831610Z
+bdfbd4617ffdf5c4,KS,United BioSource LLC (UBC),United BioSource LLC (UBC),,"Overland Park, 12900 Foster Street ; Overland Park, Kansas 66213",123,2025-09-26,,WARN,2026-08-30T22:16:36.831610Z
+582ba72ff6c2fa79,KS,"SPO Management, LLC",SPO Management,,"Manhattan, 520 McCall Rd; Manhattan, Kansas 66502",72,2025-07-29,,WARN,2026-08-30T22:16:36.831610Z
+412cb69b7ecee8ed,KS,Unrivaled Teamwear,Unrivaled Teamwear,,"Manhattan, 520 McCall Rd; Manhattan, Kansas 66502",72,2025-07-29,,WARN,2026-08-30T22:16:36.831610Z
+3b864432f04fc33c,KS,DEMDACO,Demdaco,,Leawood,52,2025-05-21,,WARN,2026-08-30T22:16:36.831610Z
+191547ce5e06f015,KS,"Veyer, LLC",Veyer,,"Edwardsville, 2401 Midpoint Drive; Edwardsville, Kansas 66111",77,2025-05-16,,WARN,2026-08-30T22:16:36.831610Z
+ca1ec8fdab8ddf38,KS,Federal Express Corporation (FedEx),Federal Express Corporation (FedEx),,"Wichita, 1530 South Hoover; Wichita, Kansas 67209",72,2025-04-30,,WARN,2026-08-30T22:16:36.831610Z
+675f85e7019db372,KS,ORBIS Corporation,Orbis,,"Osage City, 515 S 4th St.; Osage City, Kansas 66523",79,2025-03-21,,WARN,2026-08-30T22:16:36.831610Z
+571a58c2a5613ab4,KS,"Panera, LLC",Panera,,"Lenexa, 14335 W. 100th Street; Lenexa, Kansas 66215",59,2025-03-21,,WARN,2026-08-30T22:16:36.831610Z
+dec1ff3a6e38cf87,KS,TC Transcontinental,TC Transcontinental,,"Lenexa, 10810 Mid AMerica Dr. ; Lenexa, Kansas 66219",45,2025-02-26,,WARN,2026-08-30T22:16:36.831610Z
+3cda9f7a73182288,KS,"Jack Cooper Transport Company, LLC",Jack Cooper Transport,,"Kansas City, 200 E. Marley Road; Kansas City, Kansas 66115",102,2025-02-10,,WARN,2026-08-30T22:16:36.831610Z
+8a9041e14e4e6410,KS,Coperion K-Tron,Coperion K-Tron,,"Salina, 606 North Front Street; Salina, Kansas 67401",98,2025-01-22,,WARN,2026-08-30T22:16:36.831610Z
+20d5f6857963c101,KS,S&S Activewear,S&S Activewear,,"Edwardsville, 9525 Woodend Road; Edwardsville, Kansas 66111",86,2025-01-20,,WARN,2026-08-30T22:16:36.831610Z
+285e0a651a28225a,KS,D&A Consulting Service,D&A Consulting Service,,"Mountain View, 1305 Terra Bella Avenue; Mountain View, California 94043",1,2024-12-30,,WARN,2026-08-30T22:16:36.831610Z
+c67a4e987f881274,KS,"Vimo, Inc. dba GetInsured",Vimo,GetInsured,"Junction City, 1012 W 6th St, Suite A; Junction City, Kansas 66441",1,2024-12-20,,WARN,2026-08-30T22:16:36.831610Z
+5883aa388dae1390,KS,"Tyson Food, Inc.",Tyson Food,,Emporia,,2024-12-02,,WARN,2026-08-30T22:16:36.831610Z
+f862ffc4836d8846,KS,Caterpillar,Caterpillar,,"Wamego, 400 Work Tools Dr. ; Wamego, Kansas 66547",300,2024-11-12,,WARN,2026-08-30T22:16:36.831610Z
+d2435717a3988b5d,KS,"Comprehensive Logistics, Inc LLC",Comprehensive Logistics,,"Kansas City, 230 Kindleberger Road; Kansas City, Kansas 66115",18,2024-09-20,,WARN,2026-08-30T22:16:36.831610Z
+69ea3572e70ce4a2,KS,General Motors LLC,General Motors,,"Kansas City, 3201 Fairfax Trafficway; Kansas City, Kansas 66115",1695,2024-09-19,,WARN,2026-08-30T22:16:36.831610Z
+cc89baa9d0fae6bd,KS,OPmobility,OPmobility,,"Kansas City, 220 Kindleberger Rd; Kansas City, Kansas 66115",72,2024-09-18,,WARN,2026-08-30T22:16:36.831610Z
+4b581e7ae0adf6ab,KS,Penske Logistics LLC,Penske Logistics,,Kansas City,,2024-09-16,,WARN,2026-08-30T22:16:36.831610Z
+88ee3a16a2b06dd5,KS,Hostess Brands,Hostess Brands,,"Lenexa, 7905 Quivira Rd; Lenexa, Kansas 66215",79,2024-07-29,,WARN,2026-08-30T22:16:36.831610Z
+4b8d98d4342f4497,KS,Legacy,Legacy,,"Kansas City, 233 S 42nd Street; Kansas City, Kansas 66106",76,2024-06-13,,WARN,2026-08-30T22:16:36.831610Z
+b2b78eee638ab0bd,KS,Walmart,Walmart,,"Edgerton, 30801 W 191 Street; Edgerton, Kansas 66021",318,2024-05-17,,WARN,2026-08-30T22:16:36.831610Z
+47511979ccb02469,KS,Valu Merchandisers Company,Valu Merchandisers,,"Fort Scott, 4805 Campbell Drive; Fort Scott, Kansas 66701",118,2024-01-08,,WARN,2026-08-30T22:16:36.831610Z
+186489e6a2d2e431,KS,Timken Belts,Timken Belts,,Fort Scott,,2024-01-08,,WARN,2026-08-30T22:16:36.831610Z
+fa9a25bb29afe7b5,KS,Unidine,Unidine,,"Wichita, 7373 East 29th Street; Wichita, Kansas 67226",67,2024-01-02,,WARN,2026-08-30T22:16:36.831610Z
