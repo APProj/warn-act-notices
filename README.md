@@ -2,7 +2,7 @@
 
 [![US WARN layoffs 2026](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FAPProj%2Fwarn-act-notices%2Fmain%2Fdata%2Fbadge.json)](https://approj.github.io/warn-act-notices/yearly/) [![data updated](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FAPProj%2Fwarn-act-notices%2Fmain%2Fdata%2Fbadge-updated.json)](https://github.com/APProj/warn-act-notices/commits/main) — live, embeddable: [get these badges](API.md#live-badges)
 
-**6,729 layoff notices since 2024 · 29 states · one clean schema · CSV + JSON · updated 2026-08-31**
+**6,729 layoff notices since 2024 · 29 states · one clean schema · CSV + JSON · updated 2026-09-01**
 
 Every US state publishes WARN Act layoff notices differently — different sites,
 formats, column names, and date conventions. This repo normalizes them into one
@@ -28,7 +28,7 @@ deduplicated dataset, refreshed daily.
 No login, no API key. Scope of the free dataset, stated plainly: notices from
 **2024-01-01** onward, **48h-delayed** (newly scraped notices appear here 48 hours
 after our pipeline first sees them). The full archive back to 1988
-(40,259 notices) and the zero-delay feed are the commercial products
+(40,261 notices) and the zero-delay feed are the commercial products
 that fund the pipeline.
 
 ## Schema
@@ -78,7 +78,7 @@ that fund the pipeline.
 | [Tennessee](https://approj.github.io/warn-act-notices/states/tennessee.html) (TN) | 1,060 | [tn.csv](data/by-state/tn.csv) | ok |
 | [Utah](https://approj.github.io/warn-act-notices/states/utah.html) (UT) | 282 | [ut.csv](data/by-state/ut.csv) | ok |
 | [Vermont](https://approj.github.io/warn-act-notices/states/vermont.html) (VT) | 70 | [vt.csv](data/by-state/vt.csv) | ok |
-| [Washington](https://approj.github.io/warn-act-notices/states/washington.html) (WA) | 1,493 | [wa.csv](data/by-state/wa.csv) | ok |
+| [Washington](https://approj.github.io/warn-act-notices/states/washington.html) (WA) | 1,495 | [wa.csv](data/by-state/wa.csv) | ok |
 | [Wisconsin](https://approj.github.io/warn-act-notices/states/wisconsin.html) (WI) | 617 | [wi.csv](data/by-state/wi.csv) | ok |
 
 Each state also ships as its own CSV in [`data/by-state/`](data/by-state/) —
@@ -137,7 +137,7 @@ the latest revised headcount.
 ## Real-time feed & full history (commercial)
 
 If you use layoff notices as sales/recruiting triggers, the 48h delay is the
-expensive part. As of 2026-08-31: **58 notices** affecting 7,350 workers (dated in the last 45 days, 8 states) are in the real-time feed and not yet in this repo's free files — each lands here only after its 48-hour delay. Machine-readable: `delay_gap` in [`data/coverage.json`](data/coverage.json).
+expensive part. As of 2026-09-01: **60 notices** affecting 7,588 workers (dated in the last 45 days, 8 states) are in the real-time feed and not yet in this repo's free files — each lands here only after its 48-hour delay. Machine-readable: `delay_gap` in [`data/coverage.json`](data/coverage.json).
 
 Commercial options:
 
@@ -145,7 +145,7 @@ Commercial options:
   delay, including notices seen in the last 48h, refreshed on every pipeline
   run. Delivered as a private GitHub repo you can pull/watch.
 - **[Full historical archive — $199 one-time](https://approj.gumroad.com/l/warn-archive)** — every notice
-  we have back to 1988 (40,259 rows, all 29 states), CSV + JSON.
+  we have back to 1988 (40,261 rows, all 29 states), CSV + JSON.
 
 Delivery is automatic: enter your GitHub username at checkout and you're
 invited to the private repo. Questions first? [Open an issue](https://github.com/APProj/warn-act-notices/issues)

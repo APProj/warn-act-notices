@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-31T21:18:51.379067Z",
+ "generated_at": "2026-09-01T07:22:46.114190Z",
  "source": "https://github.com/APProj/warn-act-notices",
  "license": "CC BY 4.0 \u2014 credit WARN Feed",
  "note": "48h-delayed free tier; counts are notices with a parseable notice_date",
@@ -76,7 +76,7 @@
   },
   "2025-08": {
    "notices": 177,
-   "workers_affected": 13956
+   "workers_affected": 14001
   },
   "2025-09": {
    "notices": 188,
@@ -159,7 +159,7 @@
    },
    "2025-08": {
     "notices": 5,
-    "workers_affected": 185
+    "workers_affected": 230
    },
    "2025-09": {
     "notices": 3,
