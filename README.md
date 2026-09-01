@@ -1,5 +1,7 @@
 # US WARN Act Layoff Notices — normalized, daily-updated dataset
 
+[![US WARN layoffs 2026](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FAPProj%2Fwarn-act-notices%2Fmain%2Fdata%2Fbadge.json)](https://approj.github.io/warn-act-notices/yearly/) [![data updated](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FAPProj%2Fwarn-act-notices%2Fmain%2Fdata%2Fbadge-updated.json)](https://github.com/APProj/warn-act-notices/commits/main) — live, embeddable: [get these badges](API.md#live-badges)
+
 **6,729 layoff notices since 2024 · 29 states · one clean schema · CSV + JSON · updated 2026-08-31**
 
 Every US state publishes WARN Act layoff notices differently — different sites,

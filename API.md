@@ -21,6 +21,8 @@ covers 2024-present. Zero-delay + full 1988+ history are the
 | Newly added, last 7 days (CSV) | `https://raw.githubusercontent.com/APProj/warn-act-notices/main/data/latest.csv` |
 | Newly added, last 7 days (JSON + metadata) | `https://raw.githubusercontent.com/APProj/warn-act-notices/main/data/latest.json` |
 | New-notice RSS feed | `https://approj.github.io/warn-act-notices/feed.xml` |
+| Live badge: current-year layoffs (shields.io endpoint) | `https://raw.githubusercontent.com/APProj/warn-act-notices/main/data/badge.json` |
+| Live badge: data freshness (shields.io endpoint) | `https://raw.githubusercontent.com/APProj/warn-act-notices/main/data/badge-updated.json` |
 
 `latest.json` carries `count` and `generated_at`, so an alerting script can poll
 it daily and act only when `count` changes — the cheapest possible "new layoff
@@ -57,6 +59,30 @@ print(recent.groupby("state").employees_affected.sum().sort_values(ascending=Fal
 **Watch for new notices (RSS):** point any feed reader or automation
 (Slack RSS app, Zapier, n8n) at
 `https://approj.github.io/warn-act-notices/feed.xml`.
+
+## Live badges
+
+Put a self-updating US layoffs counter in your own README, docs page, or
+dashboard. These are standard [shields.io endpoint badges](https://shields.io/badges/endpoint-badge)
+fed by this repo's data files, so they re-render automatically after every
+daily refresh — no code on your side.
+
+**Current-year running total** (notices + workers affected, matches
+[yearly](https://approj.github.io/warn-act-notices/yearly/)):
+
+```markdown
+[![US WARN layoffs](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FAPProj%2Fwarn-act-notices%2Fmain%2Fdata%2Fbadge.json)](https://github.com/APProj/warn-act-notices)
+```
+
+**Data freshness** (date of the last refresh):
+
+```markdown
+[![layoff data updated](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FAPProj%2Fwarn-act-notices%2Fmain%2Fdata%2Fbadge-updated.json)](https://github.com/APProj/warn-act-notices)
+```
+
+Both examples link the badge back here (CC BY credit satisfied); point the link
+wherever you like as long as attribution appears somewhere. For custom styling
+pass any extra shields parameters (`&style=flat-square`, `&logo=github`, …).
 
 ## Notes & fair use
 
