@@ -17,6 +17,7 @@ deduplicated dataset, refreshed daily.
 - **Newly added in the last 7 days:** [`data/latest.csv`](data/latest.csv) / [`data/latest.json`](data/latest.json) — stable raw URLs for "new WARN notices" alerting and dashboards (48h-delayed; real-time tier available)
 - Stats page: https://approj.github.io/warn-act-notices/
 - RSS feed of newly-published notices: https://approj.github.io/warn-act-notices/feed.xml (48h-delayed)
+- Per-state RSS feeds (one state per feed — pipe a single state into Slack/Feedly/Zapier): OPML bundle https://approj.github.io/warn-act-notices/feeds/feeds.opml, or `feeds/<state>.xml`, e.g. https://approj.github.io/warn-act-notices/feeds/california.xml
 - Weekly summaries (biggest layoffs, per-state totals, one page per week): https://approj.github.io/warn-act-notices/weekly/
 - Monthly summaries (current month updates daily): https://approj.github.io/warn-act-notices/monthly/
 - Yearly totals (current year is a running total, updated daily): https://approj.github.io/warn-act-notices/yearly/
