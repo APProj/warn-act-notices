@@ -1,16 +1,15 @@
 {
- "generated_at": "2026-09-02T16:10:36Z",
+ "generated_at": "2026-09-02T18:45:20Z",
  "month": "2026-09",
  "realtime": {
   "rows_ahead_of_free_tier": 1311,
-  "newest_first_seen": "2026-09-02T14:06:31.426312Z",
+  "newest_first_seen": "2026-09-02T18:45:14.612156Z",
   "states": [
    "AK",
    "AL",
    "CA",
    "DC",
    "DE",
-   "FL",
    "GA",
    "IA",
    "LA",
@@ -21,6 +20,7 @@
    "NJ",
    "OR",
    "PA",
+   "SC",
    "TX",
    "WA",
    "WV"

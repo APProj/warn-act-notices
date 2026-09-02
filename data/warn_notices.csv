@@ -14,8 +14,11 @@ ef0db169b33e6621,MI,"Compass Group USA, Inc. / Morrison Healthcare","Compass Gro
 37c4a7abb28d1916,MI,"SK Siltron CSS, LLC",SK Siltron CSS,,Bay,130,,2026-09-15,Facility closure,2026-08-30T22:16:36.831610Z
 c18643df422ff146,MI,Fifth Third Bank,Fifth Third Bank,,Oakland,234,,2026-09-11,Mass layoff,2026-08-30T22:16:36.831610Z
 f6d6f5d4ff18c221,MI,"Trystar, LLC",Trystar,,Oakland,71,,2026-09-04,Facility closure,2026-08-30T22:16:36.831610Z
+7c34a08376cf04f9,WA,Amazon,Amazon,,"Seattle, Bellevue, Sumner",121,2026-08-31,2026-10-01,Layoff,2026-08-31T17:18:44.066418Z
 ffaa39004fbe83cb,MI,"Conduent Commercial Solutions, LLC",Conduent Commercial Solutions,,Statewide (remote),15,,2026-08-28,Layoff,2026-08-30T22:16:36.831610Z
+de1c60ac5907a68a,FL,Astrion,Astrion,,"PATRICK AFB, FL, 32925",16,2026-08-28,2026-09-30,,2026-08-31T15:19:25.356419Z
 d4534aac2f51298a,SC,"Conduent Commercial Solutions, LLC",Conduent Commercial Solutions,,Statewide - Mu,28,,2026-08-28,,2026-08-30T21:43:41.512264Z
+a92c8b6eb900e1c3,FL,Astrion,Astrion,,"EGLIN AIR FORCE BASE, FL, 32542",204,2026-08-28,2026-09-30,,2026-08-31T14:19:13.779832Z
 6fe64b3ca04e456c,SC,"Healthcare SC, LLC",Healthcare SC,,Fairfield,254,,2026-08-28,,2026-08-30T21:43:41.512264Z
 5baf1dc18094c7ef,IA,People First Sanitation,People First Sanitation,,Sioux City,54,2026-08-28,2026-09-25,Mass Layoff,2026-08-30T21:43:41.512264Z
 222c25259545f327,WA,"Columbia Hospitality, Inc",Columbia Hospitality,,Kenmore,86,2026-08-28,2026-10-30,Layoff,2026-08-30T21:43:41.512264Z
@@ -191,6 +194,8 @@ a0f8bf1b093f7fd5,NJ,JP Morgan Chase,JP Morgan Chase,,Jersey City,63,2026-08-01,2
 97e8510b309bfa5a,NJ,Optum,Optum,,Basking Ridge,57,2026-08-01,2026-12-07,,2026-08-30T21:43:41.512264Z
 650a8bbff7914f8b,NJ,Gerresheimer,Gerresheimer,,Vineland,139,2026-08-01,2026-09-01,,2026-08-30T21:43:41.512264Z
 47d3d8f683a05060,NJ,Cenlar FSB,Cenlar FSB,,Ewing Twp.,50,2026-08-01,2026-08-21,,2026-08-30T21:43:41.512264Z
+2d3f3280d016627c,NJ,"Enablx, Inc.",Enablx,,Rockaway Twp.,187,2026-08-01,2026-12-31,,2026-08-31T15:19:25.356419Z
+291751fa4ad508aa,NJ,Cellares Corporation,Cellares,,Bridgewater,68,2026-08-01,2026-11-19,,2026-08-31T15:19:25.356419Z
 ec78e13d1d2ae2a7,CA,Visa,Visa,,San Mateo County,320,2026-07-31,2026-10-01,Layoff Permanent,2026-08-30T21:43:41.512264Z
 ec71bff2233e00c5,IL,SCR Medical Transportation LLC,SCR Medical Transportation,,"Chicago, 8835 S Greenwood Ave.",241,2026-07-31,,State,2026-08-30T21:43:41.512264Z
 e0fd1fbb5a0ac17e,CA,"WeDriveU, Inc.",WeDriveU,,Kern County,1,2026-07-31,2026-10-01,Closure Permanent,2026-08-30T21:43:41.512264Z
@@ -3460,7 +3465,7 @@ c8d066fb878a2e6e,CA,Kaiser Foundation Hospitals (99),Kaiser Foundation Hospitals
 85ba1556e3e66163,WA,Fred Meyer,Fred Meyer,,Tacoma,226,2025-07-29,2025-09-27,Closure,2026-08-30T21:43:41.512264Z
 64f00986ad90a460,VT,University of Vermont Health Network,University of Vermont Health Network,,Burlington,60,2025-07-29,,WARN,2026-08-30T21:43:41.512264Z
 582ba72ff6c2fa79,KS,"SPO Management, LLC",SPO Management,,Manhattan,72,2025-07-29,,WARN,2026-08-30T22:16:36.831610Z
-412cb69b7ecee8ed,KS,Unrivaled Teamwear,Unrivaled Teamwear,,"Manhattan, 520 McCall Rd; Manhattan, Kansas 66502",72,2025-07-29,,WARN,2026-08-30T22:16:36.831610Z
+412cb69b7ecee8ed,KS,Unrivaled Teamwear,Unrivaled Teamwear,,Manhattan,72,2025-07-29,,WARN,2026-08-30T22:16:36.831610Z
 1318660c4a136534,CA,Thermo Fisher Scientific (5781),Thermo Fisher Scientific,,San Diego County,33,2025-07-29,2025-09-15,Layoff Permanent,2026-08-30T21:43:41.512264Z
 08d7c5f792502b60,CA,Kaiser Foundation Hospitals (74),Kaiser Foundation Hospitals,,Los Angeles County,1,2025-07-29,2025-07-28,Layoff Permanent,2026-08-30T21:43:41.512264Z
 064deec5f2e34bd0,CA,"Decra Roofing Systems, Inc.",Decra Roofing Systems,,Riverside County,4,2025-07-29,2025-09-30,Closure Permanent,2026-08-30T21:43:41.512264Z
@@ -4050,7 +4055,7 @@ adb97c4cf0543e1c,MD,"Transaxle, LLC",Transaxle,,"178 Alco Place Baltimore, MD 21
 4539aefb5c548ca6,AZ,Florence Immigrant & Refugee Rights Project,Florence Immigrant & Refugee Rights Project,,Phoenix,47,2025-05-16,,WARN,2026-08-30T21:43:41.512264Z
 44e68197af031bec,CT,"Feeney Brothers Excavation, LLC (Update to 4/16/2025 and 5/2/2025 notices)","Feeney Brothers Excavation, LLC (Update to 4/16/2025 and 5/2/2025 notices)",,Waterbury,6,2025-05-16,2025-05-16,,2025-05-16T00:00:00Z
 2bf1411b4929ef49,LA,Sodexo,Sodexo,,"1500 Sugar Bowl Drive New Orleans, LA 70112",881,2025-05-16,2025-07-14,,2026-08-31T10:29:52.309603Z
-191547ce5e06f015,KS,"Veyer, LLC",Veyer,,"Edwardsville, 2401 Midpoint Drive; Edwardsville, Kansas 66111",77,2025-05-16,,WARN,2026-08-30T22:16:36.831610Z
+191547ce5e06f015,KS,"Veyer, LLC",Veyer,,Edwardsville,77,2025-05-16,,WARN,2026-08-30T22:16:36.831610Z
 ffbd673546a06776,GA,WIOSS Atlanta LP,WIOSS Atlanta,,"Anvil Block Rd Forest Park, Clayton County",53,2025-05-15,2025-07-19,Permanent Layoff / Reduction in Force,2026-08-31T03:32:57.915961Z
 fb6d27a2da7ffbd3,CA,UPS,UPS,,Yolo County,355,2025-05-15,2025-07-14,Layoff Permanent,2026-08-30T21:43:41.512264Z
 fa6da888d9e1ab9a,FL,Bahama Breeze,Bahama Breeze,,"NAPLES, FL, 34102",68,2025-05-15,2025-05-15,,2026-08-31T10:29:52.309603Z
@@ -4196,7 +4201,7 @@ a30c0db11640ce5d,NJ,TransAxle,TransAxle,,Cinnaminson,129,2025-05-01,2025-08-15,,
 d934191eef5819d4,CT,"Arvinas, Inc.",Arvinas,,New Haven,131,2025-04-30,2025-06-29,,2025-04-30T00:00:00Z
 d4804a0de717fe31,SC,Limestone University,Limestone University,,Cherokee,478,,2025-04-30,,2026-08-30T21:43:41.512264Z
 d0050fdcd8a38958,CA,Sky Zone,Sky Zone,,Orange County,56,2025-04-30,2025-06-30,Closure Permanent,2026-08-30T21:43:41.512264Z
-ca1ec8fdab8ddf38,KS,Federal Express Corporation (FedEx),Federal Express Corporation (FedEx),,Wichita,72,2025-04-30,,WARN,2026-08-30T22:16:36.831610Z
+ca1ec8fdab8ddf38,KS,Federal Express Corporation (FedEx),Federal Express Corporation (FedEx),,"Wichita, 1530 South Hoover; Wichita, Kansas 67209",72,2025-04-30,,WARN,2026-08-30T22:16:36.831610Z
 c2f127f09fea380a,CA,"Newark Group, Inc.",Newark Group,,Los Angeles County,74,2025-04-30,2025-06-01,Closure Permanent,2026-08-30T21:43:41.512264Z
 ba13f5c183c35fd0,CA,Van's Corporate Headquarters,Van's Corporate Headquarters,,Orange County,82,2025-04-30,2025-06-29,Layoff Permanent,2026-08-30T21:43:41.512264Z
 a575b039404fe85e,VT,Fed Ex Corporation,Fed Ex,,Williston,55,2025-04-30,,WARN,2026-08-30T21:43:41.512264Z
@@ -5019,7 +5024,7 @@ e4fb079b1f3d79d7,CA,"Fast Ride Moto, LLC",Fast Ride Moto,,San Diego County,1,202
 8141422dcd94e2c3,TN,Perdue Farms,Perdue Farms,,Putnam,433,2025-01-21,2025-03-28,,2026-08-30T21:43:41.512264Z
 222f6c0435268b3e,CA,"Del Monte Foods, Inc.",Del Monte Foods,,Kings County,378,2025-01-21,2025-03-28,Closure Permanent,2026-08-30T21:43:41.512264Z
 abb3405ec593b51b,MI,United Parcel Service (UPS),United Parcel Service (UPS),,"Wyoming, Michigan, Kent",67,,2025-01-20,Layoff,2026-08-30T22:16:36.831610Z
-20d5f6857963c101,KS,S&S Activewear,S&S Activewear,,Edwardsville,86,2025-01-20,,WARN,2026-08-30T22:16:36.831610Z
+20d5f6857963c101,KS,S&S Activewear,S&S Activewear,,"Edwardsville, 9525 Woodend Road; Edwardsville, Kansas 66111",86,2025-01-20,,WARN,2026-08-30T22:16:36.831610Z
 674a700a0233f9a7,CT,CVS Health,CVS Health,,Hartford,13,2025-01-17,2025-03-09,,2025-01-17T00:00:00Z
 5b947a0183a89160,CA,ECAMSECURE,Ecamsecure,,Los Angeles County,21,2025-01-17,2025-03-17,Layoff Permanent,2026-08-30T21:43:41.512264Z
 4fd7496a692108c0,SC,The Boeing Company,Boeing,,Charleston,220,,2025-01-17,,2026-08-30T21:43:41.512264Z

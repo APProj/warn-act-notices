@@ -1,4 +1,9 @@
 id,state,company,company_canonical,company_dba,location,employees_affected,notice_date,effective_date,notice_type,first_seen
+7c34a08376cf04f9,WA,Amazon,Amazon,,"Seattle, Bellevue, Sumner",121,2026-08-31,2026-10-01,Layoff,2026-08-31T17:18:44.066418Z
+de1c60ac5907a68a,FL,Astrion,Astrion,,"PATRICK AFB, FL, 32925",16,2026-08-28,2026-09-30,,2026-08-31T15:19:25.356419Z
+2d3f3280d016627c,NJ,"Enablx, Inc.",Enablx,,Rockaway Twp.,187,2026-08-01,2026-12-31,,2026-08-31T15:19:25.356419Z
+291751fa4ad508aa,NJ,Cellares Corporation,Cellares,,Bridgewater,68,2026-08-01,2026-11-19,,2026-08-31T15:19:25.356419Z
+a92c8b6eb900e1c3,FL,Astrion,Astrion,,"EGLIN AIR FORCE BASE, FL, 32542",204,2026-08-28,2026-09-30,,2026-08-31T14:19:13.779832Z
 65580d6f6523746f,KS,Ashley Clinic/Southeast Kansas Mental Health Center,Ashley Clinic/Southeast Kansas Mental Health Center,,"Iola, 304 N. Jefferson Ave; Iola, Kansas 66749",116,2026-03-27,,WARN,2026-08-31T12:18:23.233750Z
 621ee24cfe2e37cb,FL,Saddle Creek Corporation,Saddle Creek,,"PLANT CITY, FL, 33566",178,2026-08-17,2026-10-15,,2026-08-31T10:29:52.309603Z
 c03c67f46373ec01,FL,"Nearly Natural, LLC",Nearly Natural,,"HIALEAH, FL, 33018",60,2026-08-13,2026-10-12,,2026-08-31T10:29:52.309603Z

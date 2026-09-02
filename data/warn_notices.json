@@ -195,6 +195,19 @@
 "first_seen": "2026-08-30T22:16:36.831610Z"
 },
 {
+"company": "Amazon",
+"location": "Seattle, Bellevue, Sumner",
+"employees_affected": 121,
+"notice_date": "2026-08-31",
+"effective_date": "2026-10-01",
+"notice_type": "Layoff",
+"state": "WA",
+"company_canonical": "Amazon",
+"company_dba": "",
+"id": "7c34a08376cf04f9",
+"first_seen": "2026-08-31T17:18:44.066418Z"
+},
+{
 "company": "Conduent Commercial Solutions, LLC",
 "location": "Statewide (remote)",
 "employees_affected": 15,
@@ -208,6 +221,19 @@
 "first_seen": "2026-08-30T22:16:36.831610Z"
 },
 {
+"company": "Astrion",
+"location": "PATRICK AFB, FL, 32925",
+"employees_affected": 16,
+"notice_date": "2026-08-28",
+"effective_date": "2026-09-30",
+"notice_type": "",
+"state": "FL",
+"company_canonical": "Astrion",
+"company_dba": "",
+"id": "de1c60ac5907a68a",
+"first_seen": "2026-08-31T15:19:25.356419Z"
+},
+{
 "company": "Conduent Commercial Solutions, LLC",
 "location": "Statewide - Mu",
 "employees_affected": 28,
@@ -219,6 +245,19 @@
 "company_dba": "",
 "id": "d4534aac2f51298a",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Astrion",
+"location": "EGLIN AIR FORCE BASE, FL, 32542",
+"employees_affected": 204,
+"notice_date": "2026-08-28",
+"effective_date": "2026-09-30",
+"notice_type": "",
+"state": "FL",
+"company_canonical": "Astrion",
+"company_dba": "",
+"id": "a92c8b6eb900e1c3",
+"first_seen": "2026-08-31T14:19:13.779832Z"
 },
 {
 "company": "Healthcare SC, LLC",
@@ -2494,6 +2533,32 @@
 "company_dba": "",
 "id": "47d3d8f683a05060",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Enablx, Inc.",
+"location": "Rockaway Twp.",
+"employees_affected": 187,
+"notice_date": "2026-08-01",
+"effective_date": "2026-12-31",
+"notice_type": "",
+"state": "NJ",
+"company_canonical": "Enablx",
+"company_dba": "",
+"id": "2d3f3280d016627c",
+"first_seen": "2026-08-31T15:19:25.356419Z"
+},
+{
+"company": "Cellares Corporation",
+"location": "Bridgewater",
+"employees_affected": 68,
+"notice_date": "2026-08-01",
+"effective_date": "2026-11-19",
+"notice_type": "",
+"state": "NJ",
+"company_canonical": "Cellares",
+"company_dba": "",
+"id": "291751fa4ad508aa",
+"first_seen": "2026-08-31T15:19:25.356419Z"
 },
 {
 "company": "Visa",
@@ -44994,7 +45059,7 @@
 },
 {
 "company": "Unrivaled Teamwear",
-"location": "Manhattan, 520 McCall Rd; Manhattan, Kansas 66502",
+"location": "Manhattan",
 "employees_affected": 72,
 "notice_date": "2025-07-29",
 "effective_date": "",
@@ -52664,7 +52729,7 @@
 },
 {
 "company": "Veyer, LLC",
-"location": "Edwardsville, 2401 Midpoint Drive; Edwardsville, Kansas 66111",
+"location": "Edwardsville",
 "employees_affected": 77,
 "notice_date": "2025-05-16",
 "effective_date": "",
@@ -54562,7 +54627,7 @@
 },
 {
 "company": "Federal Express Corporation (FedEx)",
-"location": "Wichita",
+"location": "Wichita, 1530 South Hoover; Wichita, Kansas 67209",
 "employees_affected": 72,
 "notice_date": "2025-04-30",
 "effective_date": "",
@@ -65261,7 +65326,7 @@
 },
 {
 "company": "S&S Activewear",
-"location": "Edwardsville",
+"location": "Edwardsville, 9525 Woodend Road; Edwardsville, Kansas 66111",
 "employees_affected": 86,
 "notice_date": "2025-01-20",
 "effective_date": "",

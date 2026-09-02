@@ -1,4 +1,6 @@
 id,state,company,company_canonical,company_dba,location,employees_affected,notice_date,effective_date,notice_type,first_seen
+de1c60ac5907a68a,FL,Astrion,Astrion,,"PATRICK AFB, FL, 32925",16,2026-08-28,2026-09-30,,2026-08-31T15:19:25.356419Z
+a92c8b6eb900e1c3,FL,Astrion,Astrion,,"EGLIN AIR FORCE BASE, FL, 32542",204,2026-08-28,2026-09-30,,2026-08-31T14:19:13.779832Z
 621ee24cfe2e37cb,FL,Saddle Creek Corporation,Saddle Creek,,"PLANT CITY, FL, 33566",178,2026-08-17,2026-10-15,,2026-08-31T10:29:52.309603Z
 c03c67f46373ec01,FL,"Nearly Natural, LLC",Nearly Natural,,"HIALEAH, FL, 33018",60,2026-08-13,2026-10-12,,2026-08-31T10:29:52.309603Z
 574ce993bc928e54,FL,"Postal Center International, Inc.",Postal Center International,,"WESTON, FL, 33331",181,2026-08-12,2026-08-13,,2026-08-31T10:29:52.309603Z
