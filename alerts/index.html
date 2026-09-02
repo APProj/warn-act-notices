@@ -1,0 +1,14 @@
+<!doctype html><html lang=en><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1">
+<meta name=robots content="noindex,nofollow"><title>WARN Watch — find your alert page</title><style>body{font:16px/1.5 system-ui,sans-serif;max-width:900px;margin:2rem auto;padding:0 1rem;color:#1a1a1a}table{border-collapse:collapse;width:100%;font-size:14px}td,th{border:1px solid #ddd;padding:6px;text-align:left;vertical-align:top}th{background:#f4f4f4}.tw{overflow-x:auto}.note{color:#555;font-size:14px}input{font:inherit;padding:.4rem;width:100%;box-sizing:border-box;margin:.2rem 0 .8rem}button{font:inherit;padding:.5rem 1rem}.ok{background:#e8f6ea;padding:.6rem 1rem;border-radius:6px}code{background:#f4f4f4;padding:0 .3em}</style></head><body>
+<h1>Find your WARN Watch alert page</h1>
+<p>Type the email address you used at checkout. Your browser computes the page address locally (SHA-256, nothing is sent anywhere) and takes you there. Bookmark the page or subscribe to its RSS feed.</p>
+<label>Purchase email<input id=e type=email autocomplete=email></label><button id=go>Open my alerts</button>
+<p id=msg class=note></p>
+<p class=note>Alert pages are rebuilt on every daily refresh. A page that says "No matching WARN notices yet" is working — nothing has matched your terms since your watch started. If the page is a 404 within 24 hours of buying, reply to your Gumroad receipt and we will fix it.</p>
+<script>
+async function go(){const e=document.getElementById('e').value.trim().toLowerCase();if(!e){document.getElementById('msg').textContent='Enter the purchase email.';return}
+const buf=await crypto.subtle.digest('SHA-256',new TextEncoder().encode('warnwatch|'+e));
+const hex=[...new Uint8Array(buf)].map(b=>b.toString(16).padStart(2,'0')).join('').slice(0,32);
+location.href=hex+'/';}
+document.getElementById('go').onclick=go;document.getElementById('e').addEventListener('keydown',ev=>{if(ev.key==='Enter')go()});
+</script></body></html>
