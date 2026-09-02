@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex">
+<title>WARN Feed — unlock your paid download</title>
+<style>
+body{font:16px/1.5 -apple-system,system-ui,sans-serif;max-width:760px;margin:2rem auto;padding:0 1rem;color:#1a1a1a}
+h1{font-size:1.5rem} input{font:inherit;width:100%;padding:.5rem;border:1px solid #999;border-radius:6px;box-sizing:border-box}
+button{font:inherit;padding:.55rem 1rem;border-radius:6px;border:1px solid #0757ba;background:#0757ba;color:#fff;cursor:pointer;margin-top:.6rem}
+.box{background:#f6f8fa;border:1px solid #d0d7de;border-radius:8px;padding:1rem;margin:1.2rem 0}
+#status{margin-top:.8rem;white-space:pre-wrap} .err{color:#b00020} .ok{color:#0a6b2f}
+table{border-collapse:collapse;width:100%;font-size:.85rem;margin-top:1rem} td,th{padding:.3rem .5rem;border-bottom:1px solid #e5e5e5;text-align:left}
+.tw{overflow-x:auto} code{background:#eef;padding:0 .2rem} footer{margin:2rem 0;font-size:.85rem;color:#666} a{color:#0757ba}
+</style></head><body>
+<h1>Unlock your WARN Feed download</h1>
+<p>Paste the <b>license key</b> from your Gumroad receipt (it also appears in your
+Gumroad Library under the product). It looks like
+<code>XXXXXXXX-XXXXXXXX-XXXXXXXX-XXXXXXXX</code>. No account, no login: the key
+decrypts the file <em>inside your browser</em> and nothing you type is sent anywhere.</p>
+<div class="box">
+<label for="lk">License key</label>
+<input id="lk" autocomplete="off" spellcheck="false" placeholder="XXXXXXXX-XXXXXXXX-XXXXXXXX-XXXXXXXX">
+<button id="go">Unlock and download</button>
+<div id="status"></div>
+</div>
+<div id="preview"></div>
+<div class="box"><b>What you get</b>
+<ul>
+<li><b>Real-time feed ($49/mo):</b> a CSV of every notice the free files are still
+holding back (the 48h delay window), regenerated on every refresh — combine it with the
+<a href="../data/">free CSV</a> for the complete same-day picture. Currently
+<span id="ahead">…</span> notices ahead of the free tier.</li>
+<li><b>Full archive ($199 one-time):</b> the latest monthly archive ZIP (all states, 1988→),
+rebuilt on the 1st of each month.</li>
+</ul>
+<b>Automation:</b> <a href="rt_client.py">rt_client.py</a> does the same from the command
+line (<code>pip install cryptography</code>, then
+<code>WARN_LICENSE_KEY=… python3 rt_client.py realtime &gt; held_back.csv</code>).
+Same key, same files, no browser.</div>
+<p><b>How this works / what is public.</b> The encrypted files and one small key-wrapper per
+active licence live in this public repository; a wrapper is named by the SHA-256 of the
+licence key and can only be opened with that key. Refunded or cancelled licences lose their
+wrapper at the next refresh and the file key at the next monthly rotation (at most ~31
+days of residual access). Do not share your key — it is your receipt.</p>
+<footer>Published by APProjects (Gumroad seller <a href="https://approj.gumroad.com">approj</a>).
+Questions: reply to your Gumroad receipt or open an issue on the
+<a href="https://github.com/APVentureEngine/warn-act-notices/issues">repository</a>.</footer>
+<script>
+(function(){
+var $=function(id){return document.getElementById(id)};
+var st=$('status');
+function say(msg,cls){st.textContent=msg;st.className=cls||''}
+function b64d(s){var b=atob(s),u=new Uint8Array(b.length);for(var i=0;i<b.length;i++)u[i]=b.charCodeAt(i);return u}
+function hex(buf){return Array.prototype.map.call(new Uint8Array(buf),function(x){return ('0'+x.toString(16)).slice(-2)}).join('')}
+fetch('meta.json',{cache:'no-store'}).then(function(r){return r.json()}).then(function(m){
+  $('ahead').textContent=(m.realtime&&m.realtime.rows_ahead_of_free_tier!=null)?m.realtime.rows_ahead_of_free_tier.toLocaleString():'?';
+}).catch(function(){$('ahead').textContent='?'});
+function csvRows(text,n){
+  var lines=text.split('\n').filter(function(l){return l.length}).slice(0,n+1);
+  return lines.map(function(l){var out=[],cur='',q=false;for(var i=0;i<l.length;i++){var c=l[i];
+    if(q){if(c=='"'){if(l[i+1]=='"'){cur+='"';i++}else q=false}else cur+=c}
+    else{if(c=='"')q=true;else if(c==','){out.push(cur);cur=''}else cur+=c}}
+    out.push(cur);return out});
+}
+function preview(text){
+  var rows=csvRows(text,25);if(rows.length<2){$('preview').innerHTML='';return}
+  var h='<div class="tw"><table><tr>'+rows[0].map(function(c){return '<th>'+esc(c)+'</th>'}).join('')+'</tr>';
+  for(var i=1;i<rows.length;i++)h+='<tr>'+rows[i].map(function(c){return '<td>'+esc(c)+'</td>'}).join('')+'</tr>';
+  $('preview').innerHTML='<p>First '+(rows.length-1)+' rows (the download has all of them):</p>'+h+'</table></div>';
+}
+function esc(s){return String(s).replace(/[&<>"]/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]})}
+function download(bytes,name,type){
+  var blob=new Blob([bytes],{type:type}),a=document.createElement('a');
+  a.href=URL.createObjectURL(blob);a.download=name;document.body.appendChild(a);a.click();
+  setTimeout(function(){URL.revokeObjectURL(a.href);a.remove()},2000);
+}
+async function unlock(){
+  var lk=$('lk').value.trim();
+  if(!lk){say('Paste your license key first.','err');return}
+  if(!(window.crypto&&crypto.subtle)){say('This browser has no WebCrypto (needs https + a modern browser). Use rt_client.py instead.','err');return}
+  try{
+    say('Looking up your licence…');
+    var enc=new TextEncoder();
+    var h=hex(await crypto.subtle.digest('SHA-256',enc.encode(lk)));
+    var r=await fetch('k/'+h+'.json',{cache:'no-store'});
+    if(!r.ok){say('No active licence found for that key. Check for typos (copy it straight from the receipt). New purchases become active at the next refresh, at most 24 hours after payment — if it is still missing after that, reply to your Gumroad receipt.','err');return}
+    var w=await r.json();
+    say('Deriving key ('+w.iter.toLocaleString()+' rounds)…');
+    var base=await crypto.subtle.importKey('raw',enc.encode(lk),'PBKDF2',false,['deriveKey']);
+    var kek=await crypto.subtle.deriveKey({name:'PBKDF2',salt:b64d(w.salt),iterations:w.iter,hash:'SHA-256'},base,{name:'AES-GCM',length:256},false,['decrypt']);
+    var mk=await crypto.subtle.decrypt({name:'AES-GCM',iv:b64d(w.iv)},kek,b64d(w.ct));
+    var dk=await crypto.subtle.importKey('raw',mk,{name:'AES-GCM'},false,['decrypt']);
+    say('Downloading '+w.product+' file…');
+    var b=new Uint8Array(await (await fetch(w.product+'.enc',{cache:'no-store'})).arrayBuffer());
+    if(String.fromCharCode(b[0],b[1],b[2],b[3])!=='WFE1'){say('Unexpected file format — please report this.','err');return}
+    var pt=await crypto.subtle.decrypt({name:'AES-GCM',iv:b.slice(4,16)},dk,b.slice(16));
+    var stamp=new Date().toISOString().slice(0,10);
+    if(w.product==='realtime'){
+      var text=new TextDecoder().decode(pt);
+      download(pt,'warn_realtime_'+stamp+'.csv','text/csv');
+      preview(text);
+      say('Unlocked: '+(text.split('\n').filter(function(l){return l.length}).length-1)+' held-back notices ('+w.month+' key). Download started.','ok');
+    }else{
+      download(pt,'warn-archive-'+w.month+'.zip','application/zip');
+      say('Unlocked the '+w.month+' archive ZIP ('+(pt.byteLength/1048576).toFixed(1)+' MB). Download started.','ok');
+    }
+  }catch(e){say('Could not unlock: '+(e&&e.message?e.message:e)+'. A wrong key fails here too — copy it exactly from the receipt.','err')}
+}
+$('go').addEventListener('click',unlock);
+$('lk').addEventListener('keydown',function(e){if(e.key==='Enter')unlock()});
+var q=new URLSearchParams(location.search).get('key');if(q){$('lk').value=q;unlock()}
+})();
+</script>
+</body></html>

@@ -1,0 +1,33 @@
+{
+ "generated_at": "2026-09-02T16:10:36Z",
+ "month": "2026-09",
+ "realtime": {
+  "rows_ahead_of_free_tier": 1311,
+  "newest_first_seen": "2026-09-02T14:06:31.426312Z",
+  "states": [
+   "AK",
+   "AL",
+   "CA",
+   "DC",
+   "DE",
+   "FL",
+   "GA",
+   "IA",
+   "LA",
+   "MD",
+   "ME",
+   "MS",
+   "NC",
+   "NJ",
+   "OR",
+   "PA",
+   "TX",
+   "WA",
+   "WV"
+  ]
+ },
+ "archive": {
+  "zip_bytes": 3795386,
+  "zip_sha256": "69321dcf7123fb0844e9178f25c63f735fa30166039a941693a0188ba3d44f0f"
+ }
+}
