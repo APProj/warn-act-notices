@@ -1,4 +1,5 @@
 User-agent: *
 Disallow: /rt/
+Disallow: /alerts/
 Allow: /
 Sitemap: https://apventureengine.github.io/warn-act-notices/sitemap.xml
