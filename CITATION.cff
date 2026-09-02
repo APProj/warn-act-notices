@@ -4,9 +4,9 @@ title: "WARN Feed: US WARN Act layoff notices, normalized and daily-updated"
 type: dataset
 authors:
   - name: "WARN Feed"
-    website: "https://approj.github.io/warn-act-notices/"
-repository-code: "https://github.com/APProj/warn-act-notices"
-url: "https://approj.github.io/warn-act-notices/"
+    website: "https://apventureengine.github.io/warn-act-notices/"
+repository-code: "https://github.com/APVentureEngine/warn-act-notices"
+url: "https://apventureengine.github.io/warn-act-notices/"
 license: CC-BY-4.0
 keywords:
   - WARN Act

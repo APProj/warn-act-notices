@@ -3,7 +3,7 @@
  "window_days": 7,
  "count": 0,
  "note": "Notices newly added to the free (48h-delayed) tier in the last 7 days, newest first. Excludes the 2026-08-30 initial import. Empty means no new rows cleared the delay window in this period.",
- "source": "https://github.com/APProj/warn-act-notices",
+ "source": "https://github.com/APVentureEngine/warn-act-notices",
  "license": "CC BY 4.0 \u2014 credit WARN Feed",
  "notices": []
 }

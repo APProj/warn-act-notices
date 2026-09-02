@@ -13,16 +13,16 @@ covers 2024-present. Zero-delay + full 1988+ history are the
 
 | What | URL |
 |---|---|
-| All notices (CSV) | `https://raw.githubusercontent.com/APProj/warn-act-notices/main/data/warn_notices.csv` |
-| All notices (JSON array) | `https://raw.githubusercontent.com/APProj/warn-act-notices/main/data/warn_notices.json` |
-| One state (CSV) | `https://raw.githubusercontent.com/APProj/warn-act-notices/main/data/by-state/ca.csv` (any covered state's 2-letter code) |
-| Coverage + freshness metadata | `https://raw.githubusercontent.com/APProj/warn-act-notices/main/data/coverage.json` |
-| Monthly trends, last 24 months | `https://raw.githubusercontent.com/APProj/warn-act-notices/main/data/trends.json` |
-| Newly added, last 7 days (CSV) | `https://raw.githubusercontent.com/APProj/warn-act-notices/main/data/latest.csv` |
-| Newly added, last 7 days (JSON + metadata) | `https://raw.githubusercontent.com/APProj/warn-act-notices/main/data/latest.json` |
-| New-notice RSS feed | `https://approj.github.io/warn-act-notices/feed.xml` |
-| Live badge: current-year layoffs (shields.io endpoint) | `https://raw.githubusercontent.com/APProj/warn-act-notices/main/data/badge.json` |
-| Live badge: data freshness (shields.io endpoint) | `https://raw.githubusercontent.com/APProj/warn-act-notices/main/data/badge-updated.json` |
+| All notices (CSV) | `https://raw.githubusercontent.com/APVentureEngine/warn-act-notices/main/data/warn_notices.csv` |
+| All notices (JSON array) | `https://raw.githubusercontent.com/APVentureEngine/warn-act-notices/main/data/warn_notices.json` |
+| One state (CSV) | `https://raw.githubusercontent.com/APVentureEngine/warn-act-notices/main/data/by-state/ca.csv` (any covered state's 2-letter code) |
+| Coverage + freshness metadata | `https://raw.githubusercontent.com/APVentureEngine/warn-act-notices/main/data/coverage.json` |
+| Monthly trends, last 24 months | `https://raw.githubusercontent.com/APVentureEngine/warn-act-notices/main/data/trends.json` |
+| Newly added, last 7 days (CSV) | `https://raw.githubusercontent.com/APVentureEngine/warn-act-notices/main/data/latest.csv` |
+| Newly added, last 7 days (JSON + metadata) | `https://raw.githubusercontent.com/APVentureEngine/warn-act-notices/main/data/latest.json` |
+| New-notice RSS feed | `https://apventureengine.github.io/warn-act-notices/feed.xml` |
+| Live badge: current-year layoffs (shields.io endpoint) | `https://raw.githubusercontent.com/APVentureEngine/warn-act-notices/main/data/badge.json` |
+| Live badge: data freshness (shields.io endpoint) | `https://raw.githubusercontent.com/APVentureEngine/warn-act-notices/main/data/badge-updated.json` |
 
 `latest.json` carries `count` and `generated_at`, so an alerting script can poll
 it daily and act only when `count` changes — the cheapest possible "new layoff
@@ -37,7 +37,7 @@ machine-readable form in [`datapackage.json`](datapackage.json).
 **curl + jq — latest 5 notices:**
 
 ```bash
-curl -s https://raw.githubusercontent.com/APProj/warn-act-notices/main/data/warn_notices.json \
+curl -s https://raw.githubusercontent.com/APVentureEngine/warn-act-notices/main/data/warn_notices.json \
   | jq 'sort_by(.notice_date) | reverse | .[:5] | .[] | {state, company, employees_affected, notice_date}'
 ```
 
@@ -45,7 +45,7 @@ curl -s https://raw.githubusercontent.com/APProj/warn-act-notices/main/data/warn
 
 ```python
 import pandas as pd
-df = pd.read_csv("https://raw.githubusercontent.com/APProj/warn-act-notices/main/data/warn_notices.csv")
+df = pd.read_csv("https://raw.githubusercontent.com/APVentureEngine/warn-act-notices/main/data/warn_notices.csv")
 recent = df[df.notice_date >= "2026-06-01"]
 print(recent.groupby("state").employees_affected.sum().sort_values(ascending=False))
 ```
@@ -53,12 +53,12 @@ print(recent.groupby("state").employees_affected.sum().sort_values(ascending=Fal
 **Google Sheets:**
 
 ```
-=IMPORTDATA("https://raw.githubusercontent.com/APProj/warn-act-notices/main/data/by-state/ca.csv")
+=IMPORTDATA("https://raw.githubusercontent.com/APVentureEngine/warn-act-notices/main/data/by-state/ca.csv")
 ```
 
 **Watch for new notices (RSS):** point any feed reader or automation
 (Slack RSS app, Zapier, n8n) at
-`https://approj.github.io/warn-act-notices/feed.xml`.
+`https://apventureengine.github.io/warn-act-notices/feed.xml`.
 
 ## Live badges
 
@@ -68,16 +68,16 @@ fed by this repo's data files, so they re-render automatically after every
 daily refresh — no code on your side.
 
 **Current-year running total** (notices + workers affected, matches
-[yearly](https://approj.github.io/warn-act-notices/yearly/)):
+[yearly](https://apventureengine.github.io/warn-act-notices/yearly/)):
 
 ```markdown
-[![US WARN layoffs](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FAPProj%2Fwarn-act-notices%2Fmain%2Fdata%2Fbadge.json)](https://github.com/APProj/warn-act-notices)
+[![US WARN layoffs](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FAPProj%2Fwarn-act-notices%2Fmain%2Fdata%2Fbadge.json)](https://github.com/APVentureEngine/warn-act-notices)
 ```
 
 **Data freshness** (date of the last refresh):
 
 ```markdown
-[![layoff data updated](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FAPProj%2Fwarn-act-notices%2Fmain%2Fdata%2Fbadge-updated.json)](https://github.com/APProj/warn-act-notices)
+[![layoff data updated](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FAPProj%2Fwarn-act-notices%2Fmain%2Fdata%2Fbadge-updated.json)](https://github.com/APVentureEngine/warn-act-notices)
 ```
 
 Both examples link the badge back here (CC BY credit satisfied); point the link

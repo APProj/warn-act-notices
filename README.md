@@ -1,6 +1,6 @@
 # US WARN Act Layoff Notices — normalized, daily-updated dataset
 
-[![US WARN layoffs 2026](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FAPProj%2Fwarn-act-notices%2Fmain%2Fdata%2Fbadge.json)](https://approj.github.io/warn-act-notices/yearly/) [![data updated](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FAPProj%2Fwarn-act-notices%2Fmain%2Fdata%2Fbadge-updated.json)](https://github.com/APProj/warn-act-notices/commits/main) — live, embeddable: [get these badges](API.md#live-badges)
+[![US WARN layoffs 2026](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FAPVentureEngine%2Fwarn-act-notices%2Fmain%2Fdata%2Fbadge.json)](https://apventureengine.github.io/warn-act-notices/yearly/) [![data updated](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FAPVentureEngine%2Fwarn-act-notices%2Fmain%2Fdata%2Fbadge-updated.json)](https://github.com/APVentureEngine/warn-act-notices/commits/main) — live, embeddable: [get these badges](API.md#live-badges)
 
 **6,874 layoff notices since 2024 · 29 states · one clean schema · CSV + JSON · updated 2026-09-01**
 
@@ -15,14 +15,14 @@ deduplicated dataset, refreshed daily.
 - Coverage/freshness metadata: [`data/coverage.json`](data/coverage.json)
 - Per-state CSVs: [`data/by-state/`](data/by-state/) — see table below
 - **Newly added in the last 7 days:** [`data/latest.csv`](data/latest.csv) / [`data/latest.json`](data/latest.json) — stable raw URLs for "new WARN notices" alerting and dashboards (48h-delayed; real-time tier available)
-- Stats page: https://approj.github.io/warn-act-notices/
-- RSS feed of newly-published notices: https://approj.github.io/warn-act-notices/feed.xml (48h-delayed)
-- Per-state RSS feeds (one state per feed — pipe a single state into Slack/Feedly/Zapier): OPML bundle https://approj.github.io/warn-act-notices/feeds/feeds.opml, or `feeds/<state>.xml`, e.g. https://approj.github.io/warn-act-notices/feeds/california.xml
-- Weekly summaries (biggest layoffs, per-state totals, one page per week): https://approj.github.io/warn-act-notices/weekly/
-- Monthly summaries (current month updates daily): https://approj.github.io/warn-act-notices/monthly/
-- Yearly totals (current year is a running total, updated daily): https://approj.github.io/warn-act-notices/yearly/
-- Browse layoffs by employer: https://approj.github.io/warn-act-notices/employers/
-- How this compares to WARNTracker, Intellizence, warn-scraper & state portals: https://approj.github.io/warn-act-notices/compare.html
+- Stats page: https://apventureengine.github.io/warn-act-notices/
+- RSS feed of newly-published notices: https://apventureengine.github.io/warn-act-notices/feed.xml (48h-delayed)
+- Per-state RSS feeds (one state per feed — pipe a single state into Slack/Feedly/Zapier): OPML bundle https://apventureengine.github.io/warn-act-notices/feeds/feeds.opml, or `feeds/<state>.xml`, e.g. https://apventureengine.github.io/warn-act-notices/feeds/california.xml
+- Weekly summaries (biggest layoffs, per-state totals, one page per week): https://apventureengine.github.io/warn-act-notices/weekly/
+- Monthly summaries (current month updates daily): https://apventureengine.github.io/warn-act-notices/monthly/
+- Yearly totals (current year is a running total, updated daily): https://apventureengine.github.io/warn-act-notices/yearly/
+- Browse layoffs by employer: https://apventureengine.github.io/warn-act-notices/employers/
+- How this compares to WARNTracker, Intellizence, warn-scraper & state portals: https://apventureengine.github.io/warn-act-notices/compare.html
 - Use it as a free layoffs API (stable raw URLs, curl/pandas/Sheets examples): [API.md](API.md)
 - Machine-readable schema: [`datapackage.json`](datapackage.json) · Cite this dataset: [`CITATION.cff`](CITATION.cff) · License: [CC BY 4.0](LICENSE)
 
@@ -52,35 +52,35 @@ that fund the pipeline.
 
 | State | Notices | CSV | Source status |
 |---|---:|---|---|
-| [Arizona](https://approj.github.io/warn-act-notices/states/arizona.html) (AZ) | 636 | [az.csv](data/by-state/az.csv) | ok |
-| [California](https://approj.github.io/warn-act-notices/states/california.html) (CA) | 16,556 | [ca.csv](data/by-state/ca.csv) | ok |
-| [Colorado](https://approj.github.io/warn-act-notices/states/colorado.html) (CO) | 835 | — | ok |
-| [Connecticut](https://approj.github.io/warn-act-notices/states/connecticut.html) (CT) | 27 | [ct.csv](data/by-state/ct.csv) | ok |
-| [Florida](https://approj.github.io/warn-act-notices/states/florida.html) (FL) | 3,115 | — | ok |
-| [Georgia](https://approj.github.io/warn-act-notices/states/georgia.html) (GA) | 282 | — | ok |
-| [Iowa](https://approj.github.io/warn-act-notices/states/iowa.html) (IA) | 416 | [ia.csv](data/by-state/ia.csv) | ok |
-| [Illinois](https://approj.github.io/warn-act-notices/states/illinois.html) (IL) | 4,842 | [il.csv](data/by-state/il.csv) | ok |
-| [Indiana](https://approj.github.io/warn-act-notices/states/indiana.html) (IN) | 1,180 | [in.csv](data/by-state/in.csv) | ok |
-| [Kansas](https://approj.github.io/warn-act-notices/states/kansas.html) (KS) | 791 | [ks.csv](data/by-state/ks.csv) | ok |
-| [Kentucky](https://approj.github.io/warn-act-notices/states/kentucky.html) (KY) | 804 | [ky.csv](data/by-state/ky.csv) | ok |
-| [Louisiana](https://approj.github.io/warn-act-notices/states/louisiana.html) (LA) | 38 | — | ok |
-| [Maryland](https://approj.github.io/warn-act-notices/states/maryland.html) (MD) | 1,274 | [md.csv](data/by-state/md.csv) | ok |
-| [Michigan](https://approj.github.io/warn-act-notices/states/michigan.html) (MI) | 112 | [mi.csv](data/by-state/mi.csv) | ok |
-| [Montana](https://approj.github.io/warn-act-notices/states/montana.html) (MT) | 46 | [mt.csv](data/by-state/mt.csv) | ok |
-| [Nebraska](https://approj.github.io/warn-act-notices/states/nebraska.html) (NE) | 845 | [ne.csv](data/by-state/ne.csv) | ok |
-| [New Jersey](https://approj.github.io/warn-act-notices/states/new-jersey.html) (NJ) | 2,321 | [nj.csv](data/by-state/nj.csv) | ok |
-| [New Mexico](https://approj.github.io/warn-act-notices/states/new-mexico.html) (NM) | 116 | — | ok |
-| [New York](https://approj.github.io/warn-act-notices/states/new-york.html) (NY) | 141 | [ny.csv](data/by-state/ny.csv) | ok |
-| [Oklahoma](https://approj.github.io/warn-act-notices/states/oklahoma.html) (OK) | 219 | [ok.csv](data/by-state/ok.csv) | ok |
-| [Oregon](https://approj.github.io/warn-act-notices/states/oregon.html) (OR) | 1,364 | [or.csv](data/by-state/or.csv) | ok |
-| [Rhode Island](https://approj.github.io/warn-act-notices/states/rhode-island.html) (RI) | 126 | [ri.csv](data/by-state/ri.csv) | ok |
-| [South Carolina](https://approj.github.io/warn-act-notices/states/south-carolina.html) (SC) | 603 | [sc.csv](data/by-state/sc.csv) | ok |
-| [South Dakota](https://approj.github.io/warn-act-notices/states/south-dakota.html) (SD) | 80 | [sd.csv](data/by-state/sd.csv) | ok |
-| [Tennessee](https://approj.github.io/warn-act-notices/states/tennessee.html) (TN) | 1,060 | [tn.csv](data/by-state/tn.csv) | ok |
-| [Utah](https://approj.github.io/warn-act-notices/states/utah.html) (UT) | 282 | [ut.csv](data/by-state/ut.csv) | ok |
-| [Vermont](https://approj.github.io/warn-act-notices/states/vermont.html) (VT) | 70 | [vt.csv](data/by-state/vt.csv) | ok |
-| [Washington](https://approj.github.io/warn-act-notices/states/washington.html) (WA) | 1,495 | [wa.csv](data/by-state/wa.csv) | ok |
-| [Wisconsin](https://approj.github.io/warn-act-notices/states/wisconsin.html) (WI) | 617 | [wi.csv](data/by-state/wi.csv) | ok |
+| [Arizona](https://apventureengine.github.io/warn-act-notices/states/arizona.html) (AZ) | 636 | [az.csv](data/by-state/az.csv) | ok |
+| [California](https://apventureengine.github.io/warn-act-notices/states/california.html) (CA) | 16,556 | [ca.csv](data/by-state/ca.csv) | ok |
+| [Colorado](https://apventureengine.github.io/warn-act-notices/states/colorado.html) (CO) | 835 | — | ok |
+| [Connecticut](https://apventureengine.github.io/warn-act-notices/states/connecticut.html) (CT) | 27 | [ct.csv](data/by-state/ct.csv) | ok |
+| [Florida](https://apventureengine.github.io/warn-act-notices/states/florida.html) (FL) | 3,115 | — | ok |
+| [Georgia](https://apventureengine.github.io/warn-act-notices/states/georgia.html) (GA) | 282 | — | ok |
+| [Iowa](https://apventureengine.github.io/warn-act-notices/states/iowa.html) (IA) | 416 | [ia.csv](data/by-state/ia.csv) | ok |
+| [Illinois](https://apventureengine.github.io/warn-act-notices/states/illinois.html) (IL) | 4,842 | [il.csv](data/by-state/il.csv) | ok |
+| [Indiana](https://apventureengine.github.io/warn-act-notices/states/indiana.html) (IN) | 1,180 | [in.csv](data/by-state/in.csv) | ok |
+| [Kansas](https://apventureengine.github.io/warn-act-notices/states/kansas.html) (KS) | 791 | [ks.csv](data/by-state/ks.csv) | ok |
+| [Kentucky](https://apventureengine.github.io/warn-act-notices/states/kentucky.html) (KY) | 804 | [ky.csv](data/by-state/ky.csv) | ok |
+| [Louisiana](https://apventureengine.github.io/warn-act-notices/states/louisiana.html) (LA) | 38 | — | ok |
+| [Maryland](https://apventureengine.github.io/warn-act-notices/states/maryland.html) (MD) | 1,274 | [md.csv](data/by-state/md.csv) | ok |
+| [Michigan](https://apventureengine.github.io/warn-act-notices/states/michigan.html) (MI) | 112 | [mi.csv](data/by-state/mi.csv) | ok |
+| [Montana](https://apventureengine.github.io/warn-act-notices/states/montana.html) (MT) | 46 | [mt.csv](data/by-state/mt.csv) | ok |
+| [Nebraska](https://apventureengine.github.io/warn-act-notices/states/nebraska.html) (NE) | 845 | [ne.csv](data/by-state/ne.csv) | ok |
+| [New Jersey](https://apventureengine.github.io/warn-act-notices/states/new-jersey.html) (NJ) | 2,321 | [nj.csv](data/by-state/nj.csv) | ok |
+| [New Mexico](https://apventureengine.github.io/warn-act-notices/states/new-mexico.html) (NM) | 116 | — | ok |
+| [New York](https://apventureengine.github.io/warn-act-notices/states/new-york.html) (NY) | 141 | [ny.csv](data/by-state/ny.csv) | ok |
+| [Oklahoma](https://apventureengine.github.io/warn-act-notices/states/oklahoma.html) (OK) | 219 | [ok.csv](data/by-state/ok.csv) | ok |
+| [Oregon](https://apventureengine.github.io/warn-act-notices/states/oregon.html) (OR) | 1,364 | [or.csv](data/by-state/or.csv) | ok |
+| [Rhode Island](https://apventureengine.github.io/warn-act-notices/states/rhode-island.html) (RI) | 126 | [ri.csv](data/by-state/ri.csv) | ok |
+| [South Carolina](https://apventureengine.github.io/warn-act-notices/states/south-carolina.html) (SC) | 603 | [sc.csv](data/by-state/sc.csv) | ok |
+| [South Dakota](https://apventureengine.github.io/warn-act-notices/states/south-dakota.html) (SD) | 80 | [sd.csv](data/by-state/sd.csv) | ok |
+| [Tennessee](https://apventureengine.github.io/warn-act-notices/states/tennessee.html) (TN) | 1,060 | [tn.csv](data/by-state/tn.csv) | ok |
+| [Utah](https://apventureengine.github.io/warn-act-notices/states/utah.html) (UT) | 282 | [ut.csv](data/by-state/ut.csv) | ok |
+| [Vermont](https://apventureengine.github.io/warn-act-notices/states/vermont.html) (VT) | 70 | [vt.csv](data/by-state/vt.csv) | ok |
+| [Washington](https://apventureengine.github.io/warn-act-notices/states/washington.html) (WA) | 1,495 | [wa.csv](data/by-state/wa.csv) | ok |
+| [Wisconsin](https://apventureengine.github.io/warn-act-notices/states/wisconsin.html) (WI) | 617 | [wi.csv](data/by-state/wi.csv) | ok |
 
 Each state also ships as its own CSV in [`data/by-state/`](data/by-state/) —
 e.g. California layoff notices: [`data/by-state/ca.csv`](data/by-state/ca.csv).
@@ -125,7 +125,7 @@ e.g. California layoff notices: [`data/by-state/ca.csv`](data/by-state/ca.csv).
 Machine-readable trends (per-state monthly notices + workers affected, last 24
 months): [`data/trends.json`](data/trends.json) — stable raw URL for embedding
 in dashboards/articles:
-`https://raw.githubusercontent.com/APProj/warn-act-notices/main/data/trends.json`
+`https://raw.githubusercontent.com/APVentureEngine/warn-act-notices/main/data/trends.json`
 (CC BY 4.0, credit "WARN Feed").
 
 More states are added as their sources are verified. Some states publish
@@ -149,7 +149,7 @@ Commercial options:
   we have back to 1988 (40,293 rows, all 29 states), CSV + JSON.
 
 Delivery is automatic: enter your GitHub username at checkout and you're
-invited to the private repo. Questions first? [Open an issue](https://github.com/APProj/warn-act-notices/issues)
+invited to the private repo. Questions first? [Open an issue](https://github.com/APVentureEngine/warn-act-notices/issues)
 with the label `commercial`.
 
 ## Sources & attribution
@@ -162,7 +162,7 @@ layer. This project is not affiliated with Big Local News or any state agency.
 ## License & disclaimer
 
 Dataset (this repo's `data/`): [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) —
-use it for anything, credit "WARN Feed (https://github.com/APProj/warn-act-notices)".
+use it for anything, credit "WARN Feed (https://github.com/APVentureEngine/warn-act-notices)".
 
 Best-effort normalization of public records. States amend and correct notices;
 verify against the official state source before relying on any single row.

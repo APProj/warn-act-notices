@@ -3,8 +3,8 @@
   "name": "warn-act-notices",
   "title": "US WARN Act Layoff Notices — normalized, daily-updated (free tier)",
   "description": "Deduplicated, schema-normalized US WARN Act layoff notices from official state labor department listings (29 states), refreshed daily. Free tier: 2024-present, 48h-delayed. Full 1988+ history and zero-delay feed available commercially — see homepage.",
-  "homepage": "https://approj.github.io/warn-act-notices/",
-  "repository": "https://github.com/APProj/warn-act-notices",
+  "homepage": "https://apventureengine.github.io/warn-act-notices/",
+  "repository": "https://github.com/APVentureEngine/warn-act-notices",
   "licenses": [
     {
       "name": "CC-BY-4.0",

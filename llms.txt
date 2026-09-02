@@ -9,19 +9,19 @@
 
 ## Data (stable, keyless HTTPS URLs)
 
-- [All notices, CSV](https://raw.githubusercontent.com/APProj/warn-act-notices/main/data/warn_notices.csv): every free-tier notice, one row per notice
-- [All notices, JSON](https://raw.githubusercontent.com/APProj/warn-act-notices/main/data/warn_notices.json): same records as a JSON array
-- [Coverage metadata](https://raw.githubusercontent.com/APProj/warn-act-notices/main/data/coverage.json): which states are covered, row counts, freshness
-- [Monthly trends](https://raw.githubusercontent.com/APProj/warn-act-notices/main/data/trends.json): per-state monthly notices + workers affected, last 24 months
-- [RSS feed](https://approj.github.io/warn-act-notices/feed.xml): newly published notices
-- [API guide](https://github.com/APProj/warn-act-notices/blob/main/API.md): how to use the raw URLs as a free layoffs API
-- [Schema (machine-readable)](https://raw.githubusercontent.com/APProj/warn-act-notices/main/datapackage.json): Frictionless data package descriptor
+- [All notices, CSV](https://raw.githubusercontent.com/APVentureEngine/warn-act-notices/main/data/warn_notices.csv): every free-tier notice, one row per notice
+- [All notices, JSON](https://raw.githubusercontent.com/APVentureEngine/warn-act-notices/main/data/warn_notices.json): same records as a JSON array
+- [Coverage metadata](https://raw.githubusercontent.com/APVentureEngine/warn-act-notices/main/data/coverage.json): which states are covered, row counts, freshness
+- [Monthly trends](https://raw.githubusercontent.com/APVentureEngine/warn-act-notices/main/data/trends.json): per-state monthly notices + workers affected, last 24 months
+- [RSS feed](https://apventureengine.github.io/warn-act-notices/feed.xml): newly published notices
+- [API guide](https://github.com/APVentureEngine/warn-act-notices/blob/main/API.md): how to use the raw URLs as a free layoffs API
+- [Schema (machine-readable)](https://raw.githubusercontent.com/APVentureEngine/warn-act-notices/main/datapackage.json): Frictionless data package descriptor
 
 ## Browse
 
-- [Stats page](https://approj.github.io/warn-act-notices/): weekly US layoff summary and per-state pages
-- [Layoffs by employer](https://approj.github.io/warn-act-notices/employers/): one page per employer with all their WARN notices
-- [GitHub repo](https://github.com/APProj/warn-act-notices): source of truth, README with full schema and coverage table
+- [Stats page](https://apventureengine.github.io/warn-act-notices/): weekly US layoff summary and per-state pages
+- [Layoffs by employer](https://apventureengine.github.io/warn-act-notices/employers/): one page per employer with all their WARN notices
+- [GitHub repo](https://github.com/APVentureEngine/warn-act-notices): source of truth, README with full schema and coverage table
 
 ## Commercial tiers
 
