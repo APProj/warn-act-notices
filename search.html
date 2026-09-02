@@ -1,0 +1,79 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Search WARN notices — free US layoff notice lookup</title>
+<meta name="description" content="Type an employer name and instantly search 4,186 employers / 7,099 US WARN Act layoff notices since 2024. Free, no login, from official state filings, updated daily.">
+<link rel="canonical" href="https://apventureengine.github.io/warn-act-notices/search.html">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"US WARN layoff notices","potentialAction":{"@type":"SearchAction","query-input":"required name=search_term_string","target":{"@type":"EntryPoint","urlTemplate":"https://apventureengine.github.io/warn-act-notices/search.html?q={search_term_string}"}},"url":"https://apventureengine.github.io/warn-act-notices/"}</script>
+<style>body{font-family:-apple-system,Segoe UI,Helvetica,Arial,sans-serif;max-width:900px;margin:2rem auto;padding:0 1rem;color:#1a1a1a;line-height:1.5}
+table{border-collapse:collapse;width:100%;margin:1rem 0}th,td{border:1px solid #ddd;padding:6px 9px;text-align:left;font-size:.92rem}
+th{background:#f5f5f5}td.r,th.r{text-align:right}
+input[type=search]{width:100%;box-sizing:border-box;font-size:1.1rem;padding:.6rem .8rem;border:2px solid #0b5fa5;border-radius:8px}
+.cta{background:#fffbe6;border:1px solid #e6d87a;border-radius:8px;padding:.8rem 1rem;margin:1.2rem 0}
+a{color:#0b5fa5}.crumb{font-size:.85rem;color:#666}.note{font-size:.85rem;color:#666}#stat{color:#666;font-size:.9rem;margin:.5rem 0}</style></head><body>
+<p class="crumb"><a href="https://apventureengine.github.io/warn-act-notices/">US WARN layoff notices</a> › Search</p>
+<h1>Search WARN layoff notices</h1>
+<p>Instant lookup across <b>4,186 employers</b> (7,099 notices since 2024) from official state WARN Act filings, normalized and updated daily. Free tier is 48h-delayed.</p>
+<input type="search" id="q" placeholder="Employer name — e.g. Boeing, Kaiser, Intel…" autocomplete="off" autofocus>
+<p id="stat"></p>
+<div id="results"></div>
+<noscript><p>This search needs JavaScript. Without it: <a href="employers/index.html">browse employers A–Z</a> or grab the <a href="https://github.com/APVentureEngine/warn-act-notices">raw CSV/JSON on GitHub</a>.</p></noscript>
+<p class="note">Matches company names and known DBA aliases. Employers with one small notice link to their state page. Source: the free
+<a href="https://github.com/APVentureEngine/warn-act-notices">US WARN notices dataset</a> (CSV/JSON, no login, 48h-delayed). WARN notices are advance notifications; counts and dates can change after filing.</p>
+<div class="cta">Need results without the 48h delay, or the full history to 1988?
+<a href="https://approj.gumroad.com/l/warn-realtime">Real-time feed, $49/mo</a> ·
+<a href="https://approj.gumroad.com/l/warn-archive">Full historical archive, $199</a></div>
+<script>
+(function () {
+  var idx = null, loading = false, waiting = null;
+  var box = document.getElementById('q'), out = document.getElementById('results'),
+      stat = document.getElementById('stat');
+  function norm(s) { return s.toLowerCase().replace(/[^a-z0-9]+/g, ' ').replace(/^ +| +$/g, ''); }
+  function esc(s) { return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;'); }
+  function load(cb) {
+    if (idx) { cb(); return; }
+    waiting = cb;
+    if (loading) return;
+    loading = true;
+    fetch('data/search-index.json').then(function (r) { return r.json(); }).then(function (d) {
+      for (var i = 0; i < d.length; i++) d[i].push(norm(d[i][0]));
+      idx = d; if (waiting) waiting();
+    }).catch(function () {
+      stat.textContent = 'Search index failed to load — use the A–Z employer browse below.';
+      out.innerHTML = '<p><a href="employers/index.html">Browse employers A–Z</a></p>';
+    });
+  }
+  function run() {
+    var q = norm(box.value);
+    if (q.length < 2) { out.innerHTML = ''; stat.textContent = ''; return; }
+    load(function () {
+      var hits = [];
+      for (var i = 0; i < idx.length; i++) {
+        var e = idx[i], n = e[7], score = -1;
+        if (n.indexOf(q) === 0) score = 0;
+        else if (n.indexOf(' ' + q) >= 0) score = 1;
+        else if (n.indexOf(q) >= 0) score = 2;
+        else if (e[6] && e[6].indexOf(q) >= 0) score = 3;
+        if (score >= 0) hits.push([score, -e[3], i]);
+      }
+      hits.sort(function (a, b) { return a[0] - b[0] || a[1] - b[1] || a[2] - b[2]; });
+      stat.textContent = hits.length ? hits.length.toLocaleString() + ' of ' + idx.length.toLocaleString() +
+        ' employers match' + (hits.length > 50 ? ' (showing top 50)' : '') :
+        'No match in the free tier — try a shorter fragment.';
+      var rows = '';
+      for (var k = 0; k < Math.min(hits.length, 50); k++) {
+        var e = idx[hits[k][2]];
+        rows += '<tr><td><a href="' + e[5] + '">' + esc(e[0]) + '</a></td><td>' + esc(e[1]) +
+          '</td><td>' + (e[2] || '—') + '</td><td class="r">' + (e[3] ? e[3].toLocaleString() : '—') +
+          '</td><td class="r">' + e[4] + '</td></tr>';
+      }
+      out.innerHTML = hits.length ? '<table><tr><th>Employer</th><th>State(s)</th><th>Latest notice</th>' +
+        '<th class="r">Workers</th><th class="r">Notices</th></tr>' + rows + '</table>' : '';
+    });
+  }
+  box.addEventListener('input', run);
+  box.addEventListener('focus', function () { load(function () {}); });
+  var m = /[?&]q=([^&]+)/.exec(location.search);
+  if (m) { box.value = decodeURIComponent(m[1].replace(/\+/g, ' ')); run(); }
+})();
+</script>
+</body></html>

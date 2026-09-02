@@ -3,21 +3,21 @@ id,state,company,company_canonical,company_dba,location,employees_affected,notic
 63732291612f996e,KS,"First Brands Group, LLC (Horizon Global)","First Brands Group, LLC (Horizon Global)",,"Edgerton, 32901 W. 193rd St.; Edgerton, Kansas 66021",64,2026-02-27,,WARN,2026-08-30T22:16:36.831610Z
 8805476cf54c4da7,KS,"First Brands Group, LLC (Hopkins)","First Brands Group, LLC (Hopkins)",,"Edgerton, W 185th St.; Edgerton, Kansas 66030",81,2026-02-23,,WARN,2026-08-30T22:16:36.831610Z
 1e0f0d03a9faea2d,KS,"First Brands Group, LLC (Hopkins)","First Brands Group, LLC (Hopkins)",,"Emporia, 428 Peyton St.; Emporia, Kansas 66801",130,2026-02-23,,WARN,2026-08-30T22:16:36.831610Z
-67b48d297aef6f4d,KS,Lowe's,Lowe's,,Charlotte,3,2026-02-13,,WARN,2026-08-30T22:16:36.831610Z
+67b48d297aef6f4d,KS,Lowe's,Lowe's,,"Charlotte, 100 W Worthington Avenue; Charlotte, North Carolina 28203",3,2026-02-13,,WARN,2026-08-30T22:16:36.831610Z
 6198f7ef7f06c3a5,KS,"Vornado Air, LLC.",Vornado Air,,"Andover, 415 E. 13th ; Andover, Kansas 67002",72,2026-01-30,,WARN,2026-08-30T22:16:36.831610Z
-8297f7fb6e437fff,KS,"Gates Corporation ""Gates""","Gates Corporation ""Gates",,Iola,81,2025-10-02,,WARN,2026-08-30T22:16:36.831610Z
+8297f7fb6e437fff,KS,"Gates Corporation ""Gates""","Gates Corporation ""Gates",,"Iola, 1450 Montana Road; Iola, Kansas 66749",81,2025-10-02,,WARN,2026-08-30T22:16:36.831610Z
 bdfbd4617ffdf5c4,KS,United BioSource LLC (UBC),United BioSource LLC (UBC),,"Overland Park, 12900 Foster Street ; Overland Park, Kansas 66213",123,2025-09-26,,WARN,2026-08-30T22:16:36.831610Z
-582ba72ff6c2fa79,KS,"SPO Management, LLC",SPO Management,,"Manhattan, 520 McCall Rd; Manhattan, Kansas 66502",72,2025-07-29,,WARN,2026-08-30T22:16:36.831610Z
+582ba72ff6c2fa79,KS,"SPO Management, LLC",SPO Management,,Manhattan,72,2025-07-29,,WARN,2026-08-30T22:16:36.831610Z
 412cb69b7ecee8ed,KS,Unrivaled Teamwear,Unrivaled Teamwear,,"Manhattan, 520 McCall Rd; Manhattan, Kansas 66502",72,2025-07-29,,WARN,2026-08-30T22:16:36.831610Z
-3b864432f04fc33c,KS,DEMDACO,Demdaco,,Leawood,52,2025-05-21,,WARN,2026-08-30T22:16:36.831610Z
+3b864432f04fc33c,KS,DEMDACO,Demdaco,,"Leawood, 5000 West 134th Street; Leawood, Kansas 66209",52,2025-05-21,,WARN,2026-08-30T22:16:36.831610Z
 191547ce5e06f015,KS,"Veyer, LLC",Veyer,,"Edwardsville, 2401 Midpoint Drive; Edwardsville, Kansas 66111",77,2025-05-16,,WARN,2026-08-30T22:16:36.831610Z
-ca1ec8fdab8ddf38,KS,Federal Express Corporation (FedEx),Federal Express Corporation (FedEx),,"Wichita, 1530 South Hoover; Wichita, Kansas 67209",72,2025-04-30,,WARN,2026-08-30T22:16:36.831610Z
+ca1ec8fdab8ddf38,KS,Federal Express Corporation (FedEx),Federal Express Corporation (FedEx),,Wichita,72,2025-04-30,,WARN,2026-08-30T22:16:36.831610Z
 675f85e7019db372,KS,ORBIS Corporation,Orbis,,"Osage City, 515 S 4th St.; Osage City, Kansas 66523",79,2025-03-21,,WARN,2026-08-30T22:16:36.831610Z
 571a58c2a5613ab4,KS,"Panera, LLC",Panera,,"Lenexa, 14335 W. 100th Street; Lenexa, Kansas 66215",59,2025-03-21,,WARN,2026-08-30T22:16:36.831610Z
 dec1ff3a6e38cf87,KS,TC Transcontinental,TC Transcontinental,,"Lenexa, 10810 Mid AMerica Dr. ; Lenexa, Kansas 66219",45,2025-02-26,,WARN,2026-08-30T22:16:36.831610Z
 3cda9f7a73182288,KS,"Jack Cooper Transport Company, LLC",Jack Cooper Transport,,"Kansas City, 200 E. Marley Road; Kansas City, Kansas 66115",102,2025-02-10,,WARN,2026-08-30T22:16:36.831610Z
 8a9041e14e4e6410,KS,Coperion K-Tron,Coperion K-Tron,,"Salina, 606 North Front Street; Salina, Kansas 67401",98,2025-01-22,,WARN,2026-08-30T22:16:36.831610Z
-20d5f6857963c101,KS,S&S Activewear,S&S Activewear,,"Edwardsville, 9525 Woodend Road; Edwardsville, Kansas 66111",86,2025-01-20,,WARN,2026-08-30T22:16:36.831610Z
+20d5f6857963c101,KS,S&S Activewear,S&S Activewear,,Edwardsville,86,2025-01-20,,WARN,2026-08-30T22:16:36.831610Z
 285e0a651a28225a,KS,D&A Consulting Service,D&A Consulting Service,,"Mountain View, 1305 Terra Bella Avenue; Mountain View, California 94043",1,2024-12-30,,WARN,2026-08-30T22:16:36.831610Z
 c67a4e987f881274,KS,"Vimo, Inc. dba GetInsured",Vimo,GetInsured,"Junction City, 1012 W 6th St, Suite A; Junction City, Kansas 66441",1,2024-12-20,,WARN,2026-08-30T22:16:36.831610Z
 5883aa388dae1390,KS,"Tyson Food, Inc.",Tyson Food,,Emporia,,2024-12-02,,WARN,2026-08-30T22:16:36.831610Z

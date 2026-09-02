@@ -260,6 +260,32 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Republic National Distributing Company of Texas, LLC",
+"location": "National Dr SW Atlanta, Appling County",
+"employees_affected": 157,
+"notice_date": "2026-08-26",
+"effective_date": "2026-10-19",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Republic National Distributing Company of Texas",
+"company_dba": "",
+"id": "d949316ac0130260",
+"first_seen": "2026-08-31T03:25:20.788809Z"
+},
+{
+"company": "Republic National Distributing Company, LLC",
+"location": "National Dr SW Atlanta, Cobb County",
+"employees_affected": 321,
+"notice_date": "2026-08-26",
+"effective_date": "2026-10-19",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Republic National Distributing",
+"company_dba": "",
+"id": "c35ecf4033383ceb",
+"first_seen": "2026-08-31T03:25:20.788809Z"
+},
+{
 "company": "Fortrex 0129 Madison",
 "location": "Madison",
 "employees_affected": 91,
@@ -286,6 +312,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Young's Market Company, LLC",
+"location": "National Dr SW Atlanta, Cobb County",
+"employees_affected": 78,
+"notice_date": "2026-08-26",
+"effective_date": "2026-10-19",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Young's Market",
+"company_dba": "",
+"id": "1789e7d5f3a72ed1",
+"first_seen": "2026-08-31T03:25:20.788809Z"
+},
+{
 "company": "Levine Management Group, Inc.",
 "location": "Los Angeles County",
 "employees_affected": 72,
@@ -297,6 +336,32 @@
 "company_dba": "",
 "id": "05a91cb48a75aad9",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Young's Market Company of Arizona, LLC",
+"location": "National Dr SW Atlanta, Cobb County",
+"employees_affected": 2,
+"notice_date": "2026-08-26",
+"effective_date": "2026-10-19",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Young's Market Company of Arizona",
+"company_dba": "",
+"id": "046dc8d0d6b35f77",
+"first_seen": "2026-08-31T03:25:20.788809Z"
+},
+{
+"company": "KidsPeace National Centers of Georgia",
+"location": "Kidspeace Dr Bowdon, Carroll County",
+"employees_affected": 95,
+"notice_date": "2026-08-25",
+"effective_date": "2026-10-24",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "KidsPeace National Centers of Georgia",
+"company_dba": "",
+"id": "e75411debc7b839a",
+"first_seen": "2026-08-31T03:25:20.788809Z"
 },
 {
 "company": "Crosby Marketing Communications",
@@ -728,6 +793,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Asama Coldwater Manufacturing Georgia",
+"location": "Thomson Hwy Warrenton, Warren County",
+"employees_affected": 102,
+"notice_date": "2026-08-19",
+"effective_date": "2026-10-14",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Asama Coldwater Manufacturing Georgia",
+"company_dba": "",
+"id": "7f53adb37e8fd4ce",
+"first_seen": "2026-08-31T03:32:57.915961Z"
+},
+{
 "company": "Stanley Black & Decker",
 "location": "625 Hanover Pike Hampstead, MD 21074",
 "employees_affected": 55,
@@ -832,6 +910,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Anchor Glass Container Corporation",
+"location": "Booth Rd Warner Robins, Houston County",
+"employees_affected": 168,
+"notice_date": "2026-08-18",
+"effective_date": "2026-10-17",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Anchor Glass Container",
+"company_dba": "",
+"id": "431db1eed77f4416",
+"first_seen": "2026-08-31T03:32:57.915961Z"
+},
+{
 "company": "Wells Fargo",
 "location": "West Des Moines",
 "employees_affected": 14,
@@ -843,6 +934,19 @@
 "company_dba": "",
 "id": "238631898b8069fa",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Meyn Americas",
+"location": "Evenflo Dr Ball Ground, Cherokee County",
+"employees_affected": 150,
+"notice_date": "2026-08-18",
+"effective_date": "2026-10-01",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Meyn Americas",
+"company_dba": "",
+"id": "1eab38fb0dcf3ec3",
+"first_seen": "2026-08-31T03:25:20.788809Z"
 },
 {
 "company": "T-Mobile USA, Inc.",
@@ -1129,6 +1233,19 @@
 "company_dba": "",
 "id": "d767a34ec5aff1c0",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "SMBC Manubank",
+"location": "",
+"employees_affected": 5,
+"notice_date": "2026-08-12",
+"effective_date": "2026-10-09",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "SMBC Manubank",
+"company_dba": "",
+"id": "c66cbecafefd1e02",
+"first_seen": "2026-08-31T03:32:57.915961Z"
 },
 {
 "company": "EBALDC (3501 San Pablo Ave)",
@@ -1794,6 +1911,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "80 Acres Urban Agriculture, Inc",
+"location": "Forest Park, Clayton County",
+"employees_affected": 110,
+"notice_date": "2026-08-05",
+"effective_date": "2026-08-03",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "80 Acres Urban Agriculture",
+"company_dba": "",
+"id": "59f1f82300425fe9",
+"first_seen": "2026-08-31T03:25:20.788809Z"
+},
+{
 "company": "Eclipse Advantage, LLC",
 "location": "San Bernardino County",
 "employees_affected": 18,
@@ -1911,6 +2041,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Essendant",
+"location": "Horizon Dr Suwanee",
+"employees_affected": 192,
+"notice_date": "2026-08-04",
+"effective_date": "2026-10-03",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Essendant",
+"company_dba": "",
+"id": "5ad31d7c4c6e4e36",
+"first_seen": "2026-08-31T03:25:20.788809Z"
+},
+{
 "company": "Wellpath",
 "location": "Shelby",
 "employees_affected": 119,
@@ -1961,6 +2104,19 @@
 "company_dba": "",
 "id": "02838d04a96d48d4",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Wellstar Health System, Inc.",
+"location": "Sawyer Rd Marietta, Cobb County",
+"employees_affected": 761,
+"notice_date": "2026-08-03",
+"effective_date": "2026-09-26",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "Wellstar Health System",
+"company_dba": "",
+"id": "fafc164879d6d0f0",
+"first_seen": "2026-08-31T03:32:57.915961Z"
 },
 {
 "company": "TPE Acquisition, LLC - 5116",
@@ -3133,6 +3289,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Elite Comfort Solutions",
+"location": "Sprayberry Road Newnan, Coweta County",
+"employees_affected": 102,
+"notice_date": "2026-07-20",
+"effective_date": "2026-08-14",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Elite Comfort Solutions",
+"company_dba": "",
+"id": "bb34fa780a57022d",
+"first_seen": "2026-08-31T03:25:20.788809Z"
+},
+{
 "company": "Queen City Staffing",
 "location": "Sonoma County",
 "employees_affected": 49,
@@ -3432,6 +3601,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "TEKsystems Global Services, LLC",
+"location": "Fayetteville",
+"employees_affected": 126,
+"notice_date": "2026-07-15",
+"effective_date": "2026-07-15",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "TEKsystems Global Services",
+"company_dba": "",
+"id": "6179244cd8665f53",
+"first_seen": "2026-08-31T03:32:57.915961Z"
+},
+{
 "company": "Red Lobster Restaurants LLC",
 "location": "Santa Barbara County",
 "employees_affected": 37,
@@ -3534,6 +3716,19 @@
 "company_dba": "",
 "id": "8f1f70e567111222",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Home Express Delivery Service, LLC",
+"location": "Stonecrest Industrial Way Lithonia, DeKalb County",
+"employees_affected": 92,
+"notice_date": "2026-07-14",
+"effective_date": "2026-09-26",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "Home Express Delivery Service",
+"company_dba": "",
+"id": "673611208b3695d4",
+"first_seen": "2026-08-31T03:25:20.788809Z"
 },
 {
 "company": "PepsiCo",
@@ -3768,6 +3963,19 @@
 "company_dba": "",
 "id": "4ffa762d3d4311c7",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Asama Coldwater Manufacturing Georgia LLC",
+"location": "Thomson Hwy Warrenton, Warren County",
+"employees_affected": 107,
+"notice_date": "2026-07-09",
+"effective_date": "2026-09-18",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Asama Coldwater Manufacturing Georgia",
+"company_dba": "",
+"id": "2e8ff5cd6c4a03b2",
+"first_seen": "2026-08-31T03:32:57.915961Z"
 },
 {
 "company": "Pomonok Home Services, Inc.",
@@ -4639,6 +4847,19 @@
 "company_dba": "",
 "id": "05244ed6dad5c2ff",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Conduent",
+"location": "A",
+"employees_affected": 70,
+"notice_date": "2026-06-29",
+"effective_date": "2026-08-28",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "Conduent",
+"company_dba": "",
+"id": "f416f32d5b140971",
+"first_seen": "2026-08-31T03:32:57.915961Z"
 },
 {
 "company": "Conduent",
@@ -5523,6 +5744,19 @@
 "company_dba": "",
 "id": "cff3d217393ce07b",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Americold Logistics, LLC",
+"location": "Xavier Dr SW Atlanta, Fulton County",
+"employees_affected": 69,
+"notice_date": "2026-06-23",
+"effective_date": "2026-08-31",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Americold Logistics",
+"company_dba": "",
+"id": "c001cd8148e17bf4",
+"first_seen": "2026-08-31T03:25:20.788809Z"
 },
 {
 "company": "Corteva Agriscience",
@@ -6604,6 +6838,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "SMBC MANUBANK",
+"location": "Park Ave New York",
+"employees_affected": 3,
+"notice_date": "2026-06-05",
+"effective_date": "2026-08-03",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "Smbc Manubank",
+"company_dba": "",
+"id": "78691f7bf7958d4a",
+"first_seen": "2026-08-31T03:32:57.915961Z"
+},
+{
 "company": "Whirlpool Corporation",
 "location": "Amana",
 "employees_affected": 288,
@@ -7397,6 +7644,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Constellium Automotive USA LLC",
+"location": "Constellium Dr NE White",
+"employees_affected": 57,
+"notice_date": "2026-06-01",
+"effective_date": "2026-08-01",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "Constellium Automotive",
+"company_dba": "",
+"id": "607701e366568140",
+"first_seen": "2026-08-31T03:32:57.915961Z"
+},
+{
 "company": "IntelliPower Inc.",
 "location": "Orange County",
 "employees_affected": 40,
@@ -7460,6 +7720,19 @@
 "company_dba": "",
 "id": "48edb7a129f5ac12",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "SDH Services East, LLC",
+"location": "Delta Blvd Atlanta, Fulton County",
+"employees_affected": 70,
+"notice_date": "2026-06-01",
+"effective_date": "2026-08-08",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "SDH Services East",
+"company_dba": "",
+"id": "27fbf244e7570823",
+"first_seen": "2026-08-31T03:25:20.788809Z"
 },
 {
 "company": "Optum Select Management Inc.",
@@ -7579,6 +7852,32 @@
 "first_seen": "2026-08-30T22:16:36.831610Z"
 },
 {
+"company": "Ideal US Talent Systems Worker OpCo LLC",
+"location": "",
+"employees_affected": 687,
+"notice_date": "2026-05-29",
+"effective_date": "2026-07-01",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "Ideal US Talent Systems Worker OpCo",
+"company_dba": "",
+"id": "fe18d0f9cb42f08d",
+"first_seen": "2026-08-31T03:32:57.915961Z"
+},
+{
+"company": "Americold Logistics LLC",
+"location": "Tradewater Pkwy Atlanta, Fulton County",
+"employees_affected": 69,
+"notice_date": "2026-05-29",
+"effective_date": "2026-07-31",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Americold Logistics",
+"company_dba": "",
+"id": "f86a8415d8bf33dc",
+"first_seen": "2026-08-31T03:25:20.788809Z"
+},
+{
 "company": "Sunrise Brands, Warehousing Facility LLC",
 "location": "Kern County",
 "employees_affected": 83,
@@ -7603,6 +7902,19 @@
 "company_dba": "",
 "id": "cd6e744d7dcf522f",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Spirit Airlines",
+"location": "N Terminal Pkwy Atlanta, Clayton County",
+"employees_affected": 653,
+"notice_date": "2026-05-29",
+"effective_date": "2026-05-02",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Spirit Airlines",
+"company_dba": "",
+"id": "cb9f86f012464fdc",
+"first_seen": "2026-08-31T03:32:57.915961Z"
 },
 {
 "company": "Blue Shield of California",
@@ -8736,6 +9048,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Inalfa Roof Systems, Inc",
+"location": "Cherokee Pkwy Acworth, Cherokee County",
+"employees_affected": 127,
+"notice_date": "2026-05-19",
+"effective_date": "2026-07-17",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "Inalfa Roof Systems",
+"company_dba": "",
+"id": "9a6634357dc678bb",
+"first_seen": "2026-08-31T03:25:20.788809Z"
+},
+{
 "company": "AbbVie Inc.",
 "location": "Orange County",
 "employees_affected": 85,
@@ -8916,6 +9241,19 @@
 "company_dba": "",
 "id": "51bfd6edb97e4ff7",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Bitcoin Depot Operating, LLC",
+"location": "Dunwoody Place Sandy Springs, Fulton County",
+"employees_affected": 109,
+"notice_date": "2026-05-18",
+"effective_date": "2026-07-17",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Bitcoin Depot Operating",
+"company_dba": "",
+"id": "472b0a8d402e2834",
+"first_seen": "2026-08-31T03:32:57.915961Z"
 },
 {
 "company": "Medford Facility",
@@ -9555,6 +9893,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Jacuzzi Inc.",
+"location": "Highland Dr Valdosta, Lowndes County",
+"employees_affected": 110,
+"notice_date": "2026-05-12",
+"effective_date": "2026-07-11",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Jacuzzi",
+"company_dba": "",
+"id": "a88c3fbd70839502",
+"first_seen": "2026-08-31T03:32:57.915961Z"
+},
+{
 "company": "Alain LeRoyLocke College Preparatory Academy (Green Dot Public Schools)",
 "location": "Los Angeles County",
 "employees_affected": 113,
@@ -9945,6 +10296,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Milliken & Company",
+"location": "Nicholls, Bacon County",
+"employees_affected": 81,
+"notice_date": "2026-05-05",
+"effective_date": "2026-07-10",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Milliken &",
+"company_dba": "",
+"id": "8fc3761763e78248",
+"first_seen": "2026-08-31T03:32:57.915961Z"
+},
+{
 "company": "IDEX Health and Science LLC",
 "location": "Bristol",
 "employees_affected": 73,
@@ -9995,6 +10359,19 @@
 "company_dba": "",
 "id": "6d73c0edefe72626",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "MarketSource, Inc.",
+"location": "Great Oaks Way Alpharetta, Fulton County",
+"employees_affected": 51,
+"notice_date": "2026-05-05",
+"effective_date": "2026-06-30",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "MarketSource",
+"company_dba": "",
+"id": "6579e2220bec7606",
+"first_seen": "2026-08-31T03:32:57.915961Z"
 },
 {
 "company": "Cell.Plus, LLC",
@@ -10658,6 +11035,19 @@
 "company_dba": "",
 "id": "430e254d176aba78",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Bridgestone Golf, Inc.",
+"location": "Industrial Park Blvd NE Covington, Newton County",
+"employees_affected": 84,
+"notice_date": "2026-05-01",
+"effective_date": "2026-06-30",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Bridgestone Golf",
+"company_dba": "",
+"id": "38a1e1724ccf6eed",
+"first_seen": "2026-08-31T03:32:57.915961Z"
 },
 {
 "company": "Accupac",
@@ -11490,6 +11880,19 @@
 "company_dba": "",
 "id": "4c06f367d5bd3968",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "SKF USA INC",
+"location": "McEver Rd Flowery Branch, Hall County",
+"employees_affected": 40,
+"notice_date": "2026-04-23",
+"effective_date": "2026-06-26",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "SKF",
+"company_dba": "",
+"id": "f10ef1e4957e2b97",
+"first_seen": "2026-08-31T03:32:57.915961Z"
 },
 {
 "company": "Epic Games Inc. (Remote Employees in El Segundo)",
@@ -13130,6 +13533,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "SDH Education East, LLC",
+"location": "College St Young Harris, Towns County",
+"employees_affected": 74,
+"notice_date": "2026-04-09",
+"effective_date": "2026-05-29",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "SDH Education East",
+"company_dba": "",
+"id": "403c1c4f37d6f0ec",
+"first_seen": "2026-08-31T03:32:57.915961Z"
+},
+{
 "company": "Qualcomm Incorporated (5565 Morehouse Drive)",
 "location": "San Diego County",
 "employees_affected": 10,
@@ -14352,6 +14768,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Tri-Starr Management Services",
+"location": "Crandall",
+"employees_affected": 15,
+"notice_date": "2026-04-01",
+"effective_date": "2026-06-06",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Tri-Starr Management Services",
+"company_dba": "",
+"id": "5f44e8ea5c80bf01",
+"first_seen": "2026-08-31T03:32:57.915961Z"
+},
+{
 "company": "Federal Express Corporation",
 "location": "Union",
 "employees_affected": 50,
@@ -14482,6 +14911,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Accenture",
+"location": "Atlanta, Fulton County",
+"employees_affected": 54,
+"notice_date": "2026-03-31",
+"effective_date": "2026-06-08",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "Accenture",
+"company_dba": "",
+"id": "fe1ee5d90fb238c1",
+"first_seen": "2026-08-31T03:32:57.915961Z"
+},
+{
 "company": "Allied Group, LLC",
 "location": "Cumberland, RI",
 "employees_affected": 154,
@@ -14560,6 +15002,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Thrive SMP LLC",
+"location": "Robert E Lee Blvd Stone Mountain, DeKalb County",
+"employees_affected": 497,
+"notice_date": "2026-03-31",
+"effective_date": "2026-06-01",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Thrive SMP",
+"company_dba": "",
+"id": "6b5a878b8a9fa8e0",
+"first_seen": "2026-08-31T03:32:57.915961Z"
+},
+{
 "company": "Samaritas",
 "location": "Grand Rapids, Michigan, Kent",
 "employees_affected": 58,
@@ -14584,6 +15039,19 @@
 "company_dba": "",
 "id": "4eccb6a37da9476e",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Parsec, LLC",
+"location": "Jr. Memorial Hwy Austell, Cobb County",
+"employees_affected": 179,
+"notice_date": "2026-03-31",
+"effective_date": "2026-05-01",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Parsec",
+"company_dba": "",
+"id": "3f824cc19a5a15ab",
+"first_seen": "2026-08-31T03:25:20.788809Z"
 },
 {
 "company": "Maximus, Inc.",
@@ -14924,6 +15392,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Astemo Americas, Inc",
+"location": "Honda Pkwy Tallapoosa, Haralson County",
+"employees_affected": 60,
+"notice_date": "2026-03-27",
+"effective_date": "2026-04-03",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Astemo Americas",
+"company_dba": "",
+"id": "28dff272c3d7beaf",
+"first_seen": "2026-08-31T03:32:57.915961Z"
+},
+{
 "company": "University of Rochester (Children\u2019s Institute, Inc.)",
 "location": "Monroe",
 "employees_affected": 34,
@@ -14974,6 +15455,19 @@
 "company_dba": "",
 "id": "e075d1b15ae13848",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "The Hillshire Brands Company",
+"location": "Darlington Dr SW Rome, Floyd County",
+"employees_affected": 168,
+"notice_date": "2026-03-26",
+"effective_date": "2026-05-31",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Hillshire Brands",
+"company_dba": "",
+"id": "ad49570afec051e1",
+"first_seen": "2026-08-31T03:32:57.915961Z"
 },
 {
 "company": "Horizon Air - Rogue Valley Internationa",
@@ -16510,6 +17004,32 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "KPR US LLC",
+"location": "Marvin Griffin Rd Augusta, Richmond County",
+"employees_affected": 213,
+"notice_date": "2026-03-11",
+"effective_date": "2026-05-15",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "KPR US",
+"company_dba": "",
+"id": "9df15152c5726107",
+"first_seen": "2026-08-31T03:32:57.915961Z"
+},
+{
+"company": "C2 Technologies",
+"location": "",
+"employees_affected": 1,
+"notice_date": "2026-03-11",
+"effective_date": "2026-03-06",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "C2 Technologies",
+"company_dba": "",
+"id": "9df0f3a996e96777",
+"first_seen": "2026-08-31T03:32:57.915961Z"
+},
+{
 "company": "Atlassian US, Inc.",
 "location": "Bellevue",
 "employees_affected": 63,
@@ -16781,6 +17301,19 @@
 "company_dba": "",
 "id": "af45806387425720",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "SK Battery America, Inc.",
+"location": "SK Blvd. Commerce, Jackson County",
+"employees_affected": 958,
+"notice_date": "2026-03-06",
+"effective_date": "2026-05-06",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "SK Battery America",
+"company_dba": "",
+"id": "8f4db7d28840471c",
+"first_seen": "2026-08-31T03:32:57.915961Z"
 },
 {
 "company": "C2 Technologies",
@@ -18070,6 +18603,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "MarketSource, Inc.",
+"location": "Great Oaks Way Alpharetta, Fulton County",
+"employees_affected": 57,
+"notice_date": "2026-02-26",
+"effective_date": "2026-02-26",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "MarketSource",
+"company_dba": "",
+"id": "9efebeeef97e6865",
+"first_seen": "2026-08-31T03:32:57.915961Z"
+},
+{
 "company": "Anaheim Transportation Network",
 "location": "Orange County",
 "employees_affected": 132,
@@ -18172,6 +18718,19 @@
 "company_dba": "",
 "id": "a43b94a541f2d8b6",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "IPIC Theaters LLC",
+"location": "Atlanta",
+"employees_affected": 163,
+"notice_date": "2026-02-25",
+"effective_date": "2026-04-28",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "IPIC Theaters",
+"company_dba": "",
+"id": "68f6ea21dfa4695d",
+"first_seen": "2026-08-31T03:25:20.788809Z"
 },
 {
 "company": "eBay - San Francisco",
@@ -19227,6 +19786,32 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Main Street Sports Group",
+"location": "Peachtree St NE Colony Square Atlanta, Fulton County",
+"employees_affected": 74,
+"notice_date": "2026-02-16",
+"effective_date": "2026-04-14",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Main Street Sports Group",
+"company_dba": "",
+"id": "fb879dbb4c33e598",
+"first_seen": "2026-08-31T03:25:20.788809Z"
+},
+{
+"company": "ION Media Networks, Inc.",
+"location": "Piedmont Rd NE Atlanta, Fulton County",
+"employees_affected": 53,
+"notice_date": "2026-02-16",
+"effective_date": "2026-04-10",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "ION Media Networks",
+"company_dba": "",
+"id": "d108f40b87936d2f",
+"first_seen": "2026-08-31T03:32:57.915961Z"
+},
+{
 "company": "The Common Ground Sanctuary",
 "location": "Pontiac, Michigan, Oakland",
 "employees_affected": 155,
@@ -19384,7 +19969,7 @@
 },
 {
 "company": "Lowe's",
-"location": "Charlotte",
+"location": "Charlotte, 100 W Worthington Avenue; Charlotte, North Carolina 28203",
 "employees_affected": 3,
 "notice_date": "2026-02-13",
 "effective_date": "",
@@ -19446,6 +20031,19 @@
 "company_dba": "",
 "id": "31a933b91b0984f8",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Impact Outsourcing Solutions VI, LLC",
+"location": "Jonesboro Rd Jonesboro, Spalding County",
+"employees_affected": 76,
+"notice_date": "2026-02-13",
+"effective_date": "2026-04-13",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Impact Outsourcing Solutions VI",
+"company_dba": "",
+"id": "26d0c953e835541d",
+"first_seen": "2026-08-31T03:25:20.788809Z"
 },
 {
 "company": "Albany/Millersburg",
@@ -19563,6 +20161,19 @@
 "company_dba": "",
 "id": "0bdecfe000b2cd99",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Moove Cars Mobility Usa Corp",
+"location": "Oakleigh Dr East Point, Fulton County",
+"employees_affected": 83,
+"notice_date": "2026-02-10",
+"effective_date": "2026-04-10",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Moove Cars Mobility",
+"company_dba": "",
+"id": "ede5cab9802fe2e8",
+"first_seen": "2026-08-31T03:32:57.915961Z"
 },
 {
 "company": "Johns Manville",
@@ -19721,6 +20332,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "WWL Vehicle Services Americas, Inc.",
+"location": "Penniman Cir Brunswick, Glynn County",
+"employees_affected": 65,
+"notice_date": "2026-02-09",
+"effective_date": "2026-04-10",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "WWL Vehicle Services Americas",
+"company_dba": "",
+"id": "7a813f357c8cf855",
+"first_seen": "2026-08-31T03:25:20.788809Z"
+},
+{
 "company": "Fender Musical Instruments Corporation",
 "location": "Riverside County",
 "employees_affected": 60,
@@ -19851,6 +20475,58 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Tessera Therapeutics, Inc",
+"location": "",
+"employees_affected": 1,
+"notice_date": "2026-02-05",
+"effective_date": "2026-03-08",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "Tessera Therapeutics",
+"company_dba": "",
+"id": "c230d3214bba76bd",
+"first_seen": "2026-08-31T03:25:20.788809Z"
+},
+{
+"company": "Aludyne Inc",
+"location": "Northside Industrial Blvd Columbus, Muscogee County",
+"employees_affected": 341,
+"notice_date": "2026-02-05",
+"effective_date": "2026-01-01",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Aludyne",
+"company_dba": "",
+"id": "c2262c2abd0ac086",
+"first_seen": "2026-08-31T03:32:57.915961Z"
+},
+{
+"company": "Sumitomo Mitsui Banking Corporation",
+"location": "",
+"employees_affected": 3,
+"notice_date": "2026-02-05",
+"effective_date": "2026-03-10",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "Sumitomo Mitsui Banking",
+"company_dba": "",
+"id": "ba29fea761131077",
+"first_seen": "2026-08-31T03:32:57.915961Z"
+},
+{
+"company": "Liberty Dental Plan Corporation",
+"location": "",
+"employees_affected": 1,
+"notice_date": "2026-02-05",
+"effective_date": "2026-04-06",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "Liberty Dental Plan",
+"company_dba": "",
+"id": "b127f2fcd4dfc327",
+"first_seen": "2026-08-31T03:25:20.788809Z"
+},
+{
 "company": "RSVC Company (1825 Chicago Avenue)",
 "location": "Riverside County",
 "employees_affected": 114,
@@ -19929,6 +20605,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Big Tex Trailer Manufacturing LLC",
+"location": "S Midway Rd Cordele, Crisp County",
+"employees_affected": 100,
+"notice_date": "2026-02-05",
+"effective_date": "2026-01-16",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Big Tex Trailer Manufacturing",
+"company_dba": "",
+"id": "1095d4c0a5c37151",
+"first_seen": "2026-08-31T03:32:57.915961Z"
+},
+{
 "company": "Medtronic, Inc.",
 "location": "Los Angeles County",
 "employees_affected": 81,
@@ -19953,6 +20642,19 @@
 "company_dba": "",
 "id": "0e36c5507ebaeea0",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "GMRI, Inc.",
+"location": "Breckinridge Blvd Duluth, Gwinnett County",
+"employees_affected": 78,
+"notice_date": "2026-02-05",
+"effective_date": "2026-04-05",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "GMRI",
+"company_dba": "",
+"id": "05b4643a703f7bba",
+"first_seen": "2026-08-31T03:25:20.788809Z"
 },
 {
 "company": "HRL Laboratories",
@@ -20148,6 +20850,19 @@
 "company_dba": "",
 "id": "2dbff0efd15ea86e",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "KIPP Atlanta Schools",
+"location": "Maynard Rd NW Atlanta, Fulton County",
+"employees_affected": 122,
+"notice_date": "2026-02-04",
+"effective_date": "2026-06-30",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "KIPP Atlanta Schools",
+"company_dba": "",
+"id": "23e1ed66f0f20c13",
+"first_seen": "2026-08-31T03:32:57.915961Z"
 },
 {
 "company": "HRL Laboratories (Remote)",
@@ -20761,6 +21476,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "TLC of Georgia LLC",
+"location": "Sugar Hill",
+"employees_affected": 78,
+"notice_date": "2026-01-31",
+"effective_date": "2026-04-04",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "TLC of Georgia",
+"company_dba": "",
+"id": "95d19fa8fb3d9656",
+"first_seen": "2026-08-31T03:32:57.915961Z"
+},
+{
 "company": "T-Mobile USA, Inc.",
 "location": "Jefferson County - Louisville",
 "employees_affected": 74,
@@ -21279,6 +22007,19 @@
 "company_dba": "",
 "id": "3783ca60602ed949",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Continental Tire the Americas, LLC\u2019s",
+"location": "Aldora St Barnesville, Lamar County",
+"employees_affected": 235,
+"notice_date": "2026-01-30",
+"effective_date": "2026-03-31",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Continental Tire the Americas, LLC's",
+"company_dba": "",
+"id": "3609812954071f60",
+"first_seen": "2026-08-31T03:32:57.915961Z"
 },
 {
 "company": "MUFG Investor Services (US), LLC (MUIS)",
@@ -21840,6 +22581,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "TelaForce, LLC",
+"location": "Forsyth St SW Atlanta, Fulton County",
+"employees_affected": 73,
+"notice_date": "2026-01-28",
+"effective_date": "2026-03-20",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "TelaForce",
+"company_dba": "",
+"id": "e01afa2ed3570a05",
+"first_seen": "2026-08-31T03:32:57.915961Z"
+},
+{
 "company": "Amazon - MAF9",
 "location": "Los Angeles County",
 "employees_affected": 155,
@@ -21944,6 +22698,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Zeco Systems, Inc",
+"location": "",
+"employees_affected": 3,
+"notice_date": "2026-01-28",
+"effective_date": "2025-10-31",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "Zeco Systems",
+"company_dba": "",
+"id": "c2c5ec3928bb2141",
+"first_seen": "2026-08-31T03:25:20.788809Z"
+},
+{
 "company": "Fresenius USA Manufacturing, Inc.",
 "location": "Orange",
 "employees_affected": 56,
@@ -21996,6 +22763,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Home Depot U.S.A, Inc.",
+"location": "Paces Ferry Rd SE Atlanta, Cobb County",
+"employees_affected": 797,
+"notice_date": "2026-01-28",
+"effective_date": "2026-03-31",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "Home Depot U.S.A",
+"company_dba": "",
+"id": "b30cd5001da95b99",
+"first_seen": "2026-08-31T03:32:57.915961Z"
+},
+{
 "company": "Amazon",
 "location": "Various locations in Washington",
 "employees_affected": 401,
@@ -22035,6 +22815,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Waddington North America, Inc. a Novolex entity",
+"location": "Sangamore Rd Bremen, Haralson County",
+"employees_affected": 49,
+"notice_date": "2026-01-28",
+"effective_date": "2026-03-31",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Waddington North America, Inc. a Novolex entity",
+"company_dba": "",
+"id": "a0339db02ab2a406",
+"first_seen": "2026-08-31T03:32:57.915961Z"
+},
+{
 "company": "CHS Northwest",
 "location": "Lynden",
 "employees_affected": 11,
@@ -22072,6 +22865,19 @@
 "company_dba": "",
 "id": "92e1e8e50c9211fb",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Kuehne-Nagel",
+"location": "Colvin Dr Locust Grove, Henry County",
+"employees_affected": 153,
+"notice_date": "2026-01-28",
+"effective_date": "2026-04-01",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Kuehne-Nagel",
+"company_dba": "",
+"id": "8b73ede7dd6532b6",
+"first_seen": "2026-08-31T03:32:57.915961Z"
 },
 {
 "company": "Amazonfresh LLC",
@@ -22267,6 +23073,19 @@
 "company_dba": "",
 "id": "5835c7467b041c6f",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "S&S Activewear, LLC",
+"location": "N Berkeley Lake Rd NW Duluth",
+"employees_affected": 114,
+"notice_date": "2026-01-28",
+"effective_date": "2025-12-04",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "S&S Activewear",
+"company_dba": "",
+"id": "560d589612c85b42",
+"first_seen": "2026-08-31T03:32:57.915961Z"
 },
 {
 "company": "Amazon - MAF8",
@@ -22789,6 +23608,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "TTEC Services Corporation",
+"location": "Duluth",
+"employees_affected": 169,
+"notice_date": "2026-01-26",
+"effective_date": "2026-03-31",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "TTEC Services",
+"company_dba": "",
+"id": "507a505a80ee86d4",
+"first_seen": "2026-08-31T03:25:20.788809Z"
+},
+{
 "company": "Smoky Mountain Logistics, LLC",
 "location": "Wilson",
 "employees_affected": 100,
@@ -23229,6 +24061,19 @@
 "company_dba": "",
 "id": "0871cf879d992e53",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "GXO Logistics Worldwide, LLC",
+"location": "Riverside Pkwy Lithia Springs, Douglas County",
+"employees_affected": 85,
+"notice_date": "2026-01-20",
+"effective_date": "2026-03-31",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "GXO Logistics Worldwide",
+"company_dba": "",
+"id": "01dd3bfd6f826a6b",
+"first_seen": "2026-08-31T03:25:20.788809Z"
 },
 {
 "company": "Meta Platforms, Inc",
@@ -24245,6 +25090,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Chemours",
+"location": "Zero Bay Rd Patterson, Pierce County",
+"employees_affected": 54,
+"notice_date": "2026-01-05",
+"effective_date": "2026-03-06",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "Chemours",
+"company_dba": "",
+"id": "efd1397e93c2b1e6",
+"first_seen": "2026-08-31T03:25:20.788809Z"
+},
+{
 "company": "Yanfeng",
 "location": "Romulus, Michigan, Wayne",
 "employees_affected": 192,
@@ -24544,6 +25402,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "The Coca-Cola Company",
+"location": "One Coca-Cola Plaza NW Atlanta, Fulton County",
+"employees_affected": 75,
+"notice_date": "2025-12-30",
+"effective_date": "2025-02-28",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "Coca-Cola",
+"company_dba": "",
+"id": "1bc8646942d4ec8d",
+"first_seen": "2026-08-31T03:25:20.788809Z"
+},
+{
 "company": "Vacuum Technique LLC",
 "location": "Clackamas",
 "employees_affected": 78,
@@ -24739,6 +25610,32 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Railcrew Xpress, LLC",
+"location": "E. Boundary Street Augusta",
+"employees_affected": 55,
+"notice_date": "2025-12-22",
+"effective_date": "2026-02-27",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Railcrew Xpress",
+"company_dba": "",
+"id": "a428960fe71a378d",
+"first_seen": "2026-08-31T03:25:20.788809Z"
+},
+{
+"company": "Gainesville Jaycees Vocational Rehabilitation Center",
+"location": "Athens St Gainesville, Hall County",
+"employees_affected": 19,
+"notice_date": "2025-12-22",
+"effective_date": "2026-02-27",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Gainesville Jaycees Vocational Rehabilitation Center",
+"company_dba": "",
+"id": "71e9048dba51ed47",
+"first_seen": "2026-08-31T03:32:57.915961Z"
+},
+{
 "company": "Everest Insurance",
 "location": "Chicago, 222 S Riverside Plaza",
 "employees_affected": 38,
@@ -24895,6 +25792,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Comprehensive Logistics",
+"location": "Crandall, Murray County",
+"employees_affected": 105,
+"notice_date": "2025-12-17",
+"effective_date": "2026-03-07",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Comprehensive Logistics",
+"company_dba": "",
+"id": "d237105852db32fa",
+"first_seen": "2026-08-31T03:32:57.915961Z"
+},
+{
 "company": "Leprino Foods Company",
 "location": "Kings County",
 "employees_affected": 100,
@@ -24945,6 +25855,19 @@
 "company_dba": "",
 "id": "be0b7f939c2d0024",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Quad/Graphics, Inc.",
+"location": "Duplainville Rd The Rock",
+"employees_affected": 241,
+"notice_date": "2025-12-16",
+"effective_date": "2025-12-19",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Quad/Graphics",
+"company_dba": "",
+"id": "1e732bae41df5335",
+"first_seen": "2026-08-31T03:25:20.788809Z"
 },
 {
 "company": "PARSONS CORPORATION",
@@ -25818,6 +26741,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Urology Center of Columbus",
+"location": "Talbotton Rd Columbus, Muscogee County",
+"employees_affected": 32,
+"notice_date": "2025-11-26",
+"effective_date": "2025-12-05",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Urology Center of Columbus",
+"company_dba": "",
+"id": "6be86cdc631be514",
+"first_seen": "2026-08-31T03:32:57.915961Z"
+},
+{
 "company": "Panasonic Well LLC",
 "location": "Santa Clara County",
 "employees_affected": 46,
@@ -26546,6 +27482,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "SDH Service East,LLC",
+"location": "Wheeler Rd Augusta, Richmond County",
+"employees_affected": 67,
+"notice_date": "2025-11-14",
+"effective_date": "2026-01-31",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "SDH Service East",
+"company_dba": "",
+"id": "e4c1c24887bb0187",
+"first_seen": "2026-08-31T03:32:57.915961Z"
+},
+{
 "company": "Illumina, Inc. Worldwide Headquarters",
 "location": "San Diego County",
 "employees_affected": 8,
@@ -26713,6 +27662,19 @@
 "company_dba": "",
 "id": "26e9ec34bb90d8a7",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "SDH Services EAST,LLC",
+"location": "Waters Ave Savannah, Chatham County",
+"employees_affected": 120,
+"notice_date": "2025-11-14",
+"effective_date": "2026-01-31",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "SDH Services EAST",
+"company_dba": "",
+"id": "1c07418dba38289d",
+"first_seen": "2026-08-31T03:32:57.915961Z"
 },
 {
 "company": "SLO Brewing Co. LLC",
@@ -27027,6 +27989,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "CoStar Group",
+"location": "Atlanta, Fulton County",
+"employees_affected": 3,
+"notice_date": "2025-11-11",
+"effective_date": "2026-01-12",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "CoStar Group",
+"company_dba": "",
+"id": "89dfd4cfe8490d9d",
+"first_seen": "2026-08-31T03:25:20.788809Z"
+},
+{
 "company": "Evernorth Care Group",
 "location": "Scottsdale",
 "employees_affected": 143,
@@ -27038,6 +28013,19 @@
 "company_dba": "",
 "id": "1be7b6a53728f711",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "General Motors LLC",
+"location": "Sun Valley Dr Roswell, Fulton County",
+"employees_affected": 325,
+"notice_date": "2025-11-10",
+"effective_date": "2025-12-12",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "General Motors",
+"company_dba": "",
+"id": "e83c687cab8689cf",
+"first_seen": "2026-08-31T03:32:57.915961Z"
 },
 {
 "company": "Paramount Skydance Corporation (Melrose)",
@@ -27092,6 +28080,45 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "SimplyIOA, LLC",
+"location": "",
+"employees_affected": 65,
+"notice_date": "2025-11-10",
+"effective_date": "2025-12-02",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "SimplyIOA",
+"company_dba": "",
+"id": "940d4c0819001326",
+"first_seen": "2026-08-31T03:32:57.915961Z"
+},
+{
+"company": "Baker & Taylor, LLC",
+"location": "Mt Olive Church Rd Commerce, Jackson County",
+"employees_affected": 289,
+"notice_date": "2025-11-10",
+"effective_date": "2025-10-06",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Baker & Taylor",
+"company_dba": "",
+"id": "91c5aa4361b99f9a",
+"first_seen": "2026-08-31T03:32:57.915961Z"
+},
+{
+"company": "Lehigh Technologies, Inc.",
+"location": "Royal Woods Ct Tucker, DeKalb County",
+"employees_affected": 55,
+"notice_date": "2025-11-10",
+"effective_date": "2026-02-02",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Lehigh Technologies",
+"company_dba": "",
+"id": "8a71d4370bb05c91",
+"first_seen": "2026-08-31T03:25:20.788809Z"
+},
+{
 "company": "Diamond Transportation Services, Inc.",
 "location": "8261 Central Avenue Capital Heights, MD 20743",
 "employees_affected": 194,
@@ -27116,6 +28143,19 @@
 "company_dba": "",
 "id": "3a0283322767f0f9",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Smurfit Westrock",
+"location": "Purdue Dr SW Atlanta, Fulton County",
+"employees_affected": 55,
+"notice_date": "2025-11-10",
+"effective_date": "2026-01-05",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "Smurfit Westrock",
+"company_dba": "",
+"id": "27883637eec00d13",
+"first_seen": "2026-08-31T03:32:57.915961Z"
 },
 {
 "company": "PrimeFlight Aviation Services, Inc.",
@@ -27532,6 +28572,19 @@
 "company_dba": "",
 "id": "71adb196aff69f7c",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "West Fraser, Inc.",
+"location": "Doug Barnard Pkwy Augusta, Richmond County",
+"employees_affected": 130,
+"notice_date": "2025-11-06",
+"effective_date": "2026-01-05",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "West Fraser",
+"company_dba": "",
+"id": "637f091bb90a96fa",
+"first_seen": "2026-08-31T03:32:57.915961Z"
 },
 {
 "company": "Clari Inc.",
@@ -28912,6 +29965,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Integrated Health Resources, LLC",
+"location": "Peachtree St NE Atlanta, Fulton County",
+"employees_affected": 107,
+"notice_date": "2025-10-31",
+"effective_date": "2025-12-31",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Integrated Health Resources",
+"company_dba": "",
+"id": "5cd3ef0c57c030cd",
+"first_seen": "2026-08-31T03:32:57.915961Z"
+},
+{
 "company": "Tessera",
 "location": "Joint Base Lewis McChord",
 "employees_affected": 85,
@@ -29053,6 +30119,19 @@
 "company_dba": "",
 "id": "ab20aefa0b412e9f",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "The William Carter Company",
+"location": "Atlanta, Fulton County",
+"employees_affected": 189,
+"notice_date": "2025-10-30",
+"effective_date": "2025-12-31",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "William Carter",
+"company_dba": "",
+"id": "aa6408a3d0191b9f",
+"first_seen": "2026-08-31T03:25:20.788809Z"
 },
 {
 "company": "Inventprise Inc.",
@@ -29679,6 +30758,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Mannington Mills, Inc.",
+"location": "Enterprise Dr Dalton",
+"employees_affected": 211,
+"notice_date": "2025-10-29",
+"effective_date": "2025-12-27",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Mannington Mills",
+"company_dba": "",
+"id": "60033b68d16cae88",
+"first_seen": "2026-08-31T03:32:57.915961Z"
+},
+{
 "company": "Amazon SNA3",
 "location": "Orange County",
 "employees_affected": 45,
@@ -30210,6 +31302,19 @@
 "company_dba": "",
 "id": "4251f6c007a1b08a",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Saddle Creek Logistics Services",
+"location": "Coweta Industrial Pkwy Newnan",
+"employees_affected": 128,
+"notice_date": "2025-10-27",
+"effective_date": "2026-01-10",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "Saddle Creek Logistics Services",
+"company_dba": "",
+"id": "3322a61574aa1ac2",
+"first_seen": "2026-08-31T03:25:20.788809Z"
 },
 {
 "company": "Owens Corning",
@@ -30745,6 +31850,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "RATP Dev USA Inc",
+"location": "Regency Drive Augusta, Richmond County",
+"employees_affected": 80,
+"notice_date": "2025-10-22",
+"effective_date": "2025-12-31",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "RATP Dev",
+"company_dba": "",
+"id": "c1ae7205ccedb4b0",
+"first_seen": "2026-08-31T03:32:57.915961Z"
+},
+{
 "company": "Alector LLC",
 "location": "San Mateo County",
 "employees_affected": 75,
@@ -31250,6 +32368,19 @@
 "company_dba": "Handshake",
 "id": "3bf3c08d6d111317",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Comcast",
+"location": "Pkwy Atlanta, Cobb County",
+"employees_affected": 240,
+"notice_date": "2025-10-15",
+"effective_date": "2025-12-31",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "Comcast",
+"company_dba": "",
+"id": "3402383146bee282",
+"first_seen": "2026-08-31T03:32:57.915961Z"
 },
 {
 "company": "AccelerEd, LLC",
@@ -31889,6 +33020,19 @@
 "first_seen": "2026-08-30T22:16:36.831610Z"
 },
 {
+"company": "Nichiha USA, Inc",
+"location": "Avondale Mill Rd Macon, Fulton County",
+"employees_affected": 171,
+"notice_date": "2025-10-09",
+"effective_date": "2025-12-06",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "Nichiha",
+"company_dba": "",
+"id": "2bfda14d1ceadc39",
+"first_seen": "2026-08-31T03:25:20.788809Z"
+},
+{
 "company": "CRST Lincoln Sales, Inc. dba CRST Equipment Solutions, Inc.",
 "location": "San Joaquin County",
 "employees_affected": 21,
@@ -31978,6 +33122,19 @@
 "company_dba": "",
 "id": "dc80d4a1e9cdfb5d",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Augusta Sportswear, Inc",
+"location": "W Grovetown, Columbia County",
+"employees_affected": 93,
+"notice_date": "2025-10-07",
+"effective_date": "2025-12-19",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Augusta Sportswear",
+"company_dba": "",
+"id": "d789d672db64b104",
+"first_seen": "2026-08-31T03:25:20.788809Z"
 },
 {
 "company": "The Academy of Magical Arts, Inc.",
@@ -32604,6 +33761,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "CoStar Realty Realty Information, Inc",
+"location": "Peachtree Rd NE Atlanta, Fulton County",
+"employees_affected": 6,
+"notice_date": "2025-10-02",
+"effective_date": "2025-12-01",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "CoStar Realty Realty Information",
+"company_dba": "",
+"id": "a8cd199763b85b27",
+"first_seen": "2026-08-31T03:32:57.915961Z"
+},
+{
 "company": "Amazon",
 "location": "Orange County",
 "employees_affected": 149,
@@ -32644,7 +33814,7 @@
 },
 {
 "company": "Gates Corporation \"Gates\"",
-"location": "Iola",
+"location": "Iola, 1450 Montana Road; Iola, Kansas 66749",
 "employees_affected": 81,
 "notice_date": "2025-10-02",
 "effective_date": "",
@@ -32693,6 +33863,19 @@
 "company_dba": "",
 "id": "3c5a88b379eb2dc6",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Americold Logistics",
+"location": "Pleasantdale Rd Atlanta, DeKalb County",
+"employees_affected": 4,
+"notice_date": "2025-10-02",
+"effective_date": "2025-12-01",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "Americold Logistics",
+"company_dba": "",
+"id": "15311d8f6b51b241",
+"first_seen": "2026-08-31T03:32:57.915961Z"
 },
 {
 "company": "Harrison Sportservice Inc.",
@@ -33982,6 +35165,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Spirit Airlines LLC",
+"location": "N Terminal Pkwy Atlanta",
+"employees_affected": 334,
+"notice_date": "2025-09-24",
+"effective_date": "2025-12-01",
+"notice_type": "Temporary Layoff",
+"state": "GA",
+"company_canonical": "Spirit Airlines",
+"company_dba": "",
+"id": "3962551eb68b8539",
+"first_seen": "2026-08-31T03:32:57.915961Z"
+},
+{
 "company": "Randstad Inhouse Services, LLC",
 "location": "Kern County",
 "employees_affected": 214,
@@ -34864,6 +36060,19 @@
 "company_dba": "",
 "id": "bc7aa9adeae1ab9c",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Global Resource International/ Alleset INC.",
+"location": "Northwoods Pkwy Peachtree Corners, Gwinnett County",
+"employees_affected": 41,
+"notice_date": "2025-09-09",
+"effective_date": "2025-11-14",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Global Resource International/ Alleset",
+"company_dba": "",
+"id": "b2e82d4c694c67ce",
+"first_seen": "2026-08-31T03:32:57.915961Z"
 },
 {
 "company": "Penske Logistics LLC",
@@ -35945,6 +37154,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Americold Logistics",
+"location": "Pleasantdale Rd Atlanta, DeKalb County",
+"employees_affected": 3,
+"notice_date": "2025-08-28",
+"effective_date": "2025-10-28",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "Americold Logistics",
+"company_dba": "",
+"id": "67be5bdeab449847",
+"first_seen": "2026-08-31T03:32:57.915961Z"
+},
+{
 "company": "Providence Health & Services",
 "location": "Seattle",
 "employees_affected": 5,
@@ -35969,6 +37191,19 @@
 "company_dba": "",
 "id": "38e73f13a895a82f",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Country Home Bakers, LLC",
+"location": "Metropolitan Pkwy SW Atlanta, Fulton County",
+"employees_affected": 164,
+"notice_date": "2025-08-28",
+"effective_date": "2025-10-27",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Country Home Bakers",
+"company_dba": "",
+"id": "3009bf663d075bde",
+"first_seen": "2026-08-31T03:32:57.915961Z"
 },
 {
 "company": "Norman's Nursery",
@@ -36047,6 +37282,19 @@
 "company_dba": "",
 "id": "bbf5ce466c96e04c",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "APL Logistics Warehouse Management Services, Inc.",
+"location": "Rock House Rd Lithia Springs",
+"employees_affected": 118,
+"notice_date": "2025-08-27",
+"effective_date": "2025-10-31",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "APL Logistics Warehouse Management Services",
+"company_dba": "",
+"id": "a490c7cd0c72d760",
+"first_seen": "2026-08-31T03:25:20.788809Z"
 },
 {
 "company": "Web To Door Corporation",
@@ -36216,6 +37464,19 @@
 "company_dba": "",
 "id": "c03aee5580991c7b",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "J.B. Hunt Transport Inc.",
+"location": "Stonecrest Industrial Wy Lithonia, DeKalb County",
+"employees_affected": 74,
+"notice_date": "2025-08-26",
+"effective_date": "2025-10-27",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "J.B. Hunt Transport",
+"company_dba": "",
+"id": "b7b622abf0ed3679",
+"first_seen": "2026-08-31T03:25:20.788809Z"
 },
 {
 "company": "Diverse Facility Solutions, Inc.",
@@ -36452,6 +37713,19 @@
 "first_seen": "2026-08-30T22:16:36.831610Z"
 },
 {
+"company": "Hormel Foods Corporation",
+"location": "Montreal Industrial Way Tucker, DeKalb County",
+"employees_affected": 135,
+"notice_date": "2025-08-25",
+"effective_date": "2025-10-26",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "Hormel Foods",
+"company_dba": "",
+"id": "92b8044ca8549ed8",
+"first_seen": "2026-08-31T03:32:57.915961Z"
+},
+{
 "company": "Intel Corporation",
 "location": "Chandler",
 "employees_affected": 97,
@@ -36634,6 +37908,58 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Interstate Paper LLC",
+"location": "Interstate Paper Road Riceboro, Liberty County",
+"employees_affected": 220,
+"notice_date": "2025-08-21",
+"effective_date": "2025-10-20",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Interstate Paper",
+"company_dba": "",
+"id": "ba0f905d18c6163c",
+"first_seen": "2026-08-31T03:32:57.915961Z"
+},
+{
+"company": "RB Lumber Company, LLC",
+"location": "Interstate Paper Rd Riceboro, Liberty County",
+"employees_affected": 68,
+"notice_date": "2025-08-21",
+"effective_date": "2025-10-20",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "RB Lumber",
+"company_dba": "",
+"id": "a513fbb85e59be79",
+"first_seen": "2026-08-31T03:32:57.915961Z"
+},
+{
+"company": "Newport Timber, LLC",
+"location": "Interstate Paper Rd Riceboro, Liberty County",
+"employees_affected": 13,
+"notice_date": "2025-08-21",
+"effective_date": "2025-10-20",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Newport Timber",
+"company_dba": "",
+"id": "8c73c6b6d4914e50",
+"first_seen": "2026-08-31T03:32:57.915961Z"
+},
+{
+"company": "International Paper Savannah Mill",
+"location": "Old W Lathrop Ave Savannah, Chatham County",
+"employees_affected": 691,
+"notice_date": "2025-08-21",
+"effective_date": "2025-10-20",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "International Paper Savannah Mill",
+"company_dba": "",
+"id": "83378119a66bd1d8",
+"first_seen": "2026-08-31T03:32:57.915961Z"
+},
+{
 "company": "Nordstrom Credit Bank",
 "location": "Remote in Washington",
 "employees_affected": 1,
@@ -36658,6 +37984,19 @@
 "company_dba": "",
 "id": "5e0cc90ab856428b",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "International Paper",
+"location": "W Lathrop Ave Savannah, Chatham County",
+"employees_affected": 101,
+"notice_date": "2025-08-21",
+"effective_date": "2025-10-20",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "International Paper",
+"company_dba": "",
+"id": "534b0b6d061dc30e",
+"first_seen": "2026-08-31T03:32:57.915961Z"
 },
 {
 "company": "Farmers Group, Inc.",
@@ -37245,6 +38584,32 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Soli Organic Inc.",
+"location": "Washington St Jefferson",
+"employees_affected": 128,
+"notice_date": "2025-08-15",
+"effective_date": "2025-10-15",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Soli Organic",
+"company_dba": "",
+"id": "7087bf8deec07dd5",
+"first_seen": "2026-08-31T03:25:20.788809Z"
+},
+{
+"company": "FreshRealm",
+"location": "Airport Dr Montezuma",
+"employees_affected": 75,
+"notice_date": "2025-08-15",
+"effective_date": "2025-10-14",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "FreshRealm",
+"company_dba": "",
+"id": "6ce3e1a52c94b74c",
+"first_seen": "2026-08-31T03:32:57.915961Z"
+},
+{
 "company": "Adventist Health 1",
 "location": "Placer County",
 "employees_affected": 296,
@@ -37310,6 +38675,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Kinder Morgan, Inc.",
+"location": "Alpharetta",
+"employees_affected": 42,
+"notice_date": "2025-08-14",
+"effective_date": "2025-10-17",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Kinder Morgan",
+"company_dba": "",
+"id": "c63d35fdebbecce5",
+"first_seen": "2026-08-31T03:32:57.915961Z"
+},
+{
 "company": "Oracle America, Inc.",
 "location": "Santa Clara County",
 "employees_affected": 101,
@@ -37373,6 +38751,19 @@
 "company_dba": "",
 "id": "2d8eecd0339eae5b",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "United Surface Solutions, LLC",
+"location": "S Chatsworth, Murray County",
+"employees_affected": 112,
+"notice_date": "2025-08-14",
+"effective_date": "2025-10-12",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "United Surface Solutions",
+"company_dba": "",
+"id": "29918cb2e17265e2",
+"first_seen": "2026-08-31T03:32:57.915961Z"
 },
 {
 "company": "Oracle America, Inc.",
@@ -37516,6 +38907,19 @@
 "company_dba": "",
 "id": "07915e135cc79d5b",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Block Inc",
+"location": "",
+"employees_affected": 4,
+"notice_date": "2025-08-12",
+"effective_date": "2025-10-13",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "Block",
+"company_dba": "",
+"id": "032e8350025d982c",
+"first_seen": "2026-08-31T03:25:20.788809Z"
 },
 {
 "company": "CDM Field Services LLC d/b/a Xcite Automotive (\u201cCDM\u201d)",
@@ -37672,6 +39076,19 @@
 "company_dba": "",
 "id": "150121a3fb5dbee4",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Americold Logistics",
+"location": "Pleasantdale Rd Atlanta, DeKalb County",
+"employees_affected": 5,
+"notice_date": "2025-08-07",
+"effective_date": "2025-10-06",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "Americold Logistics",
+"company_dba": "",
+"id": "af170ca3a8dccac4",
+"first_seen": "2026-08-31T03:32:57.915961Z"
 },
 {
 "company": "Jabil, Inc.",
@@ -37919,6 +39336,19 @@
 "company_dba": "",
 "id": "3fd1e0ad45153f12",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Unifi Aviation, LLC",
+"location": "N Terminal Pkwy Atlanta, Fulton County",
+"employees_affected": 379,
+"notice_date": "2025-08-05",
+"effective_date": "2025-09-30",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Unifi Aviation",
+"company_dba": "",
+"id": "32f1f6ff76460772",
+"first_seen": "2026-08-31T03:25:20.788809Z"
 },
 {
 "company": "SIE Orange County Kitchen, LLC",
@@ -38246,6 +39676,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Americold Logistics",
+"location": "Pleasantdale Rd Atlanta, DeKalb County",
+"employees_affected": 12,
+"notice_date": "2025-07-31",
+"effective_date": "2025-09-30",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "Americold Logistics",
+"company_dba": "",
+"id": "81e6ee3c8102b23d",
+"first_seen": "2026-08-31T03:32:57.915961Z"
+},
+{
 "company": "Community Development Institute Head Start",
 "location": "Richmond",
 "employees_affected": 65,
@@ -38402,6 +39845,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Community Development Institute Head Start",
+"location": "Multiple locations included on attached document Thomson, McDuffie County",
+"employees_affected": 77,
+"notice_date": "2025-07-30",
+"effective_date": "2025-09-30",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Community Development Institute Head Start",
+"company_dba": "",
+"id": "b3027d973a35366d",
+"first_seen": "2026-08-31T03:32:57.915961Z"
+},
+{
 "company": "Planned Parenthood Mar Monte, Inc.",
 "location": "Monterey County",
 "employees_affected": 3,
@@ -38478,6 +39934,19 @@
 "company_dba": "",
 "id": "6a751c1f77bc9620",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Yamaha Motor Manufacturing Corporation",
+"location": "International Park Newnan, Coweta County",
+"employees_affected": 160,
+"notice_date": "2025-07-30",
+"effective_date": "2025-10-04",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "Yamaha Motor Manufacturing",
+"company_dba": "",
+"id": "61bac5725c62c66d",
+"first_seen": "2026-08-31T03:32:57.915961Z"
 },
 {
 "company": "Warner Bros. Discovery, Inc. (200)",
@@ -38702,7 +40171,7 @@
 },
 {
 "company": "SPO Management, LLC",
-"location": "Manhattan, 520 McCall Rd; Manhattan, Kansas 66502",
+"location": "Manhattan",
 "employees_affected": 72,
 "notice_date": "2025-07-29",
 "effective_date": "",
@@ -39273,6 +40742,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Americold Logistics",
+"location": "Pleasantdale Rd Atlanta, DeKalb County",
+"employees_affected": 36,
+"notice_date": "2025-07-18",
+"effective_date": "2025-09-16",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "Americold Logistics",
+"company_dba": "",
+"id": "518415c008544339",
+"first_seen": "2026-08-31T03:32:57.915961Z"
+},
+{
 "company": "Primo Brands, Inc.",
 "location": "Fresno County",
 "employees_affected": 3,
@@ -39388,6 +40870,19 @@
 "company_dba": "",
 "id": "fbac9b4bb9ec139d",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Backyard PlayNation, LLC",
+"location": "Industrial Court Canton, Cherokee County",
+"employees_affected": 66,
+"notice_date": "2025-07-16",
+"effective_date": "2025-09-17",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Backyard PlayNation",
+"company_dba": "",
+"id": "f1ea84015bf9b955",
+"first_seen": "2026-08-31T03:32:57.915961Z"
 },
 {
 "company": "WeDriveU, Inc.",
@@ -39663,6 +41158,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Whitepath Fab Tech, Inc",
+"location": "Ellijay, Gilmer County",
+"employees_affected": 42,
+"notice_date": "2025-07-14",
+"effective_date": "2025-09-11",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "Whitepath Fab Tech",
+"company_dba": "",
+"id": "91af03326094e44c",
+"first_seen": "2026-08-31T03:32:57.915961Z"
+},
+{
 "company": "Jack in the Box",
 "location": "Tukwila",
 "employees_affected": 14,
@@ -39687,6 +41195,19 @@
 "company_dba": "LowerMyBills.com",
 "id": "70045f94d0948c0b",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Quality Built, LLC",
+"location": "",
+"employees_affected": 4,
+"notice_date": "2025-07-14",
+"effective_date": "2025-07-03",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "Quality Built",
+"company_dba": "",
+"id": "6c71009cf4973927",
+"first_seen": "2026-08-31T03:32:57.915961Z"
 },
 {
 "company": "Intel Corporation (SC-12)",
@@ -39986,6 +41507,19 @@
 "company_dba": "",
 "id": "9a938614395b8b9b",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "GSC Transport, Inc",
+"location": "Savannah, Chatham County",
+"employees_affected": 4,
+"notice_date": "2025-07-10",
+"effective_date": "2025-07-10",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "GSC Transport",
+"company_dba": "",
+"id": "9300b6e38edaf1ab",
+"first_seen": "2026-08-31T03:25:20.788809Z"
 },
 {
 "company": "All-Rite Leasing, Inc.",
@@ -40729,6 +42263,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Hyatt Corporation",
+"location": "East Paces Ferry Rd NE Atlanta, Fulton County",
+"employees_affected": 102,
+"notice_date": "2025-07-03",
+"effective_date": "2025-07-01",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Hyatt",
+"company_dba": "",
+"id": "aa7fef69b55550e9",
+"first_seen": "2026-08-31T03:32:57.915961Z"
+},
+{
 "company": "WMBE Payrolling Inc. dba TCWGlobal (contracted by Zenimax)",
 "location": "1370 Piccard Drive, Suite 120 Rockville, MD 20850",
 "employees_affected": 30,
@@ -40753,6 +42300,19 @@
 "company_dba": "",
 "id": "925fb77d3a4bdeb1",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Americold Logistics",
+"location": "Pleasantdale Rd Atlanta, DeKalb County",
+"employees_affected": 110,
+"notice_date": "2025-07-03",
+"effective_date": "2025-09-05",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "Americold Logistics",
+"company_dba": "",
+"id": "8405768f7d349036",
+"first_seen": "2026-08-31T03:32:57.915961Z"
 },
 {
 "company": "Eurofins Lancaster Laboratories Professional Scientific Services, LLC",
@@ -40909,6 +42469,19 @@
 "company_dba": "",
 "id": "4877645070317c6b",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Pourlessoins, LLC",
+"location": "Atlanta, DeKalb County",
+"employees_affected": 8,
+"notice_date": "2025-07-02",
+"effective_date": "2025-08-31",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "Pourlessoins",
+"company_dba": "",
+"id": "3cf24aa645cfa087",
+"first_seen": "2026-08-31T03:25:20.788809Z"
 },
 {
 "company": "Republic National Distributing Company",
@@ -41301,6 +42874,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Kelly Services, Inc.",
+"location": "Various Remote Locations - See Attached Letter See Attached Letter See Attached Letter",
+"employees_affected": 973,
+"notice_date": "2025-06-30",
+"effective_date": "2025-06-27",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Kelly Services",
+"company_dba": "",
+"id": "8919dce83cb0adc5",
+"first_seen": "2026-08-31T03:32:57.915961Z"
+},
+{
 "company": "Intel Corporation - SC-1 3065 Bowers",
 "location": "Santa Clara County",
 "employees_affected": 1,
@@ -41559,6 +43145,19 @@
 "company_dba": "",
 "id": "266561418ccc99fa",
 "first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
+"company": "IG Design Group Americas, Inc.",
+"location": "Atlanta, DeKalb County",
+"employees_affected": 53,
+"notice_date": "2025-06-27",
+"effective_date": "2025-08-26",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "IG Design Group Americas",
+"company_dba": "",
+"id": "17ad0437941d2e6c",
+"first_seen": "2026-08-31T03:25:20.788809Z"
 },
 {
 "company": "Van Law Food Products, Inc.",
@@ -41897,6 +43496,32 @@
 "company_dba": "",
 "id": "71fe84163d189d34",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "BLST Operating Company, LLC",
+"location": "Industrial Blvd Eatonton",
+"employees_affected": 160,
+"notice_date": "2025-06-23",
+"effective_date": "2025-08-22",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "BLST Operating",
+"company_dba": "",
+"id": "5d975054b661418a",
+"first_seen": "2026-08-31T03:32:57.915961Z"
+},
+{
+"company": "Wellpath",
+"location": "County Services Pkwy Marietta, Cobb County",
+"employees_affected": 68,
+"notice_date": "2025-06-23",
+"effective_date": "2025-08-01",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Wellpath",
+"company_dba": "",
+"id": "1037cc2de55ee02d",
+"first_seen": "2026-08-31T03:32:57.915961Z"
 },
 {
 "company": "Intel Corporation - SC-9",
@@ -42547,6 +44172,19 @@
 "company_dba": "",
 "id": "8334bc4406ac62ba",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Target Corporation",
+"location": "Little Hearst Pkwy Savannah",
+"employees_affected": 62,
+"notice_date": "2025-06-12",
+"effective_date": "2025-08-15",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Target",
+"company_dba": "",
+"id": "909eeb413bf808a1",
+"first_seen": "2026-08-31T03:32:57.915961Z"
 },
 {
 "company": "Frito-Lay, Inc.",
@@ -44161,6 +45799,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "TransAxle LLC",
+"location": "Kennedy Rd Forest Park, Clayton County",
+"employees_affected": 209,
+"notice_date": "2025-05-23",
+"effective_date": "2025-07-15",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "TransAxle",
+"company_dba": "",
+"id": "7ceec6452d16c9c6",
+"first_seen": "2026-08-31T03:25:20.788809Z"
+},
+{
 "company": "Demar Direct, Inc.",
 "location": "Lombard, 1133 N Ridge Ave",
 "employees_affected": 86,
@@ -44409,7 +46060,7 @@
 },
 {
 "company": "DEMDACO",
-"location": "Leawood",
+"location": "Leawood, 5000 West 134th Street; Leawood, Kansas 66209",
 "employees_affected": 52,
 "notice_date": "2025-05-21",
 "effective_date": "",
@@ -44419,6 +46070,19 @@
 "company_dba": "",
 "id": "3b864432f04fc33c",
 "first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
+"company": "NexTraq, LLC",
+"location": "Atlanta, DeKalb County",
+"employees_affected": 39,
+"notice_date": "2025-05-21",
+"effective_date": "2025-07-20",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "NexTraq",
+"company_dba": "",
+"id": "294a91f6efa1a078",
+"first_seen": "2026-08-31T03:25:20.788809Z"
 },
 {
 "company": "Allergan Aesthetics",
@@ -44564,6 +46228,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "FedEx Supply Chain Inc's",
+"location": "Logistics Parkway Jackson",
+"employees_affected": 383,
+"notice_date": "2025-05-16",
+"effective_date": "2025-07-14",
+"notice_type": "Temporary Layoff",
+"state": "GA",
+"company_canonical": "FedEx Supply Chain Inc's",
+"company_dba": "",
+"id": "8052f84b636cdac3",
+"first_seen": "2026-08-31T03:25:20.788809Z"
+},
+{
 "company": "Florence Immigrant & Refugee Rights Project",
 "location": "Phoenix",
 "employees_affected": 47,
@@ -44588,6 +46265,19 @@
 "company_dba": "",
 "id": "191547ce5e06f015",
 "first_seen": "2026-08-30T22:16:36.831610Z"
+},
+{
+"company": "WIOSS Atlanta LP",
+"location": "Anvil Block Rd Forest Park, Clayton County",
+"employees_affected": 53,
+"notice_date": "2025-05-15",
+"effective_date": "2025-07-19",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "WIOSS Atlanta",
+"company_dba": "",
+"id": "ffbd673546a06776",
+"first_seen": "2026-08-31T03:32:57.915961Z"
 },
 {
 "company": "UPS",
@@ -44796,6 +46486,19 @@
 "company_dba": "",
 "id": "7883dfd40cea4382",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Georgia-Pacific, LLC",
+"location": "West Cedar Springs, Early County",
+"employees_affected": 535,
+"notice_date": "2025-05-14",
+"effective_date": "2025-08-01",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Georgia-Pacific",
+"company_dba": "",
+"id": "66b5ec18e5aae804",
+"first_seen": "2026-08-31T03:25:20.788809Z"
 },
 {
 "company": "Microsoft - 1045",
@@ -45552,6 +47255,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Atco Rubber Products, Inc.",
+"location": "S Erwin St Cartersville, Bartow County",
+"employees_affected": 124,
+"notice_date": "2025-05-02",
+"effective_date": "2025-07-01",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Atco Rubber Products",
+"company_dba": "",
+"id": "fbffddd4b8159e29",
+"first_seen": "2026-08-31T03:32:57.915961Z"
+},
+{
 "company": "Center Point, Inc. (300 Prison)",
 "location": "Sacramento County",
 "employees_affected": 20,
@@ -46203,7 +47919,7 @@
 },
 {
 "company": "Federal Express Corporation (FedEx)",
-"location": "Wichita, 1530 South Hoover; Wichita, Kansas 67209",
+"location": "Wichita",
 "employees_affected": 72,
 "notice_date": "2025-04-30",
 "effective_date": "",
@@ -47684,6 +49400,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "CoStar Realty Information, Inc.",
+"location": "Peachtree Rd NE Atlanta",
+"employees_affected": 84,
+"notice_date": "2025-04-18",
+"effective_date": "2025-06-30",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "CoStar Realty Information",
+"company_dba": "",
+"id": "1103ed3874e05443",
+"first_seen": "2026-08-31T03:32:57.915961Z"
+},
+{
 "company": "Actavis Laboratories",
 "location": "Salt Lake City",
 "employees_affected": 78,
@@ -47851,6 +49580,19 @@
 "company_dba": "",
 "id": "8224d73560c056d6",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Davis Express, Inc.",
+"location": "",
+"employees_affected": 163,
+"notice_date": "2025-04-16",
+"effective_date": "2025-06-15",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Davis Express",
+"company_dba": "",
+"id": "601b8d8fa859afaa",
+"first_seen": "2026-08-31T03:25:20.788809Z"
 },
 {
 "company": "Peraton",
@@ -48854,6 +50596,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "United States Cellular Corporation",
+"location": "Courtyards Dr Norcross",
+"employees_affected": 4100,
+"notice_date": "2025-04-07",
+"effective_date": "2025-06-02",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "United States Cellular",
+"company_dba": "",
+"id": "5b4465c42a6158f6",
+"first_seen": "2026-08-31T03:32:57.915961Z"
+},
+{
 "company": "Federal Express Corporation",
 "location": "Alameda County",
 "employees_affected": 79,
@@ -49140,6 +50895,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Saddle Creek Logistics Services",
+"location": "Atlanta",
+"employees_affected": 73,
+"notice_date": "2025-04-02",
+"effective_date": "2025-06-01",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "Saddle Creek Logistics Services",
+"company_dba": "",
+"id": "624c1cfb337a37c5",
+"first_seen": "2026-08-31T03:25:20.788809Z"
+},
+{
 "company": "Robert Kaufman Co., Inc.",
 "location": "Los Angeles County",
 "employees_affected": 4,
@@ -49151,6 +50919,19 @@
 "company_dba": "",
 "id": "53242bccddb68747",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Piedmont Athens Regional Medical Center, Inc.",
+"location": "Prince Ave Athens, Clarke County",
+"employees_affected": 95,
+"notice_date": "2025-04-02",
+"effective_date": "2025-06-02",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "Piedmont Athens Regional Medical Center",
+"company_dba": "",
+"id": "3da88dc83a3e290f",
+"first_seen": "2026-08-31T03:32:57.915961Z"
 },
 {
 "company": "International Flavors & Fragrances Inc.",
@@ -50076,6 +51857,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Block, Inc.",
+"location": "North Avenue NE Atlanta, Fulton County",
+"employees_affected": 49,
+"notice_date": "2025-03-25",
+"effective_date": "2025-05-24",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "Block",
+"company_dba": "",
+"id": "11c47ce460815c63",
+"first_seen": "2026-08-31T03:32:57.915961Z"
+},
+{
 "company": "Columbia River Mental Health Services",
 "location": "Vancouver",
 "employees_affected": 112,
@@ -50217,6 +52011,19 @@
 "company_dba": "De Rigo Rem",
 "id": "6f4d260205b935fc",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Essendant",
+"location": "Lithia Springs",
+"employees_affected": 64,
+"notice_date": "2025-03-20",
+"effective_date": "2025-05-23",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Essendant",
+"company_dba": "",
+"id": "54606615d07100df",
+"first_seen": "2026-08-31T03:32:57.915961Z"
 },
 {
 "company": "Southeast Service Corporation dba SSC Services for Education",
@@ -50596,6 +52403,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Danimer Scientific Holdings, LLC",
+"location": "Industrial Blvd Bainbridge, Decatur County",
+"employees_affected": 82,
+"notice_date": "2025-03-14",
+"effective_date": "2025-03-14",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Danimer Scientific Holdings",
+"company_dba": "",
+"id": "1d973358e04563d2",
+"first_seen": "2026-08-31T03:32:57.915961Z"
+},
+{
 "company": "Cepheid",
 "location": "Alameda County",
 "employees_affected": 3,
@@ -50947,6 +52767,32 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "National Distribution Centers, LLC",
+"location": "Oakley Industrial Blvd Fairburn, Fulton County",
+"employees_affected": 90,
+"notice_date": "2025-03-11",
+"effective_date": "2025-04-19",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "National Distribution Centers",
+"company_dba": "",
+"id": "e82a4afb929d1b98",
+"first_seen": "2026-08-31T03:32:57.915961Z"
+},
+{
+"company": "Greif Inc",
+"location": "Joe Jerkins Blvd Austell, Cobb County",
+"employees_affected": 61,
+"notice_date": "2025-03-11",
+"effective_date": "2025-04-10",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Greif",
+"company_dba": "",
+"id": "8804a183b45fea6c",
+"first_seen": "2026-08-31T03:32:57.915961Z"
+},
+{
 "company": "Gilster-Mary Lee Corporation",
 "location": "Momence, 305 E Washington St",
 "employees_affected": 69,
@@ -51246,6 +53092,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Archway Marketing Services Inc.",
+"location": "International Park Newnan, Coweta County",
+"employees_affected": 60,
+"notice_date": "2025-03-05",
+"effective_date": "2025-03-31",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "Archway Marketing Services",
+"company_dba": "",
+"id": "b6c4582dc4f707e8",
+"first_seen": "2026-08-31T03:25:20.788809Z"
+},
+{
 "company": "Creative Associates International, Inc.",
 "location": "445 Willard Avenue Chevy Chase, MD 20815",
 "employees_affected": 79,
@@ -51270,6 +53129,19 @@
 "company_dba": "",
 "id": "73bbf051424b31ee",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Macy's Gwinnett Place",
+"location": "Duluth, Gwinnett County",
+"employees_affected": 62,
+"notice_date": "2025-03-05",
+"effective_date": "2025-03-18",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Macy's Gwinnett Place",
+"company_dba": "",
+"id": "133f0540a1738039",
+"first_seen": "2026-08-31T03:25:20.788809Z"
 },
 {
 "company": "Laboratory Corporation of America Holdings",
@@ -51324,6 +53196,32 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Harvest Sherwood Food Distributors",
+"location": "Fulton Industrial Blvd SW Atlanta, Fulton County",
+"employees_affected": 113,
+"notice_date": "2025-03-04",
+"effective_date": "2025-02-18",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "Harvest Sherwood Food Distributors",
+"company_dba": "",
+"id": "cae9dcf6abcca745",
+"first_seen": "2026-08-31T03:32:57.915961Z"
+},
+{
+"company": "Animal Supply Company LLC",
+"location": "Shawnee Industrial Way Suwanee",
+"employees_affected": 57,
+"notice_date": "2025-03-04",
+"effective_date": "2025-02-07",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "Animal Supply",
+"company_dba": "",
+"id": "adbd2e31e65d5d71",
+"first_seen": "2026-08-31T03:32:57.915961Z"
+},
+{
 "company": "PT Solutions",
 "location": "San Joaquin County",
 "employees_affected": 1,
@@ -51335,6 +53233,19 @@
 "company_dba": "",
 "id": "9f85aa586ac2e988",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Bailey Street Bakery, LLC",
+"location": "Bailey St SW Atlanta, Fulton County",
+"employees_affected": 176,
+"notice_date": "2025-03-04",
+"effective_date": "2025-04-16",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Bailey Street Bakery",
+"company_dba": "",
+"id": "8c474aef7321eb48",
+"first_seen": "2026-08-31T03:32:57.915961Z"
 },
 {
 "company": "PT Solutions",
@@ -52286,6 +54197,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Rent Group Inc.",
+"location": "Atlanta, Fulton County",
+"employees_affected": 56,
+"notice_date": "2025-02-24",
+"effective_date": "2025-04-25",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "Rent Group",
+"company_dba": "",
+"id": "7b78b8f714307203",
+"first_seen": "2026-08-31T03:32:57.915961Z"
+},
+{
 "company": "Technicolor Creative Services US, Inc.",
 "location": "Los Angeles County",
 "employees_affected": 217,
@@ -52336,6 +54260,19 @@
 "company_dba": "",
 "id": "9dc5c86a2b9cabf3",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "American Anesthesiology of Georgia, LLC",
+"location": "Peachtree Rd Atlanta",
+"employees_affected": 224,
+"notice_date": "2025-02-20",
+"effective_date": "2025-04-30",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "American Anesthesiology of Georgia",
+"company_dba": "",
+"id": "ffde0491ceadb7f2",
+"first_seen": "2026-08-31T03:32:57.915961Z"
 },
 {
 "company": "Burke Williams",
@@ -53677,6 +55614,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Integrated Health Resources, LLC",
+"location": "Atlanta, Fulton County",
+"employees_affected": 105,
+"notice_date": "2025-02-06",
+"effective_date": "2025-03-25",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Integrated Health Resources",
+"company_dba": "",
+"id": "95e01860ae15f0c9",
+"first_seen": "2026-08-31T03:32:57.915961Z"
+},
+{
 "company": "Barrel Ten Quarter Circle, Inc.",
 "location": "San Joaquin County",
 "employees_affected": 13,
@@ -54028,6 +55978,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Hi-Rez Studios, Inc.",
+"location": "B Alpharetta, Fulton County",
+"employees_affected": 69,
+"notice_date": "2025-02-04",
+"effective_date": "2025-04-07",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "Hi-Rez Studios",
+"company_dba": "",
+"id": "a18919f2757f5012",
+"first_seen": "2026-08-31T03:25:20.788809Z"
+},
+{
 "company": "Renesas Electronics Corporation",
 "location": "Santa Clara County",
 "employees_affected": 3,
@@ -54078,6 +56041,19 @@
 "company_dba": "",
 "id": "66496a41501e7225",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Radial, Inc.",
+"location": "Locust Grove",
+"employees_affected": 164,
+"notice_date": "2025-02-04",
+"effective_date": "2025-04-05",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Radial",
+"company_dba": "",
+"id": "51f7477ce649af15",
+"first_seen": "2026-08-31T03:25:20.788809Z"
 },
 {
 "company": "US Foods, Inc.",
@@ -54156,6 +56132,19 @@
 "company_dba": "",
 "id": "4b36c6b2515c6000",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Exel, Inc.",
+"location": "Derrick Industrial Pkwy Union City, Fulton County",
+"employees_affected": 614,
+"notice_date": "2025-02-03",
+"effective_date": "2025-04-06",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Exel",
+"company_dba": "",
+"id": "1a169e7c2ea13d1c",
+"first_seen": "2026-08-31T03:32:57.915961Z"
 },
 {
 "company": "Bloomingdale's San Francisco Centre",
@@ -54639,6 +56628,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Rambo 1 LLC",
+"location": "Buchanan Hwy Dallas, Paulding County",
+"employees_affected": 135,
+"notice_date": "2025-01-29",
+"effective_date": "2025-01-31",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Rambo 1",
+"company_dba": "",
+"id": "cdea468edd796b68",
+"first_seen": "2026-08-31T03:32:57.915961Z"
+},
+{
 "company": "Parsec LLC",
 "location": "Franklin Park , 10800 S Franklin Ave.",
 "employees_affected": 49,
@@ -54951,6 +56953,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Networx Systems Inc",
+"location": "Atlanta, Fulton County",
+"employees_affected": 51,
+"notice_date": "2025-01-24",
+"effective_date": "2025-03-23",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "Networx Systems",
+"company_dba": "",
+"id": "cc69452d4575b4d1",
+"first_seen": "2026-08-31T03:25:20.788809Z"
+},
+{
 "company": "Grunt Style, LLC",
 "location": "Carol Stream, 400 Fullerton Ave",
 "employees_affected": 100,
@@ -55238,7 +57253,7 @@
 },
 {
 "company": "S&S Activewear",
-"location": "Edwardsville, 9525 Woodend Road; Edwardsville, Kansas 66111",
+"location": "Edwardsville",
 "employees_affected": 86,
 "notice_date": "2025-01-20",
 "effective_date": "",
@@ -55744,6 +57759,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Packaging Corporation of America",
+"location": "Lakewood Ave SW East Point",
+"employees_affected": 103,
+"notice_date": "2025-01-09",
+"effective_date": "2025-03-11",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Packaging Corporation of America",
+"company_dba": "",
+"id": "cee6f54b75bcbd8b",
+"first_seen": "2026-08-31T03:32:57.915961Z"
+},
+{
 "company": "CompTia",
 "location": "Lehi",
 "employees_affected": 42,
@@ -56017,6 +58045,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "AGCO Corporation",
+"location": "Norcross, Gwinnett County",
+"employees_affected": 3,
+"notice_date": "2025-01-07",
+"effective_date": "2025-02-01",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "AGCO",
+"company_dba": "",
+"id": "6c5201972381d034",
+"first_seen": "2026-08-31T03:32:57.915961Z"
+},
+{
 "company": "Cherry Circle Room LLC",
 "location": "Chicago, 12 S Michigan Ave",
 "employees_affected": 154,
@@ -56275,6 +58316,19 @@
 "company_dba": "",
 "id": "a25451817728c5fd",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "D&A Consulting Services",
+"location": "",
+"employees_affected": 22,
+"notice_date": "2024-12-30",
+"effective_date": "2025-02-19",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "D&A Consulting Services",
+"company_dba": "",
+"id": "7fcd9c68ef81cf1e",
+"first_seen": "2026-08-31T03:25:20.788809Z"
 },
 {
 "company": "Ryder Integrated Logistics, Inc. (Ryder)",
@@ -57408,6 +59462,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Dwarf House Group, LLC",
+"location": "Pleasant Hill Rd Duluth, Fulton County",
+"employees_affected": 111,
+"notice_date": "2024-12-03",
+"effective_date": "2025-02-28",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Dwarf House Group",
+"company_dba": "",
+"id": "ceccb50a52f4322c",
+"first_seen": "2026-08-31T03:32:57.915961Z"
+},
+{
 "company": "Central Valley Eggs, LLC",
 "location": "Kern County",
 "employees_affected": 53,
@@ -57549,6 +59616,19 @@
 "company_dba": "",
 "id": "12c276f151975c51",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "AGCO Corporation",
+"location": "Norcross, Gwinnett County",
+"employees_affected": 2,
+"notice_date": "2024-12-03",
+"effective_date": "2025-02-01",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "AGCO",
+"company_dba": "",
+"id": "0f655d3a7b6a1c2c",
+"first_seen": "2026-08-31T03:32:57.915961Z"
 },
 {
 "company": "Rocket Travel, Inc.",
@@ -57889,6 +59969,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Vander-Bend Manufacturing Inc.",
+"location": "Suwanee",
+"employees_affected": 38,
+"notice_date": "2024-11-23",
+"effective_date": "2024-11-22",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Vander-Bend Manufacturing",
+"company_dba": "",
+"id": "27f6258908ce9044",
+"first_seen": "2026-08-31T03:32:57.915961Z"
+},
+{
 "company": "Universal Protection Service, LP dba Allied Universal Security Services",
 "location": "Orange County",
 "employees_affected": 61,
@@ -58108,6 +60201,19 @@
 "company_dba": "",
 "id": "284051a29c4b7331",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "WIOSS Atlanta LP",
+"location": "Anvil Block Rd Forest Park, Clayton County",
+"employees_affected": 139,
+"notice_date": "2024-11-20",
+"effective_date": "2025-02-03",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "WIOSS Atlanta",
+"company_dba": "",
+"id": "141e14a473b06b7a",
+"first_seen": "2026-08-31T03:32:57.915961Z"
 },
 {
 "company": "Niterra North America, Inc.",
@@ -60112,6 +62218,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Universal Protection Service, LLC",
+"location": "Peachtree Rd NE Atlanta, Fulton County",
+"employees_affected": 51,
+"notice_date": "2024-11-07",
+"effective_date": "2025-01-09",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "Universal Protection Service",
+"company_dba": "",
+"id": "285dd435f83c865f",
+"first_seen": "2026-08-31T03:25:20.788809Z"
+},
+{
 "company": "Universal Protection Service, LLC d/b/a Allied Universal Security Services",
 "location": "Arundel Mills Mall 7000 Arundel Mills Circle Hanover, MD 21076",
 "employees_affected": 18,
@@ -60279,6 +62398,19 @@
 "company_dba": "",
 "id": "1eb166e894dddb15",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Omni Corporation",
+"location": "Chapel Crossing Rd Brunswick",
+"employees_affected": 129,
+"notice_date": "2024-11-05",
+"effective_date": "2024-12-31",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Omni",
+"company_dba": "",
+"id": "0f440988dbe31fc3",
+"first_seen": "2026-08-31T03:32:57.915961Z"
 },
 {
 "company": "Terre du Soleil dba Auberge du Soleil",
@@ -60502,6 +62634,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "BPA Facility Services, Inc.",
+"location": "Chapel Crossing Rd Brunswick",
+"employees_affected": 61,
+"notice_date": "2024-11-01",
+"effective_date": "2024-12-31",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "BPA Facility Services",
+"company_dba": "",
+"id": "041877114f21f549",
+"first_seen": "2026-08-31T03:25:20.788809Z"
+},
+{
 "company": "GXO Logistics Supply Chain, Inc.",
 "location": "San Bernardino County",
 "employees_affected": 231,
@@ -60552,6 +62697,19 @@
 "company_dba": "",
 "id": "c5d742308e17c9cf",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Forest River, Inc.",
+"location": "Industrial Drive Ocilla",
+"employees_affected": 114,
+"notice_date": "2024-10-31",
+"effective_date": "2024-10-31",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Forest River",
+"company_dba": "",
+"id": "c3dd79b01f6d2319",
+"first_seen": "2026-08-31T03:25:20.788809Z"
 },
 {
 "company": "Hunt & Sons LLC",
@@ -60669,6 +62827,19 @@
 "company_dba": "",
 "id": "70fdb69caa4f2013",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "CJ Logistics America, LLC",
+"location": "Nexus Dr Dalton",
+"employees_affected": 275,
+"notice_date": "2024-10-31",
+"effective_date": "2025-01-06",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "CJ Logistics America",
+"company_dba": "",
+"id": "6d6275343f4cc5d9",
+"first_seen": "2026-08-31T03:32:57.915961Z"
 },
 {
 "company": "Hunt & Sons LLC",
@@ -60918,6 +63089,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Scripps News",
+"location": "Piedmont Rd NE Atlanta, Fulton County",
+"employees_affected": 118,
+"notice_date": "2024-10-29",
+"effective_date": "2024-11-15",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "Scripps News",
+"company_dba": "",
+"id": "5d294f2e2378d684",
+"first_seen": "2026-08-31T03:32:57.915961Z"
+},
+{
 "company": "Sony Interactive Entertainment LLC, Firewalk Studios",
 "location": "Bellevue",
 "employees_affected": 174,
@@ -61046,6 +63230,19 @@
 "company_dba": "",
 "id": "efb7859248b8024d",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Americold Logistics LLC",
+"location": "Nordic Way Pooler, Chatham County",
+"employees_affected": 58,
+"notice_date": "2024-10-24",
+"effective_date": "2024-12-31",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Americold Logistics",
+"company_dba": "",
+"id": "5bb8f9d84e9775ab",
+"first_seen": "2026-08-31T03:32:57.915961Z"
 },
 {
 "company": "Oi Glass Containers",
@@ -61514,6 +63711,19 @@
 "company_dba": "",
 "id": "98bd1e844101106e",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Multi-Color Corporation",
+"location": "Indigo Dr Brunswick, Glynn County",
+"employees_affected": 40,
+"notice_date": "2024-10-18",
+"effective_date": "2024-11-01",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Multi-Color",
+"company_dba": "",
+"id": "04583c7e23fd5f6e",
+"first_seen": "2026-08-31T03:32:57.915961Z"
 },
 {
 "company": "Mindbody, Inc.",
@@ -62231,6 +64441,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Customized Distribution LLC",
+"location": "Selig Dr SW Atlanta, Fulton County",
+"employees_affected": 165,
+"notice_date": "2024-10-09",
+"effective_date": "2024-12-08",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Customized Distribution",
+"company_dba": "",
+"id": "6e0cbad557552ded",
+"first_seen": "2026-08-31T03:25:20.788809Z"
+},
+{
 "company": "Velo3D, Inc.",
 "location": "Alameda County",
 "employees_affected": 29,
@@ -62842,6 +65065,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "MEDZED LLC",
+"location": "Atlanta, Fulton County",
+"employees_affected": 43,
+"notice_date": "2024-09-30",
+"effective_date": "2024-12-01",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Medzed",
+"company_dba": "",
+"id": "ade2bfa39eb2eb02",
+"first_seen": "2026-08-31T03:25:20.788809Z"
+},
+{
 "company": "Yelloh",
 "location": "Aberdeen/Sioux Falls/Yankton",
 "employees_affected": 40,
@@ -62879,6 +65115,19 @@
 "company_dba": "",
 "id": "27b487122d29d5ae",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "kaleo, Inc.",
+"location": "",
+"employees_affected": 1,
+"notice_date": "2024-09-30",
+"effective_date": "2024-11-30",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "kaleo",
+"company_dba": "",
+"id": "0de84be0d9999993",
+"first_seen": "2026-08-31T03:25:20.788809Z"
 },
 {
 "company": "Tupperware",
@@ -62983,6 +65232,19 @@
 "company_dba": "",
 "id": "8e61bf5caab3b3e4",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Genpact US Services LLC",
+"location": "Sandy Springs, Fulton County",
+"employees_affected": 45,
+"notice_date": "2024-09-26",
+"effective_date": "2024-11-30",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "Genpact US Services",
+"company_dba": "",
+"id": "80d5c0741111dd32",
+"first_seen": "2026-08-31T03:25:20.788809Z"
 },
 {
 "company": "Corteva Agriscience LLC",
@@ -63102,6 +65364,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Shaw Industries Group, Inc",
+"location": "Waring Rd NW Dalton, Whitfield County",
+"employees_affected": 281,
+"notice_date": "2024-09-24",
+"effective_date": "2024-11-25",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Shaw Industries Group",
+"company_dba": "",
+"id": "0a4a0cfeea60145d",
+"first_seen": "2026-08-31T03:32:57.915961Z"
+},
+{
 "company": "Cygnus Home Service, LLC",
 "location": "Marshall, 115 W College Dr",
 "employees_affected": 119,
@@ -63126,6 +65401,19 @@
 "company_dba": "Twelve Oaks Senior Living",
 "id": "ee66ba2cd2960d47",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Conn Appliances, Inc.",
+"location": "Pegasus Parkway LaGrange, Troup County",
+"employees_affected": 62,
+"notice_date": "2024-09-23",
+"effective_date": "2024-10-31",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Conn Appliances",
+"company_dba": "",
+"id": "e0888010fe3ca710",
+"first_seen": "2026-08-31T03:32:57.915961Z"
 },
 {
 "company": "Cygnus Home Service, LLC",
@@ -63401,6 +65689,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Sculpted Contours LLC",
+"location": "Alpharetta, Fulton County",
+"employees_affected": 3,
+"notice_date": "2024-09-18",
+"effective_date": "2024-09-19",
+"notice_type": "Temporary Layoff",
+"state": "GA",
+"company_canonical": "Sculpted Contours",
+"company_dba": "",
+"id": "8ddb30e4c0013cd6",
+"first_seen": "2026-08-31T03:25:20.788809Z"
+},
+{
 "company": "Cisco Systems, Inc.",
 "location": "San Francisco County",
 "employees_affected": 134,
@@ -63555,6 +65856,19 @@
 "company_dba": "",
 "id": "a26c2f4663e66dd2",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Panera, LLC.",
+"location": "Gateway Dr Suite G Norcross",
+"employees_affected": 86,
+"notice_date": "2024-09-16",
+"effective_date": "2024-11-15",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "Panera",
+"company_dba": "",
+"id": "9b45a3f08e90055b",
+"first_seen": "2026-08-31T03:25:20.788809Z"
 },
 {
 "company": "Nelson Laboratories",
@@ -63752,6 +66066,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Lost Boys Interactive",
+"location": "",
+"employees_affected": 139,
+"notice_date": "2024-09-10",
+"effective_date": "2024-09-09",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "Lost Boys Interactive",
+"company_dba": "",
+"id": "e149c26f6a4ff3b3",
+"first_seen": "2026-08-31T03:25:20.788809Z"
+},
+{
 "company": "CNH Industrial America LLC",
 "location": "St. Nazianz",
 "employees_affected": 52,
@@ -63932,6 +66259,19 @@
 "company_dba": "",
 "id": "10ce612495ab392d",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "BGDC Trans Atlanta LLC",
+"location": "Anvil Block Rd Forest Park, Cook County",
+"employees_affected": 284,
+"notice_date": "2024-09-09",
+"effective_date": "2024-11-10",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "BGDC Trans Atlanta",
+"company_dba": "",
+"id": "0f081fb7fca8e89b",
+"first_seen": "2026-08-31T03:32:57.915961Z"
 },
 {
 "company": "Amazon",
@@ -64610,6 +66950,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "ABM Aviation, Inc. and ABM Industry Groups, LLC (collectively, \u201cABM\u201d)",
+"location": "N Terminal Pkwy Atlanta",
+"employees_affected": 353,
+"notice_date": "2024-08-30",
+"effective_date": "2024-11-01",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "ABM Aviation, Inc. and ABM Industry Groups, LLC (collectively, \"ABM\")",
+"company_dba": "",
+"id": "c1e4caa8bbf5584e",
+"first_seen": "2026-08-31T03:32:57.915961Z"
+},
+{
 "company": "Intel Corporation",
 "location": "Santa Clara County",
 "employees_affected": 15,
@@ -64803,6 +67156,19 @@
 "company_dba": "",
 "id": "95a3ea648d21c29f",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "WestRock CP, LLC",
+"location": "Shackleford Rd Duluth, Gwinnett County",
+"employees_affected": 9,
+"notice_date": "2024-08-28",
+"effective_date": "2024-10-18",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "WestRock CP",
+"company_dba": "",
+"id": "8bf04aa47f004aca",
+"first_seen": "2026-08-31T03:32:57.915961Z"
 },
 {
 "company": "Menzies Aviation",
@@ -65338,6 +67704,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Interfor",
+"location": "Old River Rd Bloomingdale, Fayette County",
+"employees_affected": 93,
+"notice_date": "2024-08-19",
+"effective_date": "2024-08-19",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "Interfor",
+"company_dba": "",
+"id": "9c9f3308d20029a8",
+"first_seen": "2026-08-31T03:25:20.788809Z"
+},
+{
 "company": "ITC Federal",
 "location": "Orange County",
 "employees_affected": 31,
@@ -65648,6 +68027,32 @@
 "company_dba": "",
 "id": "18670711bc860105",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Omni Corporation",
+"location": "Chapel Crossing Rd Brunswick",
+"employees_affected": 125,
+"notice_date": "2024-08-08",
+"effective_date": "2024-09-30",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Omni",
+"company_dba": "",
+"id": "c260bcc0b0c2db99",
+"first_seen": "2026-08-31T03:32:57.915961Z"
+},
+{
+"company": "BPA Facility Services, Inc.",
+"location": "Chapel Crossing Rd Glynco",
+"employees_affected": 60,
+"notice_date": "2024-08-08",
+"effective_date": "2024-09-30",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "BPA Facility Services",
+"company_dba": "",
+"id": "73fecc74e96725cf",
+"first_seen": "2026-08-31T03:25:20.788809Z"
 },
 {
 "company": "Farmers Group, Inc.",
@@ -66898,6 +69303,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Kliklok LLC",
+"location": "Snapfinger Woods Dr Decatur, DeKalb County",
+"employees_affected": 89,
+"notice_date": "2024-07-22",
+"effective_date": "2024-09-27",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Kliklok",
+"company_dba": "",
+"id": "b87e65780f8acf2a",
+"first_seen": "2026-08-31T03:25:20.788809Z"
+},
+{
 "company": "Neovia Logistics Services, LLC",
 "location": "Romeoville, 160 South Creek Parkway",
 "employees_affected": 96,
@@ -66909,6 +69327,19 @@
 "company_dba": "",
 "id": "84d6720e1427b317",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "GEODIS",
+"location": "McDonough",
+"employees_affected": 68,
+"notice_date": "2024-07-22",
+"effective_date": "2024-09-19",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "Geodis",
+"company_dba": "",
+"id": "53e1cc433e363162",
+"first_seen": "2026-08-31T03:32:57.915961Z"
 },
 {
 "company": "GEODIS, LLC",
@@ -66935,6 +69366,19 @@
 "company_dba": "",
 "id": "4859546620d43292",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Advanced Pro Services, LLC",
+"location": "Clifton Rd NE Atlanta, DeKalb County",
+"employees_affected": 65,
+"notice_date": "2024-07-18",
+"effective_date": "2024-09-02",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "Advanced Pro Services",
+"company_dba": "",
+"id": "ff690e72e9865391",
+"first_seen": "2026-08-31T03:25:20.788809Z"
 },
 {
 "company": "Optum",
@@ -66987,6 +69431,19 @@
 "company_dba": "",
 "id": "d0c8c8eaaa9c4f49",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Pitney Bowes Inc.",
+"location": "Royal S Pkwy Atlanta",
+"employees_affected": 3,
+"notice_date": "2024-07-18",
+"effective_date": "2024-09-17",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "Pitney Bowes",
+"company_dba": "",
+"id": "c549962ba6565849",
+"first_seen": "2026-08-31T03:32:57.915961Z"
 },
 {
 "company": "Optum",
@@ -67611,6 +70068,19 @@
 "company_dba": "Hybrid Apparel",
 "id": "4db4425411516ae1",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "WestRock",
+"location": "Shackleford Rd Duluth, Gwinnett County",
+"employees_affected": 10,
+"notice_date": "2024-07-05",
+"effective_date": "2024-08-30",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "WestRock",
+"company_dba": "",
+"id": "f97cfde19d561620",
+"first_seen": "2026-08-31T03:32:57.915961Z"
 },
 {
 "company": "Motorcar Parts of America, Inc.",
@@ -68432,6 +70902,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "DHL Supply Chain",
+"location": "Oakley Industrial Blvd Fairburn, Fulton County",
+"employees_affected": 211,
+"notice_date": "2024-06-19",
+"effective_date": "2024-08-31",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "DHL Supply Chain",
+"company_dba": "",
+"id": "317d88f79446edb6",
+"first_seen": "2026-08-31T03:32:57.915961Z"
+},
+{
 "company": "Ginkgo Bioworks, Inc.",
 "location": "Alameda County",
 "employees_affected": 30,
@@ -68536,6 +71019,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Flambeau, Inc.",
+"location": "Atlanta Hwy Madison, Morgan County",
+"employees_affected": 89,
+"notice_date": "2024-06-17",
+"effective_date": "2024-07-31",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Flambeau",
+"company_dba": "",
+"id": "6faee0b99a057130",
+"first_seen": "2026-08-31T03:32:57.915961Z"
+},
+{
 "company": "Ardagh Glass Inc.",
 "location": "Seattle",
 "employees_affected": 244,
@@ -68586,6 +71082,32 @@
 "company_dba": "",
 "id": "0bb406033bd082c1",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Walmart",
+"location": "Roswell Rd Marietta, Cobb County",
+"employees_affected": 92,
+"notice_date": "2024-06-14",
+"effective_date": "2024-09-20",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Walmart",
+"company_dba": "",
+"id": "73e9d4f1927b627c",
+"first_seen": "2026-08-31T03:32:57.915961Z"
+},
+{
+"company": "Walmart",
+"location": "Ashford Dunwoody Rd Dunwoody, DeKalb County",
+"employees_affected": 295,
+"notice_date": "2024-06-14",
+"effective_date": "2024-09-20",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Walmart",
+"company_dba": "",
+"id": "4c16c26fffe1641e",
+"first_seen": "2026-08-31T03:32:57.915961Z"
 },
 {
 "company": "Golden Gate University",
@@ -69041,6 +71563,19 @@
 "company_dba": "",
 "id": "4e9950fd538fb3ab",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Atlanta Attachment Company",
+"location": "Industrial Park Dr NE Lawrenceville, Gwinnett County",
+"employees_affected": 57,
+"notice_date": "2024-06-06",
+"effective_date": "2024-08-06",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "Atlanta Attachment",
+"company_dba": "",
+"id": "3df4ae869e921421",
+"first_seen": "2026-08-31T03:25:20.788809Z"
 },
 {
 "company": "Success Valley Farms, LLC",
@@ -69602,6 +72137,32 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "ZF Active Safety, Inc",
+"location": "Rafe Ct Flowery Branch, Hall County",
+"employees_affected": 365,
+"notice_date": "2024-05-30",
+"effective_date": "2024-07-22",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "ZF Active Safety",
+"company_dba": "",
+"id": "e2bd32370108c5d6",
+"first_seen": "2026-08-31T03:25:20.788809Z"
+},
+{
+"company": "Riverpoint Medical",
+"location": "Norcross, Gwinnett County",
+"employees_affected": 110,
+"notice_date": "2024-05-30",
+"effective_date": "2024-08-02",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Riverpoint Medical",
+"company_dba": "",
+"id": "7ccb07ab3a7f9955",
+"first_seen": "2026-08-31T03:25:20.788809Z"
+},
+{
 "company": "Union Pacific",
 "location": "San Bernardino County",
 "employees_affected": 15,
@@ -70120,6 +72681,19 @@
 "company_dba": "",
 "id": "0c38510086fac187",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "FUTURE FORWARDING COMPANY",
+"location": "Buffington Rd Atlanta, Fulton County",
+"employees_affected": 78,
+"notice_date": "2024-05-22",
+"effective_date": "2024-08-02",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "Future Forwarding",
+"company_dba": "",
+"id": "e22ebc75423d240e",
+"first_seen": "2026-08-31T03:25:20.788809Z"
 },
 {
 "company": "Cue Health Inc.",
@@ -72202,6 +74776,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Grocery Delivery E-Services USA, Inc.",
+"location": "International Park Newnan",
+"employees_affected": 727,
+"notice_date": "2024-05-08",
+"effective_date": "2024-07-10",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Grocery Delivery E-Services",
+"company_dba": "",
+"id": "2991310594b9ff18",
+"first_seen": "2026-08-31T03:25:20.788809Z"
+},
+{
 "company": "Google US-SFO-1MST",
 "location": "San Francisco County",
 "employees_affected": 6,
@@ -72358,6 +74945,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Raven Transport Holding, Inc.",
+"location": "Power Ln Albany",
+"employees_affected": 62,
+"notice_date": "2024-05-07",
+"effective_date": "2024-06-30",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "Raven Transport Holding",
+"company_dba": "",
+"id": "66e09666e15d552a",
+"first_seen": "2026-08-31T03:32:57.915961Z"
+},
+{
 "company": "Rivian Automotive, LLC",
 "location": "Santa Clara County",
 "employees_affected": 26,
@@ -72410,6 +75010,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Radial, Inc.",
+"location": "",
+"employees_affected": 95,
+"notice_date": "2024-05-06",
+"effective_date": "2024-06-28",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "Radial",
+"company_dba": "",
+"id": "00dfff0cf2be6e0f",
+"first_seen": "2026-08-31T03:25:20.788809Z"
+},
+{
 "company": "Pace Industries LLC",
 "location": "Grafton",
 "employees_affected": 90,
@@ -72434,6 +75047,19 @@
 "company_dba": "",
 "id": "575b86af6ffbcd02",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "BPA Facility Services, Inc.",
+"location": "Brunswick",
+"employees_affected": 58,
+"notice_date": "2024-05-03",
+"effective_date": "2024-06-30",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "BPA Facility Services",
+"company_dba": "",
+"id": "4793054f24a5af95",
+"first_seen": "2026-08-31T03:25:20.788809Z"
 },
 {
 "company": "Gentherm",
@@ -72514,6 +75140,32 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Omni Corporation",
+"location": "Chapel Crossing Rd Brunswick",
+"employees_affected": 127,
+"notice_date": "2024-05-02",
+"effective_date": "2024-06-30",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Omni",
+"company_dba": "",
+"id": "66209ff8dd5c36d4",
+"first_seen": "2026-08-31T03:32:57.915961Z"
+},
+{
+"company": "Club Chef SE LLC",
+"location": "Moreland Ave Conley, Clayton County",
+"employees_affected": 48,
+"notice_date": "2024-05-01",
+"effective_date": "2024-06-30",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "Club Chef SE",
+"company_dba": "",
+"id": "fb6d573572ea2acb",
+"first_seen": "2026-08-31T03:32:57.915961Z"
+},
+{
 "company": "Kaiser Foundation Hospitals",
 "location": "Los Angeles County",
 "employees_affected": 5,
@@ -72564,6 +75216,19 @@
 "company_dba": "",
 "id": "e0332760a168a478",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Southside Communities Fire Protection, Inc.",
+"location": "Dean Forest Rd Garden City, Chatham County",
+"employees_affected": 112,
+"notice_date": "2024-05-01",
+"effective_date": "2024-07-01",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Southside Communities Fire Protection",
+"company_dba": "",
+"id": "dd9447b013d28e70",
+"first_seen": "2026-08-31T03:32:57.915961Z"
 },
 {
 "company": "Walmart Inc.",
@@ -72720,6 +75385,19 @@
 "company_dba": "",
 "id": "97682c8b5cad701d",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Wellpath LLC",
+"location": "Convention Center Concourse Atlanta, Fulton County",
+"employees_affected": 291,
+"notice_date": "2024-05-01",
+"effective_date": "2024-06-30",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Wellpath",
+"company_dba": "",
+"id": "92d34101e0906247",
+"first_seen": "2026-08-31T03:32:57.915961Z"
 },
 {
 "company": "SunPower Corp.",
@@ -73281,6 +75959,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Sage Automotive Interiors",
+"location": "Toccoa",
+"employees_affected": 140,
+"notice_date": "2024-04-29",
+"effective_date": "2024-06-30",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Sage Automotive Interiors",
+"company_dba": "",
+"id": "5cfa3bf4d350a85d",
+"first_seen": "2026-08-31T03:25:20.788809Z"
+},
+{
 "company": "Lignetics Inc / GEM Shavings LLC",
 "location": "Auburn",
 "employees_affected": 9,
@@ -73786,6 +76477,19 @@
 "company_dba": "",
 "id": "81727aff8780e6b4",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Chemical Products Corporation",
+"location": "Old Mill Rd Cartersville, Bartow County",
+"employees_affected": 121,
+"notice_date": "2024-04-23",
+"effective_date": "2024-06-22",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Chemical Products",
+"company_dba": "",
+"id": "7a3d64fbb18bb980",
+"first_seen": "2026-08-31T03:32:57.915961Z"
 },
 {
 "company": "DHL Supply Chain",
@@ -74919,6 +77623,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "SIMOS Insourcing Solutions, LLC.",
+"location": "Forest Park, Clayton County",
+"employees_affected": 90,
+"notice_date": "2024-04-15",
+"effective_date": "2024-07-01",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "SIMOS Insourcing Solutions",
+"company_dba": "",
+"id": "52b3b7aff09f0348",
+"first_seen": "2026-08-31T03:25:20.788809Z"
+},
+{
 "company": "OTS Solutions, LLC dba On Time Staffing",
 "location": "Los Angeles County",
 "employees_affected": 6,
@@ -75985,6 +78702,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Block Inc.",
+"location": "Atlanta",
+"employees_affected": 1,
+"notice_date": "2024-04-02",
+"effective_date": "2024-06-03",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "Block",
+"company_dba": "",
+"id": "b250b247d92dfdfa",
+"first_seen": "2026-08-31T03:25:20.788809Z"
+},
+{
 "company": "Resort Vacations, Inc.",
 "location": "Orange County",
 "employees_affected": 24,
@@ -76206,6 +78936,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Volta Charging Industries, LLC",
+"location": "",
+"employees_affected": 2,
+"notice_date": "2024-04-01",
+"effective_date": "2024-06-01",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "Volta Charging Industries",
+"company_dba": "",
+"id": "681cef91f5507257",
+"first_seen": "2026-08-31T03:32:57.915961Z"
+},
+{
 "company": "Concordia University, Inc.",
 "location": "Mequon",
 "employees_affected": 24,
@@ -76399,6 +79142,32 @@
 "company_dba": "",
 "id": "d963a10d5ea9cc74",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Bionano Genomics Inc",
+"location": "",
+"employees_affected": 76,
+"notice_date": "2024-03-27",
+"effective_date": "2024-05-24",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "Bionano Genomics",
+"company_dba": "",
+"id": "c9cd75ef09b6eb9a",
+"first_seen": "2026-08-31T03:25:20.788809Z"
+},
+{
+"company": "Aludyne",
+"location": "Northside Industrial Blvd Columbus",
+"employees_affected": 193,
+"notice_date": "2024-03-27",
+"effective_date": "2024-06-30",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "Aludyne",
+"company_dba": "",
+"id": "baf5db18edc334e2",
+"first_seen": "2026-08-31T03:25:20.788809Z"
 },
 {
 "company": "Medtronic, Inc.",
@@ -76856,6 +79625,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Jindal Films Americas LLC",
+"location": "Pegasus Parkway LaGrange, Troup County",
+"employees_affected": 98,
+"notice_date": "2024-03-20",
+"effective_date": "2024-05-13",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Jindal Films Americas",
+"company_dba": "",
+"id": "c4177c76f1ab91d4",
+"first_seen": "2026-08-31T03:32:57.915961Z"
+},
+{
 "company": "Northrop Grumman",
 "location": "Los Angeles County",
 "employees_affected": 105,
@@ -76973,6 +79755,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "SWISSPORT CARGO SERVICES LP",
+"location": "ASR Rd Atlanta, Clayton County",
+"employees_affected": 235,
+"notice_date": "2024-03-20",
+"effective_date": "2024-05-22",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "Swissport Cargo Services",
+"company_dba": "",
+"id": "055de61ceeeb0e1f",
+"first_seen": "2026-08-31T03:25:20.788809Z"
+},
+{
 "company": "Reimagined Parking",
 "location": "100 International Drive Baltimore, MD 21202",
 "employees_affected": 3,
@@ -76984,6 +79779,19 @@
 "company_dba": "",
 "id": "e4277b6f2c6a3a03",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Hollingsworth LLC",
+"location": "S Cobb Dr Marietta",
+"employees_affected": 74,
+"notice_date": "2024-03-19",
+"effective_date": "2024-03-31",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "Hollingsworth",
+"company_dba": "",
+"id": "de696c6a00c033ab",
+"first_seen": "2026-08-31T03:32:57.915961Z"
 },
 {
 "company": "Reimagined Parking",
@@ -77010,6 +79818,19 @@
 "company_dba": "",
 "id": "ae180142b90a55e4",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "FedEx Supply Chain, Inc.",
+"location": "Oakley Industrial Blvd Union City, Fulton County",
+"employees_affected": 326,
+"notice_date": "2024-03-19",
+"effective_date": "2024-04-08",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "FedEx Supply Chain",
+"company_dba": "",
+"id": "a81953a3a909a85f",
+"first_seen": "2026-08-31T03:32:57.915961Z"
 },
 {
 "company": "Reimagined Parking",
@@ -79664,6 +82485,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Flexsteel Industries, Inc.",
+"location": "Industrial Blvd Dublin, Laurens County",
+"employees_affected": 154,
+"notice_date": "2024-02-09",
+"effective_date": "2024-02-15",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Flexsteel Industries",
+"company_dba": "",
+"id": "ec8e55bfa896caec",
+"first_seen": "2026-08-31T03:32:57.915961Z"
+},
+{
 "company": "Appen AI, Inc.",
 "location": "Kirkland",
 "employees_affected": 2,
@@ -80652,6 +83486,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "1888 Mills, LLC",
+"location": "Airport Road Griffin, Spalding County",
+"employees_affected": 180,
+"notice_date": "2024-02-02",
+"effective_date": "2024-03-29",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "1888 Mills",
+"company_dba": "",
+"id": "7cc11e806f260cf0",
+"first_seen": "2026-08-31T03:32:57.915961Z"
+},
+{
 "company": "Syngenta Seeds, LLC",
 "location": "Glenn County",
 "employees_affected": 56,
@@ -80702,6 +83549,19 @@
 "company_dba": "",
 "id": "6497c89857654fd9",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "CEVA Logistics",
+"location": "Broadway Ave Braselton, Jackson County",
+"employees_affected": 61,
+"notice_date": "2024-02-02",
+"effective_date": "2024-04-07",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "CEVA Logistics",
+"company_dba": "",
+"id": "58fc62a72153d526",
+"first_seen": "2026-08-31T03:32:57.915961Z"
 },
 {
 "company": "Maxar Space LLC - Meadow",
@@ -81014,6 +83874,19 @@
 "company_dba": "",
 "id": "8b783dae74989b65",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Fineline Industries, LLC",
+"location": "Gil Harbin Industrial Blvd Valdosta, Lowndes County",
+"employees_affected": 92,
+"notice_date": "2024-02-01",
+"effective_date": "2024-04-01",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Fineline Industries",
+"company_dba": "",
+"id": "6be1eafea422ab4b",
+"first_seen": "2026-08-31T03:32:57.915961Z"
 },
 {
 "company": "Covenant Living Communities & Services (Covenant Living West) dba Brandel Manor and Cypress Assisted",
@@ -81445,6 +84318,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "Block Inc",
+"location": "North Avenue NE Atlanta, Fulton County",
+"employees_affected": 27,
+"notice_date": "2024-01-30",
+"effective_date": "2024-03-30",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "Block",
+"company_dba": "",
+"id": "e07916de71442d83",
+"first_seen": "2026-08-31T03:32:57.915961Z"
+},
+{
 "company": "Penske Logistics LLC",
 "location": "Auburn, Arlington, Benton City, Spokane",
 "employees_affected": 125,
@@ -81679,6 +84565,19 @@
 "first_seen": "2026-08-30T21:43:41.512264Z"
 },
 {
+"company": "EVO Transportation and Energy Services, Inc.",
+"location": "Old Dixie Hwy Atlanta, Fulton County",
+"employees_affected": 71,
+"notice_date": "2024-01-30",
+"effective_date": "2024-02-24",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "EVO Transportation and Energy Services",
+"company_dba": "",
+"id": "390e5f521f070395",
+"first_seen": "2026-08-31T03:32:57.915961Z"
+},
+{
 "company": "Matheson Postal Services, Inc.",
 "location": "San Bernardino County",
 "employees_affected": 13,
@@ -81885,6 +84784,19 @@
 "company_dba": "",
 "id": "99e3e7b27dc3617a",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "Crescent Mortgage Company",
+"location": "Atlanta, Fulton County",
+"employees_affected": 65,
+"notice_date": "2024-01-29",
+"effective_date": "2024-03-29",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "Crescent Mortgage",
+"company_dba": "",
+"id": "842f1e6219529c4e",
+"first_seen": "2026-08-31T03:25:20.788809Z"
 },
 {
 "company": "Penske Logistics, LLC providing services for Aldi, Inc.",
@@ -84537,6 +87449,19 @@
 "company_dba": "",
 "id": "0c7da29aa12d55a2",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "GXO Logistics Supply Chain Inc.",
+"location": "Oakley Industrial Blvd Union City, Fulton County",
+"employees_affected": 69,
+"notice_date": "2024-01-17",
+"effective_date": "2024-03-10",
+"notice_type": "Permanent Closure",
+"state": "GA",
+"company_canonical": "GXO Logistics Supply Chain",
+"company_dba": "",
+"id": "e250b693c9f9258a",
+"first_seen": "2026-08-31T03:32:57.915961Z"
 },
 {
 "company": "Amyris, Inc.",

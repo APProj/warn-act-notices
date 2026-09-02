@@ -1,14 +1,24 @@
 {
-  "generated_at": "2026-09-01T22:27:50.881651Z",
-  "total_rows": 40293,
-  "free_rows": 6874,
+  "generated_at": "2026-09-02T05:08:44.856399Z",
+  "total_rows": 44906,
+  "free_rows": 7099,
   "free_window_start": "2024-01-01",
-  "new_ids_this_run": 32,
+  "new_ids_this_run": 4613,
   "delay_hours": 48,
   "states": {
+    "AK": {
+      "rows": 66,
+      "raw_rows": 66,
+      "status": "ok"
+    },
+    "AL": {
+      "rows": 1060,
+      "raw_rows": 1072,
+      "status": "ok"
+    },
     "AZ": {
       "rows": 636,
-      "raw_rows": 636,
+      "raw_rows": 630,
       "status": "ok"
     },
     "CA": {
@@ -24,6 +34,16 @@
     "CT": {
       "rows": 27,
       "raw_rows": 27,
+      "status": "ok"
+    },
+    "DC": {
+      "rows": 143,
+      "raw_rows": 143,
+      "status": "ok"
+    },
+    "DE": {
+      "rows": 100,
+      "raw_rows": 100,
       "status": "ok"
     },
     "FL": {
@@ -71,14 +91,29 @@
       "raw_rows": 1418,
       "status": "ok"
     },
+    "ME": {
+      "rows": 85,
+      "raw_rows": 85,
+      "status": "ok"
+    },
     "MI": {
       "rows": 112,
       "raw_rows": 112,
       "status": "ok"
     },
+    "MS": {
+      "rows": 136,
+      "raw_rows": 136,
+      "status": "ok"
+    },
     "MT": {
       "rows": 46,
       "raw_rows": 46,
+      "status": "ok"
+    },
+    "NC": {
+      "rows": 294,
+      "raw_rows": 294,
       "status": "ok"
     },
     "NE": {
@@ -107,8 +142,13 @@
       "status": "ok"
     },
     "OR": {
-      "rows": 1364,
-      "raw_rows": 1364,
+      "rows": 1369,
+      "raw_rows": 1369,
+      "status": "ok"
+    },
+    "PA": {
+      "rows": 308,
+      "raw_rows": 308,
       "status": "ok"
     },
     "RI": {
@@ -131,6 +171,11 @@
       "raw_rows": 1062,
       "status": "ok"
     },
+    "TX": {
+      "rows": 2358,
+      "raw_rows": 2367,
+      "status": "ok"
+    },
     "UT": {
       "rows": 282,
       "raw_rows": 282,
@@ -150,22 +195,34 @@
       "rows": 617,
       "raw_rows": 635,
       "status": "ok"
+    },
+    "WV": {
+      "rows": 58,
+      "raw_rows": 58,
+      "status": "ok"
     }
   },
   "delay_gap": {
-    "count": 81,
-    "workers": 7084,
+    "count": 108,
+    "workers": 9735,
     "states": [
+      "AL",
       "CA",
       "CO",
+      "DC",
+      "DE",
       "FL",
       "GA",
       "IA",
       "LA",
       "MD",
+      "ME",
+      "NC",
       "NJ",
       "OR",
-      "WA"
+      "PA",
+      "WA",
+      "WV"
     ],
     "window_days": 45,
     "note": "Notices dated within the last 45 days that are in the real-time feed but not yet in this repo's free files; each appears here after its 48h delay expires."

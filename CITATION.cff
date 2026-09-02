@@ -18,7 +18,7 @@ keywords:
   - open data
 abstract: >-
   Deduplicated, schema-normalized dataset of US WARN Act layoff notices
-  collected from official state labor department listings across 29 states,
+  collected from official state labor department listings across 39 states,
   refreshed daily. Free tier covers 2024-present with a 48-hour delay; fields
   include employer (raw and canonicalized), location, employees affected,
   notice and effective dates, and notice type. Collection builds on the

@@ -1,7 +1,7 @@
 # WARN Feed — US WARN Act layoff notices (normalized, daily-updated)
 
 > Free, no-login dataset of US WARN Act layoff notices from official state
-> labor department listings, normalized into one schema across 29 states and
+> labor department listings, normalized into one schema across 39 states and
 > refreshed daily. Free tier covers 2024-present, 48 hours delayed. Fields:
 > state, company (raw + canonicalized), location, employees_affected,
 > notice_date, effective_date, notice_type, first_seen. License: CC BY 4.0

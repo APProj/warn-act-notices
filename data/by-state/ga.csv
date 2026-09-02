@@ -1,0 +1,226 @@
+id,state,company,company_canonical,company_dba,location,employees_affected,notice_date,effective_date,notice_type,first_seen
+d949316ac0130260,GA,"Republic National Distributing Company of Texas, LLC",Republic National Distributing Company of Texas,,"National Dr SW Atlanta, Appling County",157,2026-08-26,2026-10-19,Permanent Closure,2026-08-31T03:25:20.788809Z
+c35ecf4033383ceb,GA,"Republic National Distributing Company, LLC",Republic National Distributing,,"National Dr SW Atlanta, Cobb County",321,2026-08-26,2026-10-19,Permanent Closure,2026-08-31T03:25:20.788809Z
+1789e7d5f3a72ed1,GA,"Young's Market Company, LLC",Young's Market,,"National Dr SW Atlanta, Cobb County",78,2026-08-26,2026-10-19,Permanent Closure,2026-08-31T03:25:20.788809Z
+046dc8d0d6b35f77,GA,"Young's Market Company of Arizona, LLC",Young's Market Company of Arizona,,"National Dr SW Atlanta, Cobb County",2,2026-08-26,2026-10-19,Permanent Closure,2026-08-31T03:25:20.788809Z
+e75411debc7b839a,GA,KidsPeace National Centers of Georgia,KidsPeace National Centers of Georgia,,"Kidspeace Dr Bowdon, Carroll County",95,2026-08-25,2026-10-24,Permanent Closure,2026-08-31T03:25:20.788809Z
+7f53adb37e8fd4ce,GA,Asama Coldwater Manufacturing Georgia,Asama Coldwater Manufacturing Georgia,,"Thomson Hwy Warrenton, Warren County",102,2026-08-19,2026-10-14,Permanent Closure,2026-08-31T03:32:57.915961Z
+431db1eed77f4416,GA,Anchor Glass Container Corporation,Anchor Glass Container,,"Booth Rd Warner Robins, Houston County",168,2026-08-18,2026-10-17,Permanent Closure,2026-08-31T03:32:57.915961Z
+1eab38fb0dcf3ec3,GA,Meyn Americas,Meyn Americas,,"Evenflo Dr Ball Ground, Cherokee County",150,2026-08-18,2026-10-01,Permanent Closure,2026-08-31T03:25:20.788809Z
+c66cbecafefd1e02,GA,SMBC Manubank,SMBC Manubank,,,5,2026-08-12,2026-10-09,Permanent Layoff / Reduction in Force,2026-08-31T03:32:57.915961Z
+59f1f82300425fe9,GA,"80 Acres Urban Agriculture, Inc",80 Acres Urban Agriculture,,"Forest Park, Clayton County",110,2026-08-05,2026-08-03,Permanent Layoff / Reduction in Force,2026-08-31T03:25:20.788809Z
+5ad31d7c4c6e4e36,GA,Essendant,Essendant,,Horizon Dr Suwanee,192,2026-08-04,2026-10-03,Permanent Closure,2026-08-31T03:25:20.788809Z
+fafc164879d6d0f0,GA,"Wellstar Health System, Inc.",Wellstar Health System,,"Sawyer Rd Marietta, Cobb County",761,2026-08-03,2026-09-26,Permanent Layoff / Reduction in Force,2026-08-31T03:32:57.915961Z
+bb34fa780a57022d,GA,Elite Comfort Solutions,Elite Comfort Solutions,,"Sprayberry Road Newnan, Coweta County",102,2026-07-20,2026-08-14,Permanent Closure,2026-08-31T03:25:20.788809Z
+6179244cd8665f53,GA,"TEKsystems Global Services, LLC",TEKsystems Global Services,,Fayetteville,126,2026-07-15,2026-07-15,Permanent Layoff / Reduction in Force,2026-08-31T03:32:57.915961Z
+673611208b3695d4,GA,"Home Express Delivery Service, LLC",Home Express Delivery Service,,"Stonecrest Industrial Way Lithonia, DeKalb County",92,2026-07-14,2026-09-26,Permanent Layoff / Reduction in Force,2026-08-31T03:25:20.788809Z
+2e8ff5cd6c4a03b2,GA,Asama Coldwater Manufacturing Georgia LLC,Asama Coldwater Manufacturing Georgia,,"Thomson Hwy Warrenton, Warren County",107,2026-07-09,2026-09-18,Permanent Closure,2026-08-31T03:32:57.915961Z
+f416f32d5b140971,GA,Conduent,Conduent,,A,70,2026-06-29,2026-08-28,Permanent Layoff / Reduction in Force,2026-08-31T03:32:57.915961Z
+c001cd8148e17bf4,GA,"Americold Logistics, LLC",Americold Logistics,,"Xavier Dr SW Atlanta, Fulton County",69,2026-06-23,2026-08-31,Permanent Closure,2026-08-31T03:25:20.788809Z
+78691f7bf7958d4a,GA,SMBC MANUBANK,Smbc Manubank,,Park Ave New York,3,2026-06-05,2026-08-03,Permanent Layoff / Reduction in Force,2026-08-31T03:32:57.915961Z
+607701e366568140,GA,Constellium Automotive USA LLC,Constellium Automotive,,Constellium Dr NE White,57,2026-06-01,2026-08-01,Permanent Layoff / Reduction in Force,2026-08-31T03:32:57.915961Z
+27fbf244e7570823,GA,"SDH Services East, LLC",SDH Services East,,"Delta Blvd Atlanta, Fulton County",70,2026-06-01,2026-08-08,Permanent Layoff / Reduction in Force,2026-08-31T03:25:20.788809Z
+fe18d0f9cb42f08d,GA,Ideal US Talent Systems Worker OpCo LLC,Ideal US Talent Systems Worker OpCo,,,687,2026-05-29,2026-07-01,Permanent Layoff / Reduction in Force,2026-08-31T03:32:57.915961Z
+f86a8415d8bf33dc,GA,Americold Logistics LLC,Americold Logistics,,"Tradewater Pkwy Atlanta, Fulton County",69,2026-05-29,2026-07-31,Permanent Closure,2026-08-31T03:25:20.788809Z
+cb9f86f012464fdc,GA,Spirit Airlines,Spirit Airlines,,"N Terminal Pkwy Atlanta, Clayton County",653,2026-05-29,2026-05-02,Permanent Closure,2026-08-31T03:32:57.915961Z
+9a6634357dc678bb,GA,"Inalfa Roof Systems, Inc",Inalfa Roof Systems,,"Cherokee Pkwy Acworth, Cherokee County",127,2026-05-19,2026-07-17,Permanent Layoff / Reduction in Force,2026-08-31T03:25:20.788809Z
+472b0a8d402e2834,GA,"Bitcoin Depot Operating, LLC",Bitcoin Depot Operating,,"Dunwoody Place Sandy Springs, Fulton County",109,2026-05-18,2026-07-17,Permanent Closure,2026-08-31T03:32:57.915961Z
+a88c3fbd70839502,GA,Jacuzzi Inc.,Jacuzzi,,"Highland Dr Valdosta, Lowndes County",110,2026-05-12,2026-07-11,Permanent Closure,2026-08-31T03:32:57.915961Z
+8fc3761763e78248,GA,Milliken & Company,Milliken &,,"Nicholls, Bacon County",81,2026-05-05,2026-07-10,Permanent Closure,2026-08-31T03:32:57.915961Z
+6579e2220bec7606,GA,"MarketSource, Inc.",MarketSource,,"Great Oaks Way Alpharetta, Fulton County",51,2026-05-05,2026-06-30,Permanent Layoff / Reduction in Force,2026-08-31T03:32:57.915961Z
+38a1e1724ccf6eed,GA,"Bridgestone Golf, Inc.",Bridgestone Golf,,"Industrial Park Blvd NE Covington, Newton County",84,2026-05-01,2026-06-30,Permanent Closure,2026-08-31T03:32:57.915961Z
+f10ef1e4957e2b97,GA,SKF USA INC,SKF,,"McEver Rd Flowery Branch, Hall County",40,2026-04-23,2026-06-26,Permanent Layoff / Reduction in Force,2026-08-31T03:32:57.915961Z
+403c1c4f37d6f0ec,GA,"SDH Education East, LLC",SDH Education East,,"College St Young Harris, Towns County",74,2026-04-09,2026-05-29,Permanent Closure,2026-08-31T03:32:57.915961Z
+5f44e8ea5c80bf01,GA,Tri-Starr Management Services,Tri-Starr Management Services,,Crandall,15,2026-04-01,2026-06-06,Permanent Closure,2026-08-31T03:32:57.915961Z
+fe1ee5d90fb238c1,GA,Accenture,Accenture,,"Atlanta, Fulton County",54,2026-03-31,2026-06-08,Permanent Layoff / Reduction in Force,2026-08-31T03:32:57.915961Z
+6b5a878b8a9fa8e0,GA,Thrive SMP LLC,Thrive SMP,,"Robert E Lee Blvd Stone Mountain, DeKalb County",497,2026-03-31,2026-06-01,Permanent Closure,2026-08-31T03:32:57.915961Z
+3f824cc19a5a15ab,GA,"Parsec, LLC",Parsec,,"Jr. Memorial Hwy Austell, Cobb County",179,2026-03-31,2026-05-01,Permanent Closure,2026-08-31T03:25:20.788809Z
+28dff272c3d7beaf,GA,"Astemo Americas, Inc",Astemo Americas,,"Honda Pkwy Tallapoosa, Haralson County",60,2026-03-27,2026-04-03,Permanent Closure,2026-08-31T03:32:57.915961Z
+ad49570afec051e1,GA,The Hillshire Brands Company,Hillshire Brands,,"Darlington Dr SW Rome, Floyd County",168,2026-03-26,2026-05-31,Permanent Closure,2026-08-31T03:32:57.915961Z
+9df15152c5726107,GA,KPR US LLC,KPR US,,"Marvin Griffin Rd Augusta, Richmond County",213,2026-03-11,2026-05-15,Permanent Closure,2026-08-31T03:32:57.915961Z
+9df0f3a996e96777,GA,C2 Technologies,C2 Technologies,,,1,2026-03-11,2026-03-06,Permanent Layoff / Reduction in Force,2026-08-31T03:32:57.915961Z
+8f4db7d28840471c,GA,"SK Battery America, Inc.",SK Battery America,,"SK Blvd. Commerce, Jackson County",958,2026-03-06,2026-05-06,Permanent Layoff / Reduction in Force,2026-08-31T03:32:57.915961Z
+9efebeeef97e6865,GA,"MarketSource, Inc.",MarketSource,,"Great Oaks Way Alpharetta, Fulton County",57,2026-02-26,2026-02-26,Permanent Layoff / Reduction in Force,2026-08-31T03:32:57.915961Z
+68f6ea21dfa4695d,GA,IPIC Theaters LLC,IPIC Theaters,,Atlanta,163,2026-02-25,2026-04-28,Permanent Closure,2026-08-31T03:25:20.788809Z
+fb879dbb4c33e598,GA,Main Street Sports Group,Main Street Sports Group,,"Peachtree St NE Colony Square Atlanta, Fulton County",74,2026-02-16,2026-04-14,Permanent Closure,2026-08-31T03:25:20.788809Z
+d108f40b87936d2f,GA,"ION Media Networks, Inc.",ION Media Networks,,"Piedmont Rd NE Atlanta, Fulton County",53,2026-02-16,2026-04-10,Permanent Layoff / Reduction in Force,2026-08-31T03:32:57.915961Z
+26d0c953e835541d,GA,"Impact Outsourcing Solutions VI, LLC",Impact Outsourcing Solutions VI,,"Jonesboro Rd Jonesboro, Spalding County",76,2026-02-13,2026-04-13,Permanent Closure,2026-08-31T03:25:20.788809Z
+ede5cab9802fe2e8,GA,Moove Cars Mobility Usa Corp,Moove Cars Mobility,,"Oakleigh Dr East Point, Fulton County",83,2026-02-10,2026-04-10,Permanent Closure,2026-08-31T03:32:57.915961Z
+7a813f357c8cf855,GA,"WWL Vehicle Services Americas, Inc.",WWL Vehicle Services Americas,,"Penniman Cir Brunswick, Glynn County",65,2026-02-09,2026-04-10,Permanent Layoff / Reduction in Force,2026-08-31T03:25:20.788809Z
+c230d3214bba76bd,GA,"Tessera Therapeutics, Inc",Tessera Therapeutics,,,1,2026-02-05,2026-03-08,Permanent Layoff / Reduction in Force,2026-08-31T03:25:20.788809Z
+c2262c2abd0ac086,GA,Aludyne Inc,Aludyne,,"Northside Industrial Blvd Columbus, Muscogee County",341,2026-02-05,2026-01-01,Permanent Closure,2026-08-31T03:32:57.915961Z
+ba29fea761131077,GA,Sumitomo Mitsui Banking Corporation,Sumitomo Mitsui Banking,,,3,2026-02-05,2026-03-10,Permanent Layoff / Reduction in Force,2026-08-31T03:32:57.915961Z
+b127f2fcd4dfc327,GA,Liberty Dental Plan Corporation,Liberty Dental Plan,,,1,2026-02-05,2026-04-06,Permanent Layoff / Reduction in Force,2026-08-31T03:25:20.788809Z
+1095d4c0a5c37151,GA,Big Tex Trailer Manufacturing LLC,Big Tex Trailer Manufacturing,,"S Midway Rd Cordele, Crisp County",100,2026-02-05,2026-01-16,Permanent Closure,2026-08-31T03:32:57.915961Z
+05b4643a703f7bba,GA,"GMRI, Inc.",GMRI,,"Breckinridge Blvd Duluth, Gwinnett County",78,2026-02-05,2026-04-05,Permanent Closure,2026-08-31T03:25:20.788809Z
+23e1ed66f0f20c13,GA,KIPP Atlanta Schools,KIPP Atlanta Schools,,"Maynard Rd NW Atlanta, Fulton County",122,2026-02-04,2026-06-30,Permanent Closure,2026-08-31T03:32:57.915961Z
+95d19fa8fb3d9656,GA,TLC of Georgia LLC,TLC of Georgia,,Sugar Hill,78,2026-01-31,2026-04-04,Permanent Closure,2026-08-31T03:32:57.915961Z
+3609812954071f60,GA,"Continental Tire the Americas, LLC’s","Continental Tire the Americas, LLC's",,"Aldora St Barnesville, Lamar County",235,2026-01-30,2026-03-31,Permanent Closure,2026-08-31T03:32:57.915961Z
+e01afa2ed3570a05,GA,"TelaForce, LLC",TelaForce,,"Forsyth St SW Atlanta, Fulton County",73,2026-01-28,2026-03-20,Permanent Layoff / Reduction in Force,2026-08-31T03:32:57.915961Z
+c2c5ec3928bb2141,GA,"Zeco Systems, Inc",Zeco Systems,,,3,2026-01-28,2025-10-31,Permanent Layoff / Reduction in Force,2026-08-31T03:25:20.788809Z
+b30cd5001da95b99,GA,"Home Depot U.S.A, Inc.",Home Depot U.S.A,,"Paces Ferry Rd SE Atlanta, Cobb County",797,2026-01-28,2026-03-31,Permanent Layoff / Reduction in Force,2026-08-31T03:32:57.915961Z
+a0339db02ab2a406,GA,"Waddington North America, Inc. a Novolex entity","Waddington North America, Inc. a Novolex entity",,"Sangamore Rd Bremen, Haralson County",49,2026-01-28,2026-03-31,Permanent Closure,2026-08-31T03:32:57.915961Z
+8b73ede7dd6532b6,GA,Kuehne-Nagel,Kuehne-Nagel,,"Colvin Dr Locust Grove, Henry County",153,2026-01-28,2026-04-01,Permanent Closure,2026-08-31T03:32:57.915961Z
+560d589612c85b42,GA,"S&S Activewear, LLC",S&S Activewear,,N Berkeley Lake Rd NW Duluth,114,2026-01-28,2025-12-04,Permanent Closure,2026-08-31T03:32:57.915961Z
+507a505a80ee86d4,GA,TTEC Services Corporation,TTEC Services,,Duluth,169,2026-01-26,2026-03-31,Permanent Layoff / Reduction in Force,2026-08-31T03:25:20.788809Z
+01dd3bfd6f826a6b,GA,"GXO Logistics Worldwide, LLC",GXO Logistics Worldwide,,"Riverside Pkwy Lithia Springs, Douglas County",85,2026-01-20,2026-03-31,Permanent Closure,2026-08-31T03:25:20.788809Z
+efd1397e93c2b1e6,GA,Chemours,Chemours,,"Zero Bay Rd Patterson, Pierce County",54,2026-01-05,2026-03-06,Permanent Layoff / Reduction in Force,2026-08-31T03:25:20.788809Z
+1bc8646942d4ec8d,GA,The Coca-Cola Company,Coca-Cola,,"One Coca-Cola Plaza NW Atlanta, Fulton County",75,2025-12-30,2025-02-28,Permanent Layoff / Reduction in Force,2026-08-31T03:25:20.788809Z
+a428960fe71a378d,GA,"Railcrew Xpress, LLC",Railcrew Xpress,,E. Boundary Street Augusta,55,2025-12-22,2026-02-27,Permanent Closure,2026-08-31T03:25:20.788809Z
+71e9048dba51ed47,GA,Gainesville Jaycees Vocational Rehabilitation Center,Gainesville Jaycees Vocational Rehabilitation Center,,"Athens St Gainesville, Hall County",19,2025-12-22,2026-02-27,Permanent Closure,2026-08-31T03:32:57.915961Z
+d237105852db32fa,GA,Comprehensive Logistics,Comprehensive Logistics,,"Crandall, Murray County",105,2025-12-17,2026-03-07,Permanent Closure,2026-08-31T03:32:57.915961Z
+1e732bae41df5335,GA,"Quad/Graphics, Inc.",Quad/Graphics,,Duplainville Rd The Rock,241,2025-12-16,2025-12-19,Permanent Closure,2026-08-31T03:25:20.788809Z
+6be86cdc631be514,GA,Urology Center of Columbus,Urology Center of Columbus,,"Talbotton Rd Columbus, Muscogee County",32,2025-11-26,2025-12-05,Permanent Closure,2026-08-31T03:32:57.915961Z
+e4c1c24887bb0187,GA,"SDH Service East,LLC",SDH Service East,,"Wheeler Rd Augusta, Richmond County",67,2025-11-14,2026-01-31,Permanent Layoff / Reduction in Force,2026-08-31T03:32:57.915961Z
+1c07418dba38289d,GA,"SDH Services EAST,LLC",SDH Services EAST,,"Waters Ave Savannah, Chatham County",120,2025-11-14,2026-01-31,Permanent Layoff / Reduction in Force,2026-08-31T03:32:57.915961Z
+89dfd4cfe8490d9d,GA,CoStar Group,CoStar Group,,"Atlanta, Fulton County",3,2025-11-11,2026-01-12,Permanent Layoff / Reduction in Force,2026-08-31T03:25:20.788809Z
+e83c687cab8689cf,GA,General Motors LLC,General Motors,,"Sun Valley Dr Roswell, Fulton County",325,2025-11-10,2025-12-12,Permanent Closure,2026-08-31T03:32:57.915961Z
+940d4c0819001326,GA,"SimplyIOA, LLC",SimplyIOA,,,65,2025-11-10,2025-12-02,Permanent Layoff / Reduction in Force,2026-08-31T03:32:57.915961Z
+91c5aa4361b99f9a,GA,"Baker & Taylor, LLC",Baker & Taylor,,"Mt Olive Church Rd Commerce, Jackson County",289,2025-11-10,2025-10-06,Permanent Closure,2026-08-31T03:32:57.915961Z
+8a71d4370bb05c91,GA,"Lehigh Technologies, Inc.",Lehigh Technologies,,"Royal Woods Ct Tucker, DeKalb County",55,2025-11-10,2026-02-02,Permanent Closure,2026-08-31T03:25:20.788809Z
+27883637eec00d13,GA,Smurfit Westrock,Smurfit Westrock,,"Purdue Dr SW Atlanta, Fulton County",55,2025-11-10,2026-01-05,Permanent Layoff / Reduction in Force,2026-08-31T03:32:57.915961Z
+637f091bb90a96fa,GA,"West Fraser, Inc.",West Fraser,,"Doug Barnard Pkwy Augusta, Richmond County",130,2025-11-06,2026-01-05,Permanent Closure,2026-08-31T03:32:57.915961Z
+5cd3ef0c57c030cd,GA,"Integrated Health Resources, LLC",Integrated Health Resources,,"Peachtree St NE Atlanta, Fulton County",107,2025-10-31,2025-12-31,Permanent Closure,2026-08-31T03:32:57.915961Z
+aa6408a3d0191b9f,GA,The William Carter Company,William Carter,,"Atlanta, Fulton County",189,2025-10-30,2025-12-31,Permanent Layoff / Reduction in Force,2026-08-31T03:25:20.788809Z
+60033b68d16cae88,GA,"Mannington Mills, Inc.",Mannington Mills,,Enterprise Dr Dalton,211,2025-10-29,2025-12-27,Permanent Closure,2026-08-31T03:32:57.915961Z
+3322a61574aa1ac2,GA,Saddle Creek Logistics Services,Saddle Creek Logistics Services,,Coweta Industrial Pkwy Newnan,128,2025-10-27,2026-01-10,Permanent Layoff / Reduction in Force,2026-08-31T03:25:20.788809Z
+c1ae7205ccedb4b0,GA,RATP Dev USA Inc,RATP Dev,,"Regency Drive Augusta, Richmond County",80,2025-10-22,2025-12-31,Permanent Closure,2026-08-31T03:32:57.915961Z
+3402383146bee282,GA,Comcast,Comcast,,"Pkwy Atlanta, Cobb County",240,2025-10-15,2025-12-31,Permanent Layoff / Reduction in Force,2026-08-31T03:32:57.915961Z
+2bfda14d1ceadc39,GA,"Nichiha USA, Inc",Nichiha,,"Avondale Mill Rd Macon, Fulton County",171,2025-10-09,2025-12-06,Permanent Layoff / Reduction in Force,2026-08-31T03:25:20.788809Z
+d789d672db64b104,GA,"Augusta Sportswear, Inc",Augusta Sportswear,,"W Grovetown, Columbia County",93,2025-10-07,2025-12-19,Permanent Closure,2026-08-31T03:25:20.788809Z
+a8cd199763b85b27,GA,"CoStar Realty Realty Information, Inc",CoStar Realty Realty Information,,"Peachtree Rd NE Atlanta, Fulton County",6,2025-10-02,2025-12-01,Permanent Layoff / Reduction in Force,2026-08-31T03:32:57.915961Z
+15311d8f6b51b241,GA,Americold Logistics,Americold Logistics,,"Pleasantdale Rd Atlanta, DeKalb County",4,2025-10-02,2025-12-01,Permanent Layoff / Reduction in Force,2026-08-31T03:32:57.915961Z
+3962551eb68b8539,GA,Spirit Airlines LLC,Spirit Airlines,,N Terminal Pkwy Atlanta,334,2025-09-24,2025-12-01,Temporary Layoff,2026-08-31T03:32:57.915961Z
+b2e82d4c694c67ce,GA,Global Resource International/ Alleset INC.,Global Resource International/ Alleset,,"Northwoods Pkwy Peachtree Corners, Gwinnett County",41,2025-09-09,2025-11-14,Permanent Closure,2026-08-31T03:32:57.915961Z
+67be5bdeab449847,GA,Americold Logistics,Americold Logistics,,"Pleasantdale Rd Atlanta, DeKalb County",3,2025-08-28,2025-10-28,Permanent Layoff / Reduction in Force,2026-08-31T03:32:57.915961Z
+3009bf663d075bde,GA,"Country Home Bakers, LLC",Country Home Bakers,,"Metropolitan Pkwy SW Atlanta, Fulton County",164,2025-08-28,2025-10-27,Permanent Closure,2026-08-31T03:32:57.915961Z
+a490c7cd0c72d760,GA,"APL Logistics Warehouse Management Services, Inc.",APL Logistics Warehouse Management Services,,Rock House Rd Lithia Springs,118,2025-08-27,2025-10-31,Permanent Closure,2026-08-31T03:25:20.788809Z
+b7b622abf0ed3679,GA,J.B. Hunt Transport Inc.,J.B. Hunt Transport,,"Stonecrest Industrial Wy Lithonia, DeKalb County",74,2025-08-26,2025-10-27,Permanent Closure,2026-08-31T03:25:20.788809Z
+92b8044ca8549ed8,GA,Hormel Foods Corporation,Hormel Foods,,"Montreal Industrial Way Tucker, DeKalb County",135,2025-08-25,2025-10-26,Permanent Layoff / Reduction in Force,2026-08-31T03:32:57.915961Z
+ba0f905d18c6163c,GA,Interstate Paper LLC,Interstate Paper,,"Interstate Paper Road Riceboro, Liberty County",220,2025-08-21,2025-10-20,Permanent Closure,2026-08-31T03:32:57.915961Z
+a513fbb85e59be79,GA,"RB Lumber Company, LLC",RB Lumber,,"Interstate Paper Rd Riceboro, Liberty County",68,2025-08-21,2025-10-20,Permanent Closure,2026-08-31T03:32:57.915961Z
+8c73c6b6d4914e50,GA,"Newport Timber, LLC",Newport Timber,,"Interstate Paper Rd Riceboro, Liberty County",13,2025-08-21,2025-10-20,Permanent Closure,2026-08-31T03:32:57.915961Z
+83378119a66bd1d8,GA,International Paper Savannah Mill,International Paper Savannah Mill,,"Old W Lathrop Ave Savannah, Chatham County",691,2025-08-21,2025-10-20,Permanent Closure,2026-08-31T03:32:57.915961Z
+534b0b6d061dc30e,GA,International Paper,International Paper,,"W Lathrop Ave Savannah, Chatham County",101,2025-08-21,2025-10-20,Permanent Closure,2026-08-31T03:32:57.915961Z
+7087bf8deec07dd5,GA,Soli Organic Inc.,Soli Organic,,Washington St Jefferson,128,2025-08-15,2025-10-15,Permanent Closure,2026-08-31T03:25:20.788809Z
+6ce3e1a52c94b74c,GA,FreshRealm,FreshRealm,,Airport Dr Montezuma,75,2025-08-15,2025-10-14,Permanent Closure,2026-08-31T03:32:57.915961Z
+c63d35fdebbecce5,GA,"Kinder Morgan, Inc.",Kinder Morgan,,Alpharetta,42,2025-08-14,2025-10-17,Permanent Closure,2026-08-31T03:32:57.915961Z
+29918cb2e17265e2,GA,"United Surface Solutions, LLC",United Surface Solutions,,"S Chatsworth, Murray County",112,2025-08-14,2025-10-12,Permanent Closure,2026-08-31T03:32:57.915961Z
+032e8350025d982c,GA,Block Inc,Block,,,4,2025-08-12,2025-10-13,Permanent Layoff / Reduction in Force,2026-08-31T03:25:20.788809Z
+af170ca3a8dccac4,GA,Americold Logistics,Americold Logistics,,"Pleasantdale Rd Atlanta, DeKalb County",5,2025-08-07,2025-10-06,Permanent Layoff / Reduction in Force,2026-08-31T03:32:57.915961Z
+32f1f6ff76460772,GA,"Unifi Aviation, LLC",Unifi Aviation,,"N Terminal Pkwy Atlanta, Fulton County",379,2025-08-05,2025-09-30,Permanent Closure,2026-08-31T03:25:20.788809Z
+81e6ee3c8102b23d,GA,Americold Logistics,Americold Logistics,,"Pleasantdale Rd Atlanta, DeKalb County",12,2025-07-31,2025-09-30,Permanent Layoff / Reduction in Force,2026-08-31T03:32:57.915961Z
+b3027d973a35366d,GA,Community Development Institute Head Start,Community Development Institute Head Start,,"Multiple locations included on attached document Thomson, McDuffie County",77,2025-07-30,2025-09-30,Permanent Closure,2026-08-31T03:32:57.915961Z
+61bac5725c62c66d,GA,Yamaha Motor Manufacturing Corporation,Yamaha Motor Manufacturing,,"International Park Newnan, Coweta County",160,2025-07-30,2025-10-04,Permanent Layoff / Reduction in Force,2026-08-31T03:32:57.915961Z
+518415c008544339,GA,Americold Logistics,Americold Logistics,,"Pleasantdale Rd Atlanta, DeKalb County",36,2025-07-18,2025-09-16,Permanent Layoff / Reduction in Force,2026-08-31T03:32:57.915961Z
+f1ea84015bf9b955,GA,"Backyard PlayNation, LLC",Backyard PlayNation,,"Industrial Court Canton, Cherokee County",66,2025-07-16,2025-09-17,Permanent Closure,2026-08-31T03:32:57.915961Z
+91af03326094e44c,GA,"Whitepath Fab Tech, Inc",Whitepath Fab Tech,,"Ellijay, Gilmer County",42,2025-07-14,2025-09-11,Permanent Layoff / Reduction in Force,2026-08-31T03:32:57.915961Z
+6c71009cf4973927,GA,"Quality Built, LLC",Quality Built,,,4,2025-07-14,2025-07-03,Permanent Layoff / Reduction in Force,2026-08-31T03:32:57.915961Z
+9300b6e38edaf1ab,GA,"GSC Transport, Inc",GSC Transport,,"Savannah, Chatham County",4,2025-07-10,2025-07-10,Permanent Closure,2026-08-31T03:25:20.788809Z
+aa7fef69b55550e9,GA,Hyatt Corporation,Hyatt,,"East Paces Ferry Rd NE Atlanta, Fulton County",102,2025-07-03,2025-07-01,Permanent Closure,2026-08-31T03:32:57.915961Z
+8405768f7d349036,GA,Americold Logistics,Americold Logistics,,"Pleasantdale Rd Atlanta, DeKalb County",110,2025-07-03,2025-09-05,Permanent Layoff / Reduction in Force,2026-08-31T03:32:57.915961Z
+3cf24aa645cfa087,GA,"Pourlessoins, LLC",Pourlessoins,,"Atlanta, DeKalb County",8,2025-07-02,2025-08-31,Permanent Layoff / Reduction in Force,2026-08-31T03:25:20.788809Z
+8919dce83cb0adc5,GA,"Kelly Services, Inc.",Kelly Services,,Various Remote Locations - See Attached Letter See Attached Letter See Attached Letter,973,2025-06-30,2025-06-27,Permanent Closure,2026-08-31T03:32:57.915961Z
+17ad0437941d2e6c,GA,"IG Design Group Americas, Inc.",IG Design Group Americas,,"Atlanta, DeKalb County",53,2025-06-27,2025-08-26,Permanent Closure,2026-08-31T03:25:20.788809Z
+5d975054b661418a,GA,"BLST Operating Company, LLC",BLST Operating,,Industrial Blvd Eatonton,160,2025-06-23,2025-08-22,Permanent Layoff / Reduction in Force,2026-08-31T03:32:57.915961Z
+1037cc2de55ee02d,GA,Wellpath,Wellpath,,"County Services Pkwy Marietta, Cobb County",68,2025-06-23,2025-08-01,Permanent Closure,2026-08-31T03:32:57.915961Z
+909eeb413bf808a1,GA,Target Corporation,Target,,Little Hearst Pkwy Savannah,62,2025-06-12,2025-08-15,Permanent Closure,2026-08-31T03:32:57.915961Z
+7ceec6452d16c9c6,GA,TransAxle LLC,TransAxle,,"Kennedy Rd Forest Park, Clayton County",209,2025-05-23,2025-07-15,Permanent Closure,2026-08-31T03:25:20.788809Z
+294a91f6efa1a078,GA,"NexTraq, LLC",NexTraq,,"Atlanta, DeKalb County",39,2025-05-21,2025-07-20,Permanent Layoff / Reduction in Force,2026-08-31T03:25:20.788809Z
+8052f84b636cdac3,GA,FedEx Supply Chain Inc's,FedEx Supply Chain Inc's,,Logistics Parkway Jackson,383,2025-05-16,2025-07-14,Temporary Layoff,2026-08-31T03:25:20.788809Z
+ffbd673546a06776,GA,WIOSS Atlanta LP,WIOSS Atlanta,,"Anvil Block Rd Forest Park, Clayton County",53,2025-05-15,2025-07-19,Permanent Layoff / Reduction in Force,2026-08-31T03:32:57.915961Z
+66b5ec18e5aae804,GA,"Georgia-Pacific, LLC",Georgia-Pacific,,"West Cedar Springs, Early County",535,2025-05-14,2025-08-01,Permanent Closure,2026-08-31T03:25:20.788809Z
+fbffddd4b8159e29,GA,"Atco Rubber Products, Inc.",Atco Rubber Products,,"S Erwin St Cartersville, Bartow County",124,2025-05-02,2025-07-01,Permanent Closure,2026-08-31T03:32:57.915961Z
+1103ed3874e05443,GA,"CoStar Realty Information, Inc.",CoStar Realty Information,,Peachtree Rd NE Atlanta,84,2025-04-18,2025-06-30,Permanent Layoff / Reduction in Force,2026-08-31T03:32:57.915961Z
+601b8d8fa859afaa,GA,"Davis Express, Inc.",Davis Express,,,163,2025-04-16,2025-06-15,Permanent Closure,2026-08-31T03:25:20.788809Z
+5b4465c42a6158f6,GA,United States Cellular Corporation,United States Cellular,,Courtyards Dr Norcross,4100,2025-04-07,2025-06-02,Permanent Layoff / Reduction in Force,2026-08-31T03:32:57.915961Z
+624c1cfb337a37c5,GA,Saddle Creek Logistics Services,Saddle Creek Logistics Services,,Atlanta,73,2025-04-02,2025-06-01,Permanent Layoff / Reduction in Force,2026-08-31T03:25:20.788809Z
+3da88dc83a3e290f,GA,"Piedmont Athens Regional Medical Center, Inc.",Piedmont Athens Regional Medical Center,,"Prince Ave Athens, Clarke County",95,2025-04-02,2025-06-02,Permanent Layoff / Reduction in Force,2026-08-31T03:32:57.915961Z
+11c47ce460815c63,GA,"Block, Inc.",Block,,"North Avenue NE Atlanta, Fulton County",49,2025-03-25,2025-05-24,Permanent Layoff / Reduction in Force,2026-08-31T03:32:57.915961Z
+54606615d07100df,GA,Essendant,Essendant,,Lithia Springs,64,2025-03-20,2025-05-23,Permanent Closure,2026-08-31T03:32:57.915961Z
+1d973358e04563d2,GA,"Danimer Scientific Holdings, LLC",Danimer Scientific Holdings,,"Industrial Blvd Bainbridge, Decatur County",82,2025-03-14,2025-03-14,Permanent Closure,2026-08-31T03:32:57.915961Z
+e82a4afb929d1b98,GA,"National Distribution Centers, LLC",National Distribution Centers,,"Oakley Industrial Blvd Fairburn, Fulton County",90,2025-03-11,2025-04-19,Permanent Closure,2026-08-31T03:32:57.915961Z
+8804a183b45fea6c,GA,Greif Inc,Greif,,"Joe Jerkins Blvd Austell, Cobb County",61,2025-03-11,2025-04-10,Permanent Closure,2026-08-31T03:32:57.915961Z
+b6c4582dc4f707e8,GA,Archway Marketing Services Inc.,Archway Marketing Services,,"International Park Newnan, Coweta County",60,2025-03-05,2025-03-31,Permanent Layoff / Reduction in Force,2026-08-31T03:25:20.788809Z
+133f0540a1738039,GA,Macy's Gwinnett Place,Macy's Gwinnett Place,,"Duluth, Gwinnett County",62,2025-03-05,2025-03-18,Permanent Closure,2026-08-31T03:25:20.788809Z
+cae9dcf6abcca745,GA,Harvest Sherwood Food Distributors,Harvest Sherwood Food Distributors,,"Fulton Industrial Blvd SW Atlanta, Fulton County",113,2025-03-04,2025-02-18,Permanent Layoff / Reduction in Force,2026-08-31T03:32:57.915961Z
+adbd2e31e65d5d71,GA,Animal Supply Company LLC,Animal Supply,,Shawnee Industrial Way Suwanee,57,2025-03-04,2025-02-07,Permanent Layoff / Reduction in Force,2026-08-31T03:32:57.915961Z
+8c474aef7321eb48,GA,"Bailey Street Bakery, LLC",Bailey Street Bakery,,"Bailey St SW Atlanta, Fulton County",176,2025-03-04,2025-04-16,Permanent Closure,2026-08-31T03:32:57.915961Z
+7b78b8f714307203,GA,Rent Group Inc.,Rent Group,,"Atlanta, Fulton County",56,2025-02-24,2025-04-25,Permanent Layoff / Reduction in Force,2026-08-31T03:32:57.915961Z
+ffde0491ceadb7f2,GA,"American Anesthesiology of Georgia, LLC",American Anesthesiology of Georgia,,Peachtree Rd Atlanta,224,2025-02-20,2025-04-30,Permanent Layoff / Reduction in Force,2026-08-31T03:32:57.915961Z
+95e01860ae15f0c9,GA,"Integrated Health Resources, LLC",Integrated Health Resources,,"Atlanta, Fulton County",105,2025-02-06,2025-03-25,Permanent Closure,2026-08-31T03:32:57.915961Z
+a18919f2757f5012,GA,"Hi-Rez Studios, Inc.",Hi-Rez Studios,,"B Alpharetta, Fulton County",69,2025-02-04,2025-04-07,Permanent Layoff / Reduction in Force,2026-08-31T03:25:20.788809Z
+51f7477ce649af15,GA,"Radial, Inc.",Radial,,Locust Grove,164,2025-02-04,2025-04-05,Permanent Closure,2026-08-31T03:25:20.788809Z
+1a169e7c2ea13d1c,GA,"Exel, Inc.",Exel,,"Derrick Industrial Pkwy Union City, Fulton County",614,2025-02-03,2025-04-06,Permanent Closure,2026-08-31T03:32:57.915961Z
+cdea468edd796b68,GA,Rambo 1 LLC,Rambo 1,,"Buchanan Hwy Dallas, Paulding County",135,2025-01-29,2025-01-31,Permanent Closure,2026-08-31T03:32:57.915961Z
+cc69452d4575b4d1,GA,Networx Systems Inc,Networx Systems,,"Atlanta, Fulton County",51,2025-01-24,2025-03-23,Permanent Layoff / Reduction in Force,2026-08-31T03:25:20.788809Z
+cee6f54b75bcbd8b,GA,Packaging Corporation of America,Packaging Corporation of America,,Lakewood Ave SW East Point,103,2025-01-09,2025-03-11,Permanent Closure,2026-08-31T03:32:57.915961Z
+6c5201972381d034,GA,AGCO Corporation,AGCO,,"Norcross, Gwinnett County",3,2025-01-07,2025-02-01,Permanent Closure,2026-08-31T03:32:57.915961Z
+7fcd9c68ef81cf1e,GA,D&A Consulting Services,D&A Consulting Services,,,22,2024-12-30,2025-02-19,Permanent Layoff / Reduction in Force,2026-08-31T03:25:20.788809Z
+ceccb50a52f4322c,GA,"Dwarf House Group, LLC",Dwarf House Group,,"Pleasant Hill Rd Duluth, Fulton County",111,2024-12-03,2025-02-28,Permanent Closure,2026-08-31T03:32:57.915961Z
+0f655d3a7b6a1c2c,GA,AGCO Corporation,AGCO,,"Norcross, Gwinnett County",2,2024-12-03,2025-02-01,Permanent Closure,2026-08-31T03:32:57.915961Z
+27f6258908ce9044,GA,Vander-Bend Manufacturing Inc.,Vander-Bend Manufacturing,,Suwanee,38,2024-11-23,2024-11-22,Permanent Closure,2026-08-31T03:32:57.915961Z
+141e14a473b06b7a,GA,WIOSS Atlanta LP,WIOSS Atlanta,,"Anvil Block Rd Forest Park, Clayton County",139,2024-11-20,2025-02-03,Permanent Layoff / Reduction in Force,2026-08-31T03:32:57.915961Z
+285dd435f83c865f,GA,"Universal Protection Service, LLC",Universal Protection Service,,"Peachtree Rd NE Atlanta, Fulton County",51,2024-11-07,2025-01-09,Permanent Layoff / Reduction in Force,2026-08-31T03:25:20.788809Z
+0f440988dbe31fc3,GA,Omni Corporation,Omni,,Chapel Crossing Rd Brunswick,129,2024-11-05,2024-12-31,Permanent Closure,2026-08-31T03:32:57.915961Z
+041877114f21f549,GA,"BPA Facility Services, Inc.",BPA Facility Services,,Chapel Crossing Rd Brunswick,61,2024-11-01,2024-12-31,Permanent Layoff / Reduction in Force,2026-08-31T03:25:20.788809Z
+c3dd79b01f6d2319,GA,"Forest River, Inc.",Forest River,,Industrial Drive Ocilla,114,2024-10-31,2024-10-31,Permanent Closure,2026-08-31T03:25:20.788809Z
+6d6275343f4cc5d9,GA,"CJ Logistics America, LLC",CJ Logistics America,,Nexus Dr Dalton,275,2024-10-31,2025-01-06,Permanent Closure,2026-08-31T03:32:57.915961Z
+5d294f2e2378d684,GA,Scripps News,Scripps News,,"Piedmont Rd NE Atlanta, Fulton County",118,2024-10-29,2024-11-15,Permanent Layoff / Reduction in Force,2026-08-31T03:32:57.915961Z
+5bb8f9d84e9775ab,GA,Americold Logistics LLC,Americold Logistics,,"Nordic Way Pooler, Chatham County",58,2024-10-24,2024-12-31,Permanent Closure,2026-08-31T03:32:57.915961Z
+04583c7e23fd5f6e,GA,Multi-Color Corporation,Multi-Color,,"Indigo Dr Brunswick, Glynn County",40,2024-10-18,2024-11-01,Permanent Closure,2026-08-31T03:32:57.915961Z
+6e0cbad557552ded,GA,Customized Distribution LLC,Customized Distribution,,"Selig Dr SW Atlanta, Fulton County",165,2024-10-09,2024-12-08,Permanent Closure,2026-08-31T03:25:20.788809Z
+ade2bfa39eb2eb02,GA,MEDZED LLC,Medzed,,"Atlanta, Fulton County",43,2024-09-30,2024-12-01,Permanent Closure,2026-08-31T03:25:20.788809Z
+0de84be0d9999993,GA,"kaleo, Inc.",kaleo,,,1,2024-09-30,2024-11-30,Permanent Closure,2026-08-31T03:25:20.788809Z
+80d5c0741111dd32,GA,Genpact US Services LLC,Genpact US Services,,"Sandy Springs, Fulton County",45,2024-09-26,2024-11-30,Permanent Layoff / Reduction in Force,2026-08-31T03:25:20.788809Z
+0a4a0cfeea60145d,GA,"Shaw Industries Group, Inc",Shaw Industries Group,,"Waring Rd NW Dalton, Whitfield County",281,2024-09-24,2024-11-25,Permanent Closure,2026-08-31T03:32:57.915961Z
+e0888010fe3ca710,GA,"Conn Appliances, Inc.",Conn Appliances,,"Pegasus Parkway LaGrange, Troup County",62,2024-09-23,2024-10-31,Permanent Closure,2026-08-31T03:32:57.915961Z
+8ddb30e4c0013cd6,GA,Sculpted Contours LLC,Sculpted Contours,,"Alpharetta, Fulton County",3,2024-09-18,2024-09-19,Temporary Layoff,2026-08-31T03:25:20.788809Z
+9b45a3f08e90055b,GA,"Panera, LLC.",Panera,,Gateway Dr Suite G Norcross,86,2024-09-16,2024-11-15,Permanent Layoff / Reduction in Force,2026-08-31T03:25:20.788809Z
+e149c26f6a4ff3b3,GA,Lost Boys Interactive,Lost Boys Interactive,,,139,2024-09-10,2024-09-09,Permanent Layoff / Reduction in Force,2026-08-31T03:25:20.788809Z
+0f081fb7fca8e89b,GA,BGDC Trans Atlanta LLC,BGDC Trans Atlanta,,"Anvil Block Rd Forest Park, Cook County",284,2024-09-09,2024-11-10,Permanent Layoff / Reduction in Force,2026-08-31T03:32:57.915961Z
+c1e4caa8bbf5584e,GA,"ABM Aviation, Inc. and ABM Industry Groups, LLC (collectively, “ABM”)","ABM Aviation, Inc. and ABM Industry Groups, LLC (collectively, ""ABM"")",,N Terminal Pkwy Atlanta,353,2024-08-30,2024-11-01,Permanent Closure,2026-08-31T03:32:57.915961Z
+8bf04aa47f004aca,GA,"WestRock CP, LLC",WestRock CP,,"Shackleford Rd Duluth, Gwinnett County",9,2024-08-28,2024-10-18,Permanent Layoff / Reduction in Force,2026-08-31T03:32:57.915961Z
+9c9f3308d20029a8,GA,Interfor,Interfor,,"Old River Rd Bloomingdale, Fayette County",93,2024-08-19,2024-08-19,Permanent Layoff / Reduction in Force,2026-08-31T03:25:20.788809Z
+c260bcc0b0c2db99,GA,Omni Corporation,Omni,,Chapel Crossing Rd Brunswick,125,2024-08-08,2024-09-30,Permanent Closure,2026-08-31T03:32:57.915961Z
+73fecc74e96725cf,GA,"BPA Facility Services, Inc.",BPA Facility Services,,Chapel Crossing Rd Glynco,60,2024-08-08,2024-09-30,Permanent Closure,2026-08-31T03:25:20.788809Z
+b87e65780f8acf2a,GA,Kliklok LLC,Kliklok,,"Snapfinger Woods Dr Decatur, DeKalb County",89,2024-07-22,2024-09-27,Permanent Closure,2026-08-31T03:25:20.788809Z
+53e1cc433e363162,GA,GEODIS,Geodis,,McDonough,68,2024-07-22,2024-09-19,Permanent Layoff / Reduction in Force,2026-08-31T03:32:57.915961Z
+ff690e72e9865391,GA,"Advanced Pro Services, LLC",Advanced Pro Services,,"Clifton Rd NE Atlanta, DeKalb County",65,2024-07-18,2024-09-02,Permanent Layoff / Reduction in Force,2026-08-31T03:25:20.788809Z
+c549962ba6565849,GA,Pitney Bowes Inc.,Pitney Bowes,,Royal S Pkwy Atlanta,3,2024-07-18,2024-09-17,Permanent Layoff / Reduction in Force,2026-08-31T03:32:57.915961Z
+f97cfde19d561620,GA,WestRock,WestRock,,"Shackleford Rd Duluth, Gwinnett County",10,2024-07-05,2024-08-30,Permanent Layoff / Reduction in Force,2026-08-31T03:32:57.915961Z
+317d88f79446edb6,GA,DHL Supply Chain,DHL Supply Chain,,"Oakley Industrial Blvd Fairburn, Fulton County",211,2024-06-19,2024-08-31,Permanent Layoff / Reduction in Force,2026-08-31T03:32:57.915961Z
+6faee0b99a057130,GA,"Flambeau, Inc.",Flambeau,,"Atlanta Hwy Madison, Morgan County",89,2024-06-17,2024-07-31,Permanent Closure,2026-08-31T03:32:57.915961Z
+73e9d4f1927b627c,GA,Walmart,Walmart,,"Roswell Rd Marietta, Cobb County",92,2024-06-14,2024-09-20,Permanent Closure,2026-08-31T03:32:57.915961Z
+4c16c26fffe1641e,GA,Walmart,Walmart,,"Ashford Dunwoody Rd Dunwoody, DeKalb County",295,2024-06-14,2024-09-20,Permanent Closure,2026-08-31T03:32:57.915961Z
+3df4ae869e921421,GA,Atlanta Attachment Company,Atlanta Attachment,,"Industrial Park Dr NE Lawrenceville, Gwinnett County",57,2024-06-06,2024-08-06,Permanent Layoff / Reduction in Force,2026-08-31T03:25:20.788809Z
+e2bd32370108c5d6,GA,"ZF Active Safety, Inc",ZF Active Safety,,"Rafe Ct Flowery Branch, Hall County",365,2024-05-30,2024-07-22,Permanent Closure,2026-08-31T03:25:20.788809Z
+7ccb07ab3a7f9955,GA,Riverpoint Medical,Riverpoint Medical,,"Norcross, Gwinnett County",110,2024-05-30,2024-08-02,Permanent Closure,2026-08-31T03:25:20.788809Z
+e22ebc75423d240e,GA,FUTURE FORWARDING COMPANY,Future Forwarding,,"Buffington Rd Atlanta, Fulton County",78,2024-05-22,2024-08-02,Permanent Layoff / Reduction in Force,2026-08-31T03:25:20.788809Z
+2991310594b9ff18,GA,"Grocery Delivery E-Services USA, Inc.",Grocery Delivery E-Services,,International Park Newnan,727,2024-05-08,2024-07-10,Permanent Closure,2026-08-31T03:25:20.788809Z
+66e09666e15d552a,GA,"Raven Transport Holding, Inc.",Raven Transport Holding,,Power Ln Albany,62,2024-05-07,2024-06-30,Permanent Layoff / Reduction in Force,2026-08-31T03:32:57.915961Z
+00dfff0cf2be6e0f,GA,"Radial, Inc.",Radial,,,95,2024-05-06,2024-06-28,Permanent Layoff / Reduction in Force,2026-08-31T03:25:20.788809Z
+4793054f24a5af95,GA,"BPA Facility Services, Inc.",BPA Facility Services,,Brunswick,58,2024-05-03,2024-06-30,Permanent Layoff / Reduction in Force,2026-08-31T03:25:20.788809Z
+66209ff8dd5c36d4,GA,Omni Corporation,Omni,,Chapel Crossing Rd Brunswick,127,2024-05-02,2024-06-30,Permanent Closure,2026-08-31T03:32:57.915961Z
+fb6d573572ea2acb,GA,Club Chef SE LLC,Club Chef SE,,"Moreland Ave Conley, Clayton County",48,2024-05-01,2024-06-30,Permanent Layoff / Reduction in Force,2026-08-31T03:32:57.915961Z
+dd9447b013d28e70,GA,"Southside Communities Fire Protection, Inc.",Southside Communities Fire Protection,,"Dean Forest Rd Garden City, Chatham County",112,2024-05-01,2024-07-01,Permanent Closure,2026-08-31T03:32:57.915961Z
+92d34101e0906247,GA,Wellpath LLC,Wellpath,,"Convention Center Concourse Atlanta, Fulton County",291,2024-05-01,2024-06-30,Permanent Closure,2026-08-31T03:32:57.915961Z
+5cfa3bf4d350a85d,GA,Sage Automotive Interiors,Sage Automotive Interiors,,Toccoa,140,2024-04-29,2024-06-30,Permanent Closure,2026-08-31T03:25:20.788809Z
+7a3d64fbb18bb980,GA,Chemical Products Corporation,Chemical Products,,"Old Mill Rd Cartersville, Bartow County",121,2024-04-23,2024-06-22,Permanent Closure,2026-08-31T03:32:57.915961Z
+52b3b7aff09f0348,GA,"SIMOS Insourcing Solutions, LLC.",SIMOS Insourcing Solutions,,"Forest Park, Clayton County",90,2024-04-15,2024-07-01,Permanent Layoff / Reduction in Force,2026-08-31T03:25:20.788809Z
+b250b247d92dfdfa,GA,Block Inc.,Block,,Atlanta,1,2024-04-02,2024-06-03,Permanent Layoff / Reduction in Force,2026-08-31T03:25:20.788809Z
+681cef91f5507257,GA,"Volta Charging Industries, LLC",Volta Charging Industries,,,2,2024-04-01,2024-06-01,Permanent Layoff / Reduction in Force,2026-08-31T03:32:57.915961Z
+c9cd75ef09b6eb9a,GA,Bionano Genomics Inc,Bionano Genomics,,,76,2024-03-27,2024-05-24,Permanent Layoff / Reduction in Force,2026-08-31T03:25:20.788809Z
+baf5db18edc334e2,GA,Aludyne,Aludyne,,Northside Industrial Blvd Columbus,193,2024-03-27,2024-06-30,Permanent Layoff / Reduction in Force,2026-08-31T03:25:20.788809Z
+c4177c76f1ab91d4,GA,Jindal Films Americas LLC,Jindal Films Americas,,"Pegasus Parkway LaGrange, Troup County",98,2024-03-20,2024-05-13,Permanent Closure,2026-08-31T03:32:57.915961Z
+055de61ceeeb0e1f,GA,SWISSPORT CARGO SERVICES LP,Swissport Cargo Services,,"ASR Rd Atlanta, Clayton County",235,2024-03-20,2024-05-22,Permanent Layoff / Reduction in Force,2026-08-31T03:25:20.788809Z
+de696c6a00c033ab,GA,Hollingsworth LLC,Hollingsworth,,S Cobb Dr Marietta,74,2024-03-19,2024-03-31,Permanent Layoff / Reduction in Force,2026-08-31T03:32:57.915961Z
+a81953a3a909a85f,GA,"FedEx Supply Chain, Inc.",FedEx Supply Chain,,"Oakley Industrial Blvd Union City, Fulton County",326,2024-03-19,2024-04-08,Permanent Layoff / Reduction in Force,2026-08-31T03:32:57.915961Z
+ec8e55bfa896caec,GA,"Flexsteel Industries, Inc.",Flexsteel Industries,,"Industrial Blvd Dublin, Laurens County",154,2024-02-09,2024-02-15,Permanent Closure,2026-08-31T03:32:57.915961Z
+7cc11e806f260cf0,GA,"1888 Mills, LLC",1888 Mills,,"Airport Road Griffin, Spalding County",180,2024-02-02,2024-03-29,Permanent Closure,2026-08-31T03:32:57.915961Z
+58fc62a72153d526,GA,CEVA Logistics,CEVA Logistics,,"Broadway Ave Braselton, Jackson County",61,2024-02-02,2024-04-07,Permanent Layoff / Reduction in Force,2026-08-31T03:32:57.915961Z
+6be1eafea422ab4b,GA,"Fineline Industries, LLC",Fineline Industries,,"Gil Harbin Industrial Blvd Valdosta, Lowndes County",92,2024-02-01,2024-04-01,Permanent Closure,2026-08-31T03:32:57.915961Z
+e07916de71442d83,GA,Block Inc,Block,,"North Avenue NE Atlanta, Fulton County",27,2024-01-30,2024-03-30,Permanent Layoff / Reduction in Force,2026-08-31T03:32:57.915961Z
+390e5f521f070395,GA,"EVO Transportation and Energy Services, Inc.",EVO Transportation and Energy Services,,"Old Dixie Hwy Atlanta, Fulton County",71,2024-01-30,2024-02-24,Permanent Layoff / Reduction in Force,2026-08-31T03:32:57.915961Z
+842f1e6219529c4e,GA,Crescent Mortgage Company,Crescent Mortgage,,"Atlanta, Fulton County",65,2024-01-29,2024-03-29,Permanent Closure,2026-08-31T03:25:20.788809Z
+e250b693c9f9258a,GA,GXO Logistics Supply Chain Inc.,GXO Logistics Supply Chain,,"Oakley Industrial Blvd Union City, Fulton County",69,2024-01-17,2024-03-10,Permanent Closure,2026-08-31T03:32:57.915961Z
