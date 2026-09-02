@@ -51,47 +51,60 @@ that fund the pipeline.
 
 ## Coverage
 
-| State | Notices | CSV | Source status |
-|---|---:|---|---|
-| [Alaska](https://apventureengine.github.io/warn-act-notices/states/alaska.html) (AK) | 66 | — | ok |
-| [Alabama](https://apventureengine.github.io/warn-act-notices/states/alabama.html) (AL) | 1,060 | — | ok |
-| [Arizona](https://apventureengine.github.io/warn-act-notices/states/arizona.html) (AZ) | 636 | [az.csv](data/by-state/az.csv) | ok |
-| [California](https://apventureengine.github.io/warn-act-notices/states/california.html) (CA) | 16,556 | [ca.csv](data/by-state/ca.csv) | ok |
-| [Colorado](https://apventureengine.github.io/warn-act-notices/states/colorado.html) (CO) | 835 | — | ok |
-| [Connecticut](https://apventureengine.github.io/warn-act-notices/states/connecticut.html) (CT) | 27 | [ct.csv](data/by-state/ct.csv) | ok |
-| [District of Columbia](https://apventureengine.github.io/warn-act-notices/states/district-of-columbia.html) (DC) | 143 | — | ok |
-| [Delaware](https://apventureengine.github.io/warn-act-notices/states/delaware.html) (DE) | 100 | — | ok |
-| [Florida](https://apventureengine.github.io/warn-act-notices/states/florida.html) (FL) | 3,115 | — | ok |
-| [Georgia](https://apventureengine.github.io/warn-act-notices/states/georgia.html) (GA) | 282 | [ga.csv](data/by-state/ga.csv) | ok |
-| [Iowa](https://apventureengine.github.io/warn-act-notices/states/iowa.html) (IA) | 416 | [ia.csv](data/by-state/ia.csv) | ok |
-| [Illinois](https://apventureengine.github.io/warn-act-notices/states/illinois.html) (IL) | 4,842 | [il.csv](data/by-state/il.csv) | ok |
-| [Indiana](https://apventureengine.github.io/warn-act-notices/states/indiana.html) (IN) | 1,180 | [in.csv](data/by-state/in.csv) | ok |
-| [Kansas](https://apventureengine.github.io/warn-act-notices/states/kansas.html) (KS) | 791 | [ks.csv](data/by-state/ks.csv) | ok |
-| [Kentucky](https://apventureengine.github.io/warn-act-notices/states/kentucky.html) (KY) | 804 | [ky.csv](data/by-state/ky.csv) | ok |
-| [Louisiana](https://apventureengine.github.io/warn-act-notices/states/louisiana.html) (LA) | 38 | — | ok |
-| [Maryland](https://apventureengine.github.io/warn-act-notices/states/maryland.html) (MD) | 1,274 | [md.csv](data/by-state/md.csv) | ok |
-| [Maine](https://apventureengine.github.io/warn-act-notices/states/maine.html) (ME) | 85 | — | ok |
-| [Michigan](https://apventureengine.github.io/warn-act-notices/states/michigan.html) (MI) | 112 | [mi.csv](data/by-state/mi.csv) | ok |
-| [Mississippi](https://apventureengine.github.io/warn-act-notices/states/mississippi.html) (MS) | 136 | — | ok |
-| [Montana](https://apventureengine.github.io/warn-act-notices/states/montana.html) (MT) | 46 | [mt.csv](data/by-state/mt.csv) | ok |
-| [North Carolina](https://apventureengine.github.io/warn-act-notices/states/north-carolina.html) (NC) | 294 | — | ok |
-| [Nebraska](https://apventureengine.github.io/warn-act-notices/states/nebraska.html) (NE) | 845 | [ne.csv](data/by-state/ne.csv) | ok |
-| [New Jersey](https://apventureengine.github.io/warn-act-notices/states/new-jersey.html) (NJ) | 2,321 | [nj.csv](data/by-state/nj.csv) | ok |
-| [New Mexico](https://apventureengine.github.io/warn-act-notices/states/new-mexico.html) (NM) | 116 | — | ok |
-| [New York](https://apventureengine.github.io/warn-act-notices/states/new-york.html) (NY) | 141 | [ny.csv](data/by-state/ny.csv) | ok |
-| [Oklahoma](https://apventureengine.github.io/warn-act-notices/states/oklahoma.html) (OK) | 219 | [ok.csv](data/by-state/ok.csv) | ok |
-| [Oregon](https://apventureengine.github.io/warn-act-notices/states/oregon.html) (OR) | 1,369 | [or.csv](data/by-state/or.csv) | ok |
-| [Pennsylvania](https://apventureengine.github.io/warn-act-notices/states/pennsylvania.html) (PA) | 308 | — | ok |
-| [Rhode Island](https://apventureengine.github.io/warn-act-notices/states/rhode-island.html) (RI) | 126 | [ri.csv](data/by-state/ri.csv) | ok |
-| [South Carolina](https://apventureengine.github.io/warn-act-notices/states/south-carolina.html) (SC) | 603 | [sc.csv](data/by-state/sc.csv) | ok |
-| [South Dakota](https://apventureengine.github.io/warn-act-notices/states/south-dakota.html) (SD) | 80 | [sd.csv](data/by-state/sd.csv) | ok |
-| [Tennessee](https://apventureengine.github.io/warn-act-notices/states/tennessee.html) (TN) | 1,060 | [tn.csv](data/by-state/tn.csv) | ok |
-| [Texas](https://apventureengine.github.io/warn-act-notices/states/texas.html) (TX) | 2,358 | — | ok |
-| [Utah](https://apventureengine.github.io/warn-act-notices/states/utah.html) (UT) | 282 | [ut.csv](data/by-state/ut.csv) | ok |
-| [Vermont](https://apventureengine.github.io/warn-act-notices/states/vermont.html) (VT) | 70 | [vt.csv](data/by-state/vt.csv) | ok |
-| [Washington](https://apventureengine.github.io/warn-act-notices/states/washington.html) (WA) | 1,495 | [wa.csv](data/by-state/wa.csv) | ok |
-| [Wisconsin](https://apventureengine.github.io/warn-act-notices/states/wisconsin.html) (WI) | 617 | [wi.csv](data/by-state/wi.csv) | ok |
-| [West Virginia](https://apventureengine.github.io/warn-act-notices/states/west-virginia.html) (WV) | 58 | — | ok |
+| State | Rows, full archive (1988→, paid) | Rows in free files (2024→, 48h delay) | CSV | Source status |
+|---|---:|---:|---|---|
+| [Alaska](https://apventureengine.github.io/warn-act-notices/states/alaska.html) (AK) | 66 | 0 | — | ok |
+| [Alabama](https://apventureengine.github.io/warn-act-notices/states/alabama.html) (AL) | 1,060 | 0 | — | ok |
+| [Arizona](https://apventureengine.github.io/warn-act-notices/states/arizona.html) (AZ) | 636 | 121 | [az.csv](data/by-state/az.csv) | ok |
+| [California](https://apventureengine.github.io/warn-act-notices/states/california.html) (CA) | 16,556 | 3,991 | [ca.csv](data/by-state/ca.csv) | ok |
+| [Colorado](https://apventureengine.github.io/warn-act-notices/states/colorado.html) (CO) | 835 | 0 | — | ok |
+| [Connecticut](https://apventureengine.github.io/warn-act-notices/states/connecticut.html) (CT) | 27 | 27 | [ct.csv](data/by-state/ct.csv) | ok |
+| [District of Columbia](https://apventureengine.github.io/warn-act-notices/states/district-of-columbia.html) (DC) | 143 | 0 | — | ok |
+| [Delaware](https://apventureengine.github.io/warn-act-notices/states/delaware.html) (DE) | 100 | 0 | — | ok |
+| [Florida](https://apventureengine.github.io/warn-act-notices/states/florida.html) (FL) | 3,115 | 0 | — | ok |
+| [Georgia](https://apventureengine.github.io/warn-act-notices/states/georgia.html) (GA) | 282 | 225 | [ga.csv](data/by-state/ga.csv) | ok |
+| [Iowa](https://apventureengine.github.io/warn-act-notices/states/iowa.html) (IA) | 416 | 79 | [ia.csv](data/by-state/ia.csv) | ok |
+| [Illinois](https://apventureengine.github.io/warn-act-notices/states/illinois.html) (IL) | 4,842 | 346 | [il.csv](data/by-state/il.csv) | ok |
+| [Indiana](https://apventureengine.github.io/warn-act-notices/states/indiana.html) (IN) | 1,180 | 260 | [in.csv](data/by-state/in.csv) | ok |
+| [Kansas](https://apventureengine.github.io/warn-act-notices/states/kansas.html) (KS) | 791 | 33 | [ks.csv](data/by-state/ks.csv) | ok |
+| [Kentucky](https://apventureengine.github.io/warn-act-notices/states/kentucky.html) (KY) | 804 | 38 | [ky.csv](data/by-state/ky.csv) | ok |
+| [Louisiana](https://apventureengine.github.io/warn-act-notices/states/louisiana.html) (LA) | 38 | 0 | — | ok |
+| [Maryland](https://apventureengine.github.io/warn-act-notices/states/maryland.html) (MD) | 1,274 | 328 | [md.csv](data/by-state/md.csv) | ok |
+| [Maine](https://apventureengine.github.io/warn-act-notices/states/maine.html) (ME) | 85 | 0 | — | ok |
+| [Michigan](https://apventureengine.github.io/warn-act-notices/states/michigan.html) (MI) | 112 | 112 | [mi.csv](data/by-state/mi.csv) | ok |
+| [Mississippi](https://apventureengine.github.io/warn-act-notices/states/mississippi.html) (MS) | 136 | 0 | — | ok |
+| [Montana](https://apventureengine.github.io/warn-act-notices/states/montana.html) (MT) | 46 | 18 | [mt.csv](data/by-state/mt.csv) | ok |
+| [North Carolina](https://apventureengine.github.io/warn-act-notices/states/north-carolina.html) (NC) | 294 | 0 | — | ok |
+| [Nebraska](https://apventureengine.github.io/warn-act-notices/states/nebraska.html) (NE) | 845 | 29 | [ne.csv](data/by-state/ne.csv) | ok |
+| [New Jersey](https://apventureengine.github.io/warn-act-notices/states/new-jersey.html) (NJ) | 2,321 | 311 | [nj.csv](data/by-state/nj.csv) | ok |
+| [New Mexico](https://apventureengine.github.io/warn-act-notices/states/new-mexico.html) (NM) | 116 | 0 | — | ok |
+| [New York](https://apventureengine.github.io/warn-act-notices/states/new-york.html) (NY) | 141 | 141 | [ny.csv](data/by-state/ny.csv) | ok |
+| [Oklahoma](https://apventureengine.github.io/warn-act-notices/states/oklahoma.html) (OK) | 219 | 29 | [ok.csv](data/by-state/ok.csv) | ok |
+| [Oregon](https://apventureengine.github.io/warn-act-notices/states/oregon.html) (OR) | 1,369 | 196 | [or.csv](data/by-state/or.csv) | ok |
+| [Pennsylvania](https://apventureengine.github.io/warn-act-notices/states/pennsylvania.html) (PA) | 308 | 0 | — | ok |
+| [Rhode Island](https://apventureengine.github.io/warn-act-notices/states/rhode-island.html) (RI) | 126 | 27 | [ri.csv](data/by-state/ri.csv) | ok |
+| [South Carolina](https://apventureengine.github.io/warn-act-notices/states/south-carolina.html) (SC) | 603 | 134 | [sc.csv](data/by-state/sc.csv) | ok |
+| [South Dakota](https://apventureengine.github.io/warn-act-notices/states/south-dakota.html) (SD) | 80 | 16 | [sd.csv](data/by-state/sd.csv) | ok |
+| [Tennessee](https://apventureengine.github.io/warn-act-notices/states/tennessee.html) (TN) | 1,060 | 97 | [tn.csv](data/by-state/tn.csv) | ok |
+| [Texas](https://apventureengine.github.io/warn-act-notices/states/texas.html) (TX) | 2,358 | 0 | — | ok |
+| [Utah](https://apventureengine.github.io/warn-act-notices/states/utah.html) (UT) | 282 | 51 | [ut.csv](data/by-state/ut.csv) | ok |
+| [Vermont](https://apventureengine.github.io/warn-act-notices/states/vermont.html) (VT) | 70 | 16 | [vt.csv](data/by-state/vt.csv) | ok |
+| [Washington](https://apventureengine.github.io/warn-act-notices/states/washington.html) (WA) | 1,495 | 273 | [wa.csv](data/by-state/wa.csv) | ok |
+| [Wisconsin](https://apventureengine.github.io/warn-act-notices/states/wisconsin.html) (WI) | 617 | 201 | [wi.csv](data/by-state/wi.csv) | ok |
+| [West Virginia](https://apventureengine.github.io/warn-act-notices/states/west-virginia.html) (WV) | 58 | 0 | — | ok |
+
+**Not covered (12 states):** Arkansas (agency site blocks automated access), Hawaii (agency page unparseable (obfuscated links)), Idaho (agency PDF is corrupt), Massachusetts (agency site blocks automated access), Minnesota (agency site blocks automated access), Missouri (agency site blocks automated access), Nevada (agency site blocks automated access), New Hampshire (agency site blocks automated access), North Dakota (no public WARN listing located), Ohio (listing is a browser-only app, no data endpoint), Virginia (listing is a browser-only app, no data endpoint), Wyoming (WARN filings are non-public by state statute). We do not guess or
+backfill these from third parties; if a state opens a public listing it is added.
+
+## What normalization actually does
+
+State portals spell the same employer many ways (store numbers, site tails,
+suffixes, ALL CAPS). `company_canonical` collapses them so you can count and
+watch an employer across states and years — the part no raw scraper output gives you:
+
+- **Kaiser Foundation Hospitals** ← 27 raw spellings, e.g. `Kaiser Foundation Hospitals`; `Kaiser Foundation Hospitals (1100)`; `Kaiser Foundation Hospitals (12254)`; `Kaiser Foundation Hospitals (1450)`
+- **Southern PacPizza** ← 25 raw spellings, e.g. `Southern PacPizza dba Pizza Hut - 029197`; `Southern PacPizza dba Pizza Hut - 029198`; `Southern PacPizza dba Pizza Hut - 029199`; `Southern PacPizza dba Pizza Hut - 029200`
+- **Good Sports Plus** ← 12 raw spellings, e.g. `Good Sports Plus Ltd, dba Arc Phil D. Swing Elementary School`; `Good Sports Plus Ltd. dba Arc`; `Good Sports Plus Ltd. dba Arc - Central Union High School`; `Good Sports Plus Ltd. dba Arc - Desert Valley High School`
 
 Each state also ships as its own CSV in [`data/by-state/`](data/by-state/) —
 e.g. California layoff notices: [`data/by-state/ca.csv`](data/by-state/ca.csv).
