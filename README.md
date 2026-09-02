@@ -25,6 +25,7 @@ deduplicated dataset, refreshed daily.
 - Instant employer search (free tier): https://apventureengine.github.io/warn-act-notices/search.html
 - How this compares to WARNTracker, Intellizence, warn-scraper & state portals: https://apventureengine.github.io/warn-act-notices/compare.html
 - Use it as a free layoffs API (stable raw URLs, curl/pandas/Sheets examples): [API.md](API.md)
+- Hugging Face mirror (same free tier, `load_dataset` / pandas ready, re-uploaded every refresh): [APProjects/us-warn-act-layoffs-daily](https://huggingface.co/datasets/APProjects/us-warn-act-layoffs-daily)
 - Machine-readable schema: [`datapackage.json`](datapackage.json) · Cite this dataset: [`CITATION.cff`](CITATION.cff) · License: [CC BY 4.0](LICENSE)
 
 No login, no API key. Scope of the free dataset, stated plainly: notices from
