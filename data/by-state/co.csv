@@ -1,0 +1,178 @@
+id,state,company,company_canonical,company_dba,location,employees_affected,notice_date,effective_date,notice_type,first_seen
+cc4067816cbf20a9,CO,Mission Foods,Mission Foods,,Pueblo (Rural Alliance),90,2026-08-14,2026-10-13,Closure,2026-08-31T07:22:39.223872Z
+e40b38714f86bb8f,CO,Battelle,Battelle,,Pueblo,1,2026-08-13,2026-10-12,PCAPP Milestone Project Completions,2026-08-31T07:22:39.223872Z
+abc12cbe7b3c8645,CO,Battelle,Battelle,,Pueblo,12,2026-08-06,2026-10-05,PCAPP Milestone Project Completions,2026-08-31T07:22:39.223872Z
+fea46ca457d86842,CO,NR ParentCO dba Native Roots,NR ParentCO,Native Roots,Denver,141,2026-08-03,2026-10-02,Closure,2026-08-31T07:22:39.223872Z
+00ec8de2c75749df,CO,80 Acres Urban Agriculture dba 80 Acres Farms,80 Acres Urban Agriculture,80 Acres Farms,Denver/Adams,60,2026-08-03,2026-08-03,Closure,2026-08-31T07:22:39.223872Z
+891807445dbdf2a6,CO,TIAA,TIAA,,Denver,20,2026-07-31,2026-10-01,Closure,2026-08-31T07:22:39.223872Z
+7db9f9010226d643,CO,Tlingt Haida,Tlingt Haida,,Pikes Peak/El Paso,295,2026-07-29,2026-09-28,Expiration of Contract,2026-08-31T07:22:39.223872Z
+d75985d99fe7b09c,CO,Public Storage Correction to 7/22/26 WARN,Public Storage Correction to 7/22/26 WARN,,Arapahoe/Douglas,68,2026-07-24,2026-07-22,Mass Layoff,2026-08-31T07:22:39.223872Z
+24236ca25551ea7d,CO,Public Storage,Public Storage,,Arapahoe/Douglas,107,2026-07-22,2026-07-22,Mass Layoff,2026-08-31T07:22:39.223872Z
+592b21a791e0781c,CO,Travelport LP,Travelport,,Denver,48,2026-07-21,2026-07-22,Mass Layoff,2026-08-31T07:22:39.223872Z
+825a9aaadcc9acef,CO,EPTAM West LLC dba EPTAM Metals,EPTAM West,EPTAM Metals,Pikes Peak,52,2026-07-20,2026-03-16,Closure,2026-08-31T07:22:39.223872Z
+3c77a51825107da5,CO,The Cannabist Company,Cannabist,,Denver,50,2026-07-14,2026-09-11,Closure,2026-08-31T07:22:39.223872Z
+6f0a2cad6e99c9dd,CO,PetVet Operating,PetVet Operating,,Larimer,8,2026-07-10,2026-09-08,Closure,2026-08-31T07:22:39.223872Z
+79c244a695def5e4,CO,Battelle,Battelle,,Rural Alliance: Pueblo,18,2026-07-09,2026-09-08,PCAPP Milestone Project Completions,2026-08-31T07:22:39.223872Z
+feb8d6481bbd5240,CO,Conduent,Conduent,,Remote Employees,5,2026-06-26,2026-07-31,Change in business needs,2026-08-31T07:22:39.223872Z
+b341f7894bd56ff0,CO,Battelle,Battelle,,Pueblo,1,2026-06-11,2026-08-10,PCAPP Milestone Project Completions,2026-08-31T07:22:39.223872Z
+0b963c66491fede6,CO,Paragon Space Development Corp,Paragon Space Development,,Jeffco (Tri-County),15,2026-06-11,2026-06-11,Mass layoff in connection with contract loss,2026-08-31T07:22:39.223872Z
+bfeb35f15fc234aa,CO,CAE,CAE,,Pueblo,58,2026-06-01,2026-08-03,Closure,2026-08-31T07:22:39.223872Z
+e0277896cffff52d,CO,Accel,Accel,,Pikes Peak/El Paso,246,2026-04-30,2026-06-30,Banning Lewis Prepatory Academy terminating relationship with Accel,2026-08-31T07:22:39.223872Z
+8b784f1a75b7adc9,CO,Aurora Mental Health & Recovery,Aurora Mental Health & Recovery,,A/D Works (Arapahoe),91,2026-04-30,2026-06-30,Mass Layoff,2026-08-31T07:22:39.223872Z
+1dfd4770705bfafe,CO,Battelle,Battelle,,"Rural Alliance, Pueblo",10,2026-04-30,2026-06-29,PCAPP Milestone Project Completions,2026-08-31T07:22:39.223872Z
+3c0b7455c786e291,CO,TIAA - Update,TIAA - Update,,"Denver, RC",110,2026-04-29,2026-07-01,Mass Layoff,2026-08-31T07:22:39.223872Z
+19ddc5e79e736095,CO,Battelle,Battelle,,Rural Alliance: Pueblo,5,2026-04-23,2026-06-22,Completion of Contractual Milestone,2026-08-31T07:22:39.223872Z
+bc3dfa5f087698d5,CO,Republic National Distributing Company LLC (RNDC),Republic National Distributing Company LLC (RNDC),,ADW (Littleton),320,2026-04-22,2026-06-21,Selling assets in CO and other states,2026-08-31T07:22:39.223872Z
+f93c199d7ef23e91,CO,PNC Bank NA,PNC Bank,,Jeffco (Tri-County),777,2026-04-17,2026-06-30,Consolidating operations into single organization,2026-08-31T07:22:39.223872Z
+982e1bd895da14d4,CO,Tendit Group LLC,Tendit Group,,"Denver, ADW, Larimer",143,2026-04-13,2026-04-15,Closure,2026-08-31T07:22:39.223872Z
+1ab935c2f7a63dd5,CO,T-Mobile,T-Mobile,,Denver,51,2026-04-10,2026-06-08,Business Sales Care no longer operating at the facility. Not a closure.,2026-08-31T07:22:39.223872Z
+afe41a5e37ca1103,CO,Battelle,Battelle,,Pueblo,21,2026-04-09,2026-06-08,Project Milestone Completion,2026-08-31T07:22:39.223872Z
+3c8faf428449c6ef,CO,Eagle Rock Distribution,Eagle Rock Distribution,,"Various: Adams/Denver, Larimer, Mesa Pikes Peak & Rural Alliance",514,2026-04-03,2026-06-05,Shutdown operations,2026-08-31T07:22:39.223872Z
+f64e639930331de9,CO,"T&H/KIRA: KIRA Infrastructure, KIRA Integrated Solutions, T&H Solutions, T&H Services, KIRA Aviation","T&H/KIRA: KIRA Infrastructure, KIRA Integrated Solutions, T&H Solutions, T&H Services, KIRA Aviation",,Pikes Peak,286,2026-04-01,2026-05-31,Contract ending if not renewed,2026-08-31T07:22:39.223872Z
+a9030db79382f52d,CO,PharmaCann Inc.,PharmaCann,,Denver,132,2026-03-20,2026-05-20,Not Specified,2026-08-31T07:22:39.223872Z
+1ac3b718754c8060,CO,Block,Block,,Remote Employees,61,2026-02-26,2026-04-28,Not Specified,2026-08-31T07:22:39.223872Z
+16649705791b7e3d,CO,Batelle,Batelle,,Pueblo,11,2026-02-26,2026-04-27,Project Milestone Completion,2026-08-31T07:22:39.223872Z
+7d015edc1a65f802,CO,EPTAM West LLC dba Precision Metals,EPTAM West,Precision Metals,Pikes Peak,134,2026-01-15,2026-03-16,Closure,2026-08-31T07:22:39.223872Z
+3cac67d6551d1c02,CO,Battelle,Battelle,,Pueblo,1,2026-01-15,2026-03-16,Projec Milestone Completion,2026-08-31T07:22:39.223872Z
+deb1b82f8fc8d2b2,CO,Tessera Therapeutics,Tessera Therapeutics,,Rural Alliance,90,2026-01-06,2026-03-08,Not Specified,2026-08-31T07:22:39.223872Z
+68c266b094debdc4,CO,Alan Ritchey,Alan Ritchey,,Adams,729,2026-01-06,2026-02-28,Closure,2026-08-31T07:22:39.223872Z
+4d0fd7459eb646a9,CO,TIAA,TIAA,,"Denver, RC",101,2026-01-02,2026-03-03,Not Specified,2026-08-31T07:22:39.223872Z
+fdc02ef0c51cc2e3,CO,Nordstrom Credit Bank,Nordstrom Credit Bank,,Arapahoe/Douglas,48,2025-12-30,2026-03-01,Transfer to TD Bank,2026-08-31T07:22:39.223872Z
+1125f4a23a5712a7,CO,KIRA Training,KIRA Training,,Pikes Peak,118,2025-12-29,2026-02-28,Contract Ending/RIF,2026-08-31T07:22:39.223872Z
+008516e246f7ee47,CO,Amentum (Update),Amentum (Update),,Pueblo,,2025-12-04,2026-01-26,Project milestone completion,2026-08-31T07:22:39.223872Z
+81d8f268996b3571,CO,Heibar Installation Inc.,Heibar Installation,,Denver,74,2025-12-02,2026-01-30,Reduction in Force,2026-08-31T07:22:39.223872Z
+f5d83c21a7f8bdcf,CO,Nordstrom Credit Bank,Nordstrom Credit Bank,,Arapahoe/Douglas,14,2025-11-20,2026-02-01,Reduction in Force,2026-08-31T07:22:39.223872Z
+fe7ff695d28e70c5,CO,ColoWyo Coal Company LP (UPDATE),ColoWyo Coal Company LP (UPDATE),,Rural Consortium,133,2025-11-18,2026-01-05,Closure,2026-08-31T07:22:39.223872Z
+df2ad84b27f395c2,CO,Nordstrom Credit Bank,Nordstrom Credit Bank,,Arapahoe/Douglas,59,2025-11-17,2026-02-21,Reduction in Force,2026-08-31T07:22:39.223872Z
+019472c7e35de36b,CO,Smokin Bear LLC,Smokin Bear,,Denver,125,2025-11-14,2026-01-13,Remodeling,2026-08-31T07:22:39.223872Z
+98d69870b8cf38ed,CO,ColoWyo Coal Company LP,ColoWyo Coal,,Rural Consortium,133,2025-11-04,2026-01-06,Closure,2026-08-31T07:22:39.223872Z
+d993f62af08d94f5,CO,American Medical Response,American Medical Response,,Boulder,87,2025-10-31,2025-12-31,Closure,2026-08-31T07:22:39.223872Z
+dfeb02f6f7921d1d,CO,Battelle,Battelle,,Pueblo,9,2025-10-30,2025-12-29,Project milestone completion,2026-08-31T07:22:39.223872Z
+2c4609ad9d28b9a0,CO,Salvation Army (updated),Salvation Army (updated),,Denver,135,2025-10-29,2025-12-31,Closure,2026-08-31T07:22:39.223872Z
+efb142befb7945b1,CO,Newmont (Update/Phase 3),Newmont (Update/Phase 3),,Denver,65,2025-10-15,2025-12-14,Reduction in Force,2026-08-31T07:22:39.223872Z
+6432d99cb3aebc33,CO,Comcast,Comcast,,Arapahoe/Douglas,302,2025-10-15,2025-12-31,Closure,2026-08-31T07:22:39.223872Z
+e830f72fc8c1fd14,CO,TIAA,TIAA,,Denver,31,2025-10-02,2025-12-01,Closure,2026-08-31T07:22:39.223872Z
+cd155719f457ec15,CO,Amentum,Amentum,,Pueblo,10,2025-10-01,2025-12-01,Project milestone completion,2026-08-31T07:22:39.223872Z
+31cd923bc5a844d0,CO,Newmont,Newmont,,Denver,23,2025-10-01,2025-11-30,RIF,2026-08-31T07:22:39.223872Z
+be6993d11d603432,CO,ACG Biologics,ACG Biologics,,Boulder,267,2025-09-16,2025-11-15,Closure (Restructuring),2026-08-31T07:22:39.223872Z
+f6aecd6e9aa89444,CO,Safeway Inc. Store 0017,Safeway Inc. Store 0017,,Arapahoe/Douglas,62,2025-09-09,2025-11-07,Closure,2026-08-31T07:22:39.223872Z
+dc6861503b73e5bc,CO,Safeway Inc. Store 0137,Safeway Inc. Store 0137,,Arapahoe/Douglas,61,2025-09-09,2025-11-07,Closure,2026-08-31T07:22:39.223872Z
+d287564b45a1a92f,CO,Safeway Inc. Store 2915,Safeway Inc. Store 2915,,Larimer,50,2025-09-09,2025-11-07,Closure,2026-08-31T07:22:39.223872Z
+bbaac3991239456b,CO,Safeway Inc. Store 1038,Safeway Inc. Store 1038,,Denver,65,2025-09-09,2025-11-07,Closure,2026-08-31T07:22:39.223872Z
+b4f28f4b1db14898,CO,Safeway Inc. Store 0881,Safeway Inc. Store 0881,,Adams,64,2025-09-09,2025-11-07,Closure,2026-08-31T07:22:39.223872Z
+823c7d972e693ed1,CO,Safeway Inc. Store 3723,Safeway Inc. Store 3723,,Rural Consortium,60,2025-09-09,2025-11-07,Closure,2026-08-31T07:22:39.223872Z
+76b37b9535f23189,CO,Safeway Inc. Store 1721,Safeway Inc. Store 1721,,Rural Consortium,53,2025-09-09,2025-11-07,Closure,2026-08-31T07:22:39.223872Z
+6f0f01c2e9557315,CO,Safeway Inc. Store 0862,Safeway Inc. Store 0862,,Larimer,54,2025-09-09,2025-11-07,Closure,2026-08-31T07:22:39.223872Z
+627e879f55ca8241,CO,Safeway Inc. Store 0835,Safeway Inc. Store 0835,,Pikes Peak,63,2025-09-09,2025-11-07,Closure,2026-08-31T07:22:39.223872Z
+23ab87037b2d7edd,CO,Safeway Inc. Store 1792,Safeway Inc. Store 1792,,Pikes Peak,85,2025-09-09,2025-11-07,Closure,2026-08-31T07:22:39.223872Z
+7c9446164c199343,CO,Banner Health,Banner Health,,Larimer,351,2025-09-04,2025-11-05,Not Stated,2026-08-31T07:22:39.223872Z
+d3d930e8281170a5,CO,TeKnowledge OPS USA,TeKnowledge OPS,,Pikes Peak,324,2025-08-29,2025-10-30,Changing Conditions,2026-08-31T07:22:39.223872Z
+784ee2f0eb9abc83,CO,Newmont,Newmont,,Denver/Arapahoe Douglas,19,2025-08-28,2025-10-28,Reduction in Force,2026-08-31T07:22:39.223872Z
+f160775e4430675f,CO,Amentum,Amentum,,Pueblo,60,2025-08-25,2025-10-31,Project milestone completion,2026-08-31T07:22:39.223872Z
+891dc37bea1435d9,CO,Battelle,Battelle,,Pueblo,3,2025-08-25,2025-10-24,Project milestone completion,2026-08-31T07:22:39.223872Z
+2f00b195892747a4,CO,Nordstrom Credit Bank,Nordstrom Credit Bank,,Arapahoe/Douglas,28,2025-08-22,2025-11-15,Reduction in Force,2026-08-31T07:22:39.223872Z
+4c892b423f01fddc,CO,Block Inc.,Block,,Remote Workers,2,2025-08-12,2025-10-13,Reduction in Force,2026-08-31T07:22:39.223872Z
+cb4b39d2bd6988ce,CO,Battelle,Battelle,,Pueblo,14,2025-08-11,,Closure,2026-08-31T07:22:39.223872Z
+dc134bdc489520a7,CO,TIAA (Update),TIAA (Update),,"Denver, Broomfield",66,2025-08-01,2025-10-01,Reduction in Force,2026-08-31T07:22:39.223872Z
+3107785dd9f54df2,CO,Amentum,Amentum,,Pueblo,55,2025-07-30,2025-10-31,Related to milestone completion,2026-08-31T07:22:39.223872Z
+caa14af080bc6044,CO,Nordstrom,Nordstrom,,Araphaoe/Douglas,43,2025-07-29,2025-10-18,Close operation transition to TD Bank,2026-08-31T07:22:39.223872Z
+f4a0e3451647755d,CO,Battelle,Battelle,,Pueblo,7,2025-07-14,2025-09-12,Closure/cease operations,2026-08-31T07:22:39.223872Z
+78542399b2409006,CO,OneTouch,OneTouch,,Denver,70,2025-07-10,2025-07-10,Closure,2026-08-31T07:22:39.223872Z
+1e6da4b394dd91ec,CO,QualityBuilt,QualityBuilt,,Multiple areas Remote Employees,2,2025-07-07,2025-07-03,Unforeseen Business Circumstance/Closure,2026-08-31T07:22:39.223872Z
+509b0a13097866ee,CO,Bowhead Mission Solutions LLC (Newport Rd),Bowhead Mission Solutions LLC (Newport Rd),,Pikes Peak,76,2025-06-27,2025-08-28,RIF,2026-08-31T07:22:39.223872Z
+3057546a5c8e15b6,CO,Bowhead Missions Solutions LLC (Aviation Way),Bowhead Missions Solutions LLC (Aviation Way),,Pikes Peak,10,2025-06-27,2025-08-28,RIF,2026-08-31T07:22:39.223872Z
+a2fa7ab0a7142eaf,CO,Nordstrom,Nordstrom,,Arapahoe/Douglas,30,2025-06-26,2025-08-16,Reduction in Force,2026-08-31T07:22:39.223872Z
+d3e0af883475212a,CO,Amentum,Amentum,,Pueblo,135,2025-06-24,2025-09-30,Closure,2026-08-31T07:22:39.223872Z
+76622ed3bc056c13,CO,Sodexo,Sodexo,,Pikes Peak,152,2025-06-11,2025-06-30,Loss of Contract,2026-08-31T07:22:39.223872Z
+bd0f9d7ddbc0480a,CO,Amentum,Amentum,,Pueblo,92,2025-06-05,,Closure,2026-08-31T07:22:39.223872Z
+8913782a814fa573,CO,Chevron,Chevron,,Denver,125,2025-05-02,2025-07-01,Reduction in Force,2026-08-31T07:22:39.223872Z
+5a10088c2bbc7a33,CO,TIAA,TIAA,,Denver,84,2025-04-29,,Closure/Move to smaller office,2026-08-31T07:22:39.223872Z
+1e378b5bf5624e0c,CO,Hallcon,Hallcon,,Multiple,104,2025-04-24,2025-04-25,Closure,2026-08-31T07:22:39.223872Z
+57b4624fa640ab0f,CO,Battelle,Battelle,,Pueblo,234,2025-04-21,2025-06-20,Closure - Project End,2026-08-31T07:22:39.223872Z
+3907ff7fe85101e7,CO,Thule Inc.,Thule,,Boulder,22,2025-04-16,2025-10-03,Closure,2026-08-31T07:22:39.223872Z
+da2f0d752180a9e3,CO,Vail Corporation,Vail,,Rural Consortium/Broomfield,64,2025-04-02,2025-06-02,Closure of Operating Unit,2026-08-31T07:22:39.223872Z
+d11ee5d0ab950bd5,CO,JVS Masonry,JVS Masonry,,Adams,44,2025-04-01,2025-05-31,Closure,2026-08-31T07:22:39.223872Z
+9e1520af555cfe74,CO,Robert Russell Eastern Star Masonic Retirement Camps,Robert Russell Eastern Star Masonic Retirement Camps,,Denver,89,2025-04-01,2025-04-15,Natural Disaster,2026-08-31T07:22:39.223872Z
+575b6c620bc6ab1d,CO,Block Inc.,Block,,Remote Workers,21,2025-03-25,2025-03-25,Reduction in Force,2026-08-31T07:22:39.223872Z
+0d49c01fddc201dc,CO,Amentum,Amentum,,Pueblo,93,2025-03-24,2025-05-01,Completion of Mileston,2026-08-31T07:22:39.223872Z
+9abfa23f12a1e414,CO,Meati,Meati,,Adams,150,2025-03-07,2025-03-06,Closure: Lack of funding,2026-08-31T07:22:39.223872Z
+bda76d90501f2dec,CO,Microchip,Microchip,,Pikes Peak,238,2025-03-04,2025-05-03,Operations Reduction,2026-08-31T07:22:39.223872Z
+d1b3c1ae083b6f2f,CO,West Springs Hospital,West Springs Hospital,,Mesa,187,2025-02-24,2025-03-10,Closure,2026-08-31T07:22:39.223872Z
+bad9ebc83fdada01,CO,"Sherwood Food Distributors, Harvest Meat Company, Western Boxed Meat Company","Sherwood Food Distributors, Harvest Meat Company, Western Boxed Meat",,Arapahoe/Douglas,45,2025-02-18,2025-02-18,Closure,2026-08-31T07:22:39.223872Z
+8342d0a046843e33,CO,Johnstown Heights Behavioral Health,Johnstown Heights Behavioral Health,,Larimer,158,2025-01-30,2025-03-31,Closure,2026-08-31T07:22:39.223872Z
+d90406a398c7522b,CO,QuantumScape Battery,QuantumScape Battery,,Larimer,1,2025-01-28,2025-01-28,Mass Layoff,2026-08-31T07:22:39.223872Z
+1fc055571ef34ff4,CO,Amentum,Amentum,,Pueblo,40,2025-01-28,2025-01-28,Partial completion of PCAPP Project,2026-08-31T07:22:39.223872Z
+07caf92cc9135e14,CO,Total Frac Solutions,Total Frac Solutions,,Weld,11,2025-01-28,2025-03-31,Closure/Mass Layoff,2026-08-31T07:22:39.223872Z
+f15c48b119e27d77,CO,Battelle,Battelle,,Pueblo,232,2025-01-16,2025-03-17,Closure,2026-08-31T07:22:39.223872Z
+775ce2bb67277321,CO,West Pines Behavioral Health,West Pines Behavioral Health,,Jefferson,132,2025-01-08,2025-03-31,Closure / Acadia,2026-08-31T07:22:39.223872Z
+6ce4f12ed01fa5f8,CO,GetInsured,GetInsured,,Arapahoe,1,2024-12-20,2025-02-19,Not specified,2026-08-31T07:22:39.223872Z
+ebd4d3d727ca0100,CO,Natural Fiber Welding,Natural Fiber Welding,,Denver,1,2024-12-10,2025-02-08,Unforseen business circumstance,2026-08-31T07:22:39.223872Z
+c0e1ec963f284279,CO,Brown Brothers Resources Holding,Brown Brothers Resources Holding,,Adams,121,2024-12-02,2024-12-06,Closure,2026-08-31T07:22:39.223872Z
+45713ad19e433988,CO,Russ Davis Wholesale,Russ Davis Wholesale,,Pueblo,109,2024-12-02,2025-01-31,Closure,2026-08-31T07:22:39.223872Z
+c8be606c24ca0654,CO,Boeing,Boeing,,"Arapahoe, Denver, El Paso",63,2024-11-15,2025-01-17,Not disclosed,2026-08-31T07:22:39.223872Z
+945b2fc1f925b364,CO,UPS,UPS,,Adams,404,2024-11-14,2025-01-15,"Partial, Temporary Closure",2026-08-31T07:22:39.223872Z
+0f646734561fedfd,CO,Chord Energy,Chord Energy,,Denver,313,2024-11-04,2024-11-04,Discontinuing Operations,2026-08-31T07:22:39.223872Z
+91ebcecd5822fae8,CO,Thiess,Thiess,,Rural Consortium,112,2024-10-29,2024-11-28,Closure,2026-08-31T07:22:39.223872Z
+2301792679042e42,CO,Kaleo Inc.,Kaleo,,Remote location in CO,1,2024-09-30,2024-11-30,Medical Sales Specialist,2026-08-31T07:22:39.223872Z
+9134e0ea6bdcb92c,CO,Sinton Dairy Foods Company,Sinton Dairy Foods,,Colo Springs,64,2024-09-26,2026-12-30,Closure,2026-08-31T07:22:39.223872Z
+865f496dbf2805d5,CO,"AGC Biologics, Inc.",AGC Biologics,,Boulder,85,2024-09-18,2024-11-22,Restructure and Partial Closure-See WARN,2026-08-31T07:22:39.223872Z
+9b2f66c4f05a8030,CO,Sodexo Service West (SDH),Sodexo Service West (SDH),,Adams,55,2024-09-13,2024-11-09,See WARN.,2026-08-31T07:22:39.223872Z
+1fd7d8107ce6d60a,CO,Lost Boys Interactive LLC,Lost Boys Interactive,,RC: Boulder & Larimer,3,2024-09-06,2024-09-09,See WARN.,2026-08-31T07:22:39.223872Z
+9e197b356fca486f,CO,ImmunityBio Inc.,ImmunityBio,,Boulder,5,2024-08-30,2024-10-29,See WARN.,2026-08-31T07:22:39.223872Z
+866db6b245f7e4dd,CO,Wells Fargo,Wells Fargo,,Arapahoe Douglas,70,2024-08-20,2024-11-20,Not specified,2026-08-31T07:22:39.223872Z
+aa910dfc4d0e3935,CO,Casey's Pond,Casey's Pond,,RC: Rural Resort,63,2024-08-19,2024-10-18,Sale of Business,2026-08-31T07:22:39.223872Z
+ad8a76419cbb19ee,CO,True Value,True Value,,Denver,49,2024-08-08,2024-09-06,Change in Business,2026-08-31T07:22:39.223872Z
+60bf9e9b69a34d66,CO,TPS Parking Mgmt,TPS Parking Mgmt,,Adams,79,2024-08-01,2024-09-30,Mass Layoff,2026-08-31T07:22:39.223872Z
+136bdd2dd0a247f5,CO,Radial,Radial,,Remote locations in CO,79,2024-07-30,2024-09-30,Closure,2026-08-31T07:22:39.223872Z
+b3e98e3ec2b005d3,CO,Amentum,Amentum,,Pueblo,72,2024-07-29,2024-09-30,Closure (upon completion of project),2026-08-31T07:22:39.223872Z
+a8d79d6f0613f26f,CO,Carestream Health,Carestream Health,,Weld,21,2024-07-17,2024-09-16,Reduction in Force,2026-08-31T07:22:39.223872Z
+d34c0258a2e62dbc,CO,LogRhythm,LogRhythm,,RC: Broomfield,80,2024-07-16,2024-09-09,Reduction in Force (Cease Operations of Axon Operating Unit),2026-08-31T07:22:39.223872Z
+a06ec1d233a2dc65,CO,Sodexo - St. Francis Interquest,Sodexo - St. Francis Interquest,,Pikes Peak,7,2024-07-08,2024-08-04,Closure (Cease Operations),2026-08-31T07:22:39.223872Z
+7bb7a57a0b7d9985,CO,Sodexo - Penrose Hospital,Sodexo - Penrose Hospital,,Pikes Peak,52,2024-07-08,2024-08-04,Closure (Cease Operations),2026-08-31T07:22:39.223872Z
+03b01b4f96cd829d,CO,Sodexo - St. Francis Medical Center,Sodexo - St. Francis Medical Center,,Pikes Peak,48,2024-07-08,2024-08-04,Closure (Cease Operations),2026-08-31T07:22:39.223872Z
+479bcc26b06167ce,CO,Newrez LLC,Newrez,,Arapahoe/Douglas,187,2024-06-27,2024-08-26,Reduction in Force,2026-08-31T07:22:39.223872Z
+72354ec55fc6ef64,CO,Saint Paul Health Center,Saint Paul Health Center,,Denver,131,2024-06-18,2024-09-01,End of Contract,2026-08-31T07:22:39.223872Z
+2008cdc7e1044141,CO,Wells Fargo,Wells Fargo,,Denver,80,2024-06-18,2024-08-01,Reduction in Force,2026-08-31T07:22:39.223872Z
+cf135f81cca83087,CO,TSG Ski & Golf,TSG Ski & Golf,,Rural Southwest,63,2024-06-14,2024-06-14,Reduction in Force,2026-08-31T07:22:39.223872Z
+bb55b693dcf36d18,CO,Mindspring (Update),Mindspring (Update),,Mesa,49,2024-06-04,2024-06-04,Reduction in Force,2026-08-31T07:22:39.223872Z
+e1af888c7f484f0f,CO,NewRez LLC,NewRez,,Arapahoe/Douglas,317,2024-06-03,2024-08-02,Reduction in Force,2026-08-31T07:22:39.223872Z
+92addca684e4ae98,CO,Mindspring,Mindspring,,Mesa,71,2024-05-31,2024-05-31,Reduction in Force,2026-08-31T07:22:39.223872Z
+fb104d81aa93e0d8,CO,Carestream (Update),Carestream (Update),,Weld,18,2024-05-21,2024-07-22,Reduction in Force,2026-08-31T07:22:39.223872Z
+b24ddcc499a629cf,CO,Amentum,Amentum,,Pueblo,11,2024-05-21,2024-07-01,Closure (end of Milestone 7),2026-08-31T07:22:39.223872Z
+617df5c0abe86958,CO,Pfizer Research,Pfizer Research,,Boulder,,2024-05-15,2024-07-15,Reduction in Force,2026-08-31T07:22:39.223872Z
+d000fac5071f9677,CO,Walmart Store #6178,Walmart,,Arapahoe/Douglas,141,2024-05-13,2024-06-07,Closure,2026-08-31T07:22:39.223872Z
+c7882eb8f97d17d5,CO,Newrez LLC,Newrez,,Arapahoe/Douglas,103,2024-05-02,2024-07-01,Reduction in Force,2026-08-31T07:22:39.223872Z
+dcd233506d161a8a,CO,Rocky Mountain Crisis Partners,Rocky Mountain Crisis Partners,,Denver,330,2024-05-01,2024-06-30,Loss of state funding,2026-08-31T07:22:39.223872Z
+3c57eff6659fa610,CO,Radial,Radial,,Remote Workforce,84,2024-05-01,2024-06-28,Selling Customer Care Unit,2026-08-31T07:22:39.223872Z
+88783f4b8be44171,CO,University of Denver,University of Denver,,Denver,118,2024-04-30,2024-06-30,Contract with Sodexo,2026-08-31T07:22:39.223872Z
+a821afe107681814,CO,Carestream Health,Carestream Health,,Weld,25,2024-04-25,2024-06-28,Reduction in Force,2026-08-31T07:22:39.223872Z
+e124c234e336e8f1,CO,Wheels Up Partners LLC,Wheels Up Partners,,Rural Consortium (Broomfield),65,2024-04-17,2024-06-16,Closure (Cease Operations),2026-08-31T07:22:39.223872Z
+e39557ef382c1766,CO,Checkr,Checkr,,Denver,92,2024-04-09,2024-06-10,Reduction in Force,2026-08-31T07:22:39.223872Z
+57dc3da6863910dc,CO,HealthHelp (a WNS Company),HealthHelp (a WNS Company),,Arapahoe/Douglas,1,2024-04-03,2024-06-02,Reduction in Force,2026-08-31T07:22:39.223872Z
+7c3823a06a658abc,CO,Volta/Volta Charging Industries,Volta/Volta Charging Industries,,Not Stated,1,2024-03-29,2024-05-31,Closure,2026-08-31T07:22:39.223872Z
+9bceecc2226a3456,CO,Atrium Hospitality LP/Denver Crowne Plaza,Atrium Hospitality LP/Denver Crowne Plaza,,Denver,56,2024-03-27,2024-05-31,Closure,2026-08-31T07:22:39.223872Z
+0eadc4c6cedf24d2,CO,Bionano Genomics Inc.,Bionano Genomics,,San Diego (remote CO Workers),76,2024-03-21,2024-05-24,Reduction in Force,2026-08-31T07:22:39.223872Z
+3787abbe7048a9f4,CO,Carestream Health Inc. - Update,Carestream Health Inc. - Update,,Weld,19,2024-03-20,2024-05-24,Reduction in Force,2026-08-31T07:22:39.223872Z
+c40746eeb44c1867,CO,Dish Network LLC,Dish Network,,Arapahoe/Douglas,5,2024-03-12,2024-05-11,Reduction in Force,2026-08-31T07:22:39.223872Z
+56536764b1de058c,CO,Developmental Disabilities Resource Center,Developmental Disabilities Resource Center,,Jefferson,46,2024-03-11,2024-06-30,Reduction in Force,2026-08-31T07:22:39.223872Z
+23c229048e309752,CO,"Packers Sanitation Services, Inc.’s (PSSI)","Packers Sanitation Services, Inc.'s (PSSI)",,Weld,175,2024-02-27,2024-04-18,Loss of contract,2026-08-31T07:22:39.223872Z
+d574eaebe7fdec2d,CO,Carestream Health Inc.,Carestream Health,,Weld,210,2024-02-26,2024-04-26,Facility closure,2026-08-31T07:22:39.223872Z
+a8261e8313f6860f,CO,CommuteAir,CommuteAir,,Denver,40,2024-02-23,2024-05-23,Reduction in Force,2026-08-31T07:22:39.223872Z
+f9ba6171c0261be2,CO,Daifuku Services America Corporation -Colo Springs,Daifuku Services America Corporation -Colo Springs,,Pikes Peak-Colo Springs,89,2024-02-22,2024-04-22,Loss of contract,2026-08-31T07:22:39.223872Z
+8394324fa5a708f8,CO,Daifuku Services America Corporation -Aurora,Daifuku Services America Corporation -Aurora,,Arapahoe/Douglas,32,2024-02-22,2024-04-22,Loss of contract,2026-08-31T07:22:39.223872Z
+313db978b026aa0b,CO,Daifuku Services America Corporation (formerly Elite Line Services) -Thornton,Daifuku Services America,Elite Line Services) -Thornton,Adams,75,2024-02-22,2024-04-22,Loss of contract,2026-08-31T07:22:39.223872Z
+38d784b2e69b556e,CO,Dish Network LLC,Dish Network,,Arapahoe/Douglas,53,2024-02-20,2024-04-20,Reduction in Force,2026-08-31T07:22:39.223872Z
+f9d7699dddf40f6c,CO,BillGO Inc.,BillGO,,Larimer,80,2024-01-31,2024-03-31,Change in current business opportunities,2026-08-31T07:22:39.223872Z
+a924491ea5f39436,CO,SP+ Corporation,SP+,,Denver,56,2024-01-31,2024-01-31,Not Stated,2026-08-31T07:22:39.223872Z
+f9dbefae71322b85,CO,IMI Norgren LLC,IMI Norgren,,Arapahoe/Douglas,60,2024-01-30,2024-04-01,Site Consolidation and Office Relocation,2026-08-31T07:22:39.223872Z
+6578075d4ae8e703,CO,Block Inc.,Block,,Unknown (Remote Workers),13,2024-01-30,2024-03-30,Not Stated,2026-08-31T07:22:39.223872Z
+37c1ec8d5d5cb048,CO,Amentum,Amentum,,Pueblo,45,2024-01-30,2024-03-01,Closure-Completion of PCAPP Milestones,2026-08-31T07:22:39.223872Z
+d0adc3908d4fc2b8,CO,Dish Network LLC,Dish Network,,Arapahoe/Douglas,9,2024-01-19,2024-03-19,Reduction in Force,2026-08-31T07:22:39.223872Z
+b4c435f54995871b,CO,ABM Industry Group,ABM Industry Group,,Adams,94,2024-01-18,2024-03-18,Loss of contract w/Amazon,2026-08-31T07:22:39.223872Z
+26c9713849bbc432,CO,Lost Boys Interactive LLC,Lost Boys Interactive,,"Multiple (Larimer, Jeffco, Adams)",4,2024-01-11,2024-03-15,Not stated,2026-08-31T07:22:39.223872Z
+ab8f6c6e9f7dd118,CO,Dish Network LLC,Dish Network,,Arapahoe/Douglas,157,2024-01-08,2024-03-08,Not stated,2026-08-31T07:22:39.223872Z
+94e975b2c8c89bd2,CO,Flatirons Health and Rehabilitation (Axiom Healthcare Services).,Flatirons Health and Rehabilitation (Axiom Healthcare Services),,Boulder,124,2024-01-04,2024-03-04,Facility closure,2026-08-31T07:22:39.223872Z
+a74847882f1bf3c4,CO,"Conagra Brands, Inc.",Conagra Brands,,Boulder,100,,,Closure,2026-08-31T07:22:39.223872Z
+85555595319caf9e,CO,Peak Reliability,Peak Reliability,,Larimer,69,,,Terminate Operations,2026-08-31T07:22:39.223872Z
+7fee75d5528498c0,CO,"Sandoz Inc., A Novartis Division (Update)","Sandoz Inc., A Novartis Division (Update)",,Broomfield,24,,,Closure,2026-08-31T07:22:39.223872Z
+7c953e4325f80b65,CO,NOTE: 313 employees notified by Ascent Classical Academies were hired by the new vendor.,NOTE: 313 employees notified by Ascent Classical Academies were hired by the new vendor,,,,,,,2026-08-31T07:22:39.223872Z

@@ -1,214 +1,291 @@
 {
-  "generated_at": "2026-09-02T05:08:44.856399Z",
-  "total_rows": 44906,
-  "free_rows": 7099,
+  "generated_at": "2026-09-02T14:06:44.088104Z",
+  "total_rows": 45750,
+  "free_rows": 8107,
   "free_window_start": "2024-01-01",
-  "new_ids_this_run": 4613,
+  "new_ids_this_run": 0,
   "delay_hours": 48,
   "states": {
     "AK": {
       "rows": 66,
       "raw_rows": 66,
-      "status": "ok"
+      "status": "ok",
+      "last_scraped": "2026-09-02T05:02Z",
+      "latest_notice_date": "2026-07-06"
     },
     "AL": {
       "rows": 1060,
       "raw_rows": 1072,
-      "status": "ok"
+      "status": "ok",
+      "last_scraped": "2026-09-02T05:02Z",
+      "latest_notice_date": "2026-08-20"
     },
     "AZ": {
       "rows": 636,
       "raw_rows": 630,
-      "status": "ok"
+      "status": "ok",
+      "last_scraped": "2026-09-02T05:03Z",
+      "latest_notice_date": "2026-08-21"
     },
     "CA": {
       "rows": 16556,
       "raw_rows": 17429,
-      "status": "ok"
+      "status": "ok",
+      "last_scraped": "2026-09-02T05:05Z",
+      "latest_notice_date": "2026-08-31"
     },
     "CO": {
       "rows": 835,
       "raw_rows": 866,
-      "status": "ok"
+      "status": "ok",
+      "last_scraped": "2026-09-02T05:03Z",
+      "latest_notice_date": "2026-08-14"
     },
     "CT": {
-      "rows": 27,
-      "raw_rows": 27,
-      "status": "ok"
+      "rows": 871,
+      "raw_rows": 944,
+      "status": "ok",
+      "last_scraped": "2026-09-02T05:03Z",
+      "latest_notice_date": "2026-06-28"
     },
     "DC": {
       "rows": 143,
       "raw_rows": 143,
-      "status": "ok"
+      "status": "ok",
+      "last_scraped": "2026-09-02T05:03Z",
+      "latest_notice_date": "2026-07-27"
     },
     "DE": {
       "rows": 100,
       "raw_rows": 100,
-      "status": "ok"
+      "status": "ok",
+      "last_scraped": "2026-09-02T05:03Z",
+      "latest_notice_date": "2026-08-10"
     },
     "FL": {
       "rows": 3115,
       "raw_rows": 3247,
-      "status": "ok"
+      "status": "ok",
+      "last_scraped": "2026-09-02T05:08Z",
+      "latest_notice_date": "2026-08-28"
     },
     "GA": {
       "rows": 282,
       "raw_rows": 282,
-      "status": "ok"
+      "status": "ok",
+      "last_scraped": "2026-09-02T05:06Z",
+      "latest_notice_date": "2026-08-31"
     },
     "IA": {
       "rows": 416,
       "raw_rows": 430,
-      "status": "ok"
+      "status": "ok",
+      "last_scraped": "2026-09-02T05:03Z",
+      "latest_notice_date": "2026-08-31"
     },
     "IL": {
       "rows": 4842,
       "raw_rows": 4885,
-      "status": "ok"
+      "status": "ok",
+      "last_scraped": "2026-09-02T05:04Z",
+      "latest_notice_date": "2026-08-25"
     },
     "IN": {
       "rows": 1180,
       "raw_rows": 1221,
-      "status": "ok"
+      "status": "ok",
+      "last_scraped": "2026-09-02T05:04Z",
+      "latest_notice_date": "2026-08-13"
     },
     "KS": {
       "rows": 791,
       "raw_rows": 791,
-      "status": "ok"
+      "status": "ok",
+      "last_scraped": "2026-09-02T05:04Z",
+      "latest_notice_date": "2026-05-01"
     },
     "KY": {
       "rows": 804,
       "raw_rows": 832,
-      "status": "ok"
+      "status": "ok",
+      "last_scraped": "2026-09-02T05:04Z",
+      "latest_notice_date": "2026-08-10"
     },
     "LA": {
       "rows": 38,
       "raw_rows": 38,
-      "status": "ok"
+      "status": "ok",
+      "last_scraped": "2026-09-02T07:37Z",
+      "latest_notice_date": "2026-08-26"
     },
     "MD": {
       "rows": 1274,
       "raw_rows": 1418,
-      "status": "ok"
+      "status": "ok",
+      "last_scraped": "2026-09-02T05:04Z",
+      "latest_notice_date": "2026-08-31"
     },
     "ME": {
       "rows": 85,
       "raw_rows": 85,
-      "status": "ok"
+      "status": "ok",
+      "last_scraped": "2026-09-02T05:04Z",
+      "latest_notice_date": "2026-08-04"
     },
     "MI": {
       "rows": 112,
       "raw_rows": 112,
-      "status": "ok"
+      "status": "ok",
+      "last_scraped": "2026-09-02T05:04Z",
+      "latest_notice_date": "2026-08-28"
     },
     "MS": {
       "rows": 136,
       "raw_rows": 136,
-      "status": "ok"
+      "status": "ok",
+      "last_scraped": "2026-09-02T05:08Z",
+      "latest_notice_date": "2026-05-11"
     },
     "MT": {
       "rows": 46,
       "raw_rows": 46,
-      "status": "ok"
+      "status": "ok",
+      "last_scraped": "2026-09-02T05:04Z",
+      "latest_notice_date": "2026-07-21"
     },
     "NC": {
       "rows": 294,
       "raw_rows": 294,
-      "status": "ok"
+      "status": "ok",
+      "last_scraped": "2026-09-02T05:08Z",
+      "latest_notice_date": "2026-08-13"
     },
     "NE": {
       "rows": 845,
       "raw_rows": 960,
-      "status": "ok"
+      "status": "ok",
+      "last_scraped": "2026-09-02T05:04Z",
+      "latest_notice_date": "2026-08-26"
     },
     "NJ": {
       "rows": 2321,
       "raw_rows": 2367,
-      "status": "ok"
+      "status": "ok",
+      "last_scraped": "2026-09-02T05:05Z",
+      "latest_notice_date": "2026-08-01"
     },
     "NM": {
       "rows": 116,
       "raw_rows": 119,
-      "status": "ok"
+      "status": "ok",
+      "last_scraped": "2026-09-02T05:05Z",
+      "latest_notice_date": "2026-06-29"
     },
     "NY": {
       "rows": 141,
       "raw_rows": 193,
-      "status": "ok"
+      "status": "ok",
+      "last_scraped": "2026-09-02T05:05Z",
+      "latest_notice_date": "2026-08-04"
     },
     "OK": {
       "rows": 219,
       "raw_rows": 219,
-      "status": "ok"
+      "status": "ok",
+      "last_scraped": "2026-09-02T05:05Z",
+      "latest_notice_date": "2026-08-17"
     },
     "OR": {
       "rows": 1369,
       "raw_rows": 1369,
-      "status": "ok"
+      "status": "ok",
+      "last_scraped": "2026-09-02T05:05Z",
+      "latest_notice_date": "2026-09-01"
     },
     "PA": {
       "rows": 308,
       "raw_rows": 308,
-      "status": "ok"
+      "status": "ok",
+      "last_scraped": "2026-09-02T05:05Z",
+      "latest_notice_date": "2026-08-31"
     },
     "RI": {
       "rows": 126,
       "raw_rows": 126,
-      "status": "ok"
+      "status": "ok",
+      "last_scraped": "2026-09-02T05:05Z",
+      "latest_notice_date": "2026-06-29"
     },
     "SC": {
       "rows": 603,
       "raw_rows": 608,
-      "status": "ok"
+      "status": "ok",
+      "last_scraped": "2026-09-02T05:05Z",
+      "latest_notice_date": "2026-08-28"
     },
     "SD": {
       "rows": 80,
       "raw_rows": 80,
-      "status": "ok"
+      "status": "ok",
+      "last_scraped": "2026-09-02T05:05Z",
+      "latest_notice_date": "2026-08-10"
     },
     "TN": {
       "rows": 1060,
       "raw_rows": 1062,
-      "status": "ok"
+      "status": "ok",
+      "last_scraped": "2026-09-02T05:05Z",
+      "latest_notice_date": "2026-08-24"
     },
     "TX": {
       "rows": 2358,
       "raw_rows": 2367,
-      "status": "ok"
+      "status": "ok",
+      "last_scraped": "2026-09-02T05:08Z",
+      "latest_notice_date": "2026-06-23"
     },
     "UT": {
       "rows": 282,
       "raw_rows": 282,
-      "status": "ok"
+      "status": "ok",
+      "last_scraped": "2026-09-02T05:05Z",
+      "latest_notice_date": "2026-08-13"
     },
     "VT": {
       "rows": 70,
       "raw_rows": 70,
-      "status": "ok"
+      "status": "ok",
+      "last_scraped": "2026-09-02T05:05Z",
+      "latest_notice_date": "2026-06-17"
     },
     "WA": {
       "rows": 1495,
       "raw_rows": 1501,
-      "status": "ok"
+      "status": "ok",
+      "last_scraped": "2026-09-02T05:05Z",
+      "latest_notice_date": "2026-08-31"
     },
     "WI": {
       "rows": 617,
       "raw_rows": 635,
-      "status": "ok"
+      "status": "ok",
+      "last_scraped": "2026-09-02T05:05Z",
+      "latest_notice_date": "2026-08-24"
     },
     "WV": {
       "rows": 58,
       "raw_rows": 58,
-      "status": "ok"
+      "status": "ok",
+      "last_scraped": "2026-09-02T05:08Z",
+      "latest_notice_date": "2026-08-19"
     }
   },
   "delay_gap": {
-    "count": 108,
-    "workers": 9735,
+    "count": 83,
+    "workers": 8064,
     "states": [
       "AL",
       "CA",
-      "CO",
       "DC",
       "DE",
       "FL",

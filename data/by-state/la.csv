@@ -1,0 +1,26 @@
+id,state,company,company_canonical,company_dba,location,employees_affected,notice_date,effective_date,notice_type,first_seen
+1960c479d0c4953d,LA,Ensco Offshore LLC –,Ensco Offshore LLC –,,DS-18 Drilling Rig,75,2025-12-05,2026-02-10,,2026-08-31T10:29:52.309603Z
+f296bcf9119be184,LA,"The Service Companies, Inc. (Full Service Systems Corp.) –","Service Companies, Inc. (Full Service Systems Corp.) –",,Horseshoe Bossier City,76,2025-12-02,2026-02-01,,2026-08-31T10:29:52.309603Z
+ed8be86459d222ba,LA,General Dynamics Information,General Dynamics Information,,Technology (GDIT),103,,2025-11-14,,2026-08-31T10:29:52.309603Z
+50670b8d832eeaf8,LA,"Premier Health Consultants, LLC",Premier Health Consultants,,(Premier Health Urgent Care),140,2025-10-31,2025-12-31,,2026-08-31T10:29:52.309603Z
+8ac69921f8a5a942,LA,"SafeSource Direct, L.L.C. –","SafeSource Direct, L.L.C. –",,MMF Facility (Second WARN),56,2025-09-16,2025-11-25,,2026-08-31T10:29:52.309603Z
+b379ea28c04c14d5,LA,PosiGen Developer LLC,PosiGen Developer,,"145 James Drive East, Suite 300 St. Rose, LA 70087",166,2025-08-25,2025-08-25,,2026-08-31T10:29:52.309603Z
+8e0488a417f97acb,LA,Smitty’s Supply Inc,Smitty's Supply,,"63415 Hwy. 51 N Roseland, LA 70456",450,2025-08-25,2025-08-22,,2026-08-31T10:29:52.309603Z
+f32bfb7de7376f60,LA,"SafeSource Direct, L.L.C. –","SafeSource Direct, L.L.C. –",,Nitrile Plant Facility,454,2025-08-22,2025-10-21,,2026-08-31T10:29:52.309603Z
+d808d4736ecabf92,LA,"SafeSource Direct, L.L.C. –","SafeSource Direct, L.L.C. –",,MMF PPE Manufacturing Facility,87,2025-08-22,2025-10-21,,2026-08-31T10:29:52.309603Z
+bd3c835f1142352e,LA,SafeSource Direct L.L.C.,SafeSource Direct,,"200 St. Nazaire Rd. Broussard, LA, 70518 142 Lake Talon Rd. Broussard, LA 70518",541,2025-08-22,2025-10-21,,2026-08-31T10:29:52.309603Z
+f480d1967a0e9fd4,LA,"(*)UPS 5700 Morrison Road, New Orleans, Louisiana (July 10, 2025) Rescinded on 9/5/2025","(*)UPS 5700 Morrison Road, New Orleans, Louisiana (July 10, 2025) Rescinded on 9/5/2025",,,177,2025-07-10,2025-09-08,,2026-08-31T10:29:52.309603Z
+5b4c7470ab0230cb,LA,(*)UPS,(*)UPS,,"5700 Morrison Road New Orleans, LA 70126",177,2025-07-10,2025-09-08,,2026-08-31T10:29:52.309603Z
+2ff4b7ef67db2a4a,LA,Albertsons Baton Rouge #0709,Albertsons Baton Rouge,,"2950 College Drive Baton Rouge, LA 70808",90,2025-06-11,2025-08-16,,2026-08-31T10:29:52.309603Z
+842865002ab9ae82,LA,Roux 61,Roux 61,,"8322 Bluebonnet Baton Rouge, LA 70810",50,2025-05-31,2025-05-31,,2026-08-31T10:29:52.309603Z
+2bf1411b4929ef49,LA,Sodexo,Sodexo,,"1500 Sugar Bowl Drive New Orleans, LA 70112",881,2025-05-16,2025-07-14,,2026-08-31T10:29:52.309603Z
+2eb5e660f88c7a32,LA,Syncom Space Services,Syncom Space Services,,"13800 Old Gentilly Road Building 320 New Orleans, LA 70129",296,2025-05-15,2025-06-30,,2026-08-31T10:29:52.309603Z
+c47f9b99c9725e24,LA,Cornerstone Chemical Company,Cornerstone Chemical,,"10800 River Road Waggaman, LA 70094",71,2025-05-05,2025-07-31,,2026-08-31T10:29:52.309603Z
+42f166dde66922b6,LA,Federal Express Corporation (BTRA Facility),Federal Express Corporation (BTRA Facility),,"10781 Coursey Boulevard Baton Rouge, LA 70804",74,2025-04-30,2025-06-30,,2026-08-31T10:29:52.309603Z
+697be0292fb16c05,LA,IDEA Public Schools (IDEA Innovation & IDEA Bridge),IDEA Public Schools (IDEA Innovation & IDEA Bridge),,"7800 Innovation Park Drive & 1500 N. Airway Drive Baton Rouge, LA",212,2025-04-07,2025-05-24,,2026-08-31T10:29:52.309603Z
+36871c3aa8bd3923,LA,IDEA Southern Louisiana Idea Innovation,IDEA Southern Louisiana Idea Innovation,,"(7800 Innovation Park Drive, Baton Rouge, LA 70820) Idea Bridge (1500 N. Airway Drive, Baton Rouge, LA 70815)",212,2025-04-07,2025-05-24,,2026-08-31T10:29:52.309603Z
+1a48fd4c43ec34d9,LA,Southern Glazer's Wine and Spirits of Louisiana,Southern Glazer's Wine and Spirits of Louisiana,,"939 W. Pont Des Mouton Rd Lafayette, LA 70507",48,2025-03-14,2025-05-16,,2026-08-31T10:29:52.309603Z
+8e5d0298d19e169f,LA,General Dynamics Information Technology,General Dynamics Information Technology,,2251 Lakeshore Drive New Orleans,77,2025-03-07,2025-05-14,,2026-08-31T10:29:52.309603Z
+d4555557ec79ea3e,LA,Boeing Company,Boeing,,"13800 Old Gentilly Rd New Orleans, LA 70129",89,2025-02-15,2025-04-18,,2026-08-31T10:29:52.309603Z
+50ba02c06ba08b8b,LA,International Paper Company,International Paper,,"4537 Hwy 480 Campti, LA 71411",481,2025-02-13,2025-04-13,,2026-08-31T10:29:52.309603Z
+1c138cb0c6f7cc96,LA,Dr. Reddy’s Laboratories,Dr. Reddy's Laboratories,,"8800 Line Ave Shreveport, LA 71106",107,2025-01-07,2025-03-14,,2026-08-31T10:29:52.309603Z

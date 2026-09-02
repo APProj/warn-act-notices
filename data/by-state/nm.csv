@@ -1,0 +1,13 @@
+id,state,company,company_canonical,company_dba,location,employees_affected,notice_date,effective_date,notice_type,first_seen
+8878cd8c70c68f69,NM,Conduent,Conduent,,"Albuquerque, Bernalillo",11,2026-06-29,,,2026-08-31T09:31:50.752671Z
+922a55947ada4ea6,NM,"Atkore HDPE, LLC",Atkore HDPE,,"Albuquerque, Bernalillo",51,2026-04-27,2026-06-30,,2026-08-31T09:31:50.752671Z
+211fd33b8e48447a,NM,CyraCom International Inc,CyraCom International,,"Las Cruces, Doña Ana",85,2025-09-04,2025-09-30,,2026-08-31T09:31:50.752671Z
+db90b5941ab853e5,NM,ECS,ECS,,"Albuquerque, Bernalillo",140,2025-07-24,2025-09-30,,2026-08-31T09:31:50.752671Z
+ca70d3d3a96b3495,NM,Intel,Intel,,"Rio Rancho, Sandoval",227,2025-07-16,,,2026-08-31T09:31:50.752671Z
+55d336d9eebf08b8,NM,"The GEO Group, Inc.",GEO Group,,"Hobbs, Lea",203,2025-05-01,2025-06-30,,2026-08-31T09:31:50.752671Z
+31e2e3c36cd0b461,NM,"U.S. Cotton, LLC",U.S. Cotton,,"Rio Rancho, Sandoval",175,2024-09-04,2025-08-31,,2026-08-31T09:31:50.752671Z
+5d8b239a4a0a416a,NM,Hallcon Corporation,Hallcon,,"Clovis, Curry",118,2024-08-30,2024-10-31,,2026-08-31T09:31:50.752671Z
+6048e6cafe0bbb15,NM,St. James Hotel and UU Bar Ranch,St. James Hotel and UU Bar Ranch,,"Cimarron, Colfax",58,2024-08-29,2024-10-31,,2026-08-31T09:31:50.752671Z
+2d79e6db98b0a768,NM,Jabil Inc.,Jabil,,"Albuquerque, Bernalillo",130,2024-07-15,2024-09-13,,2026-08-31T09:31:50.752671Z
+1cabbaeb200254bd,NM,CTI,CTI,,"Alamogordo, Otero",68,2024-01-31,2023-10-24,,2026-08-31T09:31:50.752671Z
+6606c76fb3c61f40,NM,BIMBO Bakeries,BIMBO Bakeries,,"Albuquerque, Bernalillo",123,2024-01-16,2024-04-16,,2026-08-31T09:31:50.752671Z

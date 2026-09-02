@@ -1,5 +1,6 @@
 id,state,company,company_canonical,company_dba,location,employees_affected,notice_date,effective_date,notice_type,first_seen
 58a22abee242b5cf,KS,First Student,First Student,,"Cincinnati, 191 Rosa Parks St; Cincinnati, Ohio 45202",151,2026-05-01,,WARN,2026-08-30T22:16:36.831610Z
+65580d6f6523746f,KS,Ashley Clinic/Southeast Kansas Mental Health Center,Ashley Clinic/Southeast Kansas Mental Health Center,,"Iola, 304 N. Jefferson Ave; Iola, Kansas 66749",116,2026-03-27,,WARN,2026-08-31T12:18:23.233750Z
 63732291612f996e,KS,"First Brands Group, LLC (Horizon Global)","First Brands Group, LLC (Horizon Global)",,"Edgerton, 32901 W. 193rd St.; Edgerton, Kansas 66021",64,2026-02-27,,WARN,2026-08-30T22:16:36.831610Z
 8805476cf54c4da7,KS,"First Brands Group, LLC (Hopkins)","First Brands Group, LLC (Hopkins)",,"Edgerton, W 185th St.; Edgerton, Kansas 66030",81,2026-02-23,,WARN,2026-08-30T22:16:36.831610Z
 1e0f0d03a9faea2d,KS,"First Brands Group, LLC (Hopkins)","First Brands Group, LLC (Hopkins)",,"Emporia, 428 Peyton St.; Emporia, Kansas 66801",130,2026-02-23,,WARN,2026-08-30T22:16:36.831610Z

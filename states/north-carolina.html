@@ -10,13 +10,14 @@ h1{font-size:1.5rem} .stats{display:flex;gap:2rem;flex-wrap:wrap;margin:1.5rem 0
 .stat b{display:block;font-size:1.8rem} table{border-collapse:collapse;width:100%;font-size:.9rem}
 td,th{padding:.35rem .6rem;border-bottom:1px solid #e5e5e5;text-align:left} .r{text-align:right}
 a{color:#0757ba} .cta{background:#f6f8fa;border:1px solid #d0d7de;border-radius:8px;padding:1rem;margin:1.5rem 0}
-footer,nav{margin:2rem 0;font-size:.85rem;color:#666}
+footer,nav{margin:2rem 0;font-size:.85rem;color:#666} .tw{overflow-x:auto;-webkit-overflow-scrolling:touch}
 </style></head><body>
 <p><a href="../">← All states: US WARN notice dataset</a></p>
 <h1>North Carolina WARN notices — layoff notice list, updated daily</h1>
 <p>All WARN Act layoff notices published by North Carolina, normalized into one clean
 schema (employer, location, workers affected, notice date, layoff date) and
-refreshed every day. Updated <b>2026-09-02</b>. Free tier is 48h-delayed.</p>
+refreshed every day. Updated <b>2026-09-02</b>. Free tier is 48h-delayed.
+Source last scraped: <b>2026-09-02 05:08 UTC</b> · newest notice on file: <b>2026-08-13</b>.</p>
 <div class="stats">
 <div class="stat"><b>0</b>North Carolina notices in the free dataset</div>
 <div class="stat"><b>0</b>notices, last 90 days</div>
@@ -26,11 +27,11 @@ refreshed every day. Updated <b>2026-09-02</b>. Free tier is 48h-delayed.</p>
 <a href="https://github.com/APVentureEngine/warn-act-notices">full 39-state dataset (CSV/JSON, free, no login)</a></p>
 <p><i>Recently added state — its notices enter the free files after the 48-hour delay window; check back tomorrow.</i></p>
 <h2>Latest North Carolina notices</h2>
-<table><tr><th>Notice date</th><th>Company</th><th>Location</th><th class="r">Workers</th><th>Layoff date</th></tr>
-</table>
+<div class="tw"><table><tr><th>Notice date</th><th>Company</th><th>Location</th><th class="r">Workers</th><th>Layoff date</th></tr>
+</table></div>
 <h2>North Carolina monthly trend</h2>
-<table><tr><th>Month</th><th class="r">Notices</th><th class="r">Workers affected</th></tr>
-</table>
+<div class="tw"><table><tr><th>Month</th><th class="r">Notices</th><th class="r">Workers affected</th></tr>
+</table></div>
 <div class="cta"><b>Use layoff notices as sales or recruiting triggers?</b>
 The free files are 48h-delayed. <a href="https://approj.gumroad.com/l/warn-realtime">Real-time feed, $49/mo</a> ·
 <a href="https://approj.gumroad.com/l/warn-archive">full 1988+ archive, $199 one-time</a>.</div>
@@ -38,6 +39,7 @@ The free files are 48h-delayed. <a href="https://approj.gumroad.com/l/warn-realt
 <footer>Source: official North Carolina labor department WARN listings, via Apache-2.0
 <a href="https://github.com/biglocalnews/warn-scraper">biglocalnews/warn-scraper</a>
 + our normalization layer. Dataset CC BY 4.0 — credit "WARN Feed". Best-effort
-public records; verify critical rows against the state source.
+public records; verify critical rows against the state source.<br>
+Published by APProjects (Gumroad seller <i>approj</i>); receipts via Gumroad; contact via the Gumroad listing or a <a href="https://github.com/APVentureEngine/warn-act-notices/issues/new/choose">repo issue</a>.
 <a href="https://github.com/APVentureEngine/warn-act-notices">GitHub</a></footer>
 </body></html>

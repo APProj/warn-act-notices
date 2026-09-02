@@ -1,0 +1,50 @@
+{
+ "checked": "2026-09-02",
+ "stale": [
+  {
+   "age_days": 66,
+   "kind": "stale-notices",
+   "latest_notice_date": "2026-06-28",
+   "limit_days": 60,
+   "rows": 871,
+   "state": "CT",
+   "verified_quiet": "2026-09-02"
+  },
+  {
+   "age_days": 124,
+   "kind": "stale-notices",
+   "latest_notice_date": "2026-05-01",
+   "limit_days": 60,
+   "rows": 791,
+   "state": "KS",
+   "verified_quiet": "2026-09-02"
+  },
+  {
+   "age_days": 65,
+   "kind": "stale-notices",
+   "latest_notice_date": "2026-06-29",
+   "limit_days": 60,
+   "rows": 116,
+   "state": "NM",
+   "verified_quiet": "2026-09-02"
+  },
+  {
+   "age_days": 65,
+   "kind": "stale-notices",
+   "latest_notice_date": "2026-06-29",
+   "limit_days": 60,
+   "rows": 126,
+   "state": "RI",
+   "verified_quiet": "2026-09-02"
+  },
+  {
+   "age_days": 77,
+   "kind": "stale-notices",
+   "latest_notice_date": "2026-06-17",
+   "limit_days": 60,
+   "rows": 70,
+   "state": "VT",
+   "verified_quiet": "2026-09-02"
+  }
+ ]
+}
