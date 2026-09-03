@@ -115,18 +115,27 @@ watch an employer across states and years — the part no raw scraper output giv
 Each state also ships as its own CSV in [`data/by-state/`](data/by-state/) —
 e.g. California layoff notices: [`data/by-state/ca.csv`](data/by-state/ca.csv).
 
-## Biggest layoff notices — 2026-09
+## Biggest layoff notices — last 30 days (2026-08-04 to 2026-09-03)
 
 | Company | State | Location | Workers | Notice date |
 |---|---|---|---:|---|
-| Georgia-Pacific Gypsum | WA | Tacoma | 120 | 2026-09-01 |
-| Tualatin Oregon Facility | OR | Tualatin | 60 | 2026-09-01 |
-| UBS | NJ | Weehawken | 41 | 2026-09-01 |
-| Tualatin Oregon Facility | OR | Tualatin | 11 | 2026-09-01 |
-| Tualatin Oregon Facility | OR | Tualatin | 9 | 2026-09-01 |
-| Tualatin Oregon Facility | OR | Tualatin | 5 | 2026-09-01 |
-| Wells Fargo | IA | West Des Moines | 5 | 2026-09-01 |
-| Tualatin Oregon Facility | OR | Tualatin | 2 | 2026-09-01 |
+| Tyson Foods | IL | Hillsdale, 28424 38TH Ave. North | 2,495 | 2026-08-13 |
+| Borton & Sons | WA | Yakima, Zillah, Pasco, Burbank, Prescott, Soap Lake, Othello, Mesa | 928 | 2026-08-21 |
+| 24Hr Homecare | CA | Los Angeles County | 738 | 2026-08-31 |
+| Tyson Fresh Meats | UT | Eagle Mountain | 723 | 2026-08-13 |
+| Sky Chefs | NY | Queens | 471 | 2026-08-04 |
+| Jabil | CA | Santa Clara County | 382 | 2026-08-21 |
+| Amentum | MD | 7710 Milestone Parkway Hanover, MD 21076 | 382 (2 phases) | 2026-08-18 |
+| Republic National Distributing | GA | National Dr SW Atlanta, Cobb County | 321 | 2026-08-26 |
+| TikTok USDS JV | TN | Davidson | 250 | 2026-08-05 |
+| Starbucks | WA | Seattle | 224 | 2026-08-20 |
+| Astrion | FL | PATRICK AFB, FL, 32925, EGLIN AIR FORCE BASE, FL, 32542 | 220 (2 phases) | 2026-08-28 |
+| Mosaic | LA | Uncle Sam - 7250 LA-44 Convent, LA 70723 Faustina – 9959 LA-18 St. James, LA 70086 | 206 | 2026-08-26 |
+| LeeMAH Electronics | CA | San Mateo County | 205 | 2026-08-17 |
+| Bumble Bee Foods | CA | Los Angeles County | 197 | 2026-08-11 |
+| Essendant | GA | Horizon Dr Suwanee | 192 | 2026-08-04 |
+
+_Grouped per notice (a phased notice with several layoff dates counts once, workers summed). 5 row(s) in this window whose state record names only a facility, not an employer, are omitted here but kept in the CSV as published._
 
 ## Monthly trend (last 12 months, this dataset)
 
