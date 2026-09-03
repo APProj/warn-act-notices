@@ -21,6 +21,8 @@
 
 - [Stats page](https://apventureengine.github.io/warn-act-notices/): weekly US layoff summary and per-state pages
 - [Layoffs by employer](https://apventureengine.github.io/warn-act-notices/employers/): one page per employer with all their WARN notices
+- [Employer search](https://apventureengine.github.io/warn-act-notices/search.html): type a company name, see its WARN notices
+- [Compared with WARNTracker, Intellizence, warn-scraper and the state portals](https://apventureengine.github.io/warn-act-notices/compare.html): dated prices and what each source actually gives you
 - [GitHub repo](https://github.com/APVentureEngine/warn-act-notices): source of truth, README with full schema and coverage table
 
 ## Commercial tiers
