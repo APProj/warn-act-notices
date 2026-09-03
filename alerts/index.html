@@ -5,6 +5,7 @@
 <label>Purchase email<input id=e type=email autocomplete=email></label><button id=go>Open my alerts</button>
 <p id=msg class=note></p>
 <p class=note>Alert pages are rebuilt on every daily refresh. A page that says "No matching WARN notices yet" is working — nothing has matched your terms since your watch started. If the page is a 404 within 24 hours of buying, reply to your Gumroad receipt and we will fix it.</p>
+<p class=note><b>No watch yet?</b> Start a <a href="https://approj.gumroad.com/l/warn-free-watch">free 30-day watch</a> (up to 3 employers or one state, no card) or read <a href="../watch.html">what WARN Watch does</a>.</p>
 <script>
 async function go(){const e=document.getElementById('e').value.trim().toLowerCase();if(!e){document.getElementById('msg').textContent='Enter the purchase email.';return}
 const buf=await crypto.subtle.digest('SHA-256',new TextEncoder().encode('warnwatch|'+e));
