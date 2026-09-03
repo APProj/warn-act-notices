@@ -118,25 +118,25 @@ e.g. California layoff notices: [`data/by-state/ca.csv`](data/by-state/ca.csv).
 
 ## Biggest layoff notices — last 30 days (2026-08-04 to 2026-09-03)
 
-| Company | State | Location | Workers | Notice date |
+| Company | State | Location | Workers | Notice date (or layoff date where the state publishes none) |
 |---|---|---|---:|---|
 | Tyson Foods | IL | Hillsdale, 28424 38TH Ave. North | 2,495 | 2026-08-13 |
+| JBS Souderton | PA | Souderton, Montgomery | 1,485 | layoff 2026-08-14 |
 | Borton & Sons | WA | Yakima, Zillah, Pasco, Burbank, Prescott, Soap Lake, Othello, Mesa | 928 | 2026-08-21 |
 | 24Hr Homecare | CA | Los Angeles County | 738 | 2026-08-31 |
 | Tyson Fresh Meats | UT | Eagle Mountain | 723 | 2026-08-13 |
+| Republic National Distributing Company (RNDC) | MI | Delta, Grand Traverse, Kent, Saginaw, Wayne | 641 | layoff 2026-08-17 |
 | Sky Chefs | NY | Queens | 471 | 2026-08-04 |
 | Jabil | CA | Santa Clara County | 382 | 2026-08-21 |
 | Amentum | MD | 7710 Milestone Parkway Hanover, MD 21076 | 382 (2 phases) | 2026-08-18 |
 | Republic National Distributing | GA | National Dr SW Atlanta, Cobb County | 321 | 2026-08-26 |
+| Healthcare SC | SC | Fairfield | 254 | layoff 2026-08-28 |
 | TikTok USDS JV | TN | Davidson | 250 | 2026-08-05 |
 | Sundquist Fruit | WA | Yakima and Franklin Counties | 243 | 2026-09-02 |
+| Rec Boat Holdings | MI | Wexford | 239 | layoff 2026-08-15 |
 | Starbucks | WA | Seattle | 224 | 2026-08-20 |
-| Astrion | FL | PATRICK AFB, FL, 32925, EGLIN AIR FORCE BASE, FL, 32542 | 220 (2 phases) | 2026-08-28 |
-| Mosaic | LA | Uncle Sam - 7250 LA-44 Convent, LA 70723 Faustina – 9959 LA-18 St. James, LA 70086 | 206 | 2026-08-26 |
-| LeeMAH Electronics | CA | San Mateo County | 205 | 2026-08-17 |
-| Bumble Bee Foods | CA | Los Angeles County | 197 | 2026-08-11 |
 
-_Grouped per notice (a phased notice with several layoff dates counts once, workers summed). 5 row(s) in this window whose state record names only a facility, not an employer, are omitted here but kept in the CSV as published._
+_Grouped per notice (a phased notice with several layoff dates counts once, workers summed). 5 row(s) in this window whose state record names only a facility, not an employer, are omitted here but kept in the CSV as published. 4 row(s) are dated by the layoff/closure date and marked "layoff": Michigan, Pennsylvania and South Carolina publish no notice date at all._
 
 ## Monthly trend (last 12 months, this dataset)
 
