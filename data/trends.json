@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-03T18:11:16.799540Z",
+ "generated_at": "2026-09-03T18:18:18.916999Z",
  "source": "https://github.com/APVentureEngine/warn-act-notices",
  "license": "CC BY 4.0 \u2014 credit WARN Feed",
  "note": "free tier, no delay; counts are notices with a parseable notice_date",
@@ -92,7 +92,7 @@
   },
   "2026-01": {
    "notices": 340,
-   "workers_affected": 32192
+   "workers_affected": 32217
   },
   "2026-02": {
    "notices": 325,
@@ -104,7 +104,7 @@
   },
   "2026-04": {
    "notices": 345,
-   "workers_affected": 29640
+   "workers_affected": 29639
   },
   "2026-05": {
    "notices": 265,
@@ -123,8 +123,8 @@
    "workers_affected": 20192
   },
   "2026-09": {
-   "notices": 8,
-   "workers_affected": 253
+   "notices": 12,
+   "workers_affected": 833
   }
  },
  "states": {
@@ -723,7 +723,7 @@
    },
    "2026-01": {
     "notices": 21,
-    "workers_affected": 819
+    "workers_affected": 844
    },
    "2026-02": {
     "notices": 45,
@@ -1743,7 +1743,7 @@
    },
    "2026-04": {
     "notices": 30,
-    "workers_affected": 1999
+    "workers_affected": 1998
    },
    "2026-05": {
     "notices": 18,
@@ -2078,6 +2078,10 @@
    "2026-08": {
     "notices": 5,
     "workers_affected": 629
+   },
+   "2026-09": {
+    "notices": 1,
+    "workers_affected": 127
    }
   },
   "TX": {
@@ -2380,8 +2384,8 @@
     "workers_affected": 2193
    },
    "2026-09": {
-    "notices": 1,
-    "workers_affected": 120
+    "notices": 4,
+    "workers_affected": 573
    }
   },
   "WI": {

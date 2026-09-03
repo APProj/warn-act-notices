@@ -1,6 +1,7 @@
 id,state,company,company_canonical,company_dba,location,employees_affected,notice_date,effective_date,notice_type,first_seen
 926cfe22156a5df6,MI,"General Motors, LLC -- Lansing Region",General Motors,,"Eaton, Ingham",350,,2027-01-14,Mass layoff,2026-08-30T22:16:36.831610Z
 4ec1e0490ff13ee2,SC,"Electrolux Consumer Products, Inc.",Electrolux Consumer Products,,Anderson,10,,2026-12-22,,2026-08-30T21:43:41.512264Z
+6e3947ad9f6c4608,PA,"Jerith Manufacturing, LLC",Jerith Manufacturing,,"Philadelphia, Philadelphia",61,,2026-11-15,Closure,2026-09-03T18:18:18.916999Z
 c2786d718f4121bb,SC,The Westin Hilton Head Island Resort & Spa,Westin Hilton Head Island Resort & Spa,,Beaufort,219,,2026-11-03,,2026-08-30T21:43:41.512264Z
 39c761f67e84efec,SC,KPR US LLC,KPR US,,Kershaw,3,,2026-11-01,,2026-08-30T21:43:41.512264Z
 21bef2f0a89576ea,NJ,UBS,UBS,,Weehawken,58,2026-11-01,2026-11-04,,2026-08-30T21:43:41.512264Z
@@ -30,6 +31,10 @@ ac5cee9b91951989,PA,"Transform Warehouse Operations, LLC",Transform Warehouse Op
 37c4a7abb28d1916,MI,"SK Siltron CSS, LLC",SK Siltron CSS,,Bay,130,,2026-09-15,Facility closure,2026-08-30T22:16:36.831610Z
 c18643df422ff146,MI,Fifth Third Bank,Fifth Third Bank,,Oakland,234,,2026-09-11,Mass layoff,2026-08-30T22:16:36.831610Z
 f6d6f5d4ff18c221,MI,"Trystar, LLC",Trystar,,Oakland,71,,2026-09-04,Facility closure,2026-08-30T22:16:36.831610Z
+f23fddb537b8c745,WA,Uber Technologies Inc,Uber Technologies,,Seattle,93,2026-09-02,2026-11-02,Layoff,2026-09-03T18:18:18.916999Z
+ca0a004668c9c61c,TN,"Kilgore Flares Company, LLC",Kilgore Flares,,Hardeman,127,2026-09-02,2026-10-31,,2026-09-03T18:18:18.916999Z
+5b45c0947adbbdb6,WA,Qualtrics LLC,Qualtrics,,Seattle,117,2026-09-02,2026-10-18,Layoff,2026-09-03T18:18:18.916999Z
+013c082af884ac22,WA,"Sundquist Fruit, LLC",Sundquist Fruit,,Yakima and Franklin Counties,243,2026-09-02,2026-11-15,Layoff,2026-09-03T18:18:18.916999Z
 c9babd2aa7bdfda4,NJ,UBS,UBS,,Weehawken,41,2026-09-01,2026-11-25,,2026-09-02T18:45:14.612156Z
 c42b1289d9f5c4ea,OR,Tualatin Oregon Facility,Tualatin Oregon Facility,,Tualatin,60,2026-09-01,2027-02-28,Permanent closure,2026-09-02T05:08:44.856399Z
 b7e99a13df089fbc,OR,Tualatin Oregon Facility,Tualatin Oregon Facility,,Tualatin,9,2026-09-01,2027-03-31,Permanent closure,2026-09-02T05:08:44.856399Z
@@ -235,7 +240,7 @@ d0f710edc9b016d9,WA,Google,Google,,Various locations in Washington,52,2026-08-05
 f9adc4f5704d3927,WI,UnityPoint Health,UnityPoint Health,,Unknown - Remote Employees,17,2026-08-04,2027-02-28,WR,2026-08-30T21:43:41.512264Z
 e7dad9794688052b,CA,"San Francisco Pretrial Diversion Project, Inc.",San Francisco Pretrial Diversion Project,,San Francisco County,82,2026-08-04,2026-11-13,Closure Permanent,2026-08-30T21:43:41.512264Z
 cc901a17a7b12889,AZ,Salad and Go,Salad and Go,,Phoenix,25,2026-08-04,,WARN,2026-08-30T21:43:41.512264Z
-b351a67c82c57ac3,ME,"Host International, Inc.",Host International,,Portland,102,2026-08-04,,WARN,2026-09-02T05:08:44.856399Z
+b351a67c82c57ac3,ME,"Host International, Inc.",Host International,,"Portland, 1001 Westbrook St; Portland, Maine 04102",102,2026-08-04,,WARN,2026-09-02T05:08:44.856399Z
 8b7343144f7d276d,IL,"GreenWood, Inc.",GreenWood,,"Hanover Park, 850 Central Ave.",28,2026-08-04,,State,2026-08-30T21:43:41.512264Z
 7a5129785049200e,IA,Wells Fargo,Wells Fargo,,West Des Moines,7,2026-08-04,2026-10-03,Amendment - Additional Employees,2026-08-30T21:43:41.512264Z
 701f74f05a0cde92,AL,Biocryst Pharmaceuticals Inc,Biocryst Pharmaceuticals,,Hoover,47,2026-08-04,2026-10-07,Closure,2026-09-02T05:08:44.856399Z
@@ -1178,11 +1183,11 @@ b8befc2c912a3d50,NY,"Medical Care at Home, P.C.",Medical Care at Home,,New York,
 a67442a990e9717d,FL,Peterson Brands,Peterson Brands,,"FORT MYERS, FL, 33913",135,2026-04-27,2026-06-27,,2026-08-31T10:29:52.309603Z
 9e8486a0afc94936,CA,"FreshRealm, Inc.",FreshRealm,,San Joaquin County,228,2026-04-27,2026-06-27,Closure Permanent,2026-08-30T21:43:41.512264Z
 922a55947ada4ea6,NM,"Atkore HDPE, LLC",Atkore HDPE,,"Albuquerque, Bernalillo",51,2026-04-27,2026-06-30,,2026-08-31T09:31:50.752671Z
+8da5a882fe5e2136,NY,"International Imaging Materials, Inc. (Armor-IIMAK)","International Imaging Materials, Inc. (Armor-IIMAK)",,Erie,198,2026-04-27,2026-07-31,Closure,2026-09-03T18:18:18.916999Z
 7152aeda0f5365ca,FL,Management & Training Corporation,Management & Training,,"PANAMA CITY, FL, 32404",161,2026-04-27,2026-08-31,,2026-08-31T10:29:52.309603Z
 5f084172311b6865,CA,Black Tiger Medical Transportation,Black Tiger Medical Transportation,,San Diego County,82,2026-04-27,2026-06-28,Layoff Permanent,2026-08-30T21:43:41.512264Z
 5b866cb96c5459d8,CA,"Aramark Campus, LLC",Aramark Campus,,Kern County,49,2026-04-27,2026-06-11,Layoff Permanent,2026-08-30T21:43:41.512264Z
 534a12efae115fce,TX,"FreshRealm, Inc.",FreshRealm,,"Lancaster, Dallas",176,2026-04-27,2026-06-27,,2026-09-02T05:08:44.856399Z
-4e5c75f716764d4b,NY,"International Imaging Materials, Inc. (Armor-IIMAK)","International Imaging Materials, Inc. (Armor-IIMAK)",,Erie,199,2026-04-27,2026-07-31,Closure,2026-08-30T21:43:41.512264Z
 4b190cc1e1b7e674,CA,Veritiv Visual,Veritiv Visual,,Orange County,46,2026-04-27,2026-06-24,Closure Permanent,2026-08-30T21:43:41.512264Z
 3f39b043888542e7,TX,Laurel Ridge Treatment Center (Laurel Ridge),Laurel Ridge Treatment Center (Laurel Ridge),,"San Antonio, Bexar",648,2026-04-27,2026-06-26,,2026-09-02T05:08:44.856399Z
 3338b81f87c7015f,WA,Jack in the Box,Jack in the Box,,Anacortes,14,2026-04-27,2026-06-23,Closure,2026-08-30T21:43:41.512264Z
@@ -2173,7 +2178,7 @@ abb6b19e3dbc92c6,CA,Amazon,Amazon,,Santa Clara County,11,2026-01-30,2026-04-28,L
 6652e00754e8083c,CA,Amazon (LAX78),Amazon (LAX78),,Los Angeles County,45,2026-01-30,2026-04-28,Layoff Permanent,2026-08-30T21:43:41.512264Z
 638cfc7fc98e06c4,CA,Amazon - SAN 13,Amazon - SAN 13,,San Diego County,38,2026-01-30,2026-04-28,Layoff Permanent,2026-08-30T21:43:41.512264Z
 61e7995414798cec,IL,"T-Mobile USA, Inc.",T-Mobile,,"Schaumburg, 50 Commerce Dr., Suite 130",172,2026-01-30,,State,2026-08-30T21:43:41.512264Z
-6198f7ef7f06c3a5,KS,"Vornado Air, LLC.",Vornado Air,,"Andover, 415 E. 13th ; Andover, Kansas 67002",72,2026-01-30,,WARN,2026-08-30T22:16:36.831610Z
+6198f7ef7f06c3a5,KS,"Vornado Air, LLC.",Vornado Air,,Andover,72,2026-01-30,,WARN,2026-08-30T22:16:36.831610Z
 60157117cfe466e4,CA,"Chan Zuckerberg Biohub, Inc.",Chan Zuckerberg Biohub,,San Francisco County,1,2026-01-30,2026-03-30,Layoff Permanent,2026-08-30T21:43:41.512264Z
 5e3830b96719a3ad,CA,Amazon (SJC25),Amazon (SJC25),,Santa Clara County,43,2026-01-30,2026-04-28,Layoff Permanent,2026-08-30T21:43:41.512264Z
 56e18b577e5057e4,CA,Amazon - SAN 15,Amazon - SAN 15,,San Diego County,1,2026-01-30,2026-04-28,Layoff Permanent,2026-08-30T21:43:41.512264Z
@@ -2373,12 +2378,12 @@ d3e5ad8ec0b7afd4,CA,Best Buy,Best Buy,,San Diego County,46,2026-01-16,2026-03-17
 b4f379d34ee0df42,CA,DHL Supply Chain,DHL Supply Chain,,Alameda County,74,2026-01-16,2026-03-20,Layoff Permanent,2026-08-30T21:43:41.512264Z
 957ee0c3a4ceab8d,CA,Best Buy,Best Buy,,Santa Clara County,60,2026-01-16,2026-03-17,Closure Permanent,2026-08-30T21:43:41.512264Z
 7a4e1a9047f3cb95,CA,GCOM Software LLC dba Voyatek,GCOM Software,Voyatek,Sacramento County,8,2026-01-16,2026-03-20,Layoff Permanent,2026-08-30T21:43:41.512264Z
-69d1f8a35c405c47,FL,"Host International, Inc.",Host International,,"ORLANDO, FL, 32827",92,2026-01-16,2026-01-30,,2026-08-31T10:29:52.309603Z
 67cbe4b8802adbaf,CA,"Nationstar Mortgage, LLC d/b/a Mr. Cooper",Nationstar Mortgage,Mr. Cooper,Orange County,8,2026-01-16,2026-01-16,Layoff Permanent,2026-08-30T21:43:41.512264Z
 566e275bef6ce707,CA,Albertsons Companies LLC,Albertsons,,Riverside County,75,2026-01-16,2026-03-19,Closure Permanent,2026-08-30T21:43:41.512264Z
 527549f771ccefb7,CA,The Vons Companies Inc.,The Vons,,San Bernardino County,70,2026-01-16,2026-03-19,Closure Permanent,2026-08-30T21:43:41.512264Z
 41f7d4e33b0a4b74,CA,"Lakeshore Learning Materials, LLC",Lakeshore Learning Materials,,Los Angeles County,163,2026-01-16,2026-03-16,Layoff Permanent,2026-08-30T21:43:41.512264Z
 2e49323db7fe8de5,CA,James Hardie Fontana Manufacturing,James Hardie Fontana Manufacturing,,San Bernardino County,94,2026-01-16,2026-03-16,Closure Permanent,2026-08-30T21:43:41.512264Z
+2371461989a03e17,FL,"Host International, Inc.",Host International,,"ORLANDO, FL, 32827",117,2026-01-16,2026-01-30,,2026-09-03T18:18:18.916999Z
 e7cb339f1f261226,CA,Valero Refining Company,Valero Refining,,Solano County,237,2026-01-15,2026-03-15,Layoff Permanent,2026-08-30T21:43:41.512264Z
 c4dffbd115498a3d,CA,RR Donnelley,RR Donnelley,,Alameda County,70,2026-01-15,2026-03-31,Closure Permanent,2026-08-30T21:43:41.512264Z
 c15895e03a3b0bfa,NY,GoGo Bus Tours Inc .d/b/a 2gobus,GoGo Bus Tours,2gobus,Kings,75,2026-01-15,2026-03-31,Layoff,2026-08-30T21:43:41.512264Z
@@ -2588,7 +2593,7 @@ dc14972cd6e37b0c,CA,"G&C Staffing, LLC (Gold Flora) (1695 S 7th Street)","G&C St
 088b2c11c18a99eb,CA,"bioMerieux, Inc.",bioMerieux,,Santa Clara County,121,2025-12-11,2026-04-03,Closure Permanent,2026-08-30T21:43:41.512264Z
 01d59d36d560ca8e,WA,Packaging Corporation of America,Packaging Corporation of America,,Wallula,200,2025-12-11,2026-02-09,Closure,2026-08-30T21:43:41.512264Z
 beeb221299131182,CA,Blue Diamond Growers,Blue Diamond Growers,,Sacramento County,1,2025-12-10,2025-09-01,Closure Permanent,2026-08-30T21:43:41.512264Z
-ab1820342ada93c0,ME,Charter Communications,Charter Communications,,Portland,176,2025-12-10,,WARN,2026-09-02T05:08:44.856399Z
+ab1820342ada93c0,ME,Charter Communications,Charter Communications,,"Portland, 901 Washington Ave; Portland, Maine 04103",176,2025-12-10,,WARN,2026-09-02T05:08:44.856399Z
 9a76ddd04542a582,CA,AARP,AARP,,Los Angeles County,18,2025-12-10,2026-01-09,Closure Permanent,2026-08-30T21:43:41.512264Z
 3e0ea4f9a4adb0f4,TX,S&S Activewear,S&S Activewear,,"Irving, Dallas",146,2025-12-10,2025-12-04,,2026-09-02T05:08:44.856399Z
 35c31409a3a29b7b,TX,LeeMAH Electronics. Inc.,LeeMAH Electronics,,"Richardson, Dallas",84,2025-12-10,2025-12-08,,2026-09-02T05:08:44.856399Z
@@ -4185,7 +4190,7 @@ a03ae15100b7ae18,MD,"Science Systems and Applications, Inc. (SSAI)","Science Sys
 899bea7dcd3027ec,FL,Sofgen Pharmaceuticals LLC,Sofgen Pharmaceuticals,,"RIVIERA BEACH, FL, 34761",45,2025-07-07,2025-09-11,,2026-08-31T10:29:52.309603Z
 874043a9ae6f01cc,AZ,Intel Corporation,Intel,,Chandler,696,2025-07-07,,WARN,2026-08-30T21:43:41.512264Z
 69c06e952578d7ae,AZ,"QB Intermediate Holdings, LLC, AKA Quality Built, LLC",QB Intermediate Holdings,"Quality Built, LLC",Fort Lauderdale,8,2025-07-07,,WARN,2026-08-30T21:43:41.512264Z
-667d2142cdca8303,DE,Quality Built LLC,Quality Built,,"Fort Lauderdale, 633 S. Andrews Ave; Fort Lauderdale, Florida 33301",2,2025-07-07,,WARN,2026-09-02T05:08:44.856399Z
+667d2142cdca8303,DE,Quality Built LLC,Quality Built,,Fort Lauderdale,2,2025-07-07,,WARN,2026-09-02T05:08:44.856399Z
 5d603749f1815c61,WA,"Quality Built, LLC",Quality Built,,Not Provided,1,2025-07-07,2025-07-03,Closure,2026-08-30T21:43:41.512264Z
 4038ca9c104a3c19,FL,"QB Intermediate Holdings, LLC, Quality Built, LLC, Foresite Technology Solutions, LLC (f/k/a QB Technology Co., LLC), SMC Systems LLC (d/b/a SkyeTec), SkyeTec Engineering Services, LLC, and DuctTesters, Inc.","QB Intermediate Holdings, LLC, Quality Built, LLC, Foresite Technology Solutions, LLC (f/k/a QB Technology Co., LLC), SMC Systems","SkyeTec), SkyeTec Engineering Services, LLC, and DuctTesters, Inc","JACKSONVILLE, FL, 32225",20,2025-07-07,2025-07-03,,2026-08-31T10:29:52.309603Z
 366d2b494d33b730,FL,"QB Intermediate Holdings, LLC, Quality Built, LLC, Foresite Technology Solutions, LLC (f/k/a QB Technology Co., LLC), SMC Systems LLC (d/b/a SkyeTec), SkyeTec Engineering Services, LLC, and DuctTesters, Inc.","QB Intermediate Holdings, LLC, Quality Built, LLC, Foresite Technology Solutions, LLC (f/k/a QB Technology Co., LLC), SMC Systems","SkyeTec), SkyeTec Engineering Services, LLC, and DuctTesters, Inc","FORT LAUDERDALE, FL, 33301",50,2025-07-07,2025-07-03,,2026-08-31T10:29:52.309603Z
@@ -4703,7 +4708,7 @@ cb93a6e53e72a1f2,FL,Lacroix,Lacroix,,"TALLAHASSEE, FL, 32305",1,2025-05-19,2025-
 ff0620a53c037676,TX,Chevron (N. FM 1788),Chevron (N. FM 1788),,"Midland, Midland",14,2025-05-16,2025-07-15,,2026-09-02T05:08:44.856399Z
 d72277d0c6f8e035,CA,"Niantic, Inc.",Niantic,,San Francisco County,5,2025-05-16,2025-05-19,Layoff Permanent,2026-08-30T21:43:41.512264Z
 adb97c4cf0543e1c,MD,"Transaxle, LLC",Transaxle,,"178 Alco Place Baltimore, MD 21227",10,2025-05-16,2025-07-15,Plant Closure,2026-08-30T21:43:41.512264Z
-a5eae461240aa636,ME,Trans Axle,Trans Axle,,"Westbrook, 8 Scott Drive; Westbrook, Maine 04092",18,2025-05-16,,WARN,2026-09-02T05:08:44.856399Z
+a5eae461240aa636,ME,Trans Axle,Trans Axle,,Westbrook,18,2025-05-16,,WARN,2026-09-02T05:08:44.856399Z
 a22ecb700bb94da8,TX,Chevron (S. County Rd.),Chevron (S. County Rd.),,"Midland, Midland",1,2025-05-16,2025-07-15,,2026-09-02T05:08:44.856399Z
 9e0d068fd1cab116,NC,"Transaxle, LLC",Transaxle,,"Charlotte, Mecklenburg County",3,2025-05-16,2025-07-29,Layoff,2026-09-02T05:08:44.856399Z
 93731f10b187f913,FL,Revlon Consumer Products LLC,Revlon Consumer Products,,"JACKSONVILLE, FL, 32254",127,2025-05-16,2025-07-18,,2026-08-31T10:29:52.309603Z
@@ -5145,7 +5150,7 @@ d40a5079a79a1a16,WA,United States Cellular Corporation,United States Cellular,,V
 8446118d4e0f13c5,CA,Federal Express Corporation,Federal Express,,Alameda County,95,2025-04-07,2025-06-02,Closure Permanent,2026-08-30T21:43:41.512264Z
 697be0292fb16c05,LA,IDEA Public Schools (IDEA Innovation & IDEA Bridge),IDEA Public Schools (IDEA Innovation & IDEA Bridge),,"7800 Innovation Park Drive & 1500 N. Airway Drive Baton Rouge, LA",212,2025-04-07,2025-05-24,,2026-08-31T10:29:52.309603Z
 5b4465c42a6158f6,GA,United States Cellular Corporation,United States Cellular,,Courtyards Dr Norcross,4100,2025-04-07,2025-06-02,Permanent Layoff / Reduction in Force,2026-08-31T03:32:57.915961Z
-52ed392a4fd72c6e,ME,US Cellular,US Cellular,,"Washington, 4058 Minnesota Ave, NE, Ste 3001; Washington, District Of Columbia 20019",20,2025-04-07,,WARN,2026-09-02T05:08:44.856399Z
+52ed392a4fd72c6e,ME,US Cellular,US Cellular,,Washington,20,2025-04-07,,WARN,2026-09-02T05:08:44.856399Z
 40538f185719ae98,CA,Federal Express Corporation,Federal Express,,Alameda County,79,2025-04-07,2025-06-02,Closure Permanent,2026-08-30T21:43:41.512264Z
 3a52171a04466eac,IL,"Acero Charter Schools, Inc. (at Sor Juana Ines de la Cruz K-12)","Acero Charter Schools, Inc. (at Sor Juana Ines de la Cruz K-12)",,"Chicago, 7416 N Ridge Blvd.",58,2025-04-07,,State,2026-08-30T21:43:41.512264Z
 36871c3aa8bd3923,LA,IDEA Southern Louisiana Idea Innovation,IDEA Southern Louisiana Idea Innovation,,"(7800 Innovation Park Drive, Baton Rouge, LA 70820) Idea Bridge (1500 N. Airway Drive, Baton Rouge, LA 70815)",212,2025-04-07,2025-05-24,,2026-08-31T10:29:52.309603Z

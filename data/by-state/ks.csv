@@ -5,7 +5,7 @@ id,state,company,company_canonical,company_dba,location,employees_affected,notic
 8805476cf54c4da7,KS,"First Brands Group, LLC (Hopkins)","First Brands Group, LLC (Hopkins)",,"Edgerton, W 185th St.; Edgerton, Kansas 66030",81,2026-02-23,,WARN,2026-08-30T22:16:36.831610Z
 1e0f0d03a9faea2d,KS,"First Brands Group, LLC (Hopkins)","First Brands Group, LLC (Hopkins)",,"Emporia, 428 Peyton St.; Emporia, Kansas 66801",130,2026-02-23,,WARN,2026-08-30T22:16:36.831610Z
 67b48d297aef6f4d,KS,Lowe's,Lowe's,,"Charlotte, 100 W Worthington Avenue; Charlotte, North Carolina 28203",3,2026-02-13,,WARN,2026-08-30T22:16:36.831610Z
-6198f7ef7f06c3a5,KS,"Vornado Air, LLC.",Vornado Air,,"Andover, 415 E. 13th ; Andover, Kansas 67002",72,2026-01-30,,WARN,2026-08-30T22:16:36.831610Z
+6198f7ef7f06c3a5,KS,"Vornado Air, LLC.",Vornado Air,,Andover,72,2026-01-30,,WARN,2026-08-30T22:16:36.831610Z
 8297f7fb6e437fff,KS,"Gates Corporation ""Gates""","Gates Corporation ""Gates",,"Iola, 1450 Montana Road; Iola, Kansas 66749",81,2025-10-02,,WARN,2026-08-30T22:16:36.831610Z
 bdfbd4617ffdf5c4,KS,United BioSource LLC (UBC),United BioSource LLC (UBC),,"Overland Park, 12900 Foster Street ; Overland Park, Kansas 66213",123,2025-09-26,,WARN,2026-08-30T22:16:36.831610Z
 582ba72ff6c2fa79,KS,"SPO Management, LLC",SPO Management,,Manhattan,72,2025-07-29,,WARN,2026-08-30T22:16:36.831610Z

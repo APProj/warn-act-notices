@@ -1,4 +1,11 @@
 id,state,company,company_canonical,company_dba,location,employees_affected,notice_date,effective_date,notice_type,first_seen
+6e3947ad9f6c4608,PA,"Jerith Manufacturing, LLC",Jerith Manufacturing,,"Philadelphia, Philadelphia",61,,2026-11-15,Closure,2026-09-03T18:18:18.916999Z
+f23fddb537b8c745,WA,Uber Technologies Inc,Uber Technologies,,Seattle,93,2026-09-02,2026-11-02,Layoff,2026-09-03T18:18:18.916999Z
+ca0a004668c9c61c,TN,"Kilgore Flares Company, LLC",Kilgore Flares,,Hardeman,127,2026-09-02,2026-10-31,,2026-09-03T18:18:18.916999Z
+5b45c0947adbbdb6,WA,Qualtrics LLC,Qualtrics,,Seattle,117,2026-09-02,2026-10-18,Layoff,2026-09-03T18:18:18.916999Z
+013c082af884ac22,WA,"Sundquist Fruit, LLC",Sundquist Fruit,,Yakima and Franklin Counties,243,2026-09-02,2026-11-15,Layoff,2026-09-03T18:18:18.916999Z
+8da5a882fe5e2136,NY,"International Imaging Materials, Inc. (Armor-IIMAK)","International Imaging Materials, Inc. (Armor-IIMAK)",,Erie,198,2026-04-27,2026-07-31,Closure,2026-09-03T18:18:18.916999Z
+2371461989a03e17,FL,"Host International, Inc.",Host International,,"ORLANDO, FL, 32827",117,2026-01-16,2026-01-30,,2026-09-03T18:18:18.916999Z
 483d0a6e1c27502c,SC,DP World,DP World,,Spartanburg,205,,2026-10-31,,2026-09-02T18:45:14.612156Z
 c9babd2aa7bdfda4,NJ,UBS,UBS,,Weehawken,41,2026-09-01,2026-11-25,,2026-09-02T18:45:14.612156Z
 9bdd877aba8be75b,WA,Georgia-Pacific Gypsum LLC,Georgia-Pacific Gypsum,,Tacoma,120,2026-09-01,2026-10-30,Closure,2026-09-02T18:45:14.612156Z
@@ -47,7 +54,7 @@ b5a00caf7d48900f,NC,Ryder,Ryder,,"Fayetteville, Cumberland County",73,2026-08-13
 574b0ddedc811a9d,DE,JeniusBank,JeniusBank,,"New York, 277 Park Ave; New York, New York 10172",106,2026-08-10,,WARN,2026-09-02T05:08:44.856399Z
 d76497908ac8ef52,PA,"WILX Logistics, LLC",WILX Logistics,,"Mount Joy, Lancaster",70,,2026-08-09,Closure,2026-09-02T05:08:44.856399Z
 3be34dc1eed962bb,AL,Fluor Enterprises Inc.,Fluor Enterprises,,Bay Minette,66,2026-08-06,2026-07-31,Layoff,2026-09-02T05:08:44.856399Z
-b351a67c82c57ac3,ME,"Host International, Inc.",Host International,,Portland,102,2026-08-04,,WARN,2026-09-02T05:08:44.856399Z
+b351a67c82c57ac3,ME,"Host International, Inc.",Host International,,"Portland, 1001 Westbrook St; Portland, Maine 04102",102,2026-08-04,,WARN,2026-09-02T05:08:44.856399Z
 701f74f05a0cde92,AL,Biocryst Pharmaceuticals Inc,Biocryst Pharmaceuticals,,Hoover,47,2026-08-04,2026-10-07,Closure,2026-09-02T05:08:44.856399Z
 34ba10be75926490,AL,FMC Corporation,FMC,,Axis,41,2026-08-04,2026-10-31,Layoff,2026-09-02T05:08:44.856399Z
 c4b9ff483e4ff72b,WV,Eagle Horizon Resources,Eagle Horizon Resources,,,,2026-08-01,,,2026-09-02T05:08:44.856399Z
@@ -286,7 +293,7 @@ b19550e88d564317,PA,Allen Distribution,Allen Distribution,,"Allentown, Lehigh",7
 1f77c462efec1441,NC,"I Squared Logistics, LLC",I Squared Logistics,,"Garner, Wake County",160,2025-12-16,2025-12-15,Layoff,2026-09-02T05:08:44.856399Z
 f229c5ed8d51282f,PA,"Morgan Truck Body, LLC",Morgan Truck Body,,"Ephrata, Lancaster",92,,2025-12-15,Closing,2026-09-02T05:08:44.856399Z
 82b8ca17f8e6aa87,PA,"Peraton, Inc.",Peraton,,"Camp Hill, Cumberland",153,,2025-12-13,Layoff,2026-09-02T05:08:44.856399Z
-ab1820342ada93c0,ME,Charter Communications,Charter Communications,,Portland,176,2025-12-10,,WARN,2026-09-02T05:08:44.856399Z
+ab1820342ada93c0,ME,Charter Communications,Charter Communications,,"Portland, 901 Washington Ave; Portland, Maine 04103",176,2025-12-10,,WARN,2026-09-02T05:08:44.856399Z
 3e0ea4f9a4adb0f4,TX,S&S Activewear,S&S Activewear,,"Irving, Dallas",146,2025-12-10,2025-12-04,,2026-09-02T05:08:44.856399Z
 35c31409a3a29b7b,TX,LeeMAH Electronics. Inc.,LeeMAH Electronics,,"Richardson, Dallas",84,2025-12-10,2025-12-08,,2026-09-02T05:08:44.856399Z
 316707c92d7aefde,PA,Starbucks,Starbucks,,"Philadelphia, Philadelphia",,,2025-12-05,Closing,2026-09-02T05:08:44.856399Z
@@ -514,7 +521,7 @@ a611c15987390819,TX,Intel Corporation,Intel,,"Austin, Travis",110,2025-07-09,202
 15d396e6dbc29204,TX,Management & Training Corporation (Gist State Jail),Management & Training Corporation (Gist State Jail),,"Beaumont, Jefferson",6,2025-07-09,2025-08-31,,2026-09-02T05:08:44.856399Z
 d751f6b1c35f1c90,NC,Fellers LLC,Fellers,,"Charlotte, Mecklenburg County",1,2025-07-08,2025-09-12,Closure,2026-09-02T05:08:44.856399Z
 cb8983e82a4bf656,TX,"Movate, Inc. (AT&T Project)","Movate, Inc. (AT&T Project)",,"Temple, Bell",71,2025-07-08,2025-07-01,,2026-09-02T05:08:44.856399Z
-667d2142cdca8303,DE,Quality Built LLC,Quality Built,,"Fort Lauderdale, 633 S. Andrews Ave; Fort Lauderdale, Florida 33301",2,2025-07-07,,WARN,2026-09-02T05:08:44.856399Z
+667d2142cdca8303,DE,Quality Built LLC,Quality Built,,Fort Lauderdale,2,2025-07-07,,WARN,2026-09-02T05:08:44.856399Z
 68e002855551a7d5,PA,Suburban Community Hospital,Suburban Community Hospital,,"Norristown, Montgomery",109,,2025-07-05,Layoff,2026-09-02T05:08:44.856399Z
 aa022f5d3c1d54e7,TX,Santa Maria Hostel,Santa Maria Hostel,,"Houston, Harris",41,2025-07-02,2025-08-31,,2026-09-02T05:08:44.856399Z
 a8ab83b3c982694f,TX,FedEx Corporation (Plano),FedEx Corporation (Plano),,"Plano, Collin",50,2025-07-02,2025-09-01,,2026-09-02T05:08:44.856399Z
@@ -617,7 +624,7 @@ ae7c5c520fa09c01,TX,Child Care Associates (Everman),Child Care Associates (Everm
 4ff93e831ed9138b,PA,"Torrid, LLC",Torrid,,"Philadelphia, Philadelphia",8,,2025-05-19,Layoff,2026-09-02T05:08:44.856399Z
 073899ee0a7caf50,PA,"SPS Technologies, LLC",SPS Technologies,,"Jenkintown, Montgomery",251,,2025-05-18,Layoff,2026-09-02T05:08:44.856399Z
 ff0620a53c037676,TX,Chevron (N. FM 1788),Chevron (N. FM 1788),,"Midland, Midland",14,2025-05-16,2025-07-15,,2026-09-02T05:08:44.856399Z
-a5eae461240aa636,ME,Trans Axle,Trans Axle,,"Westbrook, 8 Scott Drive; Westbrook, Maine 04092",18,2025-05-16,,WARN,2026-09-02T05:08:44.856399Z
+a5eae461240aa636,ME,Trans Axle,Trans Axle,,Westbrook,18,2025-05-16,,WARN,2026-09-02T05:08:44.856399Z
 a22ecb700bb94da8,TX,Chevron (S. County Rd.),Chevron (S. County Rd.),,"Midland, Midland",1,2025-05-16,2025-07-15,,2026-09-02T05:08:44.856399Z
 9e0d068fd1cab116,NC,"Transaxle, LLC",Transaxle,,"Charlotte, Mecklenburg County",3,2025-05-16,2025-07-29,Layoff,2026-09-02T05:08:44.856399Z
 6ac3217a1e1a2084,TX,Chevron (Deauville Blvd),Chevron (Deauville Blvd),,"Midland, Midland",185,2025-05-16,2025-07-15,,2026-09-02T05:08:44.856399Z
@@ -678,7 +685,7 @@ a9c3e534659420b2,TX,Raices (April 2025),Raices (April 2025),,"San Antonio, Bexar
 09c10d6e87743a81,TX,"Movate, Inc.",Movate,,"Temple, Bell",51,2025-04-08,2025-05-31,,2026-09-02T05:08:44.856399Z
 00a026bb41e7abcb,TX,Catholic Charities Archdiocese Of Galveston-Houston (Cabrini CFLA)Collins Road,Catholic Charities Archdiocese Of Galveston-Houston (Cabrini CFLA)Collins Road,,"Richmond, Fort Bend",2,2025-04-08,2025-03-31,,2026-09-02T05:08:44.856399Z
 da6f3aaefedf1fcd,DC,International Republican Institute,International Republican Institute,,"Washington, DC",246,2025-04-07,2025-06-06,,2026-09-02T05:08:44.856399Z
-52ed392a4fd72c6e,ME,US Cellular,US Cellular,,"Washington, 4058 Minnesota Ave, NE, Ste 3001; Washington, District Of Columbia 20019",20,2025-04-07,,WARN,2026-09-02T05:08:44.856399Z
+52ed392a4fd72c6e,ME,US Cellular,US Cellular,,Washington,20,2025-04-07,,WARN,2026-09-02T05:08:44.856399Z
 b90cbbe6a824ff2b,TX,Envision Physician Services LLC,Envision Physician Services,,"San Antonio, Bexar",120,2025-04-02,2025-05-31,,2026-09-02T05:08:44.856399Z
 a81ea61c40616cf7,TX,Denali,Denali,,"Plano, Collin",28,2025-04-02,2025-06-02,,2026-09-02T05:08:44.856399Z
 124e047e3b9522f8,TX,Southeast Service Corporation Services for Education (Georgetown ISD),Southeast Service Corporation Services for Education (Georgetown ISD),,"Georgetown, Williamson",60,2025-04-02,2025-05-31,,2026-09-02T05:08:44.856399Z
@@ -1502,7 +1509,6 @@ d0d2bc1fc952cf4e,FL,"ECS Federal, LLC",ECS Federal,,"ORLANDO, FL, 32826",117,202
 0bdacb62315121ca,FL,Aimbridge,Aimbridge,,"MIAMI, FL, 33132",66,2026-01-23,2026-03-24,,2026-08-31T10:29:52.309603Z
 0b4b6e61c3c60a19,FL,Saks & Company LLC,Saks &,,"MIRAMAR, FL, 33025",74,2026-01-23,2026-03-27,,2026-08-31T10:29:52.309603Z
 e7a8b5963e5aa878,FL,"TelaForce, LLC",TelaForce,,"FORT WALTON BEACH, FL, 32548",59,2026-01-19,2026-03-20,,2026-08-31T10:29:52.309603Z
-69d1f8a35c405c47,FL,"Host International, Inc.",Host International,,"ORLANDO, FL, 32827",92,2026-01-16,2026-01-30,,2026-08-31T10:29:52.309603Z
 dc8d53414c7494ae,FL,SMBC MANUBANK,Smbc Manubank,,"BONITA SPRINGS, FL, 33931",1,2026-01-08,2026-03-10,,2026-08-31T10:29:52.309603Z
 d65cc335f4f9c1b7,FL,SMBC MANUBANK,Smbc Manubank,,"LAND O LAKES, FL, 33599",1,2026-01-08,2026-03-10,,2026-08-31T10:29:52.309603Z
 b12cf3c5114a1050,FL,SMBC MANUBANK,Smbc Manubank,,"ORLANDO, FL, 32789",1,2026-01-08,2026-03-10,,2026-08-31T10:29:52.309603Z

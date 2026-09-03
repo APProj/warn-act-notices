@@ -1,14 +1,14 @@
 id,state,company,company_canonical,company_dba,location,employees_affected,notice_date,effective_date,notice_type,first_seen
-b351a67c82c57ac3,ME,"Host International, Inc.",Host International,,Portland,102,2026-08-04,,WARN,2026-09-02T05:08:44.856399Z
+b351a67c82c57ac3,ME,"Host International, Inc.",Host International,,"Portland, 1001 Westbrook St; Portland, Maine 04102",102,2026-08-04,,WARN,2026-09-02T05:08:44.856399Z
 9994200061677805,ME,SP+ Parking,SP+ Parking,,"Portland, 181 High st; Portland, Maine 04101",100,2026-06-02,,WARN,2026-09-02T05:08:44.856399Z
 25db4f22bd001191,ME,Gathr Outdoors dba Pride Manufacturing Co LLC,Gathr Outdoors,Pride Manufacturing Co LLC,"Guilford, 169 water st; Guilford, Maine 04443",6,2026-01-27,,WARN,2026-09-02T05:08:44.856399Z
 e1ad0b3044a9408d,ME,SMBC-Sumitomo Mitsui Banking Corporation,SMBC-Sumitomo Mitsui Banking,,"New York, 277 Park Avenue; New York, New York 10172",1,2026-01-13,,WARN,2026-09-02T05:08:44.856399Z
 c1b08a96412f948c,ME,Pride Manufacturing -gathr Outdoors,Pride Manufacturing -gathr Outdoors,,"Burnham, 10 North Main Street; Burnham, Maine 04922",115,2026-01-13,,WARN,2026-09-02T05:08:44.856399Z
-ab1820342ada93c0,ME,Charter Communications,Charter Communications,,Portland,176,2025-12-10,,WARN,2026-09-02T05:08:44.856399Z
+ab1820342ada93c0,ME,Charter Communications,Charter Communications,,"Portland, 901 Washington Ave; Portland, Maine 04103",176,2025-12-10,,WARN,2026-09-02T05:08:44.856399Z
 a6c8804dbfe408b2,ME,Loring Job Corps Center,Loring Job Corps Center,,"Limestone, 36 Montana Rd; Limestone, Maine 04750",114,2025-06-03,,WARN,2026-09-02T05:08:44.856399Z
-a5eae461240aa636,ME,Trans Axle,Trans Axle,,"Westbrook, 8 Scott Drive; Westbrook, Maine 04092",18,2025-05-16,,WARN,2026-09-02T05:08:44.856399Z
+a5eae461240aa636,ME,Trans Axle,Trans Axle,,Westbrook,18,2025-05-16,,WARN,2026-09-02T05:08:44.856399Z
 321a730ca62d5056,ME,Bon Appetit,Bon Appetit,,"Waterville, 4769 Mayflower Hill; Waterville, Maine 04901",187,2025-04-10,,WARN,2026-09-02T05:08:44.856399Z
-52ed392a4fd72c6e,ME,US Cellular,US Cellular,,"Washington, 4058 Minnesota Ave, NE, Ste 3001; Washington, District Of Columbia 20019",20,2025-04-07,,WARN,2026-09-02T05:08:44.856399Z
+52ed392a4fd72c6e,ME,US Cellular,US Cellular,,Washington,20,2025-04-07,,WARN,2026-09-02T05:08:44.856399Z
 3ab2efff758b7961,ME,Northern Light - Inland Hospital,Northern Light - Inland Hospital,,"Waterville, 200 KMD; Waterville, Maine 04901",50,2025-03-25,,WARN,2026-09-02T05:08:44.856399Z
 9c8d2a126da35e8f,ME,Sonoco,Sonoco,,"Scarborough, 16 Washington St; Scarborough, Maine 04074",67,2025-03-13,,WARN,2026-09-02T05:08:44.856399Z
 d9cab67f2106485d,ME,Vimo dba GetInsured,Vimo,GetInsured,"Augusta, 45 commerce drive; Augusta, Maine 04333",1,2024-12-27,,WARN,2026-09-02T05:08:44.856399Z

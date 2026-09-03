@@ -1,4 +1,5 @@
 id,state,company,company_canonical,company_dba,location,employees_affected,notice_date,effective_date,notice_type,first_seen
+ca0a004668c9c61c,TN,"Kilgore Flares Company, LLC",Kilgore Flares,,Hardeman,127,2026-09-02,2026-10-31,,2026-09-03T18:18:18.916999Z
 61c93862980b9534,TN,Identity Group,Identity Group,,Putnam,63,2026-08-24,2026-10-20,,2026-08-30T21:43:41.512264Z
 7a0cf1d1e64d53de,TN,Wise Company LLC,Wise,,Hardin,129,2026-08-14,,,2026-08-30T21:43:41.512264Z
 00a1a1d396ae26b7,TN,Resource Label,Resource Label,,Williamson,68,2026-08-06,2026-10-03,,2026-08-30T21:43:41.512264Z
