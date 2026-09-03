@@ -1,0 +1,186 @@
+id,state,company,company_canonical,company_dba,location,employees_affected,notice_date,effective_date,notice_type,first_seen
+b5a00caf7d48900f,NC,Ryder,Ryder,,"Fayetteville, Cumberland County",73,2026-08-13,2026-10-12,Layoff,2026-09-02T05:08:44.856399Z
+4d91eb49c3e794b4,NC,"Elevate Textiles, Inc.",Elevate Textiles,,"Burlington, Alamance County",150,2026-07-22,2026-12-31,Closure,2026-09-02T05:08:44.856399Z
+9cf4ac8f1da3c89d,NC,AVMAC LLC,Avmac,,"Jacksonville, Onslow County",62,2026-07-17,2026-08-23,Layoff,2026-09-02T05:08:44.856399Z
+af81fd83f6ab018b,NC,"Electric Glass Fiber America, LLC",Electric Glass Fiber America,,"Shelby, Cleveland County",282,2026-07-06,2027-09-30,Layoff,2026-09-02T05:08:44.856399Z
+6e3fca61a3fa2ccd,NC,"Frito Lay, Inc.",Frito Lay,,"Raleigh, Wake County",65,2026-07-06,2026-09-06,Closure,2026-09-02T05:08:44.856399Z
+8729659094bebd86,NC,"Barrette Outdoor Living, Inc.",Barrette Outdoor Living,,"Salisbury, Rowan County",93,2026-07-01,2026-10-12,Layoff,2026-09-02T05:08:44.856399Z
+91f29c7f0e96bdb7,NC,"Conduent Commercial Solutions, LLC",Conduent Commercial Solutions,,"Florham Park NJ, N/A",67,2026-06-26,2026-08-28,Layoff,2026-09-02T05:08:44.856399Z
+1038582df05ac0e2,NC,Carolina West Wireless,Carolina West Wireless,,"Wilkesboro, Wilkes County",127,2026-06-24,2026-08-24,Closure,2026-09-02T05:08:44.856399Z
+3c0e3cd06d0c6e52,NC,"Asensus Surgical, Inc.",Asensus Surgical,,"Morrisville, Wake County",108,2026-06-16,2027-03-31,Layoff,2026-09-02T05:08:44.856399Z
+fdbcef8fdfff468b,NC,"Vestis Services, LLC",Vestis Services,,"Lexington KY, N/A",1,2026-06-15,2026-08-17,Layoff,2026-09-02T05:08:44.856399Z
+a47b073e93e59045,NC,Ubisoft,Ubisoft,,"Cary, Wake County",17,2026-06-10,2026-08-10,Layoff,2026-09-02T05:08:44.856399Z
+4eb38edd4252958b,NC,DHL Supply Chain,DHL Supply Chain,,"Rural Hall, Forsyth County",81,2026-06-05,2026-12-31,Closure,2026-09-02T05:08:44.856399Z
+365217126c4d459c,NC,"Republic National Distributing Company, LLC",Republic National Distributing,,"Charlotte, Mecklenburg County",39,2026-06-02,2026-08-31,Closure,2026-09-02T05:08:44.856399Z
+15b5b95327bc0d9c,NC,"Down-Lite International, Inc.",Down-Lite International,,"Monroe, Union County",113,2026-06-01,2026-08-14,Closure,2026-09-02T05:08:44.856399Z
+e29eac2fe197e5e0,NC,"Lions Services, Inc.",Lions Services,,"Charlotte, Mecklenburg County",107,2026-05-01,2026-07-01,Layoff,2026-09-02T05:08:44.856399Z
+a0afa10896f05d6e,NC,"Vitacost.com, Inc.",Vitacost.com,,"Lexington, Davidson County",130,2026-04-29,2026-07-01,Closure,2026-09-02T05:08:44.856399Z
+8da6ac440b8d88d6,NC,"Mars Petcare US, Inc.",Mars Petcare US,,"Henderson, Vance County",149,2026-04-20,2026-12-31,Closure,2026-09-02T05:08:44.856399Z
+c79083546bf12774,NC,Parkdale Mills,Parkdale Mills,,"Lexington, Davidson County",68,2026-04-09,2026-06-07,Closure,2026-09-02T05:08:44.856399Z
+b4f3f9d490899eaa,NC,Compass Group USA Inc. dba Chartwells,Compass Group,Chartwells,"Chapel Hill, Orange County",91,2026-04-09,2026-06-12,Layoff,2026-09-02T05:08:44.856399Z
+4e06707cb890ea49,NC,"Epic Games, Inc.",Epic Games,,"Cary, Wake County",211,2026-03-24,2026-03-27,Layoff,2026-09-02T05:08:44.856399Z
+dbbb454815ddb68b,NC,AmeriPark LLC and Republic Parking System LLC dba Reimagined Parking,AmeriPark LLC and Republic Parking System,Reimagined Parking,"Charlotte, Mecklenburg County",188,2026-03-20,2026-06-30,Closure,2026-09-02T05:08:44.856399Z
+a7f75b8a430b7db8,NC,ECU Health Home Health and Hospice,ECU Health Home Health and Hospice,,"Greenville, Pitt County",61,2026-03-19,2026-05-01,Closure,2026-09-02T05:08:44.856399Z
+6cdba88dff3c262b,NC,"Red Storm Entertainment, Inc.",Red Storm Entertainment,,"Cary, Wake County",105,2026-03-19,2026-09-18,Layoff,2026-09-02T05:08:44.856399Z
+fc29ffc06076ad2e,NC,Perdue Foods Feed Mill,Perdue Foods Feed Mill,,"Cofield, Hertford County",104,2026-03-16,2026-04-19,Closure,2026-09-02T05:08:44.856399Z
+24d5373d4cf27a73,NC,Family Dollar,Family Dollar,,"Matthews, Mecklenburg County",373,2026-03-16,2026-08-12,Closure,2026-09-02T05:08:44.856399Z
+8d15ad90f38ad97b,NC,"Kenco Logistic Services, LLC",Kenco Logistic Services,,"Charlotte, Mecklenburg County",86,2026-03-11,2026-05-17,Layoff,2026-09-02T05:08:44.856399Z
+b83859fcdb3dc901,NC,Saks & Company LLC,Saks &,,"Raleigh, Wake County",43,2026-03-06,2026-05-31,Layoff,2026-09-02T05:08:44.856399Z
+5a490293b350191a,NC,Prepac Manufacturing US LLC,Prepac Manufacturing US,,"Whitsett, Guilford County",200,2026-03-03,2026-05-02,Layoff,2026-09-02T05:08:44.856399Z
+a7d8c61705f6c7b1,NC,C2 Technologies,C2 Technologies,,"McLean VA, N/A",9,2026-03-02,2026-03-06,Layoff,2026-09-02T05:08:44.856399Z
+66682ea69056ea95,NC,Fortrex,Fortrex,,"Clinton, Sampson County",121,2026-03-02,2026-03-20,Closure,2026-09-02T05:08:44.856399Z
+1affb0e34d1f7ca9,NC,Merck Sharp & Dohme LLC,Merck Sharp & Dohme,,"Durham, Durham County",147,2026-02-24,2026-05-01,Layoff,2026-09-02T05:08:44.856399Z
+8d719e36c3a5a2c6,NC,Corning Incorporated,Corning,,"Tarboro, Edgecombe County",123,2026-02-19,2026-04-19,Closure,2026-09-02T05:08:44.856399Z
+74fd63ae39f0a199,NC,"Focus Services, LLC",Focus Services,,"Greenville, Pitt County",94,2026-02-16,2026-04-30,Closure,2026-09-02T05:08:44.856399Z
+b8d5a5e73754b9ab,NC,"Lowe's Companies, Inc.",Lowe's,,"Mooresville, Iredell County",178,2026-02-13,2026-05-01,Layoff,2026-09-02T05:08:44.856399Z
+154d9f5d12eec655,NC,LTI Holdings Inc. DBA Boyd,LTI Holdings,Boyd,"Monroe, Union County",63,2026-02-11,2026-09-01,Closure,2026-09-02T05:08:44.856399Z
+2a776feceb6a425d,NC,"Avantor Fluid Handling, LLC",Avantor Fluid Handling,,"Morrisville, Wake County",54,2026-02-06,2026-07-10,Closure,2026-09-02T05:08:44.856399Z
+46cf38f4cb698fe2,NC,"GMRI, Inc. dba Bahama Breeze",GMRI,Bahama Breeze,"Raleigh, Wake County",75,2026-02-03,2026-04-05,Closure,2026-09-02T05:08:44.856399Z
+0b2501fa46f317ec,NC,Wells Fargo,Wells Fargo,,"Raleigh, Wake County",138,2026-02-03,2026-06-27,Layoff,2026-09-02T05:08:44.856399Z
+d8ad3cbef426ac82,NC,"Firestone Fibers and Textiles, LLC",Firestone Fibers and Textiles,,"Kings Mountain, Gaston County",77,2026-01-27,2026-04-28,Layoff,2026-09-02T05:08:44.856399Z
+42bf7f8dab7c9809,NC,"CJ Logistics America, LLC",CJ Logistics America,,"Rural Hall, Forsyth County",99,2026-01-20,2026-03-23,Closure,2026-09-02T05:08:44.856399Z
+b65e1916390d7022,NC,Access East,Access East,,"Greenville, Pitt County",31,2026-01-19,2026-03-31,Layoff,2026-09-02T05:08:44.856399Z
+1b19bf18b6235cef,NC,Parkdale Mills,Parkdale Mills,,"Walnut Cove, Stokes County",72,2026-01-13,2026-01-13,Closure,2026-09-02T05:08:44.856399Z
+6c7309b104e7786f,NC,Fortrex,Fortrex,,"Siler City, Chatham County",170,2026-01-12,2026-02-06,Layoff,2026-09-02T05:08:44.856399Z
+ebd71d351c7ad2db,NC,SMBC MANUBANK,Smbc Manubank,,"New York NY, N/A",28,2026-01-08,2026-10-09,Layoff,2026-09-02T05:08:44.856399Z
+92ee6c0fd28d221b,NC,Thermo Fisher Scientific,Thermo Fisher Scientific,,"Asheville, Buncombe County",423,2026-01-08,2027-12-31,Closure,2026-09-02T05:08:44.856399Z
+6bdb2903b6eacac1,NC,"Avelo Airlines, Inc.",Avelo Airlines,,"Morrisville, Wake County",78,2026-01-07,2026-03-06,Closure,2026-09-02T05:08:44.856399Z
+07a153b225fe7a0a,NC,"Avelo Airlines, Inc.",Avelo Airlines,,"Wilmington, New Hanover County",82,2026-01-07,2026-03-06,Closure,2026-09-02T05:08:44.856399Z
+987260aa91baad21,NC,Kroehler Furniture Co.,Kroehler Furniture,,"Conover, Catawba County",275,2025-12-29,2025-12-31,Closure,2026-09-02T05:08:44.856399Z
+7ad27712818e2535,NC,Railcrew Xpress (RCX),Railcrew Xpress (RCX),,"Bostic, Rutherford County",2,2025-12-22,2026-02-27,Closure,2026-09-02T05:08:44.856399Z
+1f77c462efec1441,NC,"I Squared Logistics, LLC",I Squared Logistics,,"Garner, Wake County",160,2025-12-16,2025-12-15,Layoff,2026-09-02T05:08:44.856399Z
+de97aa4ea31b2c78,NC,"Precision Concepts International, LLC",Precision Concepts International,,"Mebane, Alamance County",59,2025-12-02,2026-02-01,Closure,2026-09-02T05:08:44.856399Z
+b70eb8e07589410e,NC,"Qualicaps, Inc.",Qualicaps,,"Whitsett, Guilford County",91,2025-12-02,2027-03-31,Closure,2026-09-02T05:08:44.856399Z
+5c1e6498fdf78f71,NC,"10 Roads Express, LLC",10 Roads Express,,"Greensboro, Guilford County",74,2025-12-01,2026-02-28,Closure,2026-09-02T05:08:44.856399Z
+52878d34cf824029,NC,Ryder,Ryder,,"Laurel Hill, Scotland County",91,2025-12-01,2026-01-30,Closure,2026-09-02T05:08:44.856399Z
+483853bb8d77f73f,NC,"Pine Gate Renewables, LLC",Pine Gate Renewables,,"Asheville, Buncombe County",223,2025-11-06,2026-01-19,Closure,2026-09-02T05:08:44.856399Z
+64fae93ef4d1b380,NC,Bags,Bags,,"Charlotte, Mecklenburg County",56,2025-11-01,2025-11-01,Layoff,2026-09-02T05:08:44.856399Z
+ac8d79d397e876bf,NC,"Daniel RP Management, LLC",Daniel RP Management,,"Cashiers, Jackson County",151,2025-10-29,2025-12-31,Layoff,2026-09-02T05:08:44.856399Z
+0da03231eb3bcd62,NC,"Mannington Mills, Inc.",Mannington Mills,,"McAdenville, Gaston County",296,2025-10-28,2025-12-27,Closure,2026-09-02T05:08:44.856399Z
+be4c713e61e0cc99,NC,East Coast Migrant Head Start Project (ECMHSP),East Coast Migrant Head Start Project (ECMHSP),,"Raleigh, Wake County",55,2025-10-17,2025-11-01,Closure,2026-09-02T05:08:44.856399Z
+7c2136fb642dfe36,NC,Royal Appliance Mfg. Co. dba TTI Floor Care North America,Royal Appliance Mfg,TTI Floor Care North America,"Charlotte, Mecklenburg County",172,2025-10-08,2026-06-01,Closure,2026-09-02T05:08:44.856399Z
+097c48d497fc9be5,NC,"Baker & Taylor, LLC",Baker & Taylor,,"Charlotte, Mecklenburg County",112,2025-10-06,2026-01-23,Closure,2026-09-02T05:08:44.856399Z
+04fef33666c1134a,NC,Southern Veneer Specialty Products,Southern Veneer Specialty Products,,"Moncure, Chatham County",130,2025-10-06,2025-12-05,Closure,2026-09-02T05:08:44.856399Z
+72681060f5f97c8f,NC,Packaging Corporation of America (PCA),Packaging Corporation of America (PCA),,"Salisbury, Rowan County",108,2025-10-03,2025-12-19,Closure,2026-09-02T05:08:44.856399Z
+222f1bb97a393715,NC,"SimplyIOA, LLC",SimplyIOA,,"Longwood FL, N/A",2,2025-10-03,2025-12-02,Closure,2026-09-02T05:08:44.856399Z
+d645e5f119d21145,NC,wicks & whiskers llc,wicks & whiskers,,"Charlotte, Mecklenburg County",1,2025-10-01,2025-10-01,Layoff,2026-09-02T05:08:44.856399Z
+ab845177d66ffa56,NC,"Mativ Conwed, LLC",Mativ Conwed,,"Wilson, Wilson County",50,2025-09-30,2025-12-01,Closure,2026-09-02T05:08:44.856399Z
+20cd650e67f9c3eb,NC,"Solero Technologies Shelby, LLC",Solero Technologies Shelby,,"Shelby, Cleveland County",102,2025-09-29,2026-03-31,Layoff,2026-09-02T05:08:44.856399Z
+0ccb48199c5f4ae8,NC,Safeway Logistics LLC,Safeway Logistics,,"Kinston, Lenoir County",72,2025-09-19,2025-11-22,Layoff,2026-09-02T05:08:44.856399Z
+9fc262a0e49b9aed,NC,"Blue Ridge Power, LLC",Blue Ridge Power,,"Fayetteville, Cumberland County",348,2025-09-18,2025-11-18,Layoff,2026-09-02T05:08:44.856399Z
+862f6b8e1719c898,NC,"Blue Ridge Power, LLC",Blue Ridge Power,,"Asheville, Buncombe County",169,2025-09-18,2025-11-18,Layoff,2026-09-02T05:08:44.856399Z
+3a2a2ee8e4cc61e0,NC,"CNC Logistics, Inc.",CNC Logistics,,"Durham, Durham County",75,2025-09-17,2025-09-26,Closure,2026-09-02T05:08:44.856399Z
+e95127ae96841175,NC,CRC ED Treatment LLC,CRC ED Treatment,,"Durham, Durham County",90,2025-09-09,2025-11-08,Closure,2026-09-02T05:08:44.856399Z
+c72f934ed92f4e35,NC,Essendant,Essendant,,"Charlotte, Mecklenburg County",58,2025-09-04,2025-11-07,Closure,2026-09-02T05:08:44.856399Z
+bcbbb3b4e2f748c4,NC,McIntosh Box & Pallet Co.,McIntosh Box & Pallet,,"Benson, Johnston County",43,2025-08-20,2025-10-27,Closure,2026-09-02T05:08:44.856399Z
+60d0ce4aab5983c1,NC,N&S Locating Services dba S&N,N&S Locating Services,S&N,"Youngsville, Franklin County",126,2025-08-18,2025-09-08,Layoff,2026-09-02T05:08:44.856399Z
+43d057e542d71c99,NC,"Zeco Systems, Inc.",Zeco Systems,,"Los Angeles CA, N/A",3,2025-08-18,2025-12-31,Layoff,2026-09-02T05:08:44.856399Z
+a15a69dc1c7d6a17,NC,Howard Miller,Howard Miller,,"High Point, Guilford County",39,2025-08-13,2025-11-02,Closure,2026-09-02T05:08:44.856399Z
+8613a78e5ae8d032,NC,"Sarepta Therapeutics, Inc.",Sarepta Therapeutics,,"Durham, Durham County",21,2025-07-16,2025-07-18,Layoff,2026-09-02T05:08:44.856399Z
+835ae5ce97447798,NC,KIRA Services and KIRA Training Services,KIRA Services and KIRA Training Services,,"Cherry Point, Craven County",2,2025-07-15,2025-08-11,Layoff,2026-09-02T05:08:44.856399Z
+b8bdb88940030c2c,NC,Daimler Truck North America LLC,Daimler Truck North America,,"Mount Holly, Gaston County",540,2025-07-11,2025-09-09,Layoff,2026-09-02T05:08:44.856399Z
+d751f6b1c35f1c90,NC,Fellers LLC,Fellers,,"Charlotte, Mecklenburg County",1,2025-07-08,2025-09-12,Closure,2026-09-02T05:08:44.856399Z
+e3b831a5ba7a3a92,NC,Federal Express Corporation,Federal Express,,"Greensboro, Guilford County",164,2025-06-30,2025-09-01,Closure,2026-09-02T05:08:44.856399Z
+2a37fedda6cb76ea,NC,Wells Fargo,Wells Fargo,,"Winston Salem, Forsyth County",196,2025-06-24,2025-11-14,Layoff,2026-09-02T05:08:44.856399Z
+0f3cc40627e2c426,NC,"Wolfspeed, Inc.",Wolfspeed,,"Siler City, Chatham County",73,2025-06-09,2025-08-09,Layoff,2026-09-02T05:08:44.856399Z
+a48a9178afce1c4e,NC,Nordstrom,Nordstrom,,"Centennial CO, N/A",14,2025-05-29,2026-02-21,Layoff,2026-09-02T05:08:44.856399Z
+5d6f4514b515ce52,NC,"Alpek Polyester USA, LLC",Alpek Polyester,,"Fayetteville, Cumberland County",90,2025-05-29,2025-07-31,Closure,2026-09-02T05:08:44.856399Z
+9e0d068fd1cab116,NC,"Transaxle, LLC",Transaxle,,"Charlotte, Mecklenburg County",3,2025-05-16,2025-07-29,Layoff,2026-09-02T05:08:44.856399Z
+03e685550061fed1,NC,Health Alliance Medical Plans,Health Alliance Medical Plans,,"Southern Pines, Moore County",50,2025-05-08,2025-07-08,Layoff,2026-09-02T05:08:44.856399Z
+d981d856dd3590d9,NC,"FCR, LLC",FCR,,"Charlotte, Mecklenburg County",70,2025-04-30,2025-06-30,Layoff,2026-09-02T05:08:44.856399Z
+d2e9c3b967f331ff,NC,Family Health International dba FHI 360,Family Health International,Fhi 360,"Durham, Durham County",144,2025-04-09,2025-05-16,Layoff,2026-09-02T05:08:44.856399Z
+3aa19ad1e18b32fd,NC,"Patrick Yarn Mill, Inc.",Patrick Yarn Mill,,"Kings Mountain, Cleveland County",171,2025-04-01,2025-12-31,Closure,2026-09-02T05:08:44.856399Z
+cbe5c8c1525b2d89,NC,International Business Machines Corporation (IBM),International Business Machines Corporation (IBM),,"Winston Salem, Forsyth County",72,2025-03-25,2025-05-30,Layoff,2026-09-02T05:08:44.856399Z
+8881ae05582d298c,NC,RTI International,RTI International,,"Durham, Durham County",276,2025-03-25,2025-05-01,Layoff,2026-09-02T05:08:44.856399Z
+c6a343f5d5e9f3e4,NC,"Panera, LLC",Panera,,"Greensboro, Guilford County",80,2025-03-21,2025-05-21,Closure,2026-09-02T05:08:44.856399Z
+bb0bc8002591e665,NC,BH Security LLC d/b/a Brinks Home,BH Security,Brinks Home,"Lancaster PA, N/A",1,2025-03-18,2025-06-30,Layoff,2026-09-02T05:08:44.856399Z
+152a3e23732975aa,NC,American Institutes of Research (AIR),American Institutes of Research (AIR),,"Chapel Hill, Orange County",19,2025-03-10,2026-01-05,Layoff,2026-09-02T05:08:44.856399Z
+72c8118575009766,NC,"Sodexo, Inc and Affiliates","Sodexo, Inc and Affiliates",,"Pembroke, Robeson County",156,2025-03-07,2025-06-30,Closure,2026-09-02T05:08:44.856399Z
+25dae4a2ec7d6f93,NC,UPS,UPS,,"Charlotte, Mecklenburg County",99,2025-03-03,2025-05-02,Closure,2026-09-02T05:08:44.856399Z
+1f9d9ebf9cca3ddc,NC,TIMKEN,Timken,,"Hiddenite, Alexander County",58,2025-02-24,2025-12-31,Closure,2026-09-02T05:08:44.856399Z
+cc6ae61ae094e4cd,NC,Behavioral Health Link,Behavioral Health Link,,"Atlanta GA, N/A",2,2025-02-17,2025-03-25,Closure,2026-09-02T05:08:44.856399Z
+dd52a1d24a0c5878,NC,"Darling Ingredients, Inc.",Darling Ingredients,,"Wadesboro, Anson County",51,2025-02-11,2025-04-11,Layoff,2026-09-02T05:08:44.856399Z
+037db6256151e8b2,NC,Walmart,Walmart,,"Charlotte, Mecklenburg County",201,2025-02-05,2025-06-13,Closure,2026-09-02T05:08:44.856399Z
+e540ab23b2774f04,NC,"Richloom Weaving, LLC",Richloom Weaving,,"High Point, Guilford County",54,2025-02-03,2025-04-04,Closure,2026-09-02T05:08:44.856399Z
+6646d7838f645cc4,NC,"Unifi Manufacturing, Inc.",Unifi Manufacturing,,"Madison, Rockingham County",91,2025-02-03,2025-06-14,Closure,2026-09-02T05:08:44.856399Z
+955adef153753901,NC,General Shale,General Shale,,"East Spencer, Rowan County",65,2025-01-31,2025-04-01,Closure,2026-09-02T05:08:44.856399Z
+f79abc9f9487fe91,NC,"Charles River Laboratories, Inc.",Charles River Laboratories,,"Durham, Durham County",37,2025-01-27,2025-10-24,Closure,2026-09-02T05:08:44.856399Z
+792e6adc9945d838,NC,"Air General, Inc.",Air General,,"Charlotte, Mecklenburg County",99,2025-01-27,2025-03-31,Closure,2026-09-02T05:08:44.856399Z
+bdb203613e0d3d03,NC,Kayser-Roth Corporation,Kayser-Roth,,"Asheboro, Randolph County",116,2025-01-24,2025-04-30,Closure,2026-09-02T05:08:44.856399Z
+5430c01991ae6eee,NC,Olon Industries Inc. (US),Olon Industries Inc. (US),,"Lexington, Davidson County",53,2025-01-24,2025-05-30,Closure,2026-09-02T05:08:44.856399Z
+813911595d41dd49,NC,PVH Corp.,PVH,,"Jonesville, Yadkin County",317,2025-01-23,2025-12-31,Closure,2026-09-02T05:08:44.856399Z
+b5d677a74496afe8,NC,"Press Glass, Inc.",Press Glass,,"Stoneville, Rockingham County",68,2025-01-13,2025-03-14,Closure,2026-09-02T05:08:44.856399Z
+7243100ae75250fe,NC,Eaton,Eaton,,"Charlotte, Mecklenburg County",76,2025-01-13,2025-08-29,Closure,2026-09-02T05:08:44.856399Z
+b863bedac836d568,NC,"Resilience US, Inc.",Resilience US,,"Durham, Durham County",120,2025-01-06,2025-12-15,Layoff,2026-09-02T05:08:44.856399Z
+6e8f1857988cc187,NC,"D&A Consulting Services, dba GetInsured",D&A Consulting Services,GetInsured,"Richmond VA, N/A",17,2024-12-30,2025-02-19,Layoff,2026-09-02T05:08:44.856399Z
+c78016f41b8599ac,NC,"Guy & O'Neill, Inc.",Guy & O'Neill,,"Reidsville, Rockingham County",102,2024-12-23,2025-01-31,Closure,2026-09-02T05:08:44.856399Z
+93e90bb7711fdd65,NC,"Vimo, Inc. dba GetInsured",Vimo,GetInsured,"Mountain View CA, N/A",23,2024-12-20,2025-02-19,Layoff,2026-09-02T05:08:44.856399Z
+814fdaa300f7b86d,NC,"Keeco, LLC",Keeco,,"Henderson, Vance County",119,2024-12-04,2025-03-17,Closure,2026-09-02T05:08:44.856399Z
+b5d183833abcb53e,NC,Federal Express Corporation,Federal Express,,"Raleigh, Wake County",218,2024-12-03,2025-02-03,Layoff,2026-09-02T05:08:44.856399Z
+54a0f139aa18010b,NC,Federal Express Corporation,Federal Express,,"Durham, Durham County",123,2024-12-03,2025-02-03,Closure,2026-09-02T05:08:44.856399Z
+63e695e83c21560a,NC,Dura Supreme Cabinetry,Dura Supreme Cabinetry,,"Statesville, Iredell County",74,2024-11-19,2025-01-20,Closure,2026-09-02T05:08:44.856399Z
+4d2b28ab547eb3ef,NC,Norcraft Companies LP,Norcraft,,"Liberty, Randolph County",200,2024-11-19,2025-09-25,Closure,2026-09-02T05:08:44.856399Z
+38aaf88cacd4924d,NC,"E. J. Victor, Inc.",E. J. Victor,,"Morganton, Burke County",121,2024-11-15,2024-11-22,Layoff,2026-09-02T05:08:44.856399Z
+03567915f151726e,NC,Hyster-Yale Materials Handling Inc.,Hyster-Yale Materials Handling,,"Greenville, Pitt County",97,2024-11-14,2025-01-23,Layoff,2026-09-02T05:08:44.856399Z
+40fc6f7f50a50a40,NC,Progress Software Corporation,Progress Software,,"Raleigh, Wake County",199,2024-11-05,2025-02-28,Layoff,2026-09-02T05:08:44.856399Z
+9e185137f18cae79,NC,Tegra Global,Tegra Global,,"Concord, Cabarrus County",61,2024-11-04,2025-03-31,Closure,2026-09-02T05:08:44.856399Z
+649a3c73fd4019b8,NC,Hanesbrands Inc.,Hanesbrands,,"High Point, Guilford County",75,2024-11-01,2025-01-31,Closure,2026-09-02T05:08:44.856399Z
+fe03240219a79b4b,NC,Dradura USA Corp,Dradura,,"New Bern, Craven County",119,2024-10-31,2025-08-31,Layoff,2026-09-02T05:08:44.856399Z
+cb03eadf041cccdb,NC,Aramark Healthcare Support Services LLC,Aramark Healthcare Support Services,,"Fayetteville, Cumberland County",233,2024-10-31,2024-12-31,Layoff,2026-09-02T05:08:44.856399Z
+de62fbb8a7a9581c,NC,International Paper Company,International Paper,,"Statesville, Iredell County",74,2024-10-17,2024-12-16,Closure,2026-09-02T05:08:44.856399Z
+be5a2a46692a5824,NC,"Sage Therapeutics, Inc.",Sage Therapeutics,,"Raleigh, Wake County",14,2024-10-17,2024-10-31,Layoff,2026-09-02T05:08:44.856399Z
+9766499f4270b092,NC,A.I.M Recon LLC,A.I.M Recon,,"Oxford, Granville County",59,2024-10-09,2024-10-18,Closure,2026-09-02T05:08:44.856399Z
+f924cd669de7035c,NC,"Kaleo, Inc.",Kaleo,,"Richmond VA, N/A",2,2024-09-30,2024-11-30,Layoff,2026-09-02T05:08:44.856399Z
+59ade094083f8a45,NC,"Midwest Transport, Inc.",Midwest Transport,,"Robinson IL, N/A",16,2024-09-27,2024-09-09,Closure,2026-09-02T05:08:44.856399Z
+6bc58b8f2aa5f931,NC,"West Logistics, LLC",West Logistics,,"Benson, Johnston County",58,2024-09-25,2024-11-30,Closure,2026-09-02T05:08:44.856399Z
+e44ee1ad9087efe8,NC,Parkdale Mills,Parkdale Mills,,"Sanford, Lee County",74,2024-09-17,2024-11-17,Closure,2026-09-02T05:08:44.856399Z
+1b72a991005e63ad,NC,J & J Snack Foods Corp.,J & J Snack Foods,,"Holly Ridge, Onslow County",78,2024-09-10,2024-11-09,Layoff,2026-09-02T05:08:44.856399Z
+b84eaa8118ac175e,NC,"Conn Appliances, Inc.",Conn Appliances,,"Mebane, Alamance County",46,2024-08-30,2024-10-31,Closure,2026-09-02T05:08:44.856399Z
+751e8ed3bae4f494,NC,"HCL America, Inc.",HCL America,,"Cary, Wake County",57,2024-08-29,2025-01-06,Layoff,2026-09-02T05:08:44.856399Z
+fda68b729a255b47,NC,Keystone Powdered Metal Company,Keystone Powdered Metal,,"Troutman, Iredell County",217,2024-08-28,2025-04-01,Closure,2026-09-02T05:08:44.856399Z
+58fef669c2e634b7,NC,Stewart-Haas Racing,Stewart-Haas Racing,,"Kannapolis, Cabarrus County",323,2024-08-19,2024-12-31,Closure,2026-09-02T05:08:44.856399Z
+3685ee589673fa53,NC,"Avante Health, Inc.",Avante Health,,"Concord, Cabarrus County",4,2024-07-31,2024-08-01,Layoff,2026-09-02T05:08:44.856399Z
+afffd9dbc9a157b1,NC,Columbus McKinnon Corporation,Columbus McKinnon,,"Charlotte, Mecklenburg County",73,2024-07-30,2024-09-29,Closure,2026-09-02T05:08:44.856399Z
+eea291c49af3e4b0,NC,UpStream Care Company,UpStream Care,,"Greensboro, Guilford County",66,2024-07-26,2024-09-15,Layoff,2026-09-02T05:08:44.856399Z
+968a19767b996653,NC,Winn Management Group LLC,Winn Management Group,,"Camp Lejeune, Onslow County",159,2024-07-24,2024-09-30,Layoff,2026-09-02T05:08:44.856399Z
+7a7009d9880f365a,NC,Pfizer,Pfizer,,"Rocky Mount, Nash County",60,2024-07-24,2024-07-31,Closure,2026-09-02T05:08:44.856399Z
+2020956455b0d41d,NC,Placon Corporation,Placon,,"Wilson, Wilson County",70,2024-07-24,2024-11-22,Closure,2026-09-02T05:08:44.856399Z
+28a35a7e35901b95,NC,Weyerhaeuser,Weyerhaeuser,,"Vanceboro, Craven County",73,2024-07-18,2024-09-16,Closure,2026-09-02T05:08:44.856399Z
+183a8e9999e4d00d,NC,"Delta Apparel, Inc.",Delta Apparel,,"Fayetteville, Cumberland County",101,2024-06-30,2024-08-29,Closure,2026-09-02T05:08:44.856399Z
+da88eced2488da23,NC,Novant Health,Novant Health,,"Winston Salem, Forsyth County",81,2024-06-25,2024-08-25,Layoff,2026-09-02T05:08:44.856399Z
+b9b98a1825218405,NC,Walmart,Walmart,,"Charlotte, Mecklenburg County",155,2024-06-20,2024-09-20,Layoff,2026-09-02T05:08:44.856399Z
+35e2a6feaa3724d1,NC,Federal Express Corporation,Federal Express,,"Conover, Catawba County",69,2024-06-12,2024-09-03,Closure,2026-09-02T05:08:44.856399Z
+8d68bbf207fa6ccf,NC,"Stanley Black & Decker, Inc.",Stanley Black & Decker,,"Concord, Cabarrus County",224,2024-06-04,2025-10-10,Closure,2026-09-02T05:08:44.856399Z
+dc6124fcc24ef17d,NC,"Transdev Services, Inc.",Transdev Services,,"Winston Salem, Forsyth County",184,2024-05-31,2024-07-31,Closure,2026-09-02T05:08:44.856399Z
+4ee8e4e300044f56,NC,DHL eCommerce DBA DHL Global Mail,DHL eCommerce,DHL Global Mail,"Raleigh, Wake County",120,2024-05-31,2024-08-02,Closure,2026-09-02T05:08:44.856399Z
+87aabeece2946dc8,NC,"Leggett & Platt, Incorporated",Leggett & Platt,,"High Point, Guilford County",158,2024-05-20,2024-07-25,Closure,2026-09-02T05:08:44.856399Z
+396b6cf1eec7dd3d,NC,HNI Workplace Furnishings LLC,HNI Workplace Furnishings,,"Hickory, Catawba County",221,2024-05-20,2025-04-26,Closure,2026-09-02T05:08:44.856399Z
+bacc2659835b3961,NC,Graphic Packaging International LLC,Graphic Packaging International,,"Randleman, Randolph County",65,2024-05-09,2024-07-23,Closure,2026-09-02T05:08:44.856399Z
+54cbc1ae3e6d27e8,NC,TRoc,TRoc,,"Coral Gables FL, N/A",100,2024-05-03,2024-05-31,Closure,2026-09-02T05:08:44.856399Z
+b70f0e0c00f596b2,NC,Medline Industries LP,Medline Industries,,"Lincolnton, Lincoln County",220,2024-04-30,2024-03-25,Closure,2026-09-02T05:08:44.856399Z
+894b6339d477481c,NC,Phononic Inc,Phononic,,"Durham, Durham County",54,2024-04-23,2024-08-02,Layoff,2026-09-02T05:08:44.856399Z
+849ea5614826935f,NC,Big Rock Sports LLC,Big Rock Sports,,"Hamlet, Richmond County",81,2024-04-09,2024-06-28,Closure,2026-09-02T05:08:44.856399Z
+391be2d14c28add2,NC,Charter Communications,Charter Communications,,"Morrisville, Wake County",67,2024-03-27,2024-05-28,Layoff,2026-09-02T05:08:44.856399Z
+67fbf605558ceb76,NC,UPS,UPS,,"Charlotte, Mecklenburg County",82,2024-03-22,2024-05-24,Closure,2026-09-02T05:08:44.856399Z
+3817319f9d130327,NC,Wirthwein New Bern Corp.,Wirthwein New Bern,,"New Bern, Craven County",120,2024-03-20,2024-05-20,Layoff,2026-09-02T05:08:44.856399Z
+1d8c1da9265d9fc2,NC,RR Donnelley,RR Donnelley,,"Conover, Catawba County",82,2024-03-20,2024-05-19,Closure,2026-09-02T05:08:44.856399Z
+55a4763f44ebd650,NC,Resource Label Group's Pharmaceutic Litho and Label Company,Resource Label Group's Pharmaceutic Litho and Label,,"Winston Salem, Forsyth County",74,2024-03-14,2024-06-14,Closure,2026-09-02T05:08:44.856399Z
+322325f8f5208df8,NC,GKN Driveline North America Inc.,GKN Driveline North America,,"Timberlake, Person County",247,2024-03-08,2024-12-31,Closure,2026-09-02T05:08:44.856399Z
+26e97ee4d60fff4d,NC,Jacobs Technology Inc.,Jacobs Technology,,"Fort Liberty, Cumberland County",240,2024-03-07,2024-03-01,Layoff,2026-09-02T05:08:44.856399Z
+b5e4860710265e9b,NC,The Body Shop,Body Shop,,"Wake Forest, Wake County",63,2024-03-01,2024-03-01,Closure,2026-09-02T05:08:44.856399Z
+28694308ca81882e,NC,Daifuku Services America Corporation,Daifuku Services America,,"Charlotte, Mecklenburg County",34,2024-02-23,2024-04-22,Closure,2026-09-02T05:08:44.856399Z
+641247a9240eb73f,NC,General Microcircuits Inc. - East West LLC,General Microcircuits Inc. - East West,,"Mooresville, Iredell County",11,2024-02-22,2024-04-22,Closure,2026-09-02T05:08:44.856399Z
+d590e8370246ff68,NC,"McMichael Mills, Inc.",McMichael Mills,,"Burlington, Alamance County",81,2024-02-13,2024-04-27,Closure,2026-09-02T05:08:44.856399Z
+5d1f3502e077e7c7,NC,SunTree Snack Foods,SunTree Snack Foods,,"Goldsboro, Wayne County",29,2024-02-13,2024-04-30,Closure,2026-09-02T05:08:44.856399Z
+f326ba3c2432c752,NC,Eon Labs Inc.,Eon Labs,,"Wilson, Wilson County",213,2024-02-05,2024-10-04,Closure,2026-09-02T05:08:44.856399Z
+9cb693569f3841df,NC,Hanesbrands Inc.,Hanesbrands,,"Winston Salem, Forsyth County",159,2024-02-05,2024-04-05,Layoff,2026-09-02T05:08:44.856399Z
+32af7f47777c415d,NC,"Global Textile Alliance, Inc.",Global Textile Alliance,,"Reidsville, Rockingham County",95,2024-02-02,2024-04-09,Layoff,2026-09-02T05:08:44.856399Z
+9d17e4802c84004f,NC,"Block, Inc.",Block,,"San Francisco CA, N/A",7,2024-01-30,2024-03-30,Layoff,2026-09-02T05:08:44.856399Z
+44077b47b89752d5,NC,Nitta Gelatin Inc,Nitta Gelatin,,"Fayetteville, Cumberland County",68,2024-01-26,2024-03-24,Closure,2026-09-02T05:08:44.856399Z
+74f1511175b71480,NC,ASSA ABLOY Americas Residential Inc.,ASSA ABLOY Americas Residential,,"Charlotte, Mecklenburg County",87,2024-01-18,2024-07-28,Closure,2026-09-02T05:08:44.856399Z
+9f11f618dac914d3,NC,WestRock,WestRock,,"Lexington, Davidson County",147,2024-01-17,2024-08-30,Closure,2026-09-02T05:08:44.856399Z
+1aee13335a02b512,NC,Lost Boys Interactive LLC,Lost Boys Interactive,,"Madison WI, N/A",4,2024-01-11,2024-03-15,Layoff,2026-09-02T05:08:44.856399Z
+997b01efcb01c675,NC,Graphic Packaging International LLC,Graphic Packaging International,,"Charlotte, Mecklenburg County",112,2024-01-09,2024-03-31,Closure,2026-09-02T05:08:44.856399Z
+f163433f6c7a840c,NC,The Service Companies,Service,,"Cherokee, Swain County",88,2024-01-04,2024-03-04,Closure,2026-09-02T05:08:44.856399Z
+4af48fe85fae78a4,NC,PaperWorks,PaperWorks,,"Mount Gilead, Montgomery County",74,2024-01-04,2024-03-31,Closure,2026-09-02T05:08:44.856399Z
+c6afa290ab5e260d,NC,Team Manufacturing East West LLC,Team Manufacturing East West,,"Youngsville, Franklin County",107,2024-01-02,2024-03-29,Closure,2026-09-02T05:08:44.856399Z

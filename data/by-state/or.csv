@@ -1,4 +1,10 @@
 id,state,company,company_canonical,company_dba,location,employees_affected,notice_date,effective_date,notice_type,first_seen
+c42b1289d9f5c4ea,OR,Tualatin Oregon Facility,Tualatin Oregon Facility,,Tualatin,60,2026-09-01,2027-02-28,Permanent closure,2026-09-02T05:08:44.856399Z
+b7e99a13df089fbc,OR,Tualatin Oregon Facility,Tualatin Oregon Facility,,Tualatin,9,2026-09-01,2027-03-31,Permanent closure,2026-09-02T05:08:44.856399Z
+a2da5edc4d954994,OR,Tualatin Oregon Facility,Tualatin Oregon Facility,,Tualatin,5,2026-09-01,2026-10-31,Permanent closure,2026-09-02T05:08:44.856399Z
+5209a12b59500c1e,OR,Tualatin Oregon Facility,Tualatin Oregon Facility,,Tualatin,2,2026-09-01,2026-12-31,Permanent closure,2026-09-02T05:08:44.856399Z
+1e897dcfb5ec1108,OR,Tualatin Oregon Facility,Tualatin Oregon Facility,,Tualatin,11,2026-09-01,2026-11-30,Permanent closure,2026-09-02T05:08:44.856399Z
+263b66ad74ec309b,OR,"J.R. Johnson, LLC",J.R. Johnson,,Portland,55,2026-08-31,2026-10-31,Permanent closure,2026-08-31T20:19:07.499092Z
 16e3531338fda588,OR,"Amentum - Hillsboro, OR","Amentum - Hillsboro, OR",,Hillsboro,74,2026-08-20,2026-10-19,Large Layoff - 10 or more workers,2026-08-30T21:43:41.512264Z
 a12b2847bfb7a05f,OR,Oregon - Remote Employees,Oregon - Remote Employees,,,1,2026-08-10,2026-10-09,Permanent closure,2026-08-30T21:43:41.512264Z
 60e585a9d4f8d22e,OR,JeniusBank,JeniusBank,,"New York, NY",105,2026-08-10,2026-10-09,Permanent closure,2026-08-30T21:43:41.512264Z

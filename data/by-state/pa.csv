@@ -1,0 +1,256 @@
+id,state,company,company_canonical,company_dba,location,employees_affected,notice_date,effective_date,notice_type,first_seen
+aee71526302ec24f,PA,Mountain Valley Golf Course,Mountain Valley Golf Course,,"Barnesville, Schuylkill",111,,2026-10-31,Closure,2026-09-02T05:08:44.856399Z
+7ad7eee939287e4a,PA,"CJ Logistics America, LLC",CJ Logistics America,,"Newville, Cumberland",56,,2026-10-31,Closure,2026-09-02T05:08:44.856399Z
+94c22416f6362f38,PA,"Eos Energy Storage, LLC",Eos Energy Storage,,"East Pittsburgh, Allegheny",251,,2026-10-26,Layoff,2026-09-02T05:08:44.856399Z
+5d52693e2f001b77,PA,"United Natural Foods, Inc. (NFI)","United Natural Foods, Inc. (NFI)",,"Philadelphia, Philadelphia",48,,2026-10-16,Closure,2026-09-02T05:08:44.856399Z
+0befcfed72a15d5c,PA,"CJ Logistics America, LLC",CJ Logistics America,,"Breinigsville, Lehigh",57,,2026-10-16,Closure,2026-09-02T05:08:44.856399Z
+0f9dcd2c4fda470b,PA,"Grede, LLC",Grede,,"Meadville, Crawford",170,,2026-10-10,Closure,2026-09-02T05:08:44.856399Z
+c3464ab46a6de82e,PA,SMBC MANUBANK,Smbc Manubank,,Various,7,,2026-10-09,Closure,2026-09-02T05:08:44.856399Z
+ecae62357ac9c00b,PA,"Essendant Management Services, LLC",Essendant Management Services,,"Phoenixville, Chester",150,,2026-10-03,Closure,2026-09-02T05:08:44.856399Z
+8e7c723d97aad730,PA,"Xanitos, Inc.",Xanitos,,"Philadelphia, Philadelphia",80,,2026-10-01,Layoff,2026-09-02T05:08:44.856399Z
+5aa4361eaab00b35,PA,"Technica, LLC",Technica,,"New Cumberland, Cumberland",100,,2026-09-30,Layoff,2026-09-02T05:08:44.856399Z
+5438b99da0eeccc7,PA,"Central Admixture Pharmacy Services, Inc.",Central Admixture Pharmacy Services,,"Allentown, Lehigh",173,,2026-09-30,Closure,2026-09-02T05:08:44.856399Z
+2df6ed52ce0db8ff,PA,LNS Chipblaster,LNS Chipblaster,,"Meadville, Crawford",67,,2026-09-30,Closing,2026-09-02T05:08:44.856399Z
+d3d8d28a3ed51a08,PA,"Pottstown Hospital, LLC.",Pottstown Hospital,,"Pottstown, Montgomery",160,,2026-09-28,Layoff,2026-09-02T05:08:44.856399Z
+50bcd7141c626866,PA,Dometic,Dometic,,"Limerick, Montgomery",89,,2026-09-21,Closure,2026-09-02T05:08:44.856399Z
+ac5cee9b91951989,PA,"Transform Warehouse Operations, LLC",Transform Warehouse Operations,,"Fairless Hills, Bucks",147,,2026-09-16,Closing,2026-09-02T05:08:44.856399Z
+51f6f22b550197c1,PA,"GEODIS Logistics, LLC",GEODIS Logistics,,"Carlisle, Cumberland",185,,2026-08-31,Closure,2026-09-02T05:08:44.856399Z
+d7ec9e31a89476f9,PA,"Conduent Commercial Solutions, LLC.",Conduent Commercial Solutions,,"Florham Park, Various (All workers telework from home)",9,,2026-08-28,Permanent Layoff,2026-09-02T05:08:44.856399Z
+bd9209c01e2e59a5,PA,JBS Souderton,JBS Souderton,,"Souderton, Montgomery",1485,,2026-08-14,Closure,2026-09-02T05:08:44.856399Z
+d76497908ac8ef52,PA,"WILX Logistics, LLC",WILX Logistics,,"Mount Joy, Lancaster",70,,2026-08-09,Closure,2026-09-02T05:08:44.856399Z
+15f99549fb9d19cc,PA,Chandler Hall Health Services,Chandler Hall Health Services,,"Newtown, Bucks",220,,2026-08-01,Closure,2026-09-02T05:08:44.856399Z
+ffcc29883e59f900,PA,"Stoelzle Glass USA, Inc.",Stoelzle Glass,,"Monaca, Beaver",200,,2026-07-25,Layoff,2026-09-02T05:08:44.856399Z
+22f8ae46fd1b9bfe,PA,Calfrac Well Services Corp.,Calfrac Well Services,,"Smithfield, Fayette",75,,2026-07-20,Closure,2026-09-02T05:08:44.856399Z
+d0108e0afc9c3a62,PA,"Knouse Foods Cooperative, Inc.",Knouse Foods Cooperative,,"Chambersburg, Franklin",148,,2026-07-06,Closure,2026-09-02T05:08:44.856399Z
+4c18b88f628e4573,PA,"Quality Packaging Specialists International, LLC",Quality Packaging Specialists International,,"Mechanicsburg, Cumberland",83,,2026-07-06,Closure,2026-09-02T05:08:44.856399Z
+f46251930b0932ff,PA,"Church & Dwight Company, Inc.",Church & Dwight,,"York, York",195,,2026-06-30,Layoff,2026-09-02T05:08:44.856399Z
+56727ddff288905d,PA,"Advantest, Inc.",Advantest,,"Allentown, Lehigh",55,,2026-06-30,Layoff,2026-09-02T05:08:44.856399Z
+5cc9d41d03cbd744,PA,Durham School Services,Durham School Services,,"Philadelphia, Philadelphia",299,,2026-06-29,Layoff,2026-09-02T05:08:44.856399Z
+135b10430b069a5f,PA,"Vestis Services, LLC",Vestis Services,,"Roswell, Various",5,,2026-06-15,Layoff,2026-09-02T05:08:44.856399Z
+cfd4286cfaaae680,PA,"American Expediting Logistics, LLC",American Expediting Logistics,,"Media, Delaware",86,,2026-06-04,Closure,2026-09-02T05:08:44.856399Z
+ec6c021514e3a734,PA,Lineage Logistics,Lineage Logistics,,"East Pottsville, Schuylkill",208,,2026-05-27,Layoff,2026-09-02T05:08:44.856399Z
+02d59ef2b773d66e,PA,Liberty Home Choices,Liberty Home Choices,,"Philadelphia, Philadelphia",615,,2026-05-24,Closing,2026-09-02T05:08:44.856399Z
+048088ba15c1a941,PA,"PharmaCann, Inc.",PharmaCann,,"Olyphant, Lackawanna",60,,2026-05-20,Closing,2026-09-02T05:08:44.856399Z
+987912c155732aa9,PA,"Bowhead Logistics Management, LLC",Bowhead Logistics Management,,"Chambersburg, Franklin",307,,2026-05-10,Layoff,2026-09-02T05:08:44.856399Z
+1d31bef2d357e1c1,PA,Pittsburgh Post-Gazette,Pittsburgh Post-Gazette,,"Pittsburgh, Allegheny",171,,2026-05-04,Closing,2026-09-02T05:08:44.856399Z
+94392159111d0357,PA,"Saks & Company, LLC",Saks &,,"Pottsville, Schuylkill",435,,2026-05-03,Closing,2026-09-02T05:08:44.856399Z
+ade4f53e731f7ca8,PA,Bradford Regional Medical Center,Bradford Regional Medical Center,,"Bradford, McKean",238,,2026-05-02,Closing,2026-09-02T05:08:44.856399Z
+457930b694b51227,PA,Federal Express Corporation,Federal Express,,"Pittston, Luzerne",63,,2026-05-02,Closing,2026-09-02T05:08:44.856399Z
+dfa077c797337eeb,PA,"Post Consumer Brands, LLC",Post Consumer Brands,,"Bloomsburg, Columbia",11,,2026-05-01,Layoff,2026-09-02T05:08:44.856399Z
+5a4587376c949c65,PA,Juvenile Justice Center of Philadelphia,Juvenile Justice Center of Philadelphia,,"Philadelphia, Philadelphia",17,,2026-04-30,Layoff,2026-09-02T05:08:44.856399Z
+06a8324c471ee38f,PA,"Bush Industries, Inc.",Bush Industries,,"Erie, Erie",51,,2026-04-30,Closure,2026-09-02T05:08:44.856399Z
+4d8a51f30b235577,PA,Amazon Fresh,Amazon Fresh,,"2424 E. Lincoln Hwy Langhorne, Bucks, Delaware, Montgomery and Philadelphia",983,,2026-04-28,Layoff,2026-09-02T05:08:44.856399Z
+d36521508f6aac25,PA,"Green Leaf Medicals, LLC",Green Leaf Medicals,,"Saxton, Bedford",52,,2026-04-18,Closure,2026-09-02T05:08:44.856399Z
+9b055b86bcee39f5,PA,Saks Fifth Avenue,Saks Fifth Avenue,,"Bala Cynwyd, Montgomery",50,,2026-04-11,Closure,2026-09-02T05:08:44.856399Z
+5a983507caf88a00,PA,Saks Fifth Avenue,Saks Fifth Avenue,,"Wilkes Barre, Luzerne",155,,2026-04-11,Closure,2026-09-02T05:08:44.856399Z
+25472e2b862aeb88,PA,White Deer Run Allenwood,White Deer Run Allenwood,,"Allenwood, Union",31,,2026-04-05,Layoff,2026-09-02T05:08:44.856399Z
+9d7cec65597f93fc,PA,"The GIANT Company, LLC.",The GIANT,,"Coopersburg, Montgomery",105,,2026-04-03,Closing,2026-09-02T05:08:44.856399Z
+e675e8897f3de245,PA,Miller's Ale House,Miller's Ale House,,"Philadelphia, Philadelphia",49,,2026-03-30,Closing,2026-09-02T05:08:44.856399Z
+5eb9202ff439681a,PA,BPM Limited,BPM,,"Chesterbrook, Chester",148,,2026-03-29,Layoff,2026-09-02T05:08:44.856399Z
+2f0d49cc5ca9c327,PA,BPM Limited,BPM,,"Chesterbrook, Chester",248,,2026-03-29,Layoff,2026-09-02T05:08:44.856399Z
+4898b53ada016f37,PA,French Creek Recovery Center,French Creek Recovery Center,,"Meadville, Crawford",59,,2026-03-15,Closing,2026-09-02T05:08:44.856399Z
+0a78f12dd0f3f66b,PA,"ALPEK Polyester USA, LLC",ALPEK Polyester,,"Reading, Berks",100,,2026-03-15,Closing,2026-09-02T05:08:44.856399Z
+b14278519000d6a7,PA,"PrimeFlight Aviation Services, Inc.",PrimeFlight Aviation Services,,"Philadelphia, Philadelphia",68,,2026-03-09,Layoff,2026-09-02T05:08:44.856399Z
+266c84d8b4a5fb13,PA,"Adare Pharmaceuticals, Inc.",Adare Pharmaceuticals,,"Philadelphia, Philadelphia",137,,2026-03-01,Closing,2026-09-02T05:08:44.856399Z
+7b86313f48ce3f8f,PA,DHL Supply Chain,DHL Supply Chain,,"Bethlehem, Northampton",66,,2026-02-28,Closing,2026-09-02T05:08:44.856399Z
+f11002596192b498,PA,"First Brands Group, LLC, d/b/a Eagle Castings",First Brands Group,Eagle Castings,"Hanover, York",73,,2026-02-27,Closing,2026-09-02T05:08:44.856399Z
+0c97cacacb224689,PA,"GIANT Company, LLC",Giant,,"Lancaster, Lancaster",76,,2026-02-27,Closing,2026-09-02T05:08:44.856399Z
+b887dc1e95392d17,PA,"GIANT Company, LLC",Giant,,"Philadelphia, Philadelphia",128,,2026-02-13,Closing,2026-09-02T05:08:44.856399Z
+af60548d4b4feb33,PA,PA Potato Chip Manufacturing LLC,PA Potato Chip Manufacturing,,"Berlin, Somerset",96,,2026-02-13,Closing,2026-09-02T05:08:44.856399Z
+5f2c9c2c1f696715,PA,"Taste, Inc.",Taste,,"Philadelphia, Philadelphia",10,,2026-02-05,Closure,2026-09-02T05:08:44.856399Z
+4aa548bf587673ca,PA,"Great Dane, LLC",Great Dane,,"Elysburg, Northumberland",164,,2026-02-02,Layoff,2026-09-02T05:08:44.856399Z
+7e02247e8e86b314,PA,"AVI Foodsystems, Inc.",AVI Foodsystems,,"Philadelphia, Philadelphia",297,,2026-02-01,Closing,2026-09-02T05:08:44.856399Z
+13a601b3b94332d2,PA,Crothall and Morrison Healthcare,Crothall and Morrison Healthcare,,"Philadelphia, Philadelphia",795,,2026-02-01,Layoff,2026-09-02T05:08:44.856399Z
+7a8fe9f6abb8e239,PA,"DuBois Logistics, LLC",DuBois Logistics,,"DuBois, Clearfield",110,,2026-01-31,Closure,2026-09-02T05:08:44.856399Z
+683ded79111cf3da,PA,"Keen Transport, Inc.",Keen Transport,,"Carlisle, Cumberland",52,,2026-01-20,Layoff,2026-09-02T05:08:44.856399Z
+66f3ab561e639949,PA,BIOLYST Scientific,BIOLYST Scientific,,"Hatfield, Montgomery",76,,2026-01-12,Closure,2026-09-02T05:08:44.856399Z
+1719ce85b6af2be8,PA,"GXO Logistics Worldwide, LLC",GXO Logistics Worldwide,,"Carlisle, Cumberland",69,,2026-01-12,Layoff,2026-09-02T05:08:44.856399Z
+055caf11db77c9ea,PA,Engineered Materials Solutions,Engineered Materials Solutions,,"Hamburg, Berks",58,,2026-01-02,Closing,2026-09-02T05:08:44.856399Z
+a1d3ad4f6bdb2111,PA,"Prysmian Cables and Systems, USA",Prysmian Cables and Systems,,"Schuylkill Haven, Schuylkill",150,,2026-01-01,Closure,2026-09-02T05:08:44.856399Z
+758fd0c3b3e29701,PA,Pottstown Hospital,Pottstown Hospital,,"Pottstown, Montgomery",131,,2026-01-01,Layoff,2026-09-02T05:08:44.856399Z
+cd46e6565a12495d,PA,"Respironics, Inc.",Respironics,,"Murrysville, Westmoreland",196,,2025-12-31,Layoff,2026-09-02T05:08:44.856399Z
+b6696cde6a0b7619,PA,"Travel + Leisure Resort Development, Inc.",Travel + Leisure Resort Development,,"Shawnee-on-Delaware, Monroe",124,,2025-12-31,Closing,2026-09-02T05:08:44.856399Z
+9e48439f1e6308e3,PA,Oak View Group,Oak View Group,,"Philadelphia, Philadelphia",,,2025-12-31,Layoff,2026-09-02T05:08:44.856399Z
+be1570746deffd20,PA,Chick-fil-A,Chick-fil-A,,"Philadelphia, Philadelphia",49,,2025-12-30,Closure,2026-09-02T05:08:44.856399Z
+b19550e88d564317,PA,Allen Distribution,Allen Distribution,,"Allentown, Lehigh",70,,2025-12-26,Closing,2026-09-02T05:08:44.856399Z
+f229c5ed8d51282f,PA,"Morgan Truck Body, LLC",Morgan Truck Body,,"Ephrata, Lancaster",92,,2025-12-15,Closing,2026-09-02T05:08:44.856399Z
+82b8ca17f8e6aa87,PA,"Peraton, Inc.",Peraton,,"Camp Hill, Cumberland",153,,2025-12-13,Layoff,2026-09-02T05:08:44.856399Z
+316707c92d7aefde,PA,Starbucks,Starbucks,,"Philadelphia, Philadelphia",,,2025-12-05,Closing,2026-09-02T05:08:44.856399Z
+98c29b6259356270,PA,S&S Activewear,S&S Activewear,,"Lewisberry, York",128,,2025-12-04,Closing,2026-09-02T05:08:44.856399Z
+63d208bc17822325,PA,"Vifor Pharma, Inc.",Vifor Pharma,,"King of Prussia, Montgomery",55,,2025-12-01,Layoff,2026-09-02T05:08:44.856399Z
+4f7f8cf66c3f87a6,PA,Packaging Corporation of America,Packaging Corporation of America,,"Allentown, Lehigh",60,,2025-12-01,Closure,2026-09-02T05:08:44.856399Z
+966a1aadc9609e34,PA,"Owens and Minor Halyard, Inc.",Owens and Minor Halyard,,"Mechanicsburg, Cumberland",75,,2025-11-28,Layoff,2026-09-02T05:08:44.856399Z
+2ad72d6b9e0db87b,PA,"Air Products and Chemicals, Inc.",Air Products and Chemicals,,"Allentown, Lehigh",14,,2025-11-17,Layoff,2026-09-02T05:08:44.856399Z
+4422f067a3d87bd1,PA,CJB Logistics,CJB Logistics,,"Philadelphia, Philadelphia",101,,2025-11-16,Closure,2026-09-02T05:08:44.856399Z
+0dd95f42df26f0d4,PA,"National Fulfillment Services, LLC",National Fulfillment Services,,"Aston, Delaware",45,,2025-11-15,Closing,2026-09-02T05:08:44.856399Z
+cf7855fa5da99257,PA,HMS Host (located within the Philadelphia International Airport),HMS Host (located within the Philadelphia International Airport),,"Philadelphia, Philadelphia",13,,2025-10-27,Layoff,2026-09-02T05:08:44.856399Z
+4cf7581f31811af1,PA,"Inmar Supply Chain Solutions, LLC",Inmar Supply Chain Solutions,,"Breinigsville, Lehigh",101,,2025-10-10,Closing,2026-09-02T05:08:44.856399Z
+4c2f5ce92c67fedc,PA,"Fourth Street Barbecue, Inc.",Fourth Street Barbecue,,"Charleroi, Washington",252,,2025-10-09,Closing,2026-09-02T05:08:44.856399Z
+553ec8cda638e25c,PA,"PrimeCare Medical, Inc.",PrimeCare Medical,,"York, York",50,,2025-09-30,Layoff,2026-09-02T05:08:44.856399Z
+0a6d013ab0415a70,PA,"Comprehensive Logistics, Inc.",Comprehensive Logistics,,"York, York",365,,2025-09-25,Layoff,2026-09-02T05:08:44.856399Z
+aee930e5e9cf8245,PA,ACC Premiere,ACC Premiere,,"Montoursville, Lycoming",67,,2025-09-19,Layoff,2026-09-02T05:08:44.856399Z
+4c1bda0dce9ef782,PA,Trujacodi Delivery Express,Trujacodi Delivery Express,,"Philadelphia, Philadelphia",42,,2025-09-12,Closure,2026-09-02T05:08:44.856399Z
+924215f91585b761,PA,Carson Valley Children's Aid,Carson Valley Children's Aid,,"Norristown, Montgomery and Philadelphia",96,,2025-09-01,Closure,2026-09-02T05:08:44.856399Z
+625ecbb0f5ab565d,PA,"Alloy Surfaces Company, Inc.",Alloy Surfaces,,"Chester Township, Delaware",52,,2025-08-30,Closing,2026-09-02T05:08:44.856399Z
+3839e407e29420b1,PA,"Weaber, Inc.",Weaber,,"Lebanon, Lebanon",145,,2025-08-26,Layoff,2026-09-02T05:08:44.856399Z
+15fe93b5413edb37,PA,"IG Design Group Americas, Inc.",IG Design Group Americas,,"Berwick, Columbia",380,,2025-08-26,Closure,2026-09-02T05:08:44.856399Z
+bac9cb9170305bba,PA,"Weaber, Inc.",Weaber,,"Titusville, Crawford",46,,2025-08-25,Closing,2026-09-02T05:08:44.856399Z
+95903f92fd176e64,PA,"PosiGen Developer, LLC",PosiGen Developer,,"Conshohocken, Montgomery",49,,2025-08-24,Layoff,2026-09-02T05:08:44.856399Z
+7d05c860ecf5c2d1,PA,"Internation Timber and Veneer, L.C.","Internation Timber and Veneer, L.C",,"Jackson Center, Mercer",81,,2025-08-18,Closing,2026-09-02T05:08:44.856399Z
+498f89b26dbe6bd6,PA,"PPG Industries, Inc.",PPG Industries,,"Elverson, Chester",82,,2025-08-18,Closing,2026-09-02T05:08:44.856399Z
+c8a4e0a6203d34b8,PA,"Tyson Warehousing Services, LLC",Tyson Warehousing Services,,"Pottsville, Schuylkill",314,,2025-08-15,Layoff,2026-09-02T05:08:44.856399Z
+b8133e41a8831f3d,PA,"Natural Foods, Inc.",Natural Foods,,"Schnecksville, Lehigh",716,,2025-08-12,Layoff,2026-09-02T05:08:44.856399Z
+c259513cefc95e71,PA,"Compass Group USA, Inc.",Compass Group,,"Philadelphia, Philadelphia",110,,2025-08-09,Closing,2026-09-02T05:08:44.856399Z
+e20896a8e046ac1d,PA,"Bakery Barn, LLC",Bakery Barn,,"Pittsburgh, Allegheny",82,,2025-08-01,Closing,2026-09-02T05:08:44.856399Z
+3818a50370b81faf,PA,"Ryder Integrated Logistics, Inc.",Ryder Integrated Logistics,,"Shoemakersville, Berks",76,,2025-08-01,Closing,2026-09-02T05:08:44.856399Z
+c602b0d341890d6a,PA,Del Frisco's Grille,Del Frisco's Grille,,"Philadelphia, Philadelphia",51,,2025-07-31,Closing,2026-09-02T05:08:44.856399Z
+8ac7eb7e61d5e32a,PA,SpiriTrust Lutheran,SpiriTrust Lutheran,,"Chambersburg, Franklin",,,2025-07-18,Closing,2026-09-02T05:08:44.856399Z
+51099213d849e542,PA,"TransAxle, LLC",TransAxle,,"Zelienople, Butler",9,,2025-07-15,Layoff,2026-09-02T05:08:44.856399Z
+ec0631064b0c22de,PA,"Century Therapeutics, LLC",Century Therapeutics,,"Philadelphia, Philadelphia",72,,2025-07-11,Layoff,2026-09-02T05:08:44.856399Z
+68e002855551a7d5,PA,Suburban Community Hospital,Suburban Community Hospital,,"Norristown, Montgomery",109,,2025-07-05,Layoff,2026-09-02T05:08:44.856399Z
+20323fc8b56419d4,PA,"Leviathan Energy, L.P.",Leviathan Energy,,"Monroeville, Washington and Allegheny",105,,2025-07-01,Closing,2026-09-02T05:08:44.856399Z
+f990cb65bede6b36,PA,"BH Security, LLC (d/b/a Brinks Home)",BH Security,Brinks Home,Various counties,42,,2025-06-30,Layoff,2026-09-02T05:08:44.856399Z
+b142600552797850,PA,First Student Lewisberry,First Student Lewisberry,,"Lewisberry, York",81,,2025-06-30,Layoff,2026-09-02T05:08:44.856399Z
+610dba4bdf091644,PA,"Cleveland-Cliffs, Inc.",Cleveland-Cliffs,,"Steelton, Dauphin",559,,2025-06-30,Layoff,2026-09-02T05:08:44.856399Z
+5db7883a0e602a9c,PA,"Krise Transportation, Inc.",Krise Transportation,,"Milroy, Mifflin",70,,2025-06-30,Layoff,2026-09-02T05:08:44.856399Z
+4f3a0b39ce7fdd88,PA,"Cleveland Cliffs Plate, LLC",Cleveland Cliffs Plate,,"Conshohocken, Montgomery",107,,2025-06-30,Layoff,2026-09-02T05:08:44.856399Z
+4a5537c8073fd766,PA,"Law Practice of Lavin, Cedrone, Graver, Boyd & Disipio","Law Practice of Lavin, Cedrone, Graver, Boyd & Disipio",,"Philadelphia, Philadelphia",49,,2025-06-30,Closing,2026-09-02T05:08:44.856399Z
+006bd051201b9311,PA,"Instant Web, LLC",Instant Web,,"Hamburg, Berks",298,,2025-06-27,Closure,2026-09-02T05:08:44.856399Z
+a7625dd3a91dc6ca,PA,"Med-Metrix, LLC",Med-Metrix,,"Upland, Delaware",142,,2025-06-20,Closing,2026-09-02T05:08:44.856399Z
+79ea6a915390c6ba,PA,Pittsburgh Job Corps Center,Pittsburgh Job Corps Center,,"Pittsburgh, Allegheny",180,,2025-06-13,Closing,2026-09-02T05:08:44.856399Z
+779358283b4a2ae5,PA,"Corelle Brands, LLC",Corelle Brands,,"Greencastle, Franklin",323,,2025-06-09,Closing,2026-09-02T05:08:44.856399Z
+c89496b46028b04a,PA,Chartwells,Chartwells,,"York, York",6,,2025-06-06,Layoff,2026-09-02T05:08:44.856399Z
+28bccdad30165450,PA,"pladis North America, Inc.",pladis North America,,"Mohnton, Berks",55,,2025-05-29,Closing,2026-09-02T05:08:44.856399Z
+175b38aea5a77370,PA,"Cargill Cocoa & Chocolate, Inc.",Cargill Cocoa & Chocolate,,"Hazle Township, Luzerne",102,,2025-05-26,Closing,2026-09-02T05:08:44.856399Z
+8e2b6fa2c5ce0e5f,PA,"Philips Respironics, Inc.",Philips Respironics,,"Mount Pleasant, Westmoreland",14,,2025-05-23,Layoff,2026-09-02T05:08:44.856399Z
+4ff93e831ed9138b,PA,"Torrid, LLC",Torrid,,"Philadelphia, Philadelphia",8,,2025-05-19,Layoff,2026-09-02T05:08:44.856399Z
+073899ee0a7caf50,PA,"SPS Technologies, LLC",SPS Technologies,,"Jenkintown, Montgomery",251,,2025-05-18,Layoff,2026-09-02T05:08:44.856399Z
+12eb3a1ee74935d9,PA,"Spark Therapeutics, Inc.",Spark Therapeutics,,"Philadelphia, Philadelphia",298,,2025-05-09,Layoff,2026-09-02T05:08:44.856399Z
+3f97887e578cc0ab,PA,Rite-Aid,Rite-Aid,,"Philadelphia, York and Philadelphia",501,,2025-05-05,Layoff,2026-09-02T05:08:44.856399Z
+deed7c0406d918d9,PA,Custom Glass Solutions,Custom Glass Solutions,,"Trumbauersville, Bucks",105,,2025-04-30,Closing,2026-09-02T05:08:44.856399Z
+3f24c3ea1903ffaa,PA,"Household Metals, Inc.",Household Metals,,"Philadelphia, Philadelphia",71,,2025-04-28,Closing,2026-09-02T05:08:44.856399Z
+6b1c82edf212bf92,PA,Crozer Health,Crozer Health,,Delaware and Chester,2651,,2025-04-25,Closing,2026-09-02T05:08:44.856399Z
+c8a7bbee8284c2e6,PA,"Forever 21 OpCo, LLC",Forever 21 OpCo,,"Philadelphia, Philadelphia",36,,2025-04-23,Closing,2026-09-02T05:08:44.856399Z
+2cc7f4f55ae0fb34,PA,Wawa,Wawa,,"Philadelphia, Philadelphia",,,2025-04-22,Closing,2026-09-02T05:08:44.856399Z
+f72b1956bbe4448f,PA,Mulherin's Pizzeria,Mulherin's Pizzeria,,"Philadelphia, Philadelphia",39,,2025-04-16,Closing,2026-09-02T05:08:44.856399Z
+d705b1da93851dd0,PA,"GXO Logistics Supply Chain, Inc.",GXO Logistics Supply Chain,,"Middletown, Dauphin",91,,2025-04-15,Closing,2026-09-02T05:08:44.856399Z
+2ab70477132f0173,PA,International Paper,International Paper,,"Hazelton, Luzerne",107,,2025-04-14,Closing,2026-09-02T05:08:44.856399Z
+3d60cd2a0fec0916,PA,S&S Activewear,S&S Activewear,,"Lewisberry, York",218,,2025-04-09,Closing,2026-09-02T05:08:44.856399Z
+c549524effee8d9f,PA,"Wilson Creek Energy, LLC",Wilson Creek Energy,,"One location within Garrett County, Somerset County, PA; Garrett County, MD",332,,2025-03-28,Closing,2026-09-02T05:08:44.856399Z
+6c55ca9e84320c2c,PA,Hart to Heart Transportation,Hart to Heart Transportation,,"Philadelphia, Philadelphia",124,,2025-03-24,Closing,2026-09-02T05:08:44.856399Z
+5cad7ca82a44bde7,PA,Statewide Automotive,Statewide Automotive,,"Philadelphia, Philadelphia",5,,2025-03-24,Closing,2026-09-02T05:08:44.856399Z
+4a015ea6eb440261,PA,Macy's Inc.,Macy's,,"Philadelphia, Philadelphia",128,,2025-03-18,Closing,2026-09-02T05:08:44.856399Z
+9aba2bb67dc4ef6a,PA,Amazon,Amazon,,"Imperial, Allegheny",432,,2025-03-12,Layoff,2026-09-02T05:08:44.856399Z
+244dfafe608384f9,PA,"GXO Warehouse Company, Inc.",GXO Warehouse,,"Mechanicsburg, Cumberland",85,,2025-03-12,Closing,2026-09-02T05:08:44.856399Z
+b43e460292bf07aa,PA,Thomas Jefferson University Hospital,Thomas Jefferson University Hospital,,"Philadelphia, Philadelphia",171,,2025-03-10,Layoff,2026-09-02T05:08:44.856399Z
+637b0ad18935e1f0,PA,"National Distribution Centers, LLC",National Distribution Centers,,"Newville, Cumberland",385,,2025-03-08,Layoff,2026-09-02T05:08:44.856399Z
+c8eef3a6d183c527,PA,"VIMO, Inc.",VIMO,,Various,430,,2025-02-19,Layoff,2026-09-02T05:08:44.856399Z
+6e8962fdf7a3ae2f,PA,"D&A Consulting Service, LLC",D&A Consulting Service,,Various,14,,2025-02-19,Layoff,2026-09-02T05:08:44.856399Z
+640a2cd5b9dba520,PA,VF Coporation,VF Coporation,,"Philadelphia, Philadelphia",12,,2025-02-18,Closing,2026-09-02T05:08:44.856399Z
+0adbfb1ce0aced58,PA,"FedEx Supply Chain, Inc.",FedEx Supply Chain,,"York, York",70,,2025-02-17,Layoff,2026-09-02T05:08:44.856399Z
+4fd51e91f5e15da6,PA,Hard Rock Cafe,Hard Rock Cafe,,"Pittsburgh, Allegheny",55,,2025-02-14,Closing,2026-09-02T05:08:44.856399Z
+20d65112b6d81f3b,PA,"Tatano Wire Products, LLC",Tatano Wire Products,,"Lemont Furnace, Fayette",27,,2025-02-14,Closing,2026-09-02T05:08:44.856399Z
+217d7dff77d6432b,PA,Arway Uniform and Linen Rentals,Arway Uniform and Linen Rentals,,"Philadelphia, Philadelphia",85,,2025-02-02,Closing,2026-09-02T05:08:44.856399Z
+a2675ccce89123a1,PA,Tyson Foods,Tyson Foods,,"Philadelphia, Philadelphia",110,,2025-01-31,Closure,2026-09-02T05:08:44.856399Z
+1ebc9c26217a1c52,PA,"Church World Service (CWS), Inc.",Church World Service (CWS),,"Lancaster, Lancaster",65,,2025-01-31,Layoff,2026-09-02T05:08:44.856399Z
+a5e237c94bcb536e,PA,VF Corporation,VF,,"Philadelphia, Philadelphia",17,,2025-01-25,Closing,2026-09-02T05:08:44.856399Z
+cf73d5702295f062,PA,Boeing Company,Boeing,,"Smithfield, Delaware and Fayette",101,,2025-01-17,Layoff,2026-09-02T05:08:44.856399Z
+174485aedf6db60c,PA,Tmunity Therapeutics,Tmunity Therapeutics,,"Philadelphia, Philadelphia",14,,2025-01-17,Closing,2026-09-02T05:08:44.856399Z
+ad3d69f46df56f24,PA,Citizens Bank,Citizens Bank,,"Philadelphia, Philadelphia",,,2025-01-15,Closure,2026-09-02T05:08:44.856399Z
+a8b3469a4509264f,PA,Alpha & Omega Logistics Corporation,Alpha & Omega Logistics,,"Ambler, Montgomery",110,,2025-01-10,Closing,2026-09-02T05:08:44.856399Z
+d4cb32743cd9d52b,PA,Sharon Regional Medical Center,Sharon Regional Medical Center,,"Sharon, Mercer",149,,2025-01-06,Closing,2026-09-02T05:08:44.856399Z
+b4461a4080311e03,PA,Sharon Regional Medical Center,Sharon Regional Medical Center,,"Sharon, Mercer",699,,2025-01-06,Closing,2026-09-02T05:08:44.856399Z
+9c9e9acbee6e20f2,PA,"Great Dane, LLC",Great Dane,,"Danville, Montour",155,,2025-01-06,Layoff,2026-09-02T05:08:44.856399Z
+263b572a80021abb,PA,"Big Lots, Inc.",Big Lots,,"Tremont, Schuylkill",505,,2025-01-06,Layoff,2026-09-02T05:08:44.856399Z
+f83a9a9a81bb6144,PA,"BVPV Styrenics, LLC",BVPV Styrenics,,"Monaca, Beaver",140,,2025-01-03,Layoff,2026-09-02T05:08:44.856399Z
+0fd318bb86a69772,PA,Devon Seafood Grill,Devon Seafood Grill,,"Philadelphia, Philadelphia",76,,2025-01-01,Closure,2026-09-02T05:08:44.856399Z
+6647030807568787,PA,"DAS Companies, Inc.",DAS,,"Palmyra, Lancaster & Lebanon",100,,2024-12-31,Layoff,2026-09-02T05:08:44.856399Z
+46a7a9a481359f34,PA,"ID Logistics US, Inc.",ID Logistics US,,"Scranton, Lackawanna",108,,2024-12-31,Layoff,2026-09-02T05:08:44.856399Z
+4020e6fcea254b7e,PA,"Joriki USA, Inc.",Joriki,,"Pittston, Luzerne",226,,2024-12-31,Closing,2026-09-02T05:08:44.856399Z
+12d85c7851a65711,PA,Sodexo,Sodexo,,"Swiftwater, Monroe",83,,2024-12-31,Closing,2026-09-02T05:08:44.856399Z
+48a3741aa559cf68,PA,"PepsiCo, Inc.",PepsiCo,,"Harrisburg, Dauphin",127,,2024-12-28,Closing,2026-09-02T05:08:44.856399Z
+08a76bc128f0ce23,PA,"The Giant Company, LLC",The Giant,,"Philadelphia, Philadelphia",61,,2024-12-28,Closure,2026-09-02T05:08:44.856399Z
+494a6e861d8afe29,PA,True Value,True Value,,"Hanover Township, Luzerne",269,,2024-12-14,Layoff,2026-09-02T05:08:44.856399Z
+f3083a45f063ecfd,PA,"Corelle Brands, LLC",Corelle Brands,,"Charleroi, Washington",270,,2024-12-09,Closing,2026-09-02T05:08:44.856399Z
+156f5d1c51db3754,PA,"Cabinetworks, LLC",Cabinetworks,,"Thompsontown, Juniata",420,,2024-12-09,Closing,2026-09-02T05:08:44.856399Z
+1bea6a2bce5ba0aa,PA,"Kunzler & Company, Inc.",Kunzler &,,"Lancaster, Lancaster",193,,2024-12-07,Closing,2026-09-02T05:08:44.856399Z
+dc55f6a5b6588d95,PA,"Red Ribbon Bakeshop, Inc.",Red Ribbon Bakeshop,,"Philadelphia, Philadelphia",9,,2024-11-30,Closure,2026-09-02T05:08:44.856399Z
+644103aa25fa94f9,PA,Chart House,Chart House,,"Philadelphia, Philadelphia",36,,2024-11-30,Closing,2026-09-02T05:08:44.856399Z
+32cd256222ee2cde,PA,"Berkley Medical Resources, Inc.",Berkley Medical Resources,,"Smithfield, Fayette",,,2024-11-27,Closing,2026-09-02T05:08:44.856399Z
+de0758960e33df2b,PA,Fulton Bank N.A.,Fulton Bank,,"Philadelphia, Philadelphia",3,,2024-11-22,Closing,2026-09-02T05:08:44.856399Z
+338e5bc829004a5d,PA,"Cygnus Home Service, LLC d/b/a Yelloh",Cygnus Home Service,Yelloh,Various,86,,2024-11-22,Layoffs,2026-09-02T05:08:44.856399Z
+4c8b3590409ea634,PA,Intel Corporation,Intel,,"Allentown, Lehigh",56,,2024-11-15,Layoff,2026-09-02T05:08:44.856399Z
+c5768a48949137a2,PA,DHL Supply Chain,DHL Supply Chain,,"Elizabethtown, Lancaster",268,,2024-11-10,Closing,2026-09-02T05:08:44.856399Z
+0e55b3cd49ad9f00,PA,"Bowery Farming, Inc.",Bowery Farming,,"Bethlehem, Northampton",104,,2024-11-01,Layoff,2026-09-02T05:08:44.856399Z
+04d664aa3e08c007,PA,"FMC Logistics, LLC",FMC Logistics,,"Quakertown, Bucks",121,,2024-10-29,Closing,2026-09-02T05:08:44.856399Z
+36cc9e9b2b7b2940,PA,Visiting Nurses Association of Greater Philadelphia,Visiting Nurses Association of Greater Philadelphia,,"Philadelphia, Philadelphia",114,,2024-10-28,Closing,2026-09-02T05:08:44.856399Z
+e31b31657ce40e6c,PA,Tri-State Envelope,Tri-State Envelope,,"Ashland, Schuylkill",122,,2024-10-27,Closing,2026-09-02T05:08:44.856399Z
+58f690b2c4412d12,PA,"Stuffed Puffs, LLC",Stuffed Puffs,,"Bethlehem, Northampton",106,,2024-10-26,Closing,2026-09-02T05:08:44.856399Z
+fbd845a9523fd2da,PA,Sportsbook,Sportsbook,,"Philadelphia, Philadelphia",31,,2024-10-12,Closing,2026-09-02T05:08:44.856399Z
+6d16285457830858,PA,"Customized Distribution Services, Inc.",Customized Distribution Services,,"Breinigsville, Lehigh",107,,2024-10-07,Closing,2026-09-02T05:08:44.856399Z
+504e292a8cfade12,PA,"GEODIS Logistics, LLC",GEODIS Logistics,,"Chambersburg, Franklin",71,,2024-09-30,Layoff,2026-09-02T05:08:44.856399Z
+2220e5ad33e452b7,PA,"Highway Equipment Company, Inc.",Highway Equipment,,"Zelienople, Butler",67,,2024-09-23,Closing,2026-09-02T05:08:44.856399Z
+77ace7eb173950c8,PA,"Radian Group, Inc.",Radian Group,,"Wayne, Delaware",70,,2024-09-13,Layoff,2026-09-02T05:08:44.856399Z
+8b39068eebe39397,PA,"Midwest Transport, Inc.",Midwest Transport,,"Harmony, Butler",,,2024-09-09,Closing,2026-09-02T05:08:44.856399Z
+72b79cf0928bab2c,PA,Truestone,Truestone,,"Tobyhanna, Monroe",80,,2024-08-30,Layoff,2026-09-02T05:08:44.856399Z
+c247916d82394980,PA,"The Pep Boys -- Manny, Moe & Jack LLC",Pep Boys,,"Philadelphia, Philadelphia",8,,2024-08-28,Closing,2026-09-02T05:08:44.856399Z
+1487f6d22ce594b7,PA,"Quest Diagnostics, Inc.",Quest Diagnostics,,"Norristown, Montgomery",121,,2024-08-26,Closing,2026-09-02T05:08:44.856399Z
+5f02b5b25187e57e,PA,Benefits Data Trust,Benefits Data Trust,,"Philadelphia, Philadelphia",273,,2024-08-24,Layoff,2026-09-02T05:08:44.856399Z
+abf242f79583e543,PA,The Boeing Company,Boeing,,"Ridley Park, Delaware",69,,2024-08-16,Layoff,2026-09-02T05:08:44.856399Z
+edc027b055fb4e90,PA,Pittsburgh Technical College,Pittsburgh Technical College,,"Oakdale, Allegheny",,,2024-08-09,Closing,2026-09-02T05:08:44.856399Z
+0790844355a262b0,PA,"Megabus Northeast, LLC",Megabus Northeast,,"Sewickley, Allegheny",12,,2024-08-09,Closing,2026-09-02T05:08:44.856399Z
+9a0063297b10d1bb,PA,Bergen Logistics,Bergen Logistics,,"Wilkes-Barre, Luzerne",100,,2024-08-02,Closing,2026-09-02T05:08:44.856399Z
+3d885c13566ef1fd,PA,"Bonnie Plants, LLC",Bonnie Plants,,"Blairsville, Indiana",65,,2024-08-01,Closing,2026-09-02T05:08:44.856399Z
+701d19b6cce27b91,PA,"Cygnus Home Service, LLC",Cygnus Home Service,,"Jessup, Various",55,,2024-07-27,Layoff,2026-09-02T05:08:44.856399Z
+09f8d11ae04b8d2d,PA,ES3,ES3,,"York, York",69,,2024-07-22,Layoff,2026-09-02T05:08:44.856399Z
+7ae5001afb98f944,PA,"Motional AD, Inc.",Motional AD,,"Pittsburgh, Allegheny",145,,2024-07-06,Layoff,2026-09-02T05:08:44.856399Z
+b880a7108a0629ef,PA,WABTEC Corporation,Wabtec,,"Wilmerding, Allegheny",94,,2024-07-01,Closure,2026-09-02T05:08:44.856399Z
+e18fdf9b69dee52c,PA,"Aramark Campus, LLC",Aramark Campus,,"Meadville, Crawford",94,,2024-06-30,Layoff,2026-09-02T05:08:44.856399Z
+b4977b2c4178c0e1,PA,First Student,First Student,,"Northampton, Northampton",86,,2024-06-30,Layoff,2026-09-02T05:08:44.856399Z
+a22a17bad5270ee1,PA,First Student,First Student,,"Greensburg, Lehigh and Westmoreland",253,,2024-06-30,Closing,2026-09-02T05:08:44.856399Z
+35966603d81c493a,PA,Caring People Alliance,Caring People Alliance,,"2816 Germantown Avenue, Philadelphia",123,,2024-06-30,Closing,2026-09-02T05:08:44.856399Z
+0c187e4771319006,PA,Paris Uniform Services,Paris Uniform Services,,"Dubois, Various",138,,2024-06-30,Closing,2026-09-02T05:08:44.856399Z
+cc8a4258eee140c8,PA,"North Atlantic Ship Repair, LLC",North Atlantic Ship Repair,,"Philadelphia, Philadelphia",58,,2024-06-28,Closing,2026-09-02T05:08:44.856399Z
+43b5fa812e35b634,PA,"Radial, Inc.",Radial,,"King of Prussia, Montgomery",645,,2024-06-28,Closing,2026-09-02T05:08:44.856399Z
+8dc6f682799f9fb7,PA,"United Natural Foods, Inc.",United Natural Foods,,"Harrisburg, Dauphin",87,,2024-06-19,Closing,2026-09-02T05:08:44.856399Z
+e1729b641a3b69ee,PA,University of the Arts,University of the Arts,,"Philadelphia, Philadelphia",704,,2024-06-07,Closing,2026-09-02T05:08:44.856399Z
+2d0adacef2d17fdb,PA,"Parkhurst Dining, LLC @ the University of the Arts, Philadelphia","Parkhurst Dining, LLC @ the University of the Arts, Philadelphia",,"Philadelphia, Philadelphia",34,,2024-06-07,Closing,2026-09-02T05:08:44.856399Z
+94bf7548e9d2c015,PA,"Parkhurst Dining, LLC @ Bucknell University","Parkhurst Dining, LLC @ Bucknell University",,"Lewisburg, Union",196,,2024-06-03,Closing,2026-09-02T05:08:44.856399Z
+d366d94d3a547c0a,PA,"Pittsburgh Nursing and Rehab Center, PA","Pittsburgh Nursing and Rehab Center, PA",,"Pittsburgh, Allegheny",124,,2024-05-30,Closing,2026-09-02T05:08:44.856399Z
+a42d6e9fa941adba,PA,Cabrini University,Cabrini University,,"Radnor, Delaware",363,,2024-05-17,Closing,2026-09-02T05:08:44.856399Z
+4636b75007da6469,PA,TE Connectivity,TE Connectivity,,"Waynesboro, Franklin",130,,2024-05-01,Closing,2026-09-02T05:08:44.856399Z
+e2c649624e3ef1a6,PA,Silgan Plastics,Silgan Plastics,,"Langhorne, Bucks",,,2024-04-26,Closure,2026-09-02T05:08:44.856399Z
+5d304ce9389c31e0,PA,"Family Dollar Stores of Pennsylvania, LLC",Family Dollar Stores of Pennsylvania,,"2459 Kensington Avenue, Philadelphia",62,,2024-04-20,Closing,2026-09-02T05:08:44.856399Z
+3357b5a73a541841,PA,Ethos Cannabis,Ethos Cannabis,,"Philadelphia, Philadelphia",11,,2024-04-20,Closing,2026-09-02T05:08:44.856399Z
+cada35a0a4237c50,PA,"Offset Paperback Manufacturers, Inc.",Offset Paperback Manufacturers,,"Dallas, Luzerne",106,,2024-04-15,Closing,2026-09-02T05:08:44.856399Z
+3b43e3cd4c8bf4de,PA,"United Parcel Service, Inc. (UPS)","United Parcel Service, Inc. (UPS)",,"New Stanton, Westmoreland",206,,2024-04-15,Closing,2026-09-02T05:08:44.856399Z
+6d4ea157cb4bf97c,PA,"NexTier Completion Solutions, Inc.",NexTier Completion Solutions,,"Mansfield, Tioga",104,,2024-04-13,Closing,2026-09-02T05:08:44.856399Z
+19f51c2da7f02c5a,PA,"GrafTech USA, LLC",GrafTech,,"St. Marys, Elk",105,,2024-04-13,Layoff,2026-09-02T05:08:44.856399Z
+f842ef1639ba66be,PA,"Block, Inc.",Block,,"Bucks, Philadelphia, Montgomery, Delaware, Allegheny, Northampton and Chester",22,,2024-03-30,Layoff,2026-09-02T05:08:44.856399Z
+e089b06ce8818f38,PA,Gamestop Fullfillment Center,Gamestop Fullfillment Center,,"York, York",155,,2024-03-15,Closure,2026-09-02T05:08:44.856399Z
+d578074d8e4d2d37,PA,"Merck & Co., Inc.",Merck &,,"North Wales, Montgomery",5,,2024-03-15,Layoff,2026-09-02T05:08:44.856399Z
+5ba86bc2815cb4bd,PA,"Schenker, Inc.",Schenker,,"Carlisle, Cumberland",478,,2024-03-10,Closure,2026-09-02T05:08:44.856399Z
+cdf51327a8ff8780,PA,Peterson Farms dba Appeeling Fruit Holdings,Peterson Farms,Appeeling Fruit Holdings,"Dauberville, Berks",68,,2024-03-08,Closure,2026-09-02T05:08:44.856399Z
+3c88eee36f15b0a6,PA,Guardian Healthcare Management Services,Guardian Healthcare Management Services,,"Brockway, Jefferson",124,,2024-03-08,Closing,2026-09-02T05:08:44.856399Z
+20e7508832e2dfc5,PA,"Newbold Services, LLC",Newbold Services,,"One location in Hazelton, Lehigh, Northampton, Cumberland, York and Luzerne",294,,2024-03-05,Layoff,2026-09-02T05:08:44.856399Z
+9c9bfa70d8bf9740,PA,"Ornua Ingredients, Inc.",Ornua Ingredients,,"Slippery Rock, Lawrence",66,,2024-02-24,Closing,2026-09-02T05:08:44.856399Z
+b79b7a4f0fbc6d3a,PA,"Affirm, Inc.",Affirm,,"Pittsburgh, Allegheny",60,,2024-02-15,Layoff,2026-09-02T05:08:44.856399Z
+1042f01152159341,PA,HMS Host,HMS Host,,"Philadelphia, Philadelphia",77,,2024-02-11,Closure,2026-09-02T05:08:44.856399Z
+245b590ede8d476c,PA,"LivaNova USA, Inc.",LivaNova,,"Pittsburgh, Allegheny",137,,2024-01-31,Layoff,2026-09-02T05:08:44.856399Z
+979f06b188f67913,PA,"Eagle Sight Delivery, LLC",Eagle Sight Delivery,,"Huntingdon Valley, Philadelphia",55,,2024-01-30,Closure,2026-09-02T05:08:44.856399Z
+34e3ce42e9ebe29d,PA,"American Medical Response Mid-Atlantic, Inc.",American Medical Response Mid-Atlantic,,"Philadelphia, Philadelphia",152,,2024-01-18,Layoff,2026-09-02T05:08:44.856399Z
+f462127fead7291b,PA,"RE2, LLC/Sarcos Corp.","RE2, LLC/Sarcos",,"Pittsburgh, Allegheny",73,,2024-01-16,Closure,2026-09-02T05:08:44.856399Z
+9fc983a367384915,PA,"NextGen Healthcare, Inc.",NextGen Healthcare,,"Horsham, Montgomery",65,,2024-01-16,Layoff,2026-09-02T05:08:44.856399Z
+4edd6e943875f036,PA,"Lifescan, Inc.",Lifescan,,"Malvern, Chester",,,2024-01-16,Layoff,2026-09-02T05:08:44.856399Z
+bc5b67955ec3c768,PA,"Vitro Flay Glass, LLC",Vitro Flay Glass,,"Carlisle, Cumberland",88,,2024-01-15,Layoff,2026-09-02T05:08:44.856399Z
+fc43e9d5dcd3056b,PA,Hood Packaging Corporation,Hood Packaging,,"3 Hazle Township, Luzerne",58,,2024-01-14,Closure,2026-09-02T05:08:44.856399Z
+252be59e94862d22,PA,"Saks, LLC",Saks,,"Wilkes-Barre, Luzerne",90,,2024-01-06,Layoff,2026-09-02T05:08:44.856399Z
+0a183f114630293b,PA,"VSSI Staffing Services, LLC",VSSI Staffing Services,,"York, York",180,,2024-01-03,Closing,2026-09-02T05:08:44.856399Z
+ebed125684ec3d56,PA,United States Steel Corporation,United States Steel,,"Pittsburgh, Allegheny",105,,2024-01-02,Layoff,2026-09-02T05:08:44.856399Z
+888061548eaf36b0,PA,Assurant,Assurant,,"York, York",442,,2024-01-02,Closing,2026-09-02T05:08:44.856399Z
+fada2cd24dfd1b59,PA,"Everett Foodliner, Inc. and Saxton Market, Inc.","Everett Foodliner, Inc. and Saxton Market",,Closure,,,,,2026-09-02T05:08:44.856399Z
+d77deff4ae266483,PA,"Universal Protection Service, LLC",Universal Protection Service,,"Conshohocken, Montgomery",72,,,Layoff,2026-09-02T05:08:44.856399Z
+9c070d3624f1cfc6,PA,"Merck & Co., Inc.",Merck &,,"Riverside, Montour",163,,,Closing,2026-09-02T05:08:44.856399Z
+99e64eb2a4a7c2cb,PA,"Lightning Source, LLC",Lightning Source,,"Breinigsville, Lehigh",260,,,Layoff,2026-09-02T05:08:44.856399Z
+7d78a8c36de495d0,PA,"David's Bridal, LLC",David's Bridal,,Allegheny (4 locations) ... Blair ... Bucks (2 locations) ... Dauphin ... Delaware ... Erie ... Luzerne ... Montgomery (3 locations) ... York,9236,,,Layoff,2026-09-02T05:08:44.856399Z
+606ac554ef1783b6,PA,"Santander Bank, N.A.",Santander Bank,,"Reading, Berks",77,,,Layoff,2026-09-02T05:08:44.856399Z

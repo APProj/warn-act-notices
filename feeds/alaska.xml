@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Alaska WARN Act layoff notices (free tier)</title>
+<link>https://apventureengine.github.io/warn-act-notices/states/alaska.html</link>
+<atom:link href="https://apventureengine.github.io/warn-act-notices/feeds/alaska.xml" rel="self" type="application/rss+xml"/>
+<description>Newly published Alaska WARN Act layoff notices, normalized: employer, location, workers affected, notice and layoff dates. Free tier, no delay; refreshed daily. CC BY 4.0 — credit WARN Feed. All-state feed: https://apventureengine.github.io/warn-act-notices/feed.xml · Full dataset: https://github.com/APVentureEngine/warn-act-notices</description>
+<language>en-us</language>
+<lastBuildDate>Wed, 02 Sep 2026 05:08:44 +0000</lastBuildDate>
+<item><title>RNDC Shared Services: WARN notice, 160 workers</title><link>https://apventureengine.github.io/warn-act-notices/states/alaska.html</link><guid isPermaLink="false">430452fe3786f83d</guid><pubDate>Wed, 02 Sep 2026 05:08:44 +0000</pubDate><description>WARN layoff notice: RNDC Shared Services, Juneau, Alaska. 160 workers. Notice date: 2026-07-06; layoff/closure date: 2026-09-04. No delay. Want only YOUR employers and states, checked daily? https://apventureengine.github.io/warn-act-notices/watch.html</description></item>
+<item><title>Chugach Training &amp; Educational Solutions, LLC (CTESL): WARN notice, 110 workers</title><link>https://apventureengine.github.io/warn-act-notices/states/alaska.html</link><guid isPermaLink="false">592d7307cadc1fee</guid><pubDate>Wed, 02 Sep 2026 05:08:44 +0000</pubDate><description>WARN layoff notice: Chugach Training &amp; Educational Solutions, LLC (CTESL), Palmer, Alaska. 110 workers. Notice date: 2025-06-02; layoff/closure date: 2025-06-30. No delay. Want only YOUR employers and states, checked daily? https://apventureengine.github.io/warn-act-notices/watch.html</description></item>
+<item><title>Vigor Alaska: WARN notice, 72 workers</title><link>https://apventureengine.github.io/warn-act-notices/states/alaska.html</link><guid isPermaLink="false">6add001a49177f67</guid><pubDate>Wed, 02 Sep 2026 05:08:44 +0000</pubDate><description>WARN layoff notice: Vigor Alaska, Ketchikan, Alaska. 72 workers. Notice date: 2025-05-07; layoff/closure date: 2025-07-07. No delay. Want only YOUR employers and states, checked daily? https://apventureengine.github.io/warn-act-notices/watch.html</description></item>
+<item><title>Natural Fiber Welding: WARN notice, 1 workers</title><link>https://apventureengine.github.io/warn-act-notices/states/alaska.html</link><guid isPermaLink="false">e09b42f1cd2ec34c</guid><pubDate>Wed, 02 Sep 2026 05:08:44 +0000</pubDate><description>WARN layoff notice: Natural Fiber Welding, Anchorage, Alaska. 1 workers. Notice date: 2024-12-10; layoff/closure date: 2025-02-08. No delay. Want only YOUR employers and states, checked daily? https://apventureengine.github.io/warn-act-notices/watch.html</description></item>
+</channel>
+</rss>

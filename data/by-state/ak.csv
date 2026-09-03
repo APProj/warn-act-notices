@@ -1,0 +1,5 @@
+id,state,company,company_canonical,company_dba,location,employees_affected,notice_date,effective_date,notice_type,first_seen
+430452fe3786f83d,AK,RNDC Shared Services LLC,RNDC Shared Services,,Juneau,160,2026-07-06,2026-09-04,,2026-09-02T05:08:44.856399Z
+592d7307cadc1fee,AK,"Chugach Training & Educational Solutions, LLC (CTESL)","Chugach Training & Educational Solutions, LLC (CTESL)",,Palmer,110,2025-06-02,2025-06-30,Loss of Contract,2026-09-02T05:08:44.856399Z
+6add001a49177f67,AK,"Vigor Alaska, LLC",Vigor Alaska,,Ketchikan,72,2025-05-07,2025-07-07,Closure,2026-09-02T05:08:44.856399Z
+e09b42f1cd2ec34c,AK,"Natural Fiber Welding, Inc.",Natural Fiber Welding,,Anchorage,1,2024-12-10,2025-02-08,Layoff,2026-09-02T05:08:44.856399Z

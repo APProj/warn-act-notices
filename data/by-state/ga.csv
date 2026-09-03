@@ -1,4 +1,5 @@
 id,state,company,company_canonical,company_dba,location,employees_affected,notice_date,effective_date,notice_type,first_seen
+f005da91ed062f2d,GA,"FPL Food, LLC",FPL Food,,"New Savannah Rd Augusta, Richmond County",179,2026-08-31,2026-10-31,Permanent Layoff / Reduction in Force,2026-08-31T19:18:38.989451Z
 d949316ac0130260,GA,"Republic National Distributing Company of Texas, LLC",Republic National Distributing Company of Texas,,"National Dr SW Atlanta, Appling County",157,2026-08-26,2026-10-19,Permanent Closure,2026-08-31T03:25:20.788809Z
 c35ecf4033383ceb,GA,"Republic National Distributing Company, LLC",Republic National Distributing,,"National Dr SW Atlanta, Cobb County",321,2026-08-26,2026-10-19,Permanent Closure,2026-08-31T03:25:20.788809Z
 1789e7d5f3a72ed1,GA,"Young's Market Company, LLC",Young's Market,,"National Dr SW Atlanta, Cobb County",78,2026-08-26,2026-10-19,Permanent Closure,2026-08-31T03:25:20.788809Z

@@ -1,4 +1,17 @@
 id,state,company,company_canonical,company_dba,location,employees_affected,notice_date,effective_date,notice_type,first_seen
+aadd0064c61a630e,LA,Mosaic Company,Mosaic,,"Uncle Sam - 7250 LA-44 Convent, LA 70723 Faustina – 9959 LA-18 St. James, LA 70086",206,2026-08-26,2026-10-30,,2026-09-02T14:06:31.426312Z
+4741e8c96e19f904,LA,United Parcel Service,United Parcel Service,,"5700 Morrison Road, New Orleans, Louisiana 70126",172,2026-07-30,2026-10-01,,2026-09-02T14:06:31.426312Z
+e64ca8b7e4fc8dd9,LA,Conduent Commercial Solutions,Conduent Commercial Solutions,,"100 Campus Drive Florham Park, NJ 07932",27,2026-06-26,2026-08-28,,2026-09-02T14:06:31.426312Z
+52566fb1bd85188e,LA,Hydro Extrusion USA LLC,Hydro Extrusion,,"142 Hydro Way Delhi, LA 71232",226,2026-06-17,2027-03-31,,2026-09-02T14:06:31.426312Z
+ecb2726dd5dd2770,LA,Republic National Distributing Co,Republic National Distributing,,"809 Jefferson Highway New Orleans, LA 70121",242,2026-04-23,2026-06-21,,2026-09-02T14:06:31.426312Z
+a1ee580a078597bf,LA,Republic National Distributing Co,Republic National Distributing,,"210 Distribution Drive Lafayette, LA 70507",114,2026-04-23,2026-06-21,,2026-09-02T14:06:31.426312Z
+fb3b0fe6fafb2560,LA,Einstein Charter Schools,Einstein Charter Schools,,"5316 Michoud Boulevard New Orleans, LA 70129",81,2026-03-30,2026-05-30,,2026-09-02T14:06:31.426312Z
+9def23129143a90d,LA,C2 Technologies,C2 Technologies,,"7601 Lewisville Road, Suite 200 McLean, VA 22102",1,2026-03-02,2026-03-06,,2026-09-02T14:06:31.426312Z
+a0d6131c8be8f1f4,LA,C&S Wholesale Services LLC,C&S Wholesale Services,,"3925 Highway 190 West Hammond, LA 70401",288,2026-02-13,2026-04-18,,2026-09-02T14:06:31.426312Z
+7026be22c58cdb25,LA,Stockhausen Superabsorber LLC,Stockhausen Superabsorber,,"3606 LA-44 Garyville, LA 70051",64,2026-02-03,2026-04-03,,2026-09-02T14:06:31.426312Z
+b570bc2a9ff5d9b5,LA,Denka Performance Elastomer LLC,Denka Performance Elastomer,,"560 Highway 44 LaPlace, LA 70068",45,2026-01-30,2026-04-01,,2026-09-02T14:06:31.426312Z
+59c5c7218776389f,LA,McGlinchey Stafford PLLC,McGlinchey Stafford,,"601 Poydras Street, Suite 1200 New Orleans, LA 70130",101,2026-01-13,2026-03-16,,2026-09-02T14:06:31.426312Z
+6ab94d0b790a4ac9,LA,Westlake Corporation,Westlake,,"330 Belden Street Lake Charles, LA 70601",121,2025-12-15,2026-02-14,,2026-09-02T14:06:31.426312Z
 1960c479d0c4953d,LA,Ensco Offshore LLC –,Ensco Offshore LLC –,,DS-18 Drilling Rig,75,2025-12-05,2026-02-10,,2026-08-31T10:29:52.309603Z
 f296bcf9119be184,LA,"The Service Companies, Inc. (Full Service Systems Corp.) –","Service Companies, Inc. (Full Service Systems Corp.) –",,Horseshoe Bossier City,76,2025-12-02,2026-02-01,,2026-08-31T10:29:52.309603Z
 ed8be86459d222ba,LA,General Dynamics Information,General Dynamics Information,,Technology (GDIT),103,,2025-11-14,,2026-08-31T10:29:52.309603Z

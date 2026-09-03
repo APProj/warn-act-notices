@@ -1,7 +1,7 @@
 <!doctype html><html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Search WARN notices — free US layoff notice lookup</title>
-<meta name="description" content="Type an employer name and instantly search 4,540 employers / 8,112 US WARN Act layoff notices since 2024. Free, no login, from official state filings, updated daily.">
+<meta name="description" content="Type an employer name and instantly search 5,521 employers / 9,423 US WARN Act layoff notices since 2024. Free, no login, from official state filings, updated daily.">
 <link rel="canonical" href="https://apventureengine.github.io/warn-act-notices/search.html">
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"US WARN layoff notices","potentialAction":{"@type":"SearchAction","query-input":"required name=search_term_string","target":{"@type":"EntryPoint","urlTemplate":"https://apventureengine.github.io/warn-act-notices/search.html?q={search_term_string}"}},"url":"https://apventureengine.github.io/warn-act-notices/"}</script>
 <style>body{font-family:-apple-system,Segoe UI,Helvetica,Arial,sans-serif;max-width:900px;margin:2rem auto;padding:0 1rem;color:#1a1a1a;line-height:1.5}
@@ -12,16 +12,14 @@ input[type=search]{width:100%;box-sizing:border-box;font-size:1.1rem;padding:.6r
 a{color:#0b5fa5}.crumb{font-size:.85rem;color:#666}.note{font-size:.85rem;color:#666}#stat{color:#666;font-size:.9rem;margin:.5rem 0}</style></head><body>
 <p class="crumb"><a href="https://apventureengine.github.io/warn-act-notices/">US WARN layoff notices</a> › Search</p>
 <h1>Search WARN layoff notices</h1>
-<p>Instant lookup across <b>4,540 employers</b> (8,112 notices since 2024) from official state WARN Act filings, normalized and updated daily. Free tier is 48h-delayed.</p>
+<p>Instant lookup across <b>5,521 employers</b> (9,423 notices since 2024) from official state WARN Act filings, normalized and updated daily. The free files carry no delay — every notice is published the day the pipeline sees it.</p>
 <input type="search" id="q" placeholder="Employer name — e.g. Boeing, Kaiser, Intel…" autocomplete="off" autofocus>
 <p id="stat"></p>
 <div id="results"></div>
 <noscript><p>This search needs JavaScript. Without it: <a href="employers/index.html">browse employers A–Z</a> or grab the <a href="https://github.com/APVentureEngine/warn-act-notices">raw CSV/JSON on GitHub</a>.</p></noscript>
 <p class="note">Matches company names and known DBA aliases. Employers with one small notice link to their state page. Source: the free
-<a href="https://github.com/APVentureEngine/warn-act-notices">US WARN notices dataset</a> (CSV/JSON, no login, 48h-delayed). WARN notices are advance notifications; counts and dates can change after filing.</p>
-<div class="cta">Need results without the 48h delay, or the full history to 1988?
-<a href="https://approj.gumroad.com/l/warn-realtime">Real-time feed, $49/mo</a> ·
-<a href="https://approj.gumroad.com/l/warn-archive">Full historical archive, $199</a></div>
+<a href="https://github.com/APVentureEngine/warn-act-notices">US WARN notices dataset</a> (CSV/JSON, no login, no delay). WARN notices are advance notifications; counts and dates can change after filing.</p>
+<div class="cta"><b>Only care about certain employers or states?</b> <a href="https://apventureengine.github.io/warn-act-notices/watch.html">WARN Watch, $49/year</a> runs your list against every refresh and gives you a private alert page + RSS (<a href="https://approj.gumroad.com/l/warn-free-watch">free for 30 days first</a>, no card) · <a href="https://approj.gumroad.com/l/warn-archive">full 1988+ archive, $199 one-time</a>.</div>
 <script>
 (function () {
   var idx = null, loading = false, waiting = null;

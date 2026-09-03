@@ -1,5 +1,8 @@
 id,state,company,company_canonical,company_dba,location,employees_affected,notice_date,effective_date,notice_type,first_seen
+9bdd877aba8be75b,WA,Georgia-Pacific Gypsum LLC,Georgia-Pacific Gypsum,,Tacoma,120,2026-09-01,2026-10-30,Closure,2026-09-02T18:45:14.612156Z
+96df929dfef68f51,WA,Maverick Washington LLC / Great American Casino,Maverick Washington LLC / Great American Casino,,Tukwila,96,2026-08-31,2026-11-01,Closure,2026-09-01T07:22:46.114190Z
 7c34a08376cf04f9,WA,Amazon,Amazon,,"Seattle, Bellevue, Sumner",121,2026-08-31,2026-10-01,Layoff,2026-08-31T17:18:44.066418Z
+3ef2998a291ecd26,WA,Maverick Washington LLC / Riverside Casino,Maverick Washington LLC / Riverside Casino,,Tukwila,142,2026-08-31,2026-11-01,Closure,2026-09-01T07:22:46.114190Z
 222c25259545f327,WA,"Columbia Hospitality, Inc",Columbia Hospitality,,Kenmore,86,2026-08-28,2026-10-30,Layoff,2026-08-30T21:43:41.512264Z
 824598b1ecac2577,WA,"T-Mobile USA, Inc.",T-Mobile,,"Seattle, Bellingham, Bothell, Vancouver, Bellevue, Kennewick, Tacoma, and Yakima",77,2026-08-26,2026-09-21,Layoff,2026-08-30T21:43:41.512264Z
 a7ec6166d82f2f9e,WA,"Twin City Foods, Inc.",Twin City Foods,,Ellensburg,109,2026-08-21,2026-11-02,Layoff,2026-08-30T21:43:41.512264Z

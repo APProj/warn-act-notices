@@ -1,0 +1,57 @@
+id,state,company,company_canonical,company_dba,location,employees_affected,notice_date,effective_date,notice_type,first_seen
+69cdaff718334ec0,DC,Elevance Health,Elevance Health,,"Washington, DC",85,2026-07-27,2026-10-02,,2026-09-02T05:08:44.856399Z
+c2cacf7f43e8744a,DC,General Dynamic Information Technology,General Dynamic Information Technology,,"Washington, DC",64,2026-07-13,,,2026-09-02T05:08:44.856399Z
+8d3761419f8acbe0,DC,Medical Facility Associates,Medical Facility Associates,,"Washington, DC",1270,2026-07-08,2026-09-06,,2026-09-02T05:08:44.856399Z
+9abdfcde2a41cf9d,DC,Ideal US Talent Systems Worker Op Co LLC,Ideal US Talent Systems Worker Op,,"Washington, DC",307,2026-05-01,2026-07-01,,2026-09-02T05:08:44.856399Z
+4026d4bc6c9d4060,DC,Republic National Distributing Company,Republic National Distributing,,"Washington, DC",125,2026-04-23,2026-06-21,,2026-09-02T05:08:44.856399Z
+17de4e5ceeeff964,DC,Noblis,Noblis,,"Washington, DC",115,2026-04-22,,,2026-09-02T05:08:44.856399Z
+fb81a42638ce60a0,DC,General Dynamics Information Technology,General Dynamics Information Technology,,"Washington, DC",87,2026-04-17,2026-06-15,,2026-09-02T05:08:44.856399Z
+a96c8dfe7cb30e62,DC,"Bering Global Solutions, LLC",Bering Global Solutions,,"Washington, DC",108,2026-03-13,2026-03-31,,2026-09-02T05:08:44.856399Z
+314c0080170dc1c8,DC,Albertson's/Safeway,Albertson's/Safeway,,"Washington, DC",87,2026-03-13,,,2026-09-02T05:08:44.856399Z
+695c4b1114546d12,DC,WP Company LLC,WP,,"Washington, DC",277,2026-02-06,2026-04-10,,2026-09-02T05:08:44.856399Z
+3c48f56876c9f0cf,DC,Elior North America,Elior North America,,"Washington, DC",76,2026-02-02,2026-06-30,,2026-09-02T05:08:44.856399Z
+ff6a797bfc4adf2e,DC,RATP DEV and Midtown Group,RATP DEV and Midtown Group,,"Washington, DC",52,2025-10-29,2026-01-03,,2026-09-02T05:08:44.856399Z
+15184cae77fb3b2b,DC,Institue of International Education,Institue of International Education,,"Washington, DC",24,2025-10-20,2026-01-04,,2026-09-02T05:08:44.856399Z
+04e255eeeac2e610,DC,Institue of International Education,Institue of International Education,,"Washington, DC",46,2025-09-10,,,2026-09-02T05:08:44.856399Z
+80a48f7b463596e5,DC,ACDI VOCA,Acdi Voca,,"Washington, DC",5,2025-08-28,2025-11-03,,2026-09-02T05:08:44.856399Z
+1ab08acb1d6e10d1,DC,Target,Target,,"Washington, DC",44,2025-08-27,2025-11-01,,2026-09-02T05:08:44.856399Z
+a68fab01b27f2483,DC,Chemonics,Chemonics,,"Washington, DC",59,2025-08-25,,,2026-09-02T05:08:44.856399Z
+6a43a1f7c91fda3d,DC,Institue of International Education,Institue of International Education,,"Washington, DC",46,2025-08-11,,,2026-09-02T05:08:44.856399Z
+6f9b6fd826a5faa1,DC,Corporation for Public Broadcasting,Corporation for Public Broadcasting,,"Washington, DC",94,2025-08-01,2025-09-30,,2026-09-02T05:08:44.856399Z
+de569c434a8bfbef,DC,National Association of County and City Health Officials,National Association of County and City Health Officials,,"Washington, DC",43,2025-07-30,2025-09-30,,2026-09-02T05:08:44.856399Z
+14c633120ea1c281,DC,ACDI VOCA,Acdi Voca,,"Washington, DC",4,2025-07-30,2025-10-01,,2026-09-02T05:08:44.856399Z
+7e2256fac5203ba5,DC,ACDI VOGA,Acdi Voga,,"Washington, DC",4,2025-07-02,2025-09-02,,2026-09-02T05:08:44.856399Z
+156d232d3ae40eaa,DC,Institue of International Education,Institue of International Education,,"Washington, DC",54,2025-07-01,,,2026-09-02T05:08:44.856399Z
+860c36b0c6a0310c,DC,"Sodexo, Inc.",Sodexo,,"Washington, DC",308,2025-06-06,,,2026-09-02T05:08:44.856399Z
+af0751ed5bd08762,DC,ACDI/VOCA,Acdi/Voca,,"Washington, DC",19,2025-06-04,2025-08-04,,2026-09-02T05:08:44.856399Z
+873f374a50188e09,DC,Institue of International Education,Institue of International Education,,"Washington, DC",54,2025-06-04,,,2026-09-02T05:08:44.856399Z
+b16ff9e903297bcd,DC,"Sodexo Services East, LLC",Sodexo Services East,,"Washington, DC",228,2025-05-15,2025-08-08,,2026-09-02T05:08:44.856399Z
+6522c47fc7964961,DC,Pact,Pact,,"Washington, DC",72,2025-05-13,,,2026-09-02T05:08:44.856399Z
+b65aab33ae806a5d,DC,Radio Free Asia,Radio Free Asia,,"Washington, DC",285,2025-05-02,,,2026-09-02T05:08:44.856399Z
+c859651682a5d85c,DC,Institue of International Education,Institue of International Education,,"Washington, DC",63,2025-04-25,,,2026-09-02T05:08:44.856399Z
+ad61556accbe3e0b,DC,Children's School Services,Children's School Services,,"Washington, DC",226,2025-04-25,2025-06-28,,2026-09-02T05:08:44.856399Z
+bbc9ce974a0c9c1f,DC,US Conference of Catholic Bishops,US Conference of Catholic Bishops,,"Washington, DC",39,2025-04-14,2025-05-30,,2026-09-02T05:08:44.856399Z
+3d1038598e8d6efa,DC,Institue of International Education,Institue of International Education,,"Washington, DC",45,2025-04-14,,,2026-09-02T05:08:44.856399Z
+2efe7da3af8b8752,DC,Family Health International d/b/a FHI360,Family Health International,Fhi360,"Washington, DC",260,2025-04-09,2025-05-02,,2026-09-02T05:08:44.856399Z
+da6f3aaefedf1fcd,DC,International Republican Institute,International Republican Institute,,"Washington, DC",246,2025-04-07,2025-06-06,,2026-09-02T05:08:44.856399Z
+7632b968965fb4a1,DC,American Federation of Government Employees (AFGE),American Federation of Government Employees (AFGE),,"Washington, DC",206,2025-03-31,2025-05-30,,2026-09-02T05:08:44.856399Z
+6c64b1154176e5d5,DC,"Freedom House, Inc.",Freedom House,,"Washington, DC",30,2025-03-28,2025-05-27,,2026-09-02T05:08:44.856399Z
+06d6d5da7f34138c,DC,Cointerpart International,Cointerpart International,,"Washington, DC",64,2025-03-28,,,2026-09-02T05:08:44.856399Z
+d032714a4551f5af,DC,Chemonics,Chemonics,,"Washington, DC",500,2025-03-14,,,2026-09-02T05:08:44.856399Z
+8a4ccd6aaca63b55,DC,Institute of International Education,Institute of International Education,,"Washington, DC",95,2025-03-13,,,2026-09-02T05:08:44.856399Z
+3aa66de5faf8457b,DC,Save the Children,Save the Children,,"Washington, DC",116,2025-03-13,,,2026-09-02T05:08:44.856399Z
+6840a93bfbb5c978,DC,IREX,IREX,,"Washington, DC",130,2025-03-11,2025-03-03,,2026-09-02T05:08:44.856399Z
+52443c68bf8f2870,DC,Dexis Consulting Group,Dexis Consulting Group,,"Washington, DC",94,2025-03-10,2025-03-14,,2026-09-02T05:08:44.856399Z
+2b2eeda54d7bf692,DC,ACDI VOCA,Acdi Voca,,"Washington, DC",109,2025-03-06,2025-04-02,,2026-09-02T05:08:44.856399Z
+7824183e51ac809e,DC,United Medical Center,United Medical Center,,"Washington, DC",485,2025-02-20,,,2026-09-02T05:08:44.856399Z
+090a4112d289301c,DC,"Freedom House, Inc",Freedom House,,"Washington, DC",76,2025-02-14,2025-04-15,,2026-09-02T05:08:44.856399Z
+75f4af8356c6ce61,DC,"Golden Services, LLC",Golden Services,,"Washington, DC",43,2025-01-01,2025-01-31,,2026-09-02T05:08:44.856399Z
+f8b771a8cc860dfb,DC,United Medical Center,United Medical Center,,"Washington, DC",33,2024-11-01,,,2026-09-02T05:08:44.856399Z
+5b8cb246fd9d16ea,DC,Democratic Senatorial Campaign Committee,Democratic Senatorial Campaign Committee,,"Washington, DC",318,2024-09-16,2024-11-15,,2026-09-02T05:08:44.856399Z
+0db8e2ceb10b9e8c,DC,Democratic National Committee,Democratic National Committee,,"Washington, DC",,2024-09-13,2024-11-15,,2026-09-02T05:08:44.856399Z
+02c8a49bd8a6c1d0,DC,Democratic Senatorial Campaign Committee,Democratic Senatorial Campaign Committee,,"Washington, DC",107,2024-09-13,2024-11-17,,2026-09-02T05:08:44.856399Z
+bbf99b1637bdd327,DC,United Medical Center,United Medical Center,,"Washington, DC",33,2024-07-02,2024-08-31,,2026-09-02T05:08:44.856399Z
+5ddda9b97d82eb87,DC,Volta Charging Industries LLC,Volta Charging Industries,,"Washington, DC",159,2024-03-29,2024-05-31,,2026-09-02T05:08:44.856399Z
+b40dd6141727daf4,DC,National Democratic Institute,National Democratic Institute,,"Washington, DC",230,2024-03-24,2025-04-14,,2026-09-02T05:08:44.856399Z
+98a819f49181daa9,DC,"Reach Media, LLC",Reach Media,,"Washington, DC",73,2024-03-12,2024-05-17,,2026-09-02T05:08:44.856399Z
+94e73ebe088a8c41,DC,Thomspon Facilities Services,Thomspon Facilities Services,,"Washington, DC",190,2024-02-14,2024-04-14,,2026-09-02T05:08:44.856399Z

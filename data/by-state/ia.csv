@@ -1,4 +1,6 @@
 id,state,company,company_canonical,company_dba,location,employees_affected,notice_date,effective_date,notice_type,first_seen
+8daff93bbc762538,IA,Wells Fargo,Wells Fargo,,West Des Moines,5,2026-09-01,2026-10-31,Amendment - Additional Employees,2026-09-02T18:45:14.612156Z
+e53b5aab10b15d4f,IA,Independence Premium Foods,Independence Premium Foods,,Independence,5,2026-08-31,2026-08-31,Amendment - Additional Employees,2026-09-01T22:27:50.881651Z
 5baf1dc18094c7ef,IA,People First Sanitation,People First Sanitation,,Sioux City,54,2026-08-28,2026-09-25,Mass Layoff,2026-08-30T21:43:41.512264Z
 756d41450e85dd35,IA,"Verschoor Meats, Inc",Verschoor Meats,,Sioux City,42,2026-08-21,2026-08-21,Closing,2026-08-30T21:43:41.512264Z
 86bd1da56287ca58,IA,RTX,RTX,,Cedar Rapids,1,2026-08-18,2026-09-30,Mass Layoff,2026-08-30T21:43:41.512264Z

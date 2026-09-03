@@ -1,0 +1,101 @@
+<!doctype html><html lang=en><head><meta charset=utf-8>
+<meta name=viewport content="width=device-width,initial-scale=1">
+<title>WARN Watch — layoff-notice alerts for the employers and states you pick</title>
+<meta name=description content="Get told the day one of your companies files a US WARN Act layoff notice. Up to 25 employer terms plus whole-state watches across 39 states, checked every day for a year. $49 one payment, no auto-renew.">
+<link rel=canonical href="https://apventureengine.github.io/warn-act-notices/watch.html"><style>body{font:16px/1.5 -apple-system,system-ui,sans-serif;max-width:880px;margin:2rem auto;padding:0 1rem;color:#1a1a1a}
+h1{font-size:1.5rem} .stats{display:flex;gap:2rem;flex-wrap:wrap;margin:1.5rem 0}
+.stat b{display:block;font-size:1.8rem} table{border-collapse:collapse;width:100%;font-size:.9rem}
+td,th{padding:.35rem .6rem;border-bottom:1px solid #e5e5e5;text-align:left} .r{text-align:right}
+a{color:#0757ba} .cta{background:#f6f8fa;border:1px solid #d0d7de;border-radius:8px;padding:1rem;margin:1.5rem 0}
+nav{font-size:.9rem;margin:1rem 0} footer{margin:2rem 0;font-size:.85rem;color:#666}</style></head><body>
+<h1>Get told the day one of your companies files a layoff notice</h1>
+<p class=lede>US employers must file a WARN Act notice with the state before a mass layoff.
+Those notices are public, but they land on 39 different state portals in 39 different
+formats, on no schedule. <b>WARN Watch</b> runs your list of employers — and whole states if you want
+them — against every notice we collect, every day, for a year. Matches appear on your own alert page
+and RSS feed within a refresh cycle of us seeing them.</p>
+
+<div class="cta"><b>$49 — one payment, one year, no auto-renew.</b>
+<a href="https://approj.gumroad.com/l/warn-watch">Start a watch &rarr;</a><br>
+Up to 25 employer terms · unlimited whole-state watches · 39 states ·
+7-day no-questions refund<br>
+<b>Not sure yet?</b> <a href="https://approj.gumroad.com/l/warn-free-watch">Watch up to 3 employers (or one state) free for 30 days</a> —
+no card, nothing renews, same alert page and RSS feed.</div>
+
+<h2>How it works</h2>
+<ol>
+<li><b>You pay once</b> and type the employers you want watched (comma separated), plus any
+two-letter state codes, right at checkout.</li>
+<li><b>We check them daily.</b> Our pipeline scrapes 39 state labor-department portals,
+normalizes every notice into one schema, and matches your terms against the same-day build —
+on the employer name as filed, on our canonical employer name and on the trade name, so
+"general motors" also catches "General Motors, LLC -- Lansing Region" and store-number variants.</li>
+<li><b>Matches land on your page and feed.</b> An unlisted alert page (address derived from your
+purchase email — we never publish the email) plus an RSS feed you can point any reader, Slack or
+Teams channel at. Find yours any time at <a href="alerts/">https://apventureengine.github.io/warn-act-notices/alerts/</a>.</li>
+</ol>
+
+<h2>What you get, exactly</h2>
+<ul>
+<li>Up to <b>25 employer terms</b>, changeable by replying to your receipt.</li>
+<li><b>Whole-state watches</b> — every new notice in the states you name.</li>
+<li>All <b>39 states we cover</b>: AK, AL, AZ, CA, CO, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MD, ME, MI, MS, MT, NC, NE, NJ, NM, NY, OK, OR, PA, RI, SC, SD, TN, TX, UT, VT, WA, WI, WV.</li>
+<li>Per match: employer as filed, our canonical employer, location, employees affected, notice date,
+effective date, notice type, and the day we first saw it.</li>
+<li><b>365 days</b> of daily checks from the day you buy. No subscription, nothing to cancel.</li>
+</ul>
+
+<h2>Honest limits — please read before paying</h2>
+<ul>
+<li><b>No email yet.</b> Alerts are a page plus an RSS feed. Email is in progress and buyers get it
+at no extra cost when it ships. If you need email today, <a href="https://layofflookout.com/">Layoff
+Lookout</a> (17 states) sends it and starts at $2/mo.</li>
+<li><b>39 states, not 50.</b> The states we do not cover are listed on the
+<a href="index.html">dataset page</a>; a state is added the day it publishes a usable public listing.</li>
+<li><b>We are as fast as the state agency.</b> Some portals publish same-day; some post in weekly
+batches. We alert the day our scrape sees a notice — we cannot beat the source.</li>
+<li><b>No archive spam.</b> When a state republishes its back catalogue, thousands of old notices
+arrive at once. A notice whose own date is more than 120 days older than the day we first saw it is
+treated as history, not news, and never paged to you.</li>
+<li><b>Matching is token-based</b>, so subsidiaries and re-notices are caught but the occasional
+near-miss happens. Every alert links to the employer's page so you can check.</li>
+</ul>
+
+<h2>The alternatives, compared honestly</h2>
+<div class=tw><table>
+<tr><th>Source</th><th>What it does</th><th>Coverage</th><th>Delivery</th><th>Price</th><th>Honest note</th></tr>
+<tr><td><b>WARN Watch</b> (this page)</td><td>Your list of employers and/or states, checked against every new notice on every daily refresh</td><td>39 states</td><td>Alert page + RSS feed (email in progress)</td><td><b>$49 / year, one payment</b></td><td>No email alerts yet — that is the honest gap versus the alternatives below.</td></tr><tr><td><a href="https://github.com/APVentureEngine/warn-act-notices">The free WARN Feed dataset</a> (ours)</td><td>The whole normalized dataset as CSV/JSON, no login, refreshed daily — you write the matching</td><td>39 states</td><td>You build it</td><td>Free, CC BY 4.0</td><td>If you are comfortable diffing a CSV on a schedule, do this instead and keep your $49.</td></tr><tr><td><a href="https://github.com/kadoa-org/layoffs-tracker">kadoa-org/layoffs-tracker</a></td><td>A free, actively maintained open dataset and dashboard of US WARN notices, regenerated daily</td><td>46 states (per its repo, checked 2026-09-02)</td><td>Dashboard + JSON download</td><td>Free, MIT</td><td>Broader state coverage than us and genuinely good. It is a dataset, not a per-customer watch: nothing there runs your company list every morning.</td></tr><tr><td><a href="https://layofflookout.com/">Layoff Lookout</a></td><td>Per-company WARN email alerts, per its public pricing page</td><td>17 states (its own site, checked 2026-09-02)</td><td>Email alerts</td><td>$2/mo for 1 company, +$1/mo per extra (max 5); $99/mo unlimited</td><td>Sends real email, which we do not yet. Cheapest option if you watch one or two companies and they are in its 17 states.</td></tr><tr><td><a href="https://warntracker.com/">WARNTracker</a></td><td>Weekly email digest of all new notices, per its public pricing page</td><td>National</td><td>Email digest + dashboard</td><td>$250/mo</td><td>Built for teams who want every notice, not a filtered watch on named employers.</td></tr>
+</table></div>
+<p class=note>Competitor rows are read from each vendor's own public pricing page
+(checked 2026-09-02); our rows come from this pipeline's live coverage file
+(generated 2026-09-03). If a price here is out of date, tell us and we will fix it —
+<a href="https://github.com/APVentureEngine/warn-act-notices/issues/new/choose">open an issue</a>.</p>
+
+<h2>The data behind the alerts</h2>
+<p>45,755 normalized notices across 39 states, newest notice on file 2026-09-01,
+rebuilt every day. The dataset itself is <a href="https://github.com/APVentureEngine/warn-act-notices">free and open</a> (CC BY 4.0) —
+you are not paying for records, you are paying for someone to run your list against them every
+morning for a year and hand you only what changed. If you would rather build that yourself,
+the files are right there and we will not be offended.</p>
+
+<div class="cta"><b>Start a watch — $49 for a year</b>
+<a href="https://approj.gumroad.com/l/warn-watch">Buy on Gumroad &rarr;</a><br>
+Full refund within 7 days, no questions. If your alert page is not live within 24 hours of
+purchase, ask and we refund immediately.<br>
+Or <a href="https://approj.gumroad.com/l/warn-free-watch">try it free for 30 days</a> (3 employers or one state, no card) and decide then.</div>
+
+<h2>Who you are paying</h2>
+<p>Sold by APProjects (Gumroad seller "approj"), the same operator that publishes the open
+dataset at <a href="https://github.com/APVentureEngine/warn-act-notices">github.com/APVentureEngine/warn-act-notices</a>. Receipts and
+invoices are issued by Gumroad. Questions before or after buying: the Contact link on the Gumroad
+page, or <a href="https://github.com/APVentureEngine/warn-act-notices/issues/new/choose">open a GitHub issue</a> — issues are read on every
+refresh cycle, daily or better.</p>
+<p class=note>Sources: official state labor-department WARN listings, collected with the Apache-2.0
+biglocalnews/warn-scraper plus our own normalization, dedup, employer canonicalization and freshness
+layer. Best-effort public records; verify critical rows against the official state source. Not
+affiliated with any state agency. Nothing here is legal or employment advice.</p>
+
+<footer><a href="index.html">WARN Feed</a> — free, normalized US layoff notices, updated daily.
+<a href="https://github.com/APVentureEngine/warn-act-notices">Dataset on GitHub</a> · <a href="compare.html">all WARN data sources compared</a> ·
+<a href="alerts/">find my alert page</a></footer>
+</body></html>

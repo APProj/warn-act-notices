@@ -1,0 +1,44 @@
+id,state,company,company_canonical,company_dba,location,employees_affected,notice_date,effective_date,notice_type,first_seen
+d774316f3ad3a2d4,MS,Leggett & Platt Flooring Products,Leggett & Platt Flooring Products,,"Houston, Chickasaw",86,2026-05-11,2026-06-11,Closure,2026-09-02T05:08:44.856399Z
+eff061d2d8b139c2,MS,Wheeler Fleet Solutions,Wheeler Fleet Solutions,,"Olive Branch, DeSoto",52,2026-04-30,,Closure,2026-09-02T05:08:44.856399Z
+c5a605becfd2df3b,MS,"Aramark Services, Inc",Aramark Services,,"Greenwood, Leflore",59,2026-04-17,2026-06-15,Closure,2026-09-02T05:08:44.856399Z
+6b5a52344fb8ff06,MS,Greenwood Leflore Hospital,Greenwood Leflore Hospital,,"Greenwood, Leflore",425,2026-04-14,2026-06-15,Closure,2026-09-02T05:08:44.856399Z
+8ebb318cb95e11d8,MS,Amplify Cell Technologies,Amplify Cell Technologies,,"Byhalia, Marshall",73,2026-03-31,2026-05-30,Layoff,2026-09-02T05:08:44.856399Z
+edf2e8fd40a22a62,MS,Laboratory Corporation of America,Laboratory Corporation of America,,"Southaven, DeSoto",60,2026-03-17,2026-06-09,Closure,2026-09-02T05:08:44.856399Z
+65fde904e0af6e10,MS,New Way Trucks,New Way Trucks,,"Booneville, Prentiss",86,2026-03-01,2026-05-30,Layoff,2026-09-02T05:08:44.856399Z
+10057ac33d6247c9,MS,Stanley Black & Decker,Stanley Black & Decker,,"Verona, Lee",441,2026-02-20,,Closure,2026-09-02T05:08:44.856399Z
+ae991fa9568d5e8f,MS,Birdsong Peanuts- Aberdeen,Birdsong Peanuts- Aberdeen,,"Prairie, Monroe",7,2026-02-13,2026-06-30,Layoff,2026-09-02T05:08:44.856399Z
+7cbbc5619f998da9,MS,Regency Hospital,Regency Hospital,,"Meridian, Lauderdale",102,2026-02-11,2026-02-11,Closure,2026-09-02T05:08:44.856399Z
+855269bb48c43ad6,MS,"NIKE Retail Services, Inc",NIKE Retail Services,,"Byhalia, Marshall",193,2026-01-26,,Layoff,2026-09-02T05:08:44.856399Z
+18bc0214457af611,MS,GXO Logistics,GXO Logistics,,"Southaven, DeSoto",220,2026-01-06,2026-01-31,Closure,2026-09-02T05:08:44.856399Z
+416bebc43bf505bd,MS,Westlake Chemical Aberdeen (Monroe),Westlake Chemical Aberdeen (Monroe),,,,2025-12-16,2026-02-01,Closure 99,2026-09-02T05:08:44.856399Z
+3b92da38b28c3914,MS,NOV Energy Products Services,NOV Energy Products Services,,"Iuka, Tishomingo",12,2025-12-01,2026-04-01,Closure,2026-09-02T05:08:44.856399Z
+0810d94df26b3306,MS,"Burgess-Norton Mfg. Co., Inc. Oxford (Lafayette)","Burgess-Norton Mfg. Co., Inc. Oxford (Lafayette)",,,,2025-11-06,2026-04-15,Closure 79,2026-09-02T05:08:44.856399Z
+c11f22ce7ed56640,MS,Spectra Laboratories Southaven (DeSoto),Spectra Laboratories Southaven (DeSoto),,,155,2025-09-22,2025-11-25,Layoff,2026-09-02T05:08:44.856399Z
+57f1be214e21dd7b,MS,"Boyd Tunica, Inc./ Sam’s Town Hotel Gambling Hall – Robinsonville (Tunica)","Boyd Tunica, Inc./ Sam's Town Hotel Gambling Hall",,,177,2025-09-04,2025-10-10,Closure,2026-09-02T05:08:44.856399Z
+a38751afafd89f7c,MS,Resolute Forest Products US Inc. / Domtar Grenada (Grenada),Resolute Forest Products US Inc. / Domtar Grenada (Grenada),,,176,2025-08-21,2025-09-25,Layoff,2026-09-02T05:08:44.856399Z
+bc8556fdf5888840,MS,Advanced Distributor Products Grenada (Grenada),Advanced Distributor Products Grenada (Grenada),,,69,2025-08-13,2025-08-14,Layoff,2026-09-02T05:08:44.856399Z
+17cc8be0be739d67,MS,"SIMOS Insourcing Solutions, LLC Olive Branch (DeSoto)","SIMOS Insourcing Solutions, LLC Olive Branch (DeSoto)",,,159,2025-08-05,2025-10-03,Layoff,2026-09-02T05:08:44.856399Z
+ffd7da81c15c7e68,MS,"Rex Lumber, Brookhaven, LLC Brookhaven (Lincoln)","Rex Lumber, Brookhaven, LLC Brookhaven (Lincoln)",,,71,2025-07-11,2025-09-09,Layoff,2026-09-02T05:08:44.856399Z
+94bdc51d376de687,MS,"IG Design Group Americas, Inc. Byhalia (Marshall)","IG Design Group Americas, Inc. Byhalia (Marshall)",,,113,2025-03-27,2025-08-26,Closure,2026-09-02T05:08:44.856399Z
+a4b3e8f7651508ce,MS,"WWL Vehicle Services Americas, Inc. Canton (Madison)","WWL Vehicle Services Americas, Inc. Canton (Madison)",,,35,2025-02-18,2025-04-15,Layoff,2026-09-02T05:08:44.856399Z
+ff14ea1321b2b70b,MS,CAPSTONE Logistics Canton (Madison),CAPSTONE Logistics Canton (Madison),,,65,2025-02-12,2025-04-14,Layoff,2026-09-02T05:08:44.856399Z
+a13bab45eb499a3f,MS,Enviva Pellets Amory (Monroe),Enviva Pellets Amory (Monroe),,,30,2025-02-06,2025-02-07,Closure,2026-09-02T05:08:44.856399Z
+e5d35f54bd242864,MS,Milwaukee Electric Tool Corp. Greenwood (Lefore),Milwaukee Electric Tool Corp. Greenwood (Lefore),,,,2025-01-29,,Layoff TBA,2026-09-02T05:08:44.856399Z
+17771251f5d79aae,MS,MW Components Pontotoc (Pontotoc),MW Components Pontotoc (Pontotoc),,,121,2025-01-27,2025-01-29,Closure,2026-09-02T05:08:44.856399Z
+4fd9db799c205b98,MS,"Diamond Comic Distributors, Inc. Olive Branch (DeSoto)","Diamond Comic Distributors, Inc. Olive Branch (DeSoto)",,,131,2025-01-22,2025-03-19,Closure,2026-09-02T05:08:44.856399Z
+5818181a4f5f61b4,MS,Cooper Lighting Solutions Vicksburg (Warren),Cooper Lighting Solutions Vicksburg (Warren),,,80,,2025-01-14,Closure,2026-09-02T05:08:44.856399Z
+184d67a790f696a8,MS,Intuitive Surgical Southaven (DeSoto),Intuitive Surgical Southaven (DeSoto),,,157,2024-12-11,2025-03-18,Closure,2026-09-02T05:08:44.856399Z
+6ad65c1d1131e181,MS,Levi Strauss & Co Canton (Madison),Levi Strauss & Co Canton (Madison),,,267,,2024-10-29,Closure,2026-09-02T05:08:44.856399Z
+437091591f46a4aa,MS,View Operating Corporation Olive Branch (DeSoto),View Operating Corporation Olive Branch (DeSoto),,,147,,2024-10-03,Layoff,2026-09-02T05:08:44.856399Z
+2db6e9ff6697e7a3,MS,YoungWilliams Clinton (Hinds),YoungWilliams Clinton (Hinds),,,100,,2024-10-01,Layoff,2026-09-02T05:08:44.856399Z
+c56a8d01aee02390,MS,Laclede Chain Manufacturing Vicksburg (Warren),Laclede Chain Manufacturing Vicksburg (Warren),,,50,,2024-09-26,Closure,2026-09-02T05:08:44.856399Z
+6f90e56bc0d64c4c,MS,"Paxton Furniture Industries, LLC Okolona (Chickasaw)","Paxton Furniture Industries, LLC Okolona (Chickasaw)",,,38,,2024-07-24,Closure,2026-09-02T05:08:44.856399Z
+98345ec45b06b9ce,MS,Agrisolutions Wear Technologies Corp. Holly Springs (Marshall),Agrisolutions Wear Technologies Corp. Holly Springs (Marshall),,,35,2024-02-20,2021-03-12,Closure,2026-09-02T05:08:44.856399Z
+ed6dc267cdc81d5d,MS,Conair LLC Southaven (DeSoto),Conair LLC Southaven (DeSoto),,,92,2024-02-08,2024-02-16,Closure,2026-09-02T05:08:44.856399Z
+e00dc78dcf65de88,MS,Omega Motion Saltillo (Lee),Omega Motion Saltillo (Lee),,,130,2024-01-25,2024-03-19,Closure,2026-09-02T05:08:44.856399Z
+826a0e15f293ccae,MS,"Homestead Furniture, LLC New Albany (Union)","Homestead Furniture, LLC New Albany (Union)",,,58,2024-01-18,2024-01-12,Layoff,2026-09-02T05:08:44.856399Z
+40ecd6630454cc8d,MS,Crown Cork & Seal USA Inc. Batesville (Panola),Crown Cork & Seal USA Inc. Batesville (Panola),,,145,2024-01-17,2024-02-12,Closure,2026-09-02T05:08:44.856399Z
+946938114cd930e6,MS,PSP Industries Iuka (Tishomingo),PSP Industries Iuka (Tishomingo),,,71,,2024-01-15,Layoff,2026-09-02T05:08:44.856399Z
+90e941c8de4a7a33,MS,"Elior, Inc Ridgeland (Madison)","Elior, Inc Ridgeland (Madison)",,,59,,,Closure,2026-09-02T05:08:44.856399Z
+16f646e8f261eb7a,MS,"Hartson – Kennedy, Inc. Gulfport (Harrison)",Hartson,,,54,,,Layoff,2026-09-02T05:08:44.856399Z

@@ -1,0 +1,78 @@
+id,state,company,company_canonical,company_dba,location,employees_affected,notice_date,effective_date,notice_type,first_seen
+b150ea1e23c79241,AL,Diatherix Laboratories LLC,Diatherix Laboratories,,Huntsville,55,2026-08-31,2026-10-31,Closure,2026-09-02T18:45:14.612156Z
+a9cb5edb72f6afbc,AL,Flagstone Foods,Flagstone Foods,,Dothan,98,2026-08-20,2026-10-22,Layoff,2026-09-02T05:08:44.856399Z
+5af3a6960d5a86a8,AL,Fortrex [(Packers Sanitation Services Inc.) PSSI],Fortrex [(Packers Sanitation Services Inc.) PSSI],,Blountsville,50,2026-08-20,2026-09-11,Layoff,2026-09-02T05:08:44.856399Z
+3be34dc1eed962bb,AL,Fluor Enterprises Inc.,Fluor Enterprises,,Bay Minette,66,2026-08-06,2026-07-31,Layoff,2026-09-02T05:08:44.856399Z
+701f74f05a0cde92,AL,Biocryst Pharmaceuticals Inc,Biocryst Pharmaceuticals,,Hoover,47,2026-08-04,2026-10-07,Closure,2026-09-02T05:08:44.856399Z
+34ba10be75926490,AL,FMC Corporation,FMC,,Axis,41,2026-08-04,2026-10-31,Layoff,2026-09-02T05:08:44.856399Z
+344e26f8073580c7,AL,BASF Corporation,BASF,,Mc Intosh,79,2026-07-22,2026-09-30,Layoff,2026-09-02T05:08:44.856399Z
+a3ec2df61ec45282,AL,Alabama Cooperage,Alabama Cooperage,,Trinity,71,2026-07-16,2026-09-14,Closure,2026-09-02T05:08:44.856399Z
+8cf77c8625939bb7,AL,Legacy Cabinets,Legacy Cabinets,,Eastaboga,397,2026-06-11,2026-06-06,Closure,2026-09-02T05:08:44.856399Z
+e428a49934b30737,AL,LineQuest LLC,LineQuest,,Pelham,113,2026-04-23,2026-08-01,Closure,2026-09-02T05:08:44.856399Z
+49eca686904d30c6,AL,Serta Mattress Company,Serta Mattress,,Cullman,102,2026-04-15,2026-04-17,Closure,2026-09-02T05:08:44.856399Z
+4b4a6e4015e6d16b,AL,Legacy Supply Chain Operations,Legacy Supply Chain Operations,,Decatur,6,2026-04-09,2026-06-06,Closure,2026-09-02T05:08:44.856399Z
+a9cb6eabef5df360,AL,Swedish Match Cigars Inc,Swedish Match Cigars,,Dothan,54,2026-04-01,2026-05-31,Layoff,2026-09-02T05:08:44.856399Z
+d123a0720d37893d,AL,Resolute Forest Products,Resolute Forest Products,,Alpine,20,2026-03-31,2026-05-24,Closure,2026-09-02T05:08:44.856399Z
+0d6254042b30d34a,AL,Resolute Forest Products,Resolute Forest Products,,Coosa Pines,255,2026-03-31,2026-05-24,Closure,2026-09-02T05:08:44.856399Z
+a0488c5db42bd034,AL,Overland Contracting Inc,Overland Contracting,,Coosada,62,2026-03-17,2026-03-13,Layoff,2026-09-02T05:08:44.856399Z
+bf598ae2afa2e4b5,AL,Saddle Creek Logistics Services,Saddle Creek Logistics Services,,Bessemer,151,2026-02-27,2026-04-30,Layoff,2026-09-02T05:08:44.856399Z
+f9113d3257762288,AL,CVG – Commercial Vehicle Group Alabama,CVG,,Piedmont,76,2026-02-19,2026-04-11,Layoff,2026-09-02T05:08:44.856399Z
+61fc7f638fe5aadd,AL,Louis Vuitton,Louis Vuitton,,Birmingham,10,2026-02-19,2026-02-17,Closure,2026-09-02T05:08:44.856399Z
+4a3d7281b46a0def,AL,Southern Parallel Forest Products Corp,Southern Parallel Forest Products,,Albertville,62,2026-02-12,2026-04-08,Closure,2026-09-02T05:08:44.856399Z
+fd048c5dbc928ff5,AL,Saks Fifth Avenue,Saks Fifth Avenue,,Birmingham,44,2026-02-10,2026-04-11,Closure,2026-09-02T05:08:44.856399Z
+281a1aa37f28d4b4,AL,Birmingham Parking Authority,Birmingham Parking Authority,,Birmingham,33,2026-02-10,2026-04-01,Layoff,2026-09-02T05:08:44.856399Z
+2a17dcf151ed4a8d,AL,Tiffin Motorhomes Incorporated,Tiffin Motorhomes,,Winfield,139,2026-02-05,2026-05-12,Closure,2026-09-02T05:08:44.856399Z
+edb3309c19e332dd,AL,Salon Centric Inc,Salon Centric,,Mc Calla,79,2026-01-13,2026-06-30,Closure,2026-09-02T05:08:44.856399Z
+16c571544d5d0f82,AL,Montgomery UPS,Montgomery UPS,,Montgomery,128,2025-12-23,2026-02-23,Layoff,2026-09-02T05:08:44.856399Z
+fb86236c1ee6bf57,AL,Regional Medical Center of Central Alabama,Regional Medical Center of Central Alabama,,Greenville,90,2025-11-14,2026-01-12,Layoff,2026-09-02T05:08:44.856399Z
+5aa6b7e2374f567d,AL,Oerlikon Balzers Coating USA,Oerlikon Balzers Coating,,Pell City,8,2025-10-30,2026-03-31,Closure,2026-09-02T05:08:44.856399Z
+fc46c3640e9f40ba,AL,Renfro Brands,Renfro Brands,,Fort Payne,455,2025-10-28,2025-12-27,Closure,2026-09-02T05:08:44.856399Z
+eb12a8c067ab82b3,AL,East Coast Migrant Head Start Project,East Coast Migrant Head Start Project,,Loxley,10,2025-10-24,2025-11-01,Layoff,2026-09-02T05:08:44.856399Z
+ba6d6a2dba530ccf,AL,East Coast Migrant Head Start,East Coast Migrant Head Start,,Semmes,10,2025-10-24,2025-11-01,Layoff,2026-09-02T05:08:44.856399Z
+59f121bb278e3b7c,AL,East Coast Migrant Head Start,East Coast Migrant Head Start,,Steele,10,2025-10-24,2025-11-01,Layoff,2026-09-02T05:08:44.856399Z
+6a10dcda01f249b4,AL,Averitt Express Inc,Averitt Express,,Vance,193,2025-10-23,2025-12-31,Layoff,2026-09-02T05:08:44.856399Z
+2c06a2b77f88195a,AL,a.i. solutions Inc.,a.i. solutions,,Huntsville,86,2025-10-17,2025-12-03,Layoff,2026-09-02T05:08:44.856399Z
+85ddc2b42cce585b,AL,Quest Diagnostics/Pack Health,Quest Diagnostics/Pack Health,,Birmingham,98,2025-09-29,2025-11-28,Closure,2026-09-02T05:08:44.856399Z
+7bfac1d730a45778,AL,Magnolia Ridge Center/SunBridge Gardendale Health Care Center LLC,Magnolia Ridge Center/SunBridge Gardendale Health Care Center,,Gardendale,103,2025-09-15,2025-09-10,Closure,2026-09-02T05:08:44.856399Z
+16d98490191f37b7,AL,Crothall Healthcare,Crothall Healthcare,,Montgomery,52,2025-08-11,2025-09-30,Layoff,2026-09-02T05:08:44.856399Z
+634f8d34da4abb54,AL,Russell Brands LLC Distribution Center,Russell Brands LLC Distribution Center,,Alexander City,80,2025-08-01,2025-09-29,Closure,2026-09-02T05:08:44.856399Z
+142ac1cdee997242,AL,Federal-Mogul Motorparts LLC,Federal-Mogul Motorparts,,Boaz,82,2025-07-30,2025-09-25,Closure,2026-09-02T05:08:44.856399Z
+42bc09c210c9aebd,AL,AT&T Alabama,AT&T Alabama,,Huntsville,73,2025-06-20,2025-09-20,Layoff,2026-09-02T05:08:44.856399Z
+0522cf67e70247a3,AL,Globe Motors,Globe Motors,,Dothan,73,2025-05-27,2025-07-25,Layoff,2026-09-02T05:08:44.856399Z
+9288686bd6d9fe42,AL,Bilfinger Inc,Bilfinger,,Theodore,143,2025-05-07,2025-04-16,Layoff,2026-09-02T05:08:44.856399Z
+52a08dba931dc7ef,AL,Oracle America Inc,Oracle America,,Montgomery,65,2025-05-07,2025-06-30,Layoff,2026-09-02T05:08:44.856399Z
+4369b3df359351d5,AL,Berry Global Inc,Berry Global,,Lanett,112,2025-05-02,2025-07-01,Closure,2026-09-02T05:08:44.856399Z
+f5da40b852ba2b20,AL,Grede LLC,Grede,,Brewton,160,2025-04-01,2025-05-22,Closure,2026-09-02T05:08:44.856399Z
+9e0e880e3cf9b46d,AL,AlaTrade Foods,AlaTrade Foods,,Phenix City,165,2025-03-28,2025-03-27,Layoff,2026-09-02T05:08:44.856399Z
+914f1035e3bf38d4,AL,VT Mobile Aerospace Engineering Inc,VT Mobile Aerospace Engineering,,Mobile,300,2025-03-13,2025-05-13,Closure,2026-09-02T05:08:44.856399Z
+46f0348dbc075bea,AL,Output Services Group Inc,Output Services Group,,Birmingham,135,2025-03-11,2025-05-10,Closure,2026-09-02T05:08:44.856399Z
+ce8c4c8812baaa5e,AL,Vanity Fair Distribution Center,Vanity Fair Distribution Center,,Monroeville,156,2025-02-26,2025-04-28,Closure,2026-09-02T05:08:44.856399Z
+3351fff6fe04b87a,AL,Southeastern Food Merchandisers,Southeastern Food Merchandisers,,Pelham,62,2025-02-25,2025-04-27,Layoff,2026-09-02T05:08:44.856399Z
+6f8a6c5aae37f437,AL,Nucor Buildings Group,Nucor Buildings Group,,Eufaula,79,2025-02-21,2025-04-21,Closure,2026-09-02T05:08:44.856399Z
+d7614f9f6fb0221f,AL,The Boeing Company,Boeing,,Huntsville,71,2025-02-18,2025-04-18,Layoff,2026-09-02T05:08:44.856399Z
+cb7b50e3ed3714fc,AL,Alabama Orthopedic Clinic PC,Alabama Orthopedic Clinic,,Mobile,153,2025-02-11,2025-04-11,Closure,2026-09-02T05:08:44.856399Z
+e6b9b9845c832268,AL,Amentum,Amentum,,Anniston,62,2025-01-27,2025-04-03,Layoff,2026-09-02T05:08:44.856399Z
+a702605da34906b7,AL,Joann’s Distribution Center,Joann's Distribution Center,,Opelika,244,2025-01-27,2025-03-31,Closure,2026-09-02T05:08:44.856399Z
+8f2fe3db8b9cdf62,AL,Nitto Inc.,Nitto,,Jasper,56,2025-01-08,2025-03-07,Closure,2026-09-02T05:08:44.856399Z
+0af94ca7e6c74dad,AL,Big Lots Distribution Center,Big Lots Distribution Center,,Montgomery,491,2024-12-24,2025-01-06,Layoff,2026-09-02T05:08:44.856399Z
+81c5e903240171a0,AL,WKW North American LLC,WKW North American,,Pell City,140,2024-12-13,2025-02-07,Layoff,2026-09-02T05:08:44.856399Z
+0ed621683fa4ace8,AL,Walmart,Walmart,,Huntsville,80,2024-12-05,2024-12-20,Closure,2026-09-02T05:08:44.856399Z
+76d8f1cfbde32e0b,AL,The Boeing Company,Boeing,,Huntsville,158,2024-11-15,2025-01-17,Layoff,2026-09-02T05:08:44.856399Z
+50d4471f82e672e2,AL,Packers Sanitation Services Inc.,Packers Sanitation Services,,Russellville,90,2024-11-14,2024-12-13,Layoff,2026-09-02T05:08:44.856399Z
+938a640328f7dc12,AL,Community Development Institute Head Start,Community Development Institute Head Start,,Livingston,88,2024-09-03,2024-10-31,Layoff,2026-09-02T05:08:44.856399Z
+c34b4f2ce6502d84,AL,The Service Companies Inc,Service,,Wetumpka,63,2024-08-21,2024-10-25,Layoff,2026-09-02T05:08:44.856399Z
+80590b14e02e1225,AL,Winn-Dixie Montgomery LLC,Winn-Dixie Montgomery,,Bessemer,34,2024-08-19,2024-08-19,Closure,2026-09-02T05:08:44.856399Z
+35ae135c6c4472c6,AL,Lee Brass,Lee Brass,,Anniston,129,2024-08-15,2024-08-14,Closure,2026-09-02T05:08:44.856399Z
+4f473c0ada7b56bc,AL,Sodexo Inc and Affiliates,Sodexo Inc and Affiliates,,Auburn University,170,2024-08-13,2024-08-30,Layoff,2026-09-02T05:08:44.856399Z
+d8f7b4bad44cf162,AL,Delta Apparel Inc,Delta Apparel,,Foley,3,2024-07-02,2024-08-29,Closure,2026-09-02T05:08:44.856399Z
+266e91efc972fae6,AL,T-ROC,T-Roc,,Coral Gables,162,2024-05-06,2024-05-31,Layoff,2026-09-02T05:08:44.856399Z
+2519cde619493a3b,AL,Linamar Structures USA,Linamar Structures,,Hartselle,152,2024-05-06,2024-08-15,Closure,2026-09-02T05:08:44.856399Z
+81f7f590ffa99936,AL,The Boeing Company,Boeing,,Huntsville,128,2024-04-30,2024-06-28,Layoff,2026-09-02T05:08:44.856399Z
+a7ceb3e35a670dda,AL,Canfor Southern Pine,Canfor Southern Pine,,Jackson,122,2024-04-15,2024-06-12,Closure,2026-09-02T05:08:44.856399Z
+8cbabcf73a2179e6,AL,Bullock County Hospital,Bullock County Hospital,,Union Springs,95,2024-04-15,2024-04-09,Layoff,2026-09-02T05:08:44.856399Z
+0d8f7215190d090f,AL,International Wines and Craft Beers,International Wines and Craft Beers,,Alabaster,52,2024-04-12,2024-06-06,Layoff,2026-09-02T05:08:44.856399Z
+573fae1b2d598a62,AL,ASM Global,ASM Global,,Mobile,55,2024-04-11,2024-05-31,Layoff,2026-09-02T05:08:44.856399Z
+fb34edc7fe952de8,AL,Birmingham-Southern College,Birmingham-Southern College,,Birmingham,107,2024-04-05,2024-05-25,Closure,2026-09-02T05:08:44.856399Z
+70cd71a7eb0165e4,AL,Renfro Brands,Renfro Brands,,Fort Payne,100,2024-03-21,2024-04-12,Layoff,2026-09-02T05:08:44.856399Z
+dc41919e2ff461b8,AL,The Harris Products Group,Harris Products Group,,Florence,57,2024-01-31,2024-03-31,Closure,2026-09-02T05:08:44.856399Z
+66db8cf7dc565c3d,AL,Thompson Facilities Services,Thompson Facilities Services,,Tuskegee Institute,80,2024-01-05,2024-02-29,Layoff,2026-09-02T05:08:44.856399Z

@@ -2,7 +2,7 @@
   "profile": "tabular-data-package",
   "name": "warn-act-notices",
   "title": "US WARN Act Layoff Notices — normalized, daily-updated (free tier)",
-  "description": "Deduplicated, schema-normalized US WARN Act layoff notices from official state labor department listings (39 states), refreshed daily. Free tier: 2024-present, 48h-delayed. Full 1988+ history and zero-delay feed available commercially — see homepage.",
+  "description": "Deduplicated, schema-normalized US WARN Act layoff notices from official state labor department listings (39 states), refreshed daily. Free tier: 2024-present, no delay. Full 1988+ history and per-customer WARN Watch alerts available commercially — see homepage.",
   "homepage": "https://apventureengine.github.io/warn-act-notices/",
   "repository": "https://github.com/APVentureEngine/warn-act-notices",
   "licenses": [

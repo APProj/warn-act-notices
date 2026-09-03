@@ -1,4 +1,34 @@
 id,state,company,company_canonical,company_dba,location,employees_affected,notice_date,effective_date,notice_type,first_seen
+bd2b730263c7d520,CA,"Synopsys, Inc.",Synopsys,,Santa Clara County,128,2026-08-31,2026-12-16,Layoff Permanent,2026-09-01T22:27:50.881651Z
+b3d6bf5eaf1179a0,CA,Amazon - SJC13,Amazon - SJC13,,Santa Clara County,70,2026-08-31,2026-10-20,Layoff Permanent,2026-09-01T22:27:50.881651Z
+8d90a1e927161c46,CA,"24Hr Homecare, LLC",24Hr Homecare,,Los Angeles County,738,2026-08-31,2026-09-15,Layoff Permanent,2026-09-01T22:27:50.881651Z
+79f90c2757656ba8,CA,Amazon - SF019,Amazon - SF019,,San Francisco County,78,2026-08-31,2026-10-20,Layoff Permanent,2026-09-01T22:27:50.881651Z
+34e8535b63634ae5,CA,Astrion,Astrion,,Kern County,28,2026-08-31,2026-09-30,Layoff Permanent,2026-09-01T22:27:50.881651Z
+fd464db562b4c600,CA,Telecare Corporation - House of Transitions,Telecare Corporation - House of Transitions,,Ventura County,16,2026-08-28,2026-10-29,Layoff Permanent,2026-09-01T22:27:50.881651Z
+f9fc935acdab77fc,CA,Stanford Health Care - 1840 Embarcadero Rd.,Stanford Health Care - 1840 Embarcadero Rd,,Santa Clara County,16,2026-08-28,2026-11-02,Layoff Permanent,2026-09-01T22:27:50.881651Z
+e2266b10a95be114,CA,Blue Diamond Growers,Blue Diamond Growers,,Sacramento County,53,2026-08-28,2026-10-30,Layoff Permanent,2026-09-01T22:27:50.881651Z
+e1f96da4d469c23e,CA,"Telecare Corporation - Brighter Tomorrow, Program 162","Telecare Corporation - Brighter Tomorrow, Program 162",,Ventura County,23,2026-08-28,2026-10-29,Layoff Permanent,2026-09-01T22:27:50.881651Z
+d8ba2cfbfa5152c3,CA,Telecare Corporation - Stonehedge,Telecare Corporation - Stonehedge,,Ventura County,13,2026-08-28,2026-10-29,Layoff Permanent,2026-09-01T22:27:50.881651Z
+b13bccba0a119b5e,CA,Stanford Health Care - 1830 Embarcadero Rd.,Stanford Health Care - 1830 Embarcadero Rd,,Santa Clara County,79,2026-08-28,2026-11-02,Layoff Permanent,2026-09-01T22:27:50.881651Z
+56f38bce68bd8ee5,CA,"Power Safety Service, LLC",Power Safety Service,,San Joaquin County,189,2026-08-28,2026-11-06,Closure Permanent,2026-09-01T22:27:50.881651Z
+4612b008399cfa52,CA,Telecare Corporation - Recovery Starship,Telecare Corporation - Recovery Starship,,Ventura County,16,2026-08-28,2026-10-29,Layoff Permanent,2026-09-01T22:27:50.881651Z
+2f0194378603d3f6,CA,Raley's Store No. 336,Raley's Store No. 336,,Contra Costa County,51,2026-08-28,2026-11-03,Closure Permanent,2026-09-01T22:27:50.881651Z
+f0d36ac5b3a2ec09,CA,John Muir Physician Network - 5860 Owens Drive,John Muir Physician Network - 5860 Owens Drive,,Alameda County,1,2026-08-27,2026-10-28,Layoff Permanent,2026-09-01T22:27:50.881651Z
+d2eb757d8e3e2a73,CA,John Muir Physician Network - 1450 Treat Blvd.,John Muir Physician Network - 1450 Treat Blvd,,Contra Costa County,6,2026-08-27,2026-10-28,Layoff Permanent,2026-09-01T22:27:50.881651Z
+b725941cec2ddfc8,CA,John Muir Behavioral Health - 2740 Grant Street,John Muir Behavioral Health - 2740 Grant Street,,Contra Costa County,1,2026-08-27,2026-10-28,Layoff Permanent,2026-09-01T22:27:50.881651Z
+b172c9260c5204f4,CA,John Muir Health - 2740 Grant Street,John Muir Health - 2740 Grant Street,,Contra Costa County,2,2026-08-27,2026-10-28,Layoff Permanent,2026-09-01T22:27:50.881651Z
+b102108a0200fefc,CA,John Muir Health - 2540 East Street,John Muir Health - 2540 East Street,,Contra Costa County,3,2026-08-27,2026-10-28,Layoff Permanent,2026-09-01T22:27:50.881651Z
+925641cad5a243a5,CA,John Muir Physician Network - 2700 Grant Street,John Muir Physician Network - 2700 Grant Street,,Contra Costa County,1,2026-08-27,2026-10-28,Layoff Permanent,2026-09-01T22:27:50.881651Z
+75f7162e4eb10860,CA,John Muir Health - Treat Blvd.,John Muir Health - Treat Blvd,,Contra Costa County,23,2026-08-27,2026-10-28,Layoff Permanent,2026-09-01T22:27:50.881651Z
+5cab4b9efad5660f,CA,John Muir Health - 2700 Grant Street,John Muir Health - 2700 Grant Street,,Contra Costa County,1,2026-08-27,2026-10-28,Layoff Permanent,2026-09-01T22:27:50.881651Z
+586eaf25637d7c6e,CA,John Muir Physician Network - 1601 Ygnacio Valley Road,John Muir Physician Network - 1601 Ygnacio Valley Road,,Contra Costa County,1,2026-08-27,2026-10-28,Layoff Permanent,2026-09-01T22:27:50.881651Z
+4611f93d47c72d6f,CA,John Muir Health - 3480 Buskirk Ave.,John Muir Health - 3480 Buskirk Ave,,Contra Costa County,1,2026-08-27,2026-10-28,Layoff Permanent,2026-09-01T22:27:50.881651Z
+3e1131772859fb9e,CA,John Muir Health - 5003 Commercial Circle,John Muir Health - 5003 Commercial Circle,,Contra Costa County,2,2026-08-27,2026-10-28,Layoff Permanent,2026-09-01T22:27:50.881651Z
+328cdf3149314b89,CA,John Muir Health - 2540 East Street,John Muir Health - 2540 East Street,,Contra Costa County,15,2026-08-27,2026-10-28,Layoff Permanent,2026-09-01T22:27:50.881651Z
+2d4d571df5b4f886,CA,RTX,RTX,,Los Angeles County,7,2026-08-27,2026-10-23,Layoff Permanent,2026-09-01T22:27:50.881651Z
+21fb05f0c6f9eaef,CA,John Muir Health - 1601 Ygnacio Valley Road,John Muir Health - 1601 Ygnacio Valley Road,,Contra Costa County,15,2026-08-27,2026-10-28,Layoff Permanent,2026-09-01T22:27:50.881651Z
+20041e29c9f07fc2,CA,John Muir Health - 1450 Treat Blvd.,John Muir Health - 1450 Treat Blvd,,Contra Costa County,4,2026-08-27,2026-10-28,Layoff Permanent,2026-09-01T22:27:50.881651Z
+1900346f14cf8eaf,CA,John Muir Health - 177 La Casa Via,John Muir Health - 177 La Casa Via,,Contra Costa County,2,2026-08-27,2026-10-28,Layoff Permanent,2026-09-01T22:27:50.881651Z
 05a91cb48a75aad9,CA,"Levine Management Group, Inc.",Levine Management Group,,Los Angeles County,72,2026-08-26,2026-08-17,Layoff Permanent,2026-08-30T21:43:41.512264Z
 e46311065c49a8a6,CA,"BFG Supply Co., LLC",BFG Supply,,San Bernardino County,37,2026-08-24,2026-10-25,Layoff Permanent,2026-08-30T21:43:41.512264Z
 84feef6b104018d8,CA,"BFG Supply Co., LLC",BFG Supply,,Yolo County,2,2026-08-24,2026-10-25,Layoff Permanent,2026-08-30T21:43:41.512264Z
@@ -250,7 +280,7 @@ d46dd9f64ae047ba,CA,"Off Duty Officers, Inc. (8 Crestwood Rd.)","Off Duty Office
 cdcd94887d7edef4,CA,"Off Duty Officers, Inc. (151 Van Houten Ave.)","Off Duty Officers, Inc. (151 Van Houten Ave.)",,San Diego County,3,2026-06-03,2026-07-30,Layoff Permanent,2026-08-30T21:43:41.512264Z
 ccc1db5297243ebd,CA,"Off Duty Officers, Inc. (3439 Via Montebello)","Off Duty Officers, Inc. (3439 Via Montebello)",,San Diego County,4,2026-06-03,2026-07-30,Layoff Permanent,2026-08-30T21:43:41.512264Z
 c74872fc2629ee71,CA,"Off Duty Officers, Inc. (10615 Tierrasanta Blvd.)","Off Duty Officers, Inc. (10615 Tierrasanta Blvd.)",,San Diego County,2,2026-06-03,2026-07-30,Layoff Permanent,2026-08-30T21:43:41.512264Z
-bd7b061718354978,CA,"Telecare Corporation - Brighter Tomorrow, Program 162 &quot;Casa B&quot;","Telecare Corporation - Brighter Tomorrow, Program 162 &quot;Casa B&quot;",,Ventura County,25,2026-06-03,2026-06-30,Closure Permanent,2026-08-30T21:43:41.512264Z
+bd7b061718354978,CA,"Telecare Corporation - Brighter Tomorrow, Program 162 ""Casa B""","Telecare Corporation - Brighter Tomorrow, Program 162 ""Casa B",,Ventura County,25,2026-06-03,2026-06-30,Closure Permanent,2026-08-30T21:43:41.512264Z
 bb984dcedf0a8df0,CA,Highlands Community Charter and Technical Schools (901 Arden Way),Highlands Community Charter and Technical Schools (901 Arden Way),,Sacramento County,1,2026-06-03,2026-07-30,Layoff Permanent,2026-08-30T21:43:41.512264Z
 bb152159cac0a8cd,CA,"Off Duty Officers, Inc. (262 North El Camino Real)","Off Duty Officers, Inc. (262 North El Camino Real)",,San Diego County,3,2026-06-03,2026-07-30,Layoff Permanent,2026-08-30T21:43:41.512264Z
 b37494024594f606,CA,"Off Duty Officers, Inc. (105-133 North El Camino Real)","Off Duty Officers, Inc. (105-133 North El Camino Real)",,San Diego County,2,2026-06-03,2026-07-30,Layoff Permanent,2026-08-30T21:43:41.512264Z
@@ -258,12 +288,12 @@ a94980a9c1c5d4ae,CA,"Off Duty Officers, Inc. (8725 Ariva Ct.)","Off Duty Officer
 a7386aa73df489bc,CA,Highlands Community Charter and Technical Schools (1111 Howe Ave),Highlands Community Charter and Technical Schools (1111 Howe Ave),,Sacramento County,43,2026-06-03,2026-07-30,Layoff Permanent,2026-08-30T21:43:41.512264Z
 a5f606eb32d9a380,CA,Highlands Community Charter and Technical Schools (800 Todhunter Ave),Highlands Community Charter and Technical Schools (800 Todhunter Ave),,Sacramento County,5,2026-06-03,2026-07-30,Layoff Permanent,2026-08-30T21:43:41.512264Z
 a2ee9d55f28c4278,CA,"Off Duty Officers, Inc. (4873 Lone Tree Way)","Off Duty Officers, Inc. (4873 Lone Tree Way)",,Contra Costa County,5,2026-06-03,2026-07-30,Layoff Permanent,2026-08-30T21:43:41.512264Z
-99cc32c05977242b,CA,"Telecare Corporation - House of Transitions, Program 163 &quot;Casa C&quot;","Telecare Corporation - House of Transitions, Program 163 &quot;Casa C&quot;",,Ventura County,15,2026-06-03,2026-06-30,Closure Permanent,2026-08-30T21:43:41.512264Z
+99cc32c05977242b,CA,"Telecare Corporation - House of Transitions, Program 163 ""Casa C""","Telecare Corporation - House of Transitions, Program 163 ""Casa C",,Ventura County,15,2026-06-03,2026-06-30,Closure Permanent,2026-08-30T21:43:41.512264Z
 988c03d273abbf2f,CA,"Off Duty Officers, Inc. (13533 Seal Beach Blvd.)","Off Duty Officers, Inc. (13533 Seal Beach Blvd.)",,Orange County,8,2026-06-03,2026-07-30,Layoff Permanent,2026-08-30T21:43:41.512264Z
 95f095f3d75771d7,CA,"Off Duty Officers, Inc. (1250 Delevan Dr.)","Off Duty Officers, Inc. (1250 Delevan Dr.)",,San Diego County,5,2026-06-03,2026-07-30,Layoff Permanent,2026-08-30T21:43:41.512264Z
-95885cf4f896c9a4,CA,"Telecare Corproation - Stonehenge, Program 165 &quot;Casa E&quot;","Telecare Corproation - Stonehenge, Program 165 &quot;Casa E&quot;",,Ventura County,18,2026-06-03,2026-06-30,Closure Permanent,2026-08-30T21:43:41.512264Z
+95885cf4f896c9a4,CA,"Telecare Corproation - Stonehenge, Program 165 ""Casa E""","Telecare Corproation - Stonehenge, Program 165 ""Casa E",,Ventura County,18,2026-06-03,2026-06-30,Closure Permanent,2026-08-30T21:43:41.512264Z
 8f317387cc041868,CA,"Off Duty Officers, Inc. (1500-1552 Encinitas Blvd.)","Off Duty Officers, Inc. (1500-1552 Encinitas Blvd.)",,San Diego County,2,2026-06-03,2026-07-30,Layoff Permanent,2026-08-30T21:43:41.512264Z
-7cc8c5eb79f563b4,CA,"Telecare Corporation - Recovery Starship, Program 164 &quot;Casa D&quot;","Telecare Corporation - Recovery Starship, Program 164 &quot;Casa D&quot;",,Ventura County,18,2026-06-03,2026-06-30,Closure Permanent,2026-08-30T21:43:41.512264Z
+7cc8c5eb79f563b4,CA,"Telecare Corporation - Recovery Starship, Program 164 ""Casa D""","Telecare Corporation - Recovery Starship, Program 164 ""Casa D",,Ventura County,18,2026-06-03,2026-06-30,Closure Permanent,2026-08-30T21:43:41.512264Z
 72a2a80656a8adf8,CA,Highlands Community Charter and Technical Schools (8180 Industrial Parkway),Highlands Community Charter and Technical Schools (8180 Industrial Parkway),,Sacramento County,1,2026-06-03,2026-07-30,Layoff Permanent,2026-08-30T21:43:41.512264Z
 71d9c47ca4c0b137,CA,"Off Duty Officers, Inc. (12855 Black Mountain Rd.)","Off Duty Officers, Inc. (12855 Black Mountain Rd.)",,San Diego County,2,2026-06-03,2026-07-30,Layoff Permanent,2026-08-30T21:43:41.512264Z
 628bec59bf84ac12,CA,"GXO Logistics Worldwide, LLC",GXO Logistics Worldwide,,San Bernardino County,31,2026-06-03,2026-08-02,Closure Permanent,2026-08-30T21:43:41.512264Z
@@ -977,7 +1007,7 @@ c4654e01f9bd74ab,CA,"CRST Expedited, Inc.",CRST Expedited,,Los Angeles County,12
 933eb52d4f9b8019,CA,Lumileds LLC,Lumileds,,Santa Clara County,60,2025-11-19,2026-01-30,Layoff Permanent,2026-08-30T21:43:41.512264Z
 833f2c7ef5877026,CA,Blue Shield of California (Woodland Hills),Blue Shield of California (Woodland Hills),,Los Angeles County,1,2025-11-19,2026-01-27,Layoff Permanent,2026-08-30T21:43:41.512264Z
 6e8da38bc1a87abd,CA,Blue Shield of California (San Diego),Blue Shield of California (San Diego),,San Diego County,1,2025-11-19,2026-01-27,Layoff Permanent,2026-08-30T21:43:41.512264Z
-302a53c4fc347886,CA,"McDonald&rsquo;s Restaurants of California, Inc.",McDonald&rsquo;s Restaurants of California,,Los Angeles County,80,2025-11-19,2026-01-26,Closure Temporary,2026-08-30T21:43:41.512264Z
+302a53c4fc347886,CA,"McDonald’s Restaurants of California, Inc.",McDonald's Restaurants of California,,Los Angeles County,80,2025-11-19,2026-01-26,Closure Temporary,2026-08-30T21:43:41.512264Z
 203d6c4f253b115a,CA,Blue Shield of California (Rancho Cordova),Blue Shield of California (Rancho Cordova),,Sacramento County,5,2025-11-19,2026-01-27,Layoff Permanent,2026-08-30T21:43:41.512264Z
 7a1b535ea244e492,CA,Corteva Agriscience LLC,Corteva Agriscience,,Contra Costa County,4,2025-11-18,2026-02-27,Layoff Permanent,2026-08-30T21:43:41.512264Z
 4bec47db6a69516e,CA,"Nationstar Mortgage, LLC d/b/a Mr. Cooper",Nationstar Mortgage,Mr. Cooper,Orange County,88,2025-11-18,2026-01-16,Layoff Permanent,2026-08-30T21:43:41.512264Z
@@ -1373,13 +1403,13 @@ c93bce403c08b804,CA,Azure Acres Treatment Center 1160,Azure Acres Treatment Cent
 90753997fcd82645,CA,"Carbon, Inc.",Carbon,,San Mateo County,78,2025-09-17,2025-11-17,Layoff Permanent,2026-08-30T21:43:41.512264Z
 7d3feabcdbc2102f,CA,Kaiser Foundation Hospitals,Kaiser Foundation Hospitals,,Alameda County,5,2025-09-17,2025-09-15,Layoff Permanent,2026-08-30T21:43:41.512264Z
 507293ae4c71fa23,CA,Azure Acres Treatment Center - 7064,Azure Acres Treatment Center,,Sonoma County,8,2025-09-17,2025-11-08,Closure Permanent,2026-08-30T21:43:41.512264Z
-4b0113baa285781e,CA,"IPG DXTRA Entertainment, Inc. d/b/a Rogers & Cowan PMK (&quot;Company&quot;)",IPG DXTRA Entertainment,Rogers & Cowan PMK (&quot;Company&quot;,Los Angeles County,108,2025-09-17,2025-11-16,Layoff Permanent,2026-08-30T21:43:41.512264Z
+4b0113baa285781e,CA,"IPG DXTRA Entertainment, Inc. d/b/a Rogers & Cowan PMK (""Company"")",IPG DXTRA Entertainment,"Rogers & Cowan PMK (""Company""",Los Angeles County,108,2025-09-17,2025-11-16,Layoff Permanent,2026-08-30T21:43:41.512264Z
 4189001235594124,CA,Azure Acres Treatment Center - 2264,Azure Acres Treatment Center,,Sonoma County,61,2025-09-17,2025-11-08,Closure Permanent,2026-08-30T21:43:41.512264Z
 0c17b2f559150982,CA,Azure Acres Treatment Center - 2641,Azure Acres Treatment Center,,Sacramento County,3,2025-09-17,2025-11-08,Closure Permanent,2026-08-30T21:43:41.512264Z
 0b52063cba043594,CA,"Arsenal Biosciences, Inc.",Arsenal Biosciences,,San Mateo County,100,2025-09-17,2025-11-14,Layoff Permanent,2026-08-30T21:43:41.512264Z
 ee5771aa7b3bc901,CA,"CRC ED Treatment LLC, Montecatini, Inc. (Remote)","CRC ED Treatment LLC, Montecatini, Inc. (Remote)",,San Diego County,3,2025-09-16,2025-11-08,Closure Permanent,2026-08-30T21:43:41.512264Z
 9e157ecc721ff42a,CA,"CRC ED Treatment LLC, Montecatini, Inc. (6183)","CRC ED Treatment LLC, Montecatini",,San Diego County,5,2025-09-16,2025-11-08,Closure Permanent,2026-08-30T21:43:41.512264Z
-7bef659c13f7fd8f,CA,"G&C Staffing, LLC (&quot;Gold Flora&quot;)","G&C Staffing, LLC (&quot;Gold Flora&quot;)",,Riverside County,27,2025-09-16,2025-11-15,Closure Permanent,2026-08-30T21:43:41.512264Z
+7bef659c13f7fd8f,CA,"G&C Staffing, LLC (""Gold Flora"")","G&C Staffing, LLC (""Gold Flora"")",,Riverside County,27,2025-09-16,2025-11-15,Closure Permanent,2026-08-30T21:43:41.512264Z
 2becb555b300c01b,CA,"Thermal Structures, Inc.",Thermal Structures,,Riverside County,447,2025-09-16,2025-11-24,Closure Temporary,2026-08-30T21:43:41.512264Z
 0fb00258547de813,CA,Foundation for California Community Colleges,Foundation for California Community Colleges,,Sacramento County,113,2025-09-16,2025-11-14,Layoff Permanent,2026-08-30T21:43:41.512264Z
 07fc8b175beb87ae,CA,"CRC ED Treatment LLC, Montecatini, Inc. (2524)","CRC ED Treatment LLC, Montecatini",,San Diego County,79,2025-09-16,2025-11-08,Closure Permanent,2026-08-30T21:43:41.512264Z
@@ -1654,7 +1684,7 @@ dbfa5d03dcd06c1f,CA,Intel Corporation (SC-9),Intel Corporation (SC-9),,Santa Cla
 da29779df86bd4ec,CA,Intel Corporation,Intel,,Sacramento County,174,2025-07-08,2025-07-11,Layoff Permanent,2026-08-30T21:43:41.512264Z
 d197b73c56a2b588,CA,T. Marzetti,T. Marzetti,,Santa Clara County,77,2025-07-08,2025-06-30,Closure Permanent,2026-08-30T21:43:41.512264Z
 cc3ed73f0312f9c9,CA,Activision Blizzard,Activision Blizzard,,Orange County,73,2025-07-08,2025-08-31,Layoff Permanent,2026-08-30T21:43:41.512264Z
-8ed608d98ac1b0ef,CA,"McDonald&rsquo;s Restaurants of California, Inc.",McDonald&rsquo;s Restaurants of California,,Los Angeles County,87,2025-07-08,2025-09-08,Closure Temporary,2026-08-30T21:43:41.512264Z
+8ed608d98ac1b0ef,CA,"McDonald’s Restaurants of California, Inc.",McDonald's Restaurants of California,,Los Angeles County,87,2025-07-08,2025-09-08,Closure Temporary,2026-08-30T21:43:41.512264Z
 78344e6efae9ae0e,CA,Intel Corporation (SC-2),Intel Corporation (SC-2),,Santa Clara County,1,2025-07-08,2025-07-15,Layoff Permanent,2026-08-30T21:43:41.512264Z
 6dfe84fb88bfbcbf,CA,Intel Corporation (Robert Noyce Building),Intel Corporation (Robert Noyce Building),,Santa Clara County,184,2025-07-08,2025-07-15,Layoff Permanent,2026-08-30T21:43:41.512264Z
 681e8320406cf4bd,CA,Intel Corporation (SC-12),Intel Corporation (SC-12),,Santa Clara County,179,2025-07-08,2025-07-15,Layoff Permanent,2026-08-30T21:43:41.512264Z
@@ -2394,20 +2424,20 @@ b2d963222912fa81,CA,Summit Interconnect,Summit Interconnect,,Orange County,74,20
 32205fc6c5cb0094,CA,"Guitar Center, Inc.",Guitar Center,,Santa Clara County,19,2025-01-09,2025-03-10,Closure Permanent,2026-08-30T21:43:41.512264Z
 078485a4972806e8,CA,"Guitar Center, Inc.",Guitar Center,,Los Angeles County,43,2025-01-09,2025-03-10,Closure Permanent,2026-08-30T21:43:41.512264Z
 0634306e35cb8fe3,CA,Qualcomm Incorporated,Qualcomm,,San Diego County,50,2025-01-09,2025-03-10,Layoff Permanent,2026-08-30T21:43:41.512264Z
-ab223aea68c35db8,CA,"Kohl&rsquo;s, Inc.",Kohl&rsquo;s,,San Diego County,59,2025-01-08,2025-03-31,Closure Permanent,2026-08-30T21:43:41.512264Z
+ab223aea68c35db8,CA,"Kohl’s, Inc.",Kohl's,,San Diego County,59,2025-01-08,2025-03-31,Closure Permanent,2026-08-30T21:43:41.512264Z
 a5bd97ef81ba04c5,CA,EST 1977 Group LLC dba Rustys,EST 1977 Group,Rustys,Los Angeles County,38,2025-01-08,2025-01-15,Closure Permanent,2026-08-30T21:43:41.512264Z
-a1721bd9d311a05f,CA,"Kohl&rsquo;s, Inc.",Kohl&rsquo;s,,San Bernardino County,690,2025-01-08,2025-03-28,Closure Permanent,2026-08-30T21:43:41.512264Z
+a1721bd9d311a05f,CA,"Kohl’s, Inc.",Kohl's,,San Bernardino County,690,2025-01-08,2025-03-28,Closure Permanent,2026-08-30T21:43:41.512264Z
 a0241741770d3081,CA,"Republic National Distributing Company, LLC",Republic National Distributing,,Orange County,60,2025-01-08,2025-03-08,Layoff Permanent,2026-08-30T21:43:41.512264Z
-7530870949fc6117,CA,"Kohl&rsquo;s, Inc.",Kohl&rsquo;s,,Sacramento County,62,2025-01-08,2025-03-31,Closure Permanent,2026-08-30T21:43:41.512264Z
+7530870949fc6117,CA,"Kohl’s, Inc.",Kohl's,,Sacramento County,62,2025-01-08,2025-03-31,Closure Permanent,2026-08-30T21:43:41.512264Z
 5723dc31135a02af,CA,Liberated Brands,Liberated Brands,,Orange County,1,2025-01-08,2025-01-08,Closure Permanent,2026-08-30T21:43:41.512264Z
 522e0972e9b8ecbc,CA,Liberated Brands,Liberated Brands,,Orange County,362,2025-01-08,2025-01-08,Closure Permanent,2026-08-30T21:43:41.512264Z
-28f6dbb5ba3ed66b,CA,"Kohl&rsquo;s, Inc.",Kohl&rsquo;s,,Los Angeles County,58,2025-01-08,2025-03-31,Closure Permanent,2026-08-30T21:43:41.512264Z
-25105d50a9f0946b,CA,"Kohl&rsquo;s, Inc.",Kohl&rsquo;s,,Alameda County,60,2025-01-08,2025-03-31,Closure Permanent,2026-08-30T21:43:41.512264Z
+28f6dbb5ba3ed66b,CA,"Kohl’s, Inc.",Kohl's,,Los Angeles County,58,2025-01-08,2025-03-31,Closure Permanent,2026-08-30T21:43:41.512264Z
+25105d50a9f0946b,CA,"Kohl’s, Inc.",Kohl's,,Alameda County,60,2025-01-08,2025-03-31,Closure Permanent,2026-08-30T21:43:41.512264Z
 01e5fc2a2cd03a2b,CA,Safeway Inc.,Safeway,,Santa Clara County,8,2025-01-08,2025-02-20,Layoff Permanent,2026-08-30T21:43:41.512264Z
 9b41d6f6502a08db,CA,"CytomX Therapeutics, Inc.",CytomX Therapeutics,,San Mateo County,46,2025-01-06,2025-01-17,Layoff Permanent,2026-08-30T21:43:41.512264Z
 92e52ac16c52429f,CA,"Chedraui USA, Inc.",Chedraui,,San Bernardino County,115,2025-01-03,2025-03-07,Layoff Permanent,2026-08-30T21:43:41.512264Z
 85e2f15f992ead34,CA,PRIDE Industries,PRIDE Industries,,Solano County,54,2024-12-31,2025-02-28,Layoff Permanent,2026-08-30T21:43:41.512264Z
-a25451817728c5fd,CA,"McDonald&rsquo;s Restaurants of California, Inc.",McDonald&rsquo;s Restaurants of California,,Los Angeles County,62,2024-12-30,2025-02-24,Layoff Temporary,2026-08-30T21:43:41.512264Z
+a25451817728c5fd,CA,"McDonald’s Restaurants of California, Inc.",McDonald's Restaurants of California,,Los Angeles County,62,2024-12-30,2025-02-24,Layoff Temporary,2026-08-30T21:43:41.512264Z
 9df86418744c867f,CA,HTX Services LLC,HTX Services,,Los Angeles County,28,2024-12-27,2025-03-01,Closure Permanent,2026-08-30T21:43:41.512264Z
 7668d47e4aec112b,CA,Deliverimates LLC,Deliverimates,,Santa Clara County,71,2024-12-27,2025-02-26,Closure Permanent,2026-08-30T21:43:41.512264Z
 65d1880bb27cb5dc,CA,"Central Valley Eggs, LLC",Central Valley Eggs,,Kern County,54,2024-12-26,2024-12-26,Layoff Permanent,2026-08-30T21:43:41.512264Z
@@ -2763,8 +2793,8 @@ addf2cad359225f1,CA,"Wildbrine, LLC",Wildbrine,,Sonoma County,37,2024-10-01,2024
 3200e7f2b4aed1f8,CA,Infineon Technologies Americas Corp.,Infineon Technologies Americas,,Riverside County,19,2024-10-01,2024-10-11,Layoff Permanent,2026-08-30T21:43:41.512264Z
 301b2353a1b56b9d,CA,Paramount Global,Paramount Global,,Los Angeles County,23,2024-10-01,2024-11-23,Layoff Permanent,2026-08-30T21:43:41.512264Z
 0d6e3f5d78b0328f,CA,"Amyris, Inc.",Amyris,,Alameda County,50,2024-10-01,2024-12-02,Layoff Permanent,2026-08-30T21:43:41.512264Z
-9d0ed354a4910a24,CA,"Dreyer&rsquo;s Grand Ice Cream, Inc.",Dreyer&rsquo;s Grand Ice Cream,,Tulare County,188,2024-09-27,2024-11-25,Layoff Temporary,2026-08-30T21:43:41.512264Z
-8689825fd668da99,CA,"Dreyer&rsquo;s Grand Ice Cream, Inc.",Dreyer&rsquo;s Grand Ice Cream,,Kern County,733,2024-09-27,2024-11-25,Layoff Temporary,2026-08-30T21:43:41.512264Z
+9d0ed354a4910a24,CA,"Dreyer’s Grand Ice Cream, Inc.",Dreyer's Grand Ice Cream,,Tulare County,188,2024-09-27,2024-11-25,Layoff Temporary,2026-08-30T21:43:41.512264Z
+8689825fd668da99,CA,"Dreyer’s Grand Ice Cream, Inc.",Dreyer's Grand Ice Cream,,Kern County,733,2024-09-27,2024-11-25,Layoff Temporary,2026-08-30T21:43:41.512264Z
 f0b00979b427c663,CA,"Randstad Inhouse Services, LLC",Randstad Inhouse Services,,Tulare County,102,2024-09-26,2024-11-25,Layoff Temporary,2026-08-30T21:43:41.512264Z
 c794bf2d483a5174,CA,"Randstad Inhouse Services, LLC",Randstad Inhouse Services,,Kern County,180,2024-09-26,2024-11-25,Layoff Temporary,2026-08-30T21:43:41.512264Z
 554fb7d6d3b69bad,CA,Corteva Agriscience LLC,Corteva Agriscience,,Contra Costa County,18,2024-09-26,2025-01-03,Layoff Permanent,2026-08-30T21:43:41.512264Z

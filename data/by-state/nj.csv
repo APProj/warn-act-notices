@@ -1,5 +1,6 @@
 id,state,company,company_canonical,company_dba,location,employees_affected,notice_date,effective_date,notice_type,first_seen
 21bef2f0a89576ea,NJ,UBS,UBS,,Weehawken,58,2026-11-01,2026-11-04,,2026-08-30T21:43:41.512264Z
+c9babd2aa7bdfda4,NJ,UBS,UBS,,Weehawken,41,2026-09-01,2026-11-25,,2026-09-02T18:45:14.612156Z
 adc1a8caea67c5f3,NJ,"Citibank, N.A.",Citibank,,Hudson County,59,2026-08-01,2026-10-31,,2026-08-30T21:43:41.512264Z
 a0f8bf1b093f7fd5,NJ,JP Morgan Chase,JP Morgan Chase,,Jersey City,63,2026-08-01,2026-08-19,,2026-08-30T21:43:41.512264Z
 9b61640123acf6da,NJ,"Grocery Delivery E-Services USA, Inc DBA Hello Fresh",Grocery Delivery E-Services,Hello Fresh,Swedesboro,374,2026-08-01,2026-11-17,,2026-08-30T21:43:41.512264Z

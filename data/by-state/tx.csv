@@ -1,0 +1,574 @@
+id,state,company,company_canonical,company_dba,location,employees_affected,notice_date,effective_date,notice_type,first_seen
+aab09249cf9ec131,TX,JPMorgan Chase & Co.,JPMorgan Chase &,,"Plano, Collin",244,2026-06-23,2026-08-21,,2026-09-02T05:08:44.856399Z
+acae4fac14eb058d,TX,KUEHNE + NAGEL (KN) 2026,Kuehne + Nagel (KN) 2026,,"Lewisville, Denton",90,2026-06-16,2026-06-29,,2026-09-02T05:08:44.856399Z
+7ce65153271c40a1,TX,"Fortrex (John Soules Foods, Inc.)","Fortrex (John Soules Foods, Inc.)",,"Tyler, Smith",85,2026-06-12,2026-06-26,,2026-09-02T05:08:44.856399Z
+5b3f7ad11d057ac4,TX,First Student (DeSoto I.S.D.),First Student (DeSoto I.S.D.),,"De Soto, Dallas",74,2026-06-12,2026-06-30,,2026-09-02T05:08:44.856399Z
+3ec2b22f1bc9ed59,TX,SAKS GLOBAL (Neiman Marcus),SAKS GLOBAL (Neiman Marcus),,"Dallas, Dallas",67,2026-06-12,2026-09-30,,2026-09-02T05:08:44.856399Z
+80f3b7ad5dcb4c61,TX,"Remington Lodging and Hospitality, LLC (Hilton Houston NASA Clear Lake)","Remington Lodging and Hospitality, LLC (Hilton Houston NASA Clear Lake)",,"Houston, Harris",65,2026-06-09,2026-07-31,,2026-09-02T05:08:44.856399Z
+8df9b1bafdb8174a,TX,El Paso Independent School District,El Paso Independent School District,,"El Paso, El Paso",250,2026-06-08,2026-06-19,,2026-09-02T05:08:44.856399Z
+3162f284d3567893,TX,Alan Ritchey Incorporated,Alan Ritchey,,"Irving, Dallas",232,2026-06-08,2026-09-14,,2026-09-02T05:08:44.856399Z
+58866ccef7116814,TX,MW Components (Matthew Warren Inc's USA Fastner Facility),MW Components (Matthew Warren Inc's USA Fastner Facility),,"Houston, Harris",53,2026-06-04,2026-08-10,,2026-09-02T05:08:44.856399Z
+943be18a0f0f7299,TX,Toshiba International Corporation,Toshiba International,,"Houston, Harris",67,2026-05-29,2026-09-30,,2026-09-02T05:08:44.856399Z
+a7ad06888a4d40c1,TX,"Auzmet Architectural, LLC",Auzmet Architectural,,"Dallas, Dallas",152,2026-05-19,2026-05-19,,2026-09-02T05:08:44.856399Z
+d255ee27354da0b0,TX,"Compass Group USA, Inc. (d/b/a Chartwell's Higher Education (Texas Southern Univ.)",Compass Group,Chartwell's Higher Education (Texas Southern Univ,"Houston, Harris",88,2026-05-14,2026-06-12,,2026-09-02T05:08:44.856399Z
+b2c51404b70ac1b8,TX,Spirit Airlines (IAH) May 2026,Spirit Airlines (IAH) May 2026,,"Houston, Harris",515,2026-05-02,2026-05-02,,2026-09-02T05:08:44.856399Z
+38f7d0b58f18f174,TX,Spirit Airlines (DFW) May 2026,Spirit Airlines (DFW) May 2026,,"Dallas, Dallas",444,2026-05-02,2026-05-02,,2026-09-02T05:08:44.856399Z
+b8311bdca1bb512c,TX,"Amcor Rigid Packaging USA, LLC",Amcor Rigid Packaging,,"Fort Worth, Tarrant",56,2026-05-01,2026-07-02,,2026-09-02T05:08:44.856399Z
+83aaeba28da33d3b,TX,"Sodexo (SDH Services East, LLC) Fort Worth Independent School District","Sodexo (SDH Services East, LLC) Fort Worth Independent School District",,"Fort Worth, Tarrant",291,2026-04-30,2026-06-30,,2026-09-02T05:08:44.856399Z
+534a12efae115fce,TX,"FreshRealm, Inc.",FreshRealm,,"Lancaster, Dallas",176,2026-04-27,2026-06-27,,2026-09-02T05:08:44.856399Z
+3f39b043888542e7,TX,Laurel Ridge Treatment Center (Laurel Ridge),Laurel Ridge Treatment Center (Laurel Ridge),,"San Antonio, Bexar",648,2026-04-27,2026-06-26,,2026-09-02T05:08:44.856399Z
+f1923ea120a7ba11,TX,"Republic National Distributing Company, LLC (Reyes Holdings, L.L.C) Grand Prairie","Republic National Distributing Company, LLC (Reyes Holdings, L.L.C) Grand Prairie",,"Grand Prairie, Tarrant",689,2026-04-23,2026-06-21,,2026-09-02T05:08:44.856399Z
+8c3175feedee4443,TX,"Republic National Distributing Company, LLC (Reyes Holdings, L.L.C) Corpus Christie","Republic National Distributing Company, LLC (Reyes Holdings, L.L.C) Corpus Christie",,"Corpus Ch, Nueces",90,2026-04-23,2026-06-21,,2026-09-02T05:08:44.856399Z
+6d389de8b2bc0e1a,TX,"National Safety Apparel, LLC",National Safety Apparel,,"San Antonio, Bexar",50,2026-04-23,2026-06-30,,2026-09-02T05:08:44.856399Z
+6c52c5c14d4b58e4,TX,"Republic National Distributing Company, LLC (Reyes Holdings, L.L.C) Houston","Republic National Distributing Company, LLC (Reyes Holdings, L.L.C) Houston",,"Houston, Harris",588,2026-04-23,2026-06-21,,2026-09-02T05:08:44.856399Z
+356e3936d9eae6e5,TX,"Republic National Distributing Company, LLC (Reyes Holdings, L.L.C) Austin","Republic National Distributing Company, LLC (Reyes Holdings, L.L.C) Austin",,"Austin, Travis",164,2026-04-23,2026-06-21,,2026-09-02T05:08:44.856399Z
+1f6f36f5c709c560,TX,"Republic National Distributing Company, LLC (Reyes Holdings, L.L.C) San Antonio","Republic National Distributing Company, LLC (Reyes Holdings, L.L.C) San Antonio",,"Schertz, Bexar",372,2026-04-23,2026-06-21,,2026-09-02T05:08:44.856399Z
+8ce7bff598ca4e56,TX,"Southern Mail Service, Inc.",Southern Mail Service,,"Houston, Harris",50,2026-04-21,2026-05-15,,2026-09-02T05:08:44.856399Z
+d940453cae68700a,TX,Saddle Creek Corporation,Saddle Creek,,"New Caney, Montgomery",168,2026-04-15,2026-06-11,,2026-09-02T05:08:44.856399Z
+604669676e1e9856,TX,"T-Mobile USA, Inc.",T-Mobile,,"Austin, Travis",74,2026-04-14,2026-06-08,,2026-09-02T05:08:44.856399Z
+264b92e48df98e60,TX,"Ampac Mobile Holdings, LLC (ProAmpac)","Ampac Mobile Holdings, LLC (ProAmpac)",,"Grand Prairie, Tarrant",52,2026-04-08,2026-06-07,,2026-09-02T05:08:44.856399Z
+b0fb9256e420ff4f,TX,"Sodexo (SDH Services East, LLC) HCA Kingwood","Sodexo (SDH Services East, LLC) HCA Kingwood",,"Kingwood, Harris",81,2026-04-06,2026-06-13,,2026-09-02T05:08:44.856399Z
+7f234a59595d46c8,TX,"Sodexo (SDH Services East, LLC) HCA Southeast Texas Medical Center","Sodexo (SDH Services East, LLC) HCA Southeast Texas Medical Center",,"Pasadena, Harris",63,2026-04-06,2026-06-13,,2026-09-02T05:08:44.856399Z
+31f227658326807e,TX,"Sodexo (SDH Services East, LLC) HCA Clear Lake","Sodexo (SDH Services East, LLC) HCA Clear Lake",,"Webster, Harris",86,2026-04-06,2026-06-13,,2026-09-02T05:08:44.856399Z
+21f495dd7608e9bb,TX,"Sodexo (SDH Services East, LLC) HCA Women's Hospital of Texas","Sodexo (SDH Services East, LLC) HCA Women's Hospital of Texas",,"Houston, Harris",66,2026-04-06,2026-06-13,,2026-09-02T05:08:44.856399Z
+6d114fa79f127f70,TX,DSV Contract Logistics (3PL Logistics Facility),DSV Contract Logistics (3PL Logistics Facility),,"Wilmer, Dallas",391,2026-04-02,2026-04-30,,2026-09-02T05:08:44.856399Z
+7da3d8cd7429db8c,TX,Hyatt Regency (South Congress Hotel),Hyatt Regency (South Congress Hotel),,"Austin, Travis",126,2026-03-31,2026-05-31,,2026-09-02T05:08:44.856399Z
+4079288a70bed2d6,TX,"Compass Group USA, Inc. (d/b/a Chartwell's Higher Education (Texas State University)",Compass Group,Chartwell's Higher Education (Texas State University,"San Marcos, Hays",183,2026-03-31,2026-05-31,,2026-09-02T05:08:44.856399Z
+ff062caeab4f0748,TX,Endeavors Eagle Lake Children's Center (Eagle Lake),Endeavors Eagle Lake Children's Center (Eagle Lake),,"Eagle Lake, Colorado",88,2026-03-26,2026-03-24,,2026-09-02T05:08:44.856399Z
+f75c1a50c4bf0bc2,TX,"CPLC Texas, Inc. (Magnolia ORR Site)","CPLC Texas, Inc. (Magnolia ORR Site)",,"Los Fresnos, Cameron",56,2026-03-26,2026-03-31,,2026-09-02T05:08:44.856399Z
+0fb076d2e8f010ab,TX,Tempus Holding INC. d/b/a The Lodge Card Club,Tempus Holding,The Lodge Card Club,"Round Rock, Travis",144,2026-03-26,2026-03-24,,2026-09-02T05:08:44.856399Z
+b814a0fc7537fe10,TX,Albertsons #106 (Euless),Albertsons #106 (Euless),,"Euless, Tarrant",82,2026-03-25,2026-04-25,,2026-09-02T05:08:44.856399Z
+33c2591f22ff5aae,TX,Albertsons #4286 (W. Freeway),Albertsons #4286 (W. Freeway),,"Fort Worth, Tarrant",56,2026-03-25,2026-04-25,,2026-09-02T05:08:44.856399Z
+0ba5ff0af8ddd92b,TX,Saks & Company LLC (Saks Fifth Avenue - San Antonio),Saks & Company LLC (Saks Fifth Avenue - San Antonio),,"San Antonio, Bexar",71,2026-03-06,2026-05-06,,2026-09-02T05:08:44.856399Z
+5c36d962a0c35ce1,TX,Ashley Furniture Industries (Mesquite),Ashley Furniture Industries (Mesquite),,"Mesquite, Dallas",266,2026-03-05,2026-05-07,,2026-09-02T05:08:44.856399Z
+e1c3ad4098152bb7,TX,"First Brands Group, LLC. (Titan Dist. Center)","First Brands Group, LLC. (Titan Dist. Center)",,"Brownsville, Cameron",183,2026-03-04,2026-04-30,,2026-09-02T05:08:44.856399Z
+c6afa109488a9a40,TX,"First Brands Group, LLC(Billy Mitchell)","First Brands Group, LLC(Billy Mitchell)",,"Brownsville, Cameron",345,2026-03-04,2026-04-30,,2026-09-02T05:08:44.856399Z
+68437fa170a001d2,TX,First Brands Group LLC. (ASC Facility),First Brands Group LLC. (ASC Facility),,"Brownsville, Cameron",43,2026-03-04,2026-04-30,,2026-09-02T05:08:44.856399Z
+7bcd7d79bca607dd,TX,"Campbell Soup Supply Company, LLC",Campbell Soup Supply,,"Paris, Lamar",205,2026-03-03,2026-05-01,,2026-09-02T05:08:44.856399Z
+d70885983dc42434,TX,"Main Street Sports Group, LLC.",Main Street Sports Group,,"The Woodlands, Montgomery",18,2026-02-19,2026-04-14,,2026-09-02T05:08:44.856399Z
+90d5aa3103da0112,TX,Stockyards Hotel and H3 Ranch,Stockyards Hotel and H3 Ranch,,"Fort Worth, Tarrant",120,2026-02-19,2026-04-06,,2026-09-02T05:08:44.856399Z
+1f7a995462dec284,TX,Bluum USA Inc.,Bluum,,"Irving, Dallas",60,2026-02-19,2026-04-20,,2026-09-02T05:08:44.856399Z
+8663fb6afa9a8947,TX,Walgreens (Greens Rd.),Walgreens (Greens Rd.),,"Houston, Harris",159,2026-02-18,2026-06-01,,2026-09-02T05:08:44.856399Z
+334b570291e42243,TX,Comerica Bank(Frisco Star Tower Facility),Comerica Bank(Frisco Star Tower Facility),,"Frisco, Denton",54,2026-02-11,2026-04-24,,2026-09-02T05:08:44.856399Z
+9acfaa8ed0805a89,TX,Randalls #3067,Randalls,,"Houston, Harris",94,2026-02-09,2026-04-18,,2026-09-02T05:08:44.856399Z
+a241f4c44a458cec,TX,HGS Solutions,HGS Solutions,,"El Paso, El Paso",92,2026-02-04,2026-03-31,,2026-09-02T05:08:44.856399Z
+8985fa7cbc11e443,TX,"First Brands Group, LLC",First Brands Group,,"Arlington, Tarrant",87,2026-02-04,2026-01-26,,2026-09-02T05:08:44.856399Z
+1672d9285a1322b1,TX,"Empower Clinic Services, LLC",Empower Clinic Services,,"Houston, Harris",57,2026-02-04,2026-02-04,,2026-09-02T05:08:44.856399Z
+84db088238aab01f,TX,Expedia Group Inc. (Austin),Expedia Group Inc. (Austin),,"Austin, Travis",100,2026-02-03,2026-04-01,,2026-09-02T05:08:44.856399Z
+9395a9287d821828,TX,Janus International Group,Janus International Group,,"Houston, Harris",113,2026-02-02,2026-04-03,,2026-09-02T05:08:44.856399Z
+51cd62f5d29fec8f,TX,Helpful Hands Inc. Joint Base San Antonio-Lackland,Helpful Hands Inc. Joint Base San Antonio-Lackland,,"San Antonio, Bexar",96,2026-02-02,2026-03-31,,2026-09-02T05:08:44.856399Z
+8e4729889954353a,TX,Compass Connections,Compass Connections,,"Harlingen, Cameron",148,2026-01-29,2026-03-29,,2026-09-02T05:08:44.856399Z
+7006a880a9288aab,TX,Cardone Industries-Arlington,Cardone Industries-Arlington,,"Arlington, Tarrant",87,2026-01-28,2026-01-26,,2026-09-02T05:08:44.856399Z
+531702f7d99928b6,TX,Cardone Industries-Harlingen,Cardone Industries-Harlingen,,"Harlingen, Cameron",41,2026-01-28,2026-01-26,,2026-09-02T05:08:44.856399Z
+3df49ba97706f089,TX,Fresenius USA Manufacturing,Fresenius USA Manufacturing,,"Coppell, Dallas",67,2026-01-28,2026-04-10,,2026-09-02T05:08:44.856399Z
+a3cf8bce6b63996f,TX,Power Plug Inc. (Houston Manufacturing Company),Power Plug Inc. (Houston Manufacturing Company),,"Houston, Harris",74,2026-01-23,2026-01-23,,2026-09-02T05:08:44.856399Z
+e626701dfca1b503,TX,Future Proof Brands LLC (Austin),Future Proof Brands LLC (Austin),,"Austin, Travis",158,2026-01-21,2026-02-21,,2026-09-02T05:08:44.856399Z
+6b869d729ce76461,TX,"Tyson Foods, Inc (Amarillo B-Shift Operations) Updated","Tyson Foods, Inc (Amarillo B-Shift Operations) Updated",,"Amarillo, Potter",1761,2026-01-20,2026-02-24,,2026-09-02T05:08:44.856399Z
+13982254e9440e17,TX,Francesca's (Houston),Francesca's (Houston),,"Houston, Harris",202,2026-01-14,2026-01-08,,2026-09-02T05:08:44.856399Z
+ff5ec28b4d66f224,TX,"Congo, LLC (Updated March 2026)","Congo, LLC (Updated March 2026)",,"Lewisville, Denton",31,2026-01-09,2026-03-13,,2026-09-02T05:08:44.856399Z
+fd9ee18459514799,TX,Tessera Therapeutics,Tessera Therapeutics,,"Friendswood, Harris",2,2026-01-07,2026-03-08,,2026-09-02T05:08:44.856399Z
+9b0306ae5d2c9412,TX,ComericA Frisco Star Tower Facility,ComericA Frisco Star Tower Facility,,"Frisco, Denton",184,2026-01-07,2026-03-13,,2026-09-02T05:08:44.856399Z
+37a7a66fab1987a0,TX,FedEx Corporation Facility (Ft. Worth),FedEx Corporation Facility (Ft. Worth),,"Ft. Worth, Tarrant",89,2025-12-29,2026-03-02,,2026-09-02T05:08:44.856399Z
+be838c7d26415bdf,TX,"Telvista, Inc.",Telvista,,"Dallas, Tarrant",110,2025-12-26,2026-02-28,,2026-09-02T05:08:44.856399Z
+21e3fd34096b9957,TX,ABM Texas General Services (SMU),ABM Texas General Services (SMU),,"Dallas, Dallas",211,2025-12-22,2025-03-12,,2026-09-02T05:08:44.856399Z
+3e0ea4f9a4adb0f4,TX,S&S Activewear,S&S Activewear,,"Irving, Dallas",146,2025-12-10,2025-12-04,,2026-09-02T05:08:44.856399Z
+35c31409a3a29b7b,TX,LeeMAH Electronics. Inc.,LeeMAH Electronics,,"Richardson, Dallas",84,2025-12-10,2025-12-08,,2026-09-02T05:08:44.856399Z
+b29940f8bd50a33c,TX,Grand Lux Café LLC,Grand Lux Café,,"Houston, Harris",83,2025-12-03,2026-01-24,,2026-09-02T05:08:44.856399Z
+365fa0b5a5e9e39c,TX,"CRST Expedited, Inc. d/b/a CRST The Transportation Solution, Inc.",CRST Expedited,"CRST The Transportation Solution, Inc","Mansfield, Tarrant",1,2025-12-03,2026-02-26,,2026-09-02T05:08:44.856399Z
+864e320ac23feeba,TX,Yang Ming (America) Corporation Updated,Yang Ming (America) Corporation Updated,,"Houston, Harris",105,2025-12-02,2025-11-30,,2026-09-02T05:08:44.856399Z
+30773be0c9fd7f69,TX,The Sheraton Arlington Hotel (Urbana Varro Hospitality Management),Sheraton Arlington Hotel (Urbana Varro Hospitality Management),,"Arlington, Tarrant",110,2025-12-02,2026-02-15,,2026-09-02T05:08:44.856399Z
+8f98eea3ea48c05c,TX,"Tyson Foods, Inc. (Amarillo B-Shift Operations","Tyson Foods, Inc. (Amarillo B-Shift Operations",,"Amarillo, Potter",1761,2025-11-26,2026-01-20,,2026-09-02T05:08:44.856399Z
+4fd1af24354d00fd,TX,"FedEx Supply Chain Logistics & Electrronics, Inc. (Coppell)","FedEx Supply Chain Logistics & Electrronics, Inc. (Coppell)",,"Coppell, Dallas",856,2025-11-25,2026-01-29,,2026-09-02T05:08:44.856399Z
+81e3d8d48c7fd25f,TX,Huntington National Bank,Huntington National Bank,,"Dallas, Dallas",63,2025-11-21,2026-01-19,,2026-09-02T05:08:44.856399Z
+d5b28ffc64e7e54f,TX,United Supermarkets,United Supermarkets,,"Lubbock, Lubbock",126,2025-11-19,2026-01-19,,2026-09-02T05:08:44.856399Z
+b24af8926d5b960a,TX,Wood Group USA Inc.,Wood Group,,"Freeport, Brazoria",180,2025-11-18,2025-01-05,,2026-09-02T05:08:44.856399Z
+381e521c917de960,TX,"Couchbase, Inc.",Couchbase,,"Austin, Travis",11,2025-11-17,2026-01-12,,2026-09-02T05:08:44.856399Z
+178d6671e937572f,TX,Dometic Corporation,Dometic,,"Grand Prairie, Dallas",54,2025-11-14,2026-01-12,,2026-09-02T05:08:44.856399Z
+c8620d01c8bdd502,TX,DLH Solutions (Dallas CMOP),DLH Solutions (Dallas CMOP),,"Lancaster, Dallas",298,2025-11-12,2025-11-29,,2026-09-02T05:08:44.856399Z
+616e856bd82a660a,TX,"Dillard's Inc.(Dillard's Texas Central, LLC)","Dillard's Inc.(Dillard's Texas Central, LLC)",,"Plano, Collin",93,2025-11-08,2026-01-12,,2026-09-02T05:08:44.856399Z
+f30b43ff07b921c3,TX,AI Fleet,AI Fleet,,"Austin, Travis",56,2025-11-06,2025-11-04,,2026-09-02T05:08:44.856399Z
+c982f09b625e5393,TX,Apogee Architectural Metals,Apogee Architectural Metals,,"Mesquite, Dallas",58,2025-11-05,2026-01-03,,2026-09-02T05:08:44.856399Z
+df867fd2dc8ca8d2,TX,"Firebird Bulk Carriers, Inc.(Tarzan)","Firebird Bulk Carriers, Inc.(Tarzan)",,"Tarzan, Martin",1,2025-11-04,2025-12-31,,2026-09-02T05:08:44.856399Z
+7da9e5e8de0e9c55,TX,"Firebird Bulk Carriers, Inc. (George West)","Firebird Bulk Carriers, Inc. (George West)",,"George West, Live Oak",21,2025-11-04,2025-12-31,,2026-09-02T05:08:44.856399Z
+21d4df3c9be3af8d,TX,"Firebird Bulk Carriers, Inc. (Victoria)","Firebird Bulk Carriers, Inc. (Victoria)",,"Victoria, Victoria",3,2025-11-04,2025-12-30,,2026-09-02T05:08:44.856399Z
+ba6e7cc58363f9ad,TX,"Firebird Bulk Carriers, Inc (Dayton)","Firebird Bulk Carriers, Inc (Dayton)",,"Dayton, Liberty",2,2025-10-31,2025-12-31,,2026-09-02T05:08:44.856399Z
+8e63b3ed8bad5c81,TX,"Firebird Bulk Carriers, Inc.(Dilley)","Firebird Bulk Carriers, Inc.(Dilley)",,"Dilley, Frio",6,2025-10-31,2025-12-31,,2026-09-02T05:08:44.856399Z
+4ead96f8726da1fa,TX,"Natura PCR, LLC",Natura PCR,,"Waller, Harris",88,2025-10-31,2025-10-15,,2026-09-02T05:08:44.856399Z
+d6c715068a38081c,TX,Pure Hothouse Foods LLC,Pure Hothouse Foods,,"San Antonio, Bexar",80,2025-10-30,2025-12-31,,2026-09-02T05:08:44.856399Z
+3e5ad3c268ac6ae2,TX,"Firebird Bulk Carriers, Inc. (Bryan)","Firebird Bulk Carriers, Inc. (Bryan)",,"Bryan, Brazos",10,2025-10-30,2025-12-31,,2026-09-02T05:08:44.856399Z
+234b449ddbd5dc53,TX,"Firebird Bulk Carriers, Inc. (Carrizo Springs)","Firebird Bulk Carriers, Inc. (Carrizo Springs)",,"Carrizo Springs, Dimmit",31,2025-10-30,2025-12-31,,2026-09-02T05:08:44.856399Z
+d7ed848011457b9e,TX,Wells Fargo & Co. (Lubbock),Wells Fargo & Co. (Lubbock),,"Lubbock, Lubbock",225,2025-10-29,2025-10-28,,2026-09-02T05:08:44.856399Z
+c2b526f5e54c50f9,TX,"Cherokee Nation System Solutions, L.L.C.",Cherokee Nation System Solutions,,"Austin, Travis",87,2025-10-29,2025-12-19,,2026-09-02T05:08:44.856399Z
+78e9a35a8989ca2b,TX,"Colonial Savings, F.A.","Colonial Savings, F.A",,"Fort Worth, Tarrant",130,2025-10-29,2026-01-01,,2026-09-02T05:08:44.856399Z
+1e7370b569437fa6,TX,Tekni-Plex (Dallas Facility),Tekni-Plex (Dallas Facility),,"Dallas, Dallas",64,2025-10-29,2025-12-26,,2026-09-02T05:08:44.856399Z
+bbf9703182f85283,TX,"Congo, LLC",Congo,,"Lewisville, Denton",155,2025-10-28,2025-12-31,,2026-09-02T05:08:44.856399Z
+7dcf5f29115bcd44,TX,Job1 USA (Fort Worth),Job1 USA (Fort Worth),,"Fort Worth, Tarrant",25,2025-10-28,2025-11-15,,2026-09-02T05:08:44.856399Z
+657472de385be8e9,TX,Job1 USA (Arlington),Job1 USA (Arlington),,"Arlington, Tarrant",31,2025-10-28,2025-11-15,,2026-09-02T05:08:44.856399Z
+3d38a81361c386ed,TX,Job1 USA (Haslet),Job1 USA (Haslet),,"Haslet, Tarrant",25,2025-10-28,2025-11-15,,2026-09-02T05:08:44.856399Z
+96c348f51253f987,TX,Job1 USA (San Antonio),Job1 USA (San Antonio),,"San Antonio, Bexar",18,2025-10-23,2025-11-15,,2026-09-02T05:08:44.856399Z
+1e0b81a95b294723,TX,Job1 USA (Houston),Job1 USA (Houston),,"Houston, Harris",13,2025-10-23,2025-11-15,,2026-09-02T05:08:44.856399Z
+888760f5997fd069,TX,"Flagstone Foods, LLC (El Paso Plant)","Flagstone Foods, LLC (El Paso Plant)",,"El Paso, El Paso",225,2025-10-22,2025-12-19,,2026-09-02T05:08:44.856399Z
+c7ecbea3cda6d49a,TX,Texas Instruments - Sherman,Texas Instruments - Sherman,,"Sherman, Grayson",19,2025-10-15,2025-12-12,,2026-09-02T05:08:44.856399Z
+2f2969efb547ae6d,TX,Eden Green Technology,Eden Green Technology,,"Cleburne, Johnson",102,2025-10-15,2025-12-13,,2026-09-02T05:08:44.856399Z
+3f53cdd8d24dffdd,TX,"M & M Manufacturing, Inc.",M & M Manufacturing,,"Houston, Harris",75,2025-10-13,2025-12-15,,2026-09-02T05:08:44.856399Z
+fb706e63afef5169,TX,Creative Testing Solutions,Creative Testing Solutions,,"Austin, Travis",91,2025-10-09,2025-12-12,,2026-09-02T05:08:44.856399Z
+e52b48de0cb1582a,TX,"Meadow Burke, LLC d/b/a Leviat",Meadow Burke,Leviat,"Fort Worth, Tarrant",75,2025-10-08,2025-12-02,,2026-09-02T05:08:44.856399Z
+840eda7bb325d05a,TX,"Lion Elastomers Orange, LLC (Orange Plant)","Lion Elastomers Orange, LLC (Orange Plant)",,"Orange, Orange",113,2025-10-08,2025-12-08,,2026-09-02T05:08:44.856399Z
+d9c1fb8636f43dd2,TX,J & J Maintenance,J & J Maintenance,,"San Antonio, Bexar",279,2025-10-02,2025-11-30,,2026-09-02T05:08:44.856399Z
+ce06f109e6f9709f,TX,Southwest Key Programs-Casa Norma Linda,Southwest Key Programs-Casa Norma Linda,,"Los Fresnos, Cameron",3,2025-10-02,2025-11-05,,2026-09-02T05:08:44.856399Z
+c853fa802d445cb6,TX,Southwest Key Programs-STX Regional Headquarters,Southwest Key Programs-STX Regional Headquarters,,"Brownsville, Cameron",12,2025-10-02,2025-11-05,,2026-09-02T05:08:44.856399Z
+9abe82690e9d03b0,TX,Southwest Key Programs-Casita Del Valle,Southwest Key Programs-Casita Del Valle,,"Clint, El Paso",5,2025-10-02,2025-11-05,,2026-09-02T05:08:44.856399Z
+79d11b7818e5cb5b,TX,Southwest Key Programs-Casa Rio Grande,Southwest Key Programs-Casa Rio Grande,,"San Benito, Cameron",3,2025-10-02,2025-11-05,,2026-09-02T05:08:44.856399Z
+3b2eff75345b7647,TX,Southwest Key Programs-Casa Houston Reliant,Southwest Key Programs-Casa Houston Reliant,,"Houston, Harris",1,2025-10-02,2025-11-05,,2026-09-02T05:08:44.856399Z
+3a2f4b693dfad21a,TX,Southwest Key Programs-Casa Nueva Esperanza,Southwest Key Programs-Casa Nueva Esperanza,,"Brownsville, Cameron",8,2025-10-02,2025-11-05,,2026-09-02T05:08:44.856399Z
+3110b48b0dd7e6bb,TX,Southwest Key Programs-Casa Montezuma,Southwest Key Programs-Casa Montezuma,,"Channelview, Harris",1,2025-10-02,2025-11-05,,2026-09-02T05:08:44.856399Z
+30d9b44dd0914796,TX,Southwest Key Programs-National Headquarters (Austin),Southwest Key Programs-National Headquarters (Austin),,"Austin, Travis",3,2025-10-02,2025-11-05,,2026-09-02T05:08:44.856399Z
+21ec306dcea97d17,TX,Southwest Key Programs-Casa Canutillo,Southwest Key Programs-Casa Canutillo,,"Canutillo, El Paso",2,2025-10-02,2025-11-05,,2026-09-02T05:08:44.856399Z
+184e6bf24c96b8f7,TX,Southwest Key Programs-Houston Headquarters,Southwest Key Programs-Houston Headquarters,,"Houston, Harris",10,2025-10-02,2025-11-05,,2026-09-02T05:08:44.856399Z
+b1fb0412f771b0be,TX,Yang Ming (America) Corporation,Yang Ming (America),,"Houston, Harris",118,2025-10-01,2025-10-01,,2026-09-02T05:08:44.856399Z
+0ddea11b6f73b753,TX,Memorial Hermann Health System Senior Living Facility,Memorial Hermann Health System Senior Living Facility,,"Houston, Harris",26,2025-10-01,2025-10-01,,2026-09-02T05:08:44.856399Z
+f7f61a104a073915,TX,Holiday Inn Club Vacations Incorporated-The Villages Resort,Holiday Inn Club Vacations Incorporated-The Villages Resort,,"Flint, Smith",82,2025-09-30,2025-11-28,,2026-09-02T05:08:44.856399Z
+ea433acd19b090ad,TX,"DTSV, Inc. (ITC Federal)","DTSV, Inc. (ITC Federal)",,"Irving, Dallas",169,2025-09-30,2025-11-30,,2026-09-02T05:08:44.856399Z
+8db0a7cb7b208b81,TX,"Seatrium AmFELS, Inc.",Seatrium AmFELS,,"Brownsville, Cameron",91,2025-09-30,2025-11-28,,2026-09-02T05:08:44.856399Z
+6589a440c507fd29,TX,Urban Alchemy (Arch Shelter),Urban Alchemy (Arch Shelter),,"Austin, Travis",55,2025-09-30,2025-09-30,,2026-09-02T05:08:44.856399Z
+1345926aad0ed09c,TX,Urban Alchemy (8th Street Shelter),Urban Alchemy (8th Street Shelter),,"Austin, Travis",54,2025-09-30,2025-09-30,,2026-09-02T05:08:44.856399Z
+0b1a0ab303c6b2b4,TX,Texas Instruments (DFAB),Texas Instruments (DFAB),,"Dallas, Dallas",163,2025-09-29,2025-12-12,,2026-09-02T05:08:44.856399Z
+2b9d134525501182,TX,Spirit Airlines (W PGL Warehouse),Spirit Airlines (W PGL Warehouse),,"Irving, Dallas",51,2025-09-25,2025-12-01,,2026-09-02T05:08:44.856399Z
+299bf4d6fe1ca851,TX,"Kira Aerospace, LLC. (NBOC)","Kira Aerospace, LLC. (NBOC)",,"Palestine, Anderson",6,2025-09-25,2025-09-30,,2026-09-02T05:08:44.856399Z
+b31fbfec9b4e1929,TX,Cottonwood Creek Healthcare Community,Cottonwood Creek Healthcare Community,,"Richardson, Dallas",70,2025-09-24,2025-12-01,,2026-09-02T05:08:44.856399Z
+836ed64fb9b64a2f,TX,Spirit Airlines (IAH),Spirit Airlines (IAH),,"Houston, Harris",173,2025-09-24,2025-12-01,,2026-09-02T05:08:44.856399Z
+79e2fcf29b769645,TX,Sunny Glen Children's Home,Sunny Glen Children's Home,,"Raymondville, Willacy",424,2025-09-18,2025-11-17,,2026-09-02T05:08:44.856399Z
+6b0f1f2ad4604142,TX,Accelore Group-Amazon Logistics (DDF2-Balch Springs),Accelore Group-Amazon Logistics (DDF2-Balch Springs),,"Mesquite, Dallas",107,2025-09-17,2025-11-01,,2026-09-02T05:08:44.856399Z
+22627172c768b2ca,TX,Accelore Group-Amazon Logistics (DDA9- Fort Worth),Accelore Group-Amazon Logistics (DDA9- Fort Worth),,"Fort Worth, Tarrant",107,2025-09-17,2025-11-01,,2026-09-02T05:08:44.856399Z
+ff206952cf52b1db,TX,"Hill & Smith, Inc.",Hill & Smith,,"Garland, Dallas",46,2025-09-10,2025-11-01,,2026-09-02T05:08:44.856399Z
+e93d1d7641b07990,TX,CyraCom International Inc.,CyraCom International,,"Houston, Harris",327,2025-09-04,2025-12-01,,2026-09-02T05:08:44.856399Z
+dbd6652b9731ebf7,TX,"Essendant Management Services, LLC",Essendant Management Services,,"Houston, Harris",92,2025-09-04,2025-11-07,,2026-09-02T05:08:44.856399Z
+121e43026fa5feab,TX,"Condair Operations, LLC",Condair Operations,,"Center, Shelby",51,2025-09-03,2025-11-03,,2026-09-02T05:08:44.856399Z
+15b224d1862e526b,TX,MPW Services,MPW Services,,"Austin, Travis",82,2025-08-27,2025-09-01,,2026-09-02T05:08:44.856399Z
+a85c1f3967f0b504,TX,"Tech Werks, LLC (San Antonio)","Tech Werks, LLC (San Antonio)",,"San Antonio, Bexar",87,2025-08-20,2025-09-15,,2026-09-02T05:08:44.856399Z
+f2ff57d19acf5e9a,TX,"Promises Behavioral Health, LLC",Promises Behavioral Health,,"Wimberley, Hays",58,2025-08-18,2025-10-17,,2026-09-02T05:08:44.856399Z
+30c2e6c0c3f2efd3,TX,"CarOffer, LLC",CarOffer,,"Addison, Dallas",101,2025-08-13,2025-10-06,,2026-09-02T05:08:44.856399Z
+d4c1c9ee0086f65e,TX,"Southwest Key Programs, Inc. La Esperanza)","Southwest Key Programs, Inc. La Esperanza)",,"Brownsville, Cameron",4,2025-08-06,2025-10-05,,2026-09-02T05:08:44.856399Z
+abdde004fe7d05d9,TX,"Southwest Key Programs, Inc. (Casa Rio Grande)","Southwest Key Programs, Inc. (Casa Rio Grande)",,"San Benito, Cameron",3,2025-08-06,2025-10-05,,2026-09-02T05:08:44.856399Z
+a7e1a2f7401fb814,TX,"Southwest Key Programs, Inc. (Casa Norma Linda)","Southwest Key Programs, Inc. (Casa Norma Linda)",,"Los Fresnos, Cameron",3,2025-08-06,2025-10-05,,2026-09-02T05:08:44.856399Z
+9fa5a53eaaa3921d,TX,"Southwest Key Programs, Inc. (SWK National Headquarters)","Southwest Key Programs, Inc. (SWK National Headquarters)",,"Austin, Travis",45,2025-08-06,2025-10-06,,2026-09-02T05:08:44.856399Z
+4b0915c47bb1539f,TX,"Southwest Key Programs, Inc.(Casa Nueva Esperanza)","Southwest Key Programs, Inc.(Casa Nueva Esperanza)",,"Brownsville, Cameron",9,2025-08-06,2025-10-05,,2026-09-02T05:08:44.856399Z
+48e826a6a8158304,TX,"Southwest Key Programs, Inc. (Casa Canutillo)","Southwest Key Programs, Inc. (Casa Canutillo)",,"Canutillo, El Paso",3,2025-08-06,2025-10-05,,2026-09-02T05:08:44.856399Z
+433c8b32537a1eef,TX,"Southwest Key Programs, Inc. (Casa Franklin)","Southwest Key Programs, Inc. (Casa Franklin)",,"El Paso, El Paso",1,2025-08-06,2025-10-05,,2026-09-02T05:08:44.856399Z
+2dbd1babf1657c27,TX,UPS (Dallas Facility),UPS (Dallas Facility),,"Dallas, Dallas",62,2025-08-06,2025-08-05,,2026-09-02T05:08:44.856399Z
+2a726fdf4e8de040,TX,"Solarcycle, Inc.",Solarcycle,,"Odessa, Ector",70,2025-08-06,2025-10-06,,2026-09-02T05:08:44.856399Z
+2a2c860e2a772bb7,TX,"Southwest Key Programs, Inc.(South Texas HQ)","Southwest Key Programs, Inc.(South Texas HQ)",,"Brownsville, Cameron",13,2025-08-06,2025-10-05,,2026-09-02T05:08:44.856399Z
+d8a8a331b69ed523,TX,"Equus Workforce Solutions Houston Opertions- Pearland (Arbor E&T, LLC)","Equus Workforce Solutions Houston Opertions- Pearland (Arbor E&T, LLC)",,"Pearland, Brazoria",13,2025-08-01,2025-09-30,,2026-09-02T05:08:44.856399Z
+75fe1c4f2164effa,TX,"Equus Workforce Solutions Houston Opertions- Westheimer Rd. (Arbor E&T, LLC)","Equus Workforce Solutions Houston Opertions- Westheimer Rd. (Arbor E&T, LLC)",,"Houston, Harris",28,2025-08-01,2025-09-30,,2026-09-02T05:08:44.856399Z
+71a77b470ad6b406,TX,"Equus Workforce Solutions Houston Opertions- Acres Home (Arbor E&T, LLC)","Equus Workforce Solutions Houston Opertions- Acres Home (Arbor E&T, LLC)",,"Houston, Harris",12,2025-08-01,2025-09-30,,2026-09-02T05:08:44.856399Z
+fb59d3f94b2dfc1c,TX,"Equus Workforce Solutions-Greenville Ave. (Arbor E&T, LLC)","Equus Workforce Solutions-Greenville Ave. (Arbor E&T, LLC)",,"Dallas, Dallas",10,2025-07-31,2025-09-30,,2026-09-02T05:08:44.856399Z
+ef907087bb06434a,TX,"Southwest Key Programs, Inc. (Casa Oasis)","Southwest Key Programs, Inc. (Casa Oasis)",,"McAllen, Hidalgo",128,2025-07-31,2025-10-05,,2026-09-02T05:08:44.856399Z
+cb06fa251c4aaa2f,TX,"Equus Workforce Solutions-Highway 161. (Arbor E&T, LLC)","Equus Workforce Solutions-Highway 161. (Arbor E&T, LLC)",,"Grand Prairie, Dallas",71,2025-07-31,2025-09-30,,2026-09-02T05:08:44.856399Z
+c7f76f2ac80bb5a4,TX,"Southwest Key Programs, Inc. (Casa Montezuma)","Southwest Key Programs, Inc. (Casa Montezuma)",,"Channelview, Harris",238,2025-07-31,2025-10-05,,2026-09-02T05:08:44.856399Z
+afdff1eab4ea9f6a,TX,"Equus Workforce Solutions-Malcolm X Blvd.(Arbor E&T, LLC)","Equus Workforce Solutions-Malcolm X Blvd.(Arbor E&T, LLC)",,"Dallas, Dallas",16,2025-07-31,2025-09-30,,2026-09-02T05:08:44.856399Z
+8466a8277e90d53f,TX,"Southwest Key Programs, Inc. (Casa Houston Reliant)","Southwest Key Programs, Inc. (Casa Houston Reliant)",,"Houston, Harris",211,2025-07-31,2025-10-05,,2026-09-02T05:08:44.856399Z
+5c90eed20487ef73,TX,"Equus Workforce Solutions-N.Tenth St. (Arbor E&T, LLC)","Equus Workforce Solutions-N.Tenth St. (Arbor E&T, LLC)",,"Garland, Dallas",10,2025-07-31,2025-09-30,,2026-09-02T05:08:44.856399Z
+5c8d1a402d8ce16a,TX,"Equus Workforce Solutions-Buckner Blvd.(Arbor E&T, LLC)","Equus Workforce Solutions-Buckner Blvd.(Arbor E&T, LLC)",,"Dallas, Dallas",16,2025-07-31,2025-09-30,,2026-09-02T05:08:44.856399Z
+565441e71aa63720,TX,"Equus Workforce Solutions-Irving Blvd. (Arbor E&T, LLC)","Equus Workforce Solutions-Irving Blvd. (Arbor E&T, LLC)",,"Irving, Dallas",13,2025-07-31,2025-09-30,,2026-09-02T05:08:44.856399Z
+4f5e0564b2e47eb4,TX,"Southwest Key Programs, Inc. (Houston HQ)","Southwest Key Programs, Inc. (Houston HQ)",,"Houston, Harris",11,2025-07-31,2025-10-05,,2026-09-02T05:08:44.856399Z
+3fece1a4fda5c246,TX,"Turner Industries (Paris, Texas September 2025)","Turner Industries (Paris, Texas September 2025)",,"Paris, Lamar",211,2025-07-31,2025-09-30,,2026-09-02T05:08:44.856399Z
+3e157c1e9b635eaa,TX,"Southwest Key Programs, Inc. (Casa Quetzal)","Southwest Key Programs, Inc. (Casa Quetzal)",,"Houston, Harris",309,2025-07-31,2025-10-05,,2026-09-02T05:08:44.856399Z
+3a65b27f66c73fb0,TX,"Equus Workforce Solutions-Camp Wisdom (Arbor E&T, LLC)","Equus Workforce Solutions-Camp Wisdom (Arbor E&T, LLC)",,"Dallas, Dallas",1,2025-07-31,2025-09-30,,2026-09-02T05:08:44.856399Z
+21f6a7cea9e6a57d,TX,"Southwest Key Programs, Inc. (Casa Sueno)","Southwest Key Programs, Inc. (Casa Sueno)",,"Weslaco, Hidalgo",93,2025-07-31,2025-10-05,,2026-09-02T05:08:44.856399Z
+180b13e996bb2b0b,TX,"Equus Workforce Solutions-Alpha Rd.(Arbor E&T, LLC)","Equus Workforce Solutions-Alpha Rd.(Arbor E&T, LLC)",,"Dallas, Dallas",17,2025-07-31,2025-09-30,,2026-09-02T05:08:44.856399Z
+0f503302f8f6a07a,TX,Planned Parenthood Gulf Coast (Prevention Park Facility),Planned Parenthood Gulf Coast (Prevention Park Facility),,"Houston, Harris",114,2025-07-31,2025-09-30,,2026-09-02T05:08:44.856399Z
+0937240d79e57aa8,TX,"Southwest Key Programs, Inc. (Casa Sunzal)","Southwest Key Programs, Inc. (Casa Sunzal)",,"Houston, Harris",223,2025-07-31,2025-10-05,,2026-09-02T05:08:44.856399Z
+e04bf89ab2e44e49,TX,"Equus Workforce Solutions Weatherford (Arbor E&T, LLC)","Equus Workforce Solutions Weatherford (Arbor E&T, LLC)",,"Weatherford, Parker",16,2025-07-30,2025-09-30,,2026-09-02T05:08:44.856399Z
+b3e3ee0d624e57ee,TX,"Equus Workforce Solutions Greenville (Arbor E&T, LLC)","Equus Workforce Solutions Greenville (Arbor E&T, LLC)",,"Greenville, Hunt",9,2025-07-30,2025-09-30,,2026-09-02T05:08:44.856399Z
+9b067aa4e29ad540,TX,"Equus Workforce Solutions Arlington (Arbor E&T, LLC)","Equus Workforce Solutions Arlington (Arbor E&T, LLC)",,"Arlington, Tarrant",4,2025-07-30,2025-09-30,,2026-09-02T05:08:44.856399Z
+81e13761a85e82b4,TX,"Equus Workforce Solutions Terrell (Arbor E&T, LLC)","Equus Workforce Solutions Terrell (Arbor E&T, LLC)",,"Terrell, Kaufman",8,2025-07-30,2025-09-30,,2026-09-02T05:08:44.856399Z
+4b0aa2d5e155ec58,TX,"Equus Workforce Solutions Denton (Arbor E&T, LLC)","Equus Workforce Solutions Denton (Arbor E&T, LLC)",,"Denton, Denton",27,2025-07-30,2025-09-30,,2026-09-02T05:08:44.856399Z
+307a8bfda7de36ec,TX,Trinity Rail-Trinity Tank Car-Jordan Valley,Trinity Rail-Trinity Tank Car-Jordan Valley,,"Longview, Gregg",170,2025-07-30,2025-09-30,,2026-09-02T05:08:44.856399Z
+157df3329b5a13f6,TX,"Equus Workforce Solutions Stephenville (Arbor E&T, LLC)","Equus Workforce Solutions Stephenville (Arbor E&T, LLC)",,"Stephenville, Erath",2,2025-07-30,2025-09-30,,2026-09-02T05:08:44.856399Z
+13ba726e1a4d6bf5,TX,"Equus Workforce Solutions McKinney (Arbor E&T, LLC)","Equus Workforce Solutions McKinney (Arbor E&T, LLC)",,"McKinney, Collin",15,2025-07-30,2025-09-30,,2026-09-02T05:08:44.856399Z
+2ba7add2d123ccc1,TX,Peraton Balloon Operations (NASA),Peraton Balloon Operations (NASA),,"Palestine, Anderson",81,2025-07-23,2025-09-30,,2026-09-02T05:08:44.856399Z
+ae6c7f55521d21a5,TX,SM Cargo,SM Cargo,,"Houston, Harris",194,2025-07-21,2025-09-21,,2026-09-02T05:08:44.856399Z
+5cab7f8ede27ca36,TX,Chevron Corporation (HESS Corporation),Chevron Corporation (HESS Corporation),,"Houston, Harris",575,2025-07-21,2025-09-26,,2026-09-02T05:08:44.856399Z
+7e232df01a9e8fd9,TX,"AMERICA, INC., d/b/a LIXIL",America,Lixil,"Grand Prairie, Tarrant",65,2025-07-16,2025-09-08,,2026-09-02T05:08:44.856399Z
+c5508950804c3d79,TX,"Sodexo, Inc.and Affiliates (Texas Southern University)","Sodexo, Inc.and Affiliates (Texas Southern University)",,"Houston, Harris",81,2025-07-10,2025-07-31,,2026-09-02T05:08:44.856399Z
+a3aba0ffc663a804,TX,International Paper Company(W. Chaplin),International Paper Company(W. Chaplin),,"Edinburg, Hidalgo",66,2025-07-10,2025-09-01,,2026-09-02T05:08:44.856399Z
+26e70a96d677d525,TX,International Paper Company(N. Closner Blvd.),International Paper Company(N. Closner Blvd.),,"Edinburg, Hidalgo",66,2025-07-10,2025-09-01,,2026-09-02T05:08:44.856399Z
+1df83602cb10a14b,TX,International Paper Company(N. 26th),International Paper Company(N. 26th),,"Edinburg, Hidalgo",5,2025-07-10,2025-09-01,,2026-09-02T05:08:44.856399Z
+fabcb72bc114e2aa,TX,Management & Training Corporation (Lychner State Jail),Management & Training Corporation (Lychner State Jail),,"Humble, Harris",17,2025-07-09,2025-08-31,,2026-09-02T05:08:44.856399Z
+b5fa7fdcf8e09a17,TX,Management & Training Corporation (Plane State Jail),Management & Training Corporation (Plane State Jail),,"Dayton, Liberty",8,2025-07-09,2025-08-31,,2026-09-02T05:08:44.856399Z
+a74cf4bf43cd5aaa,TX,Management & Training Corporation (Dominguez State Jail),Management & Training Corporation (Dominguez State Jail),,"San Antonio, Bexar",8,2025-07-09,2025-08-31,,2026-09-02T05:08:44.856399Z
+a611c15987390819,TX,Intel Corporation,Intel,,"Austin, Travis",110,2025-07-09,2025-07-15,,2026-09-02T05:08:44.856399Z
+9a6c85566d4afcab,TX,Management & Training Corporation (Travis County State Jail),Management & Training Corporation (Travis County State Jail),,"Austin, Travis",4,2025-07-09,2025-08-31,,2026-09-02T05:08:44.856399Z
+7f61e29ecfa1b3c0,TX,"GI Alliance Management, LLC",GI Alliance Management,,"Southlake, Denton",25,2025-07-09,2025-09-01,,2026-09-02T05:08:44.856399Z
+66b314017f943340,TX,Management & Training Corporation (Hutchins State Jail),Management & Training Corporation (Hutchins State Jail),,"Dallas, Dallas",8,2025-07-09,2025-08-31,,2026-09-02T05:08:44.856399Z
+15d396e6dbc29204,TX,Management & Training Corporation (Gist State Jail),Management & Training Corporation (Gist State Jail),,"Beaumont, Jefferson",6,2025-07-09,2025-08-31,,2026-09-02T05:08:44.856399Z
+cb8983e82a4bf656,TX,"Movate, Inc. (AT&T Project)","Movate, Inc. (AT&T Project)",,"Temple, Bell",71,2025-07-08,2025-07-01,,2026-09-02T05:08:44.856399Z
+aa022f5d3c1d54e7,TX,Santa Maria Hostel,Santa Maria Hostel,,"Houston, Harris",41,2025-07-02,2025-08-31,,2026-09-02T05:08:44.856399Z
+a8ab83b3c982694f,TX,FedEx Corporation (Plano),FedEx Corporation (Plano),,"Plano, Collin",50,2025-07-02,2025-09-01,,2026-09-02T05:08:44.856399Z
+8b78bb0064d21e1c,TX,Memorial Herman Health System Skilled Nursing Facility,Memorial Herman Health System Skilled Nursing Facility,,"Houston, Harris",83,2025-07-02,2025-09-01,,2026-09-02T05:08:44.856399Z
+7c9ff4f7666ff18a,TX,TT Electronics Facility IRC (Plano),TT Electronics Facility IRC (Plano),,"Plano, Collin",75,2025-07-02,2025-08-31,,2026-09-02T05:08:44.856399Z
+6f1f0091f41ea333,TX,International Business Machines-Coppell,International Business Machines-Coppell,,"Coppell, Dallas",59,2025-07-02,2025-08-29,,2026-09-02T05:08:44.856399Z
+5a0eeed07c277a28,TX,Fed Ex Corporation (Garland),Fed Ex Corporation (Garland),,"Garland, Dallas",81,2025-07-02,2025-09-01,,2026-09-02T05:08:44.856399Z
+bfdf47592315f178,TX,"Compass Group, Inc.d.b.a.Chartwells (Lancaster ISD)",Compass Group,Chartwells (Lancaster ISD,"Lancaster, Dallas",83,2025-06-24,2025-06-30,,2026-09-02T05:08:44.856399Z
+69cd50c89d5c51d3,TX,Management & Training Corporation (Willacy County State Jail),Management & Training Corporation (Willacy County State Jail),,"Raymondville, Willacy",166,2025-06-24,2025-08-31,,2026-09-02T05:08:44.856399Z
+3fd8085753e9f769,TX,Management & Training Corporation (Gregory S. Coleman Unit),Management & Training Corporation (Gregory S. Coleman Unit),,"Lockhart, Caldwell",135,2025-06-24,2025-08-31,,2026-09-02T05:08:44.856399Z
+2c4f2cb831286890,TX,Management & Training Corporation (Kyle Correctional Center),Management & Training Corporation (Kyle Correctional Center),,"Kyle, Hays",98,2025-06-24,2025-08-31,,2026-09-02T05:08:44.856399Z
+26b4184735282f93,TX,Management & Training Corporation (Bridgeport Correctional Facility),Management & Training Corporation (Bridgeport Correctional Facility),,"Bridgeport, Wise",103,2025-06-24,2025-08-31,,2026-09-02T05:08:44.856399Z
+1ad0e4e547d84b3a,TX,Management & Training Corporation (Lindsey State Jail),Management & Training Corporation (Lindsey State Jail),,"Jacksboro, Jack",117,2025-06-24,2025-08-31,,2026-09-02T05:08:44.856399Z
+b820bcd85f3e7993,TX,Management & Training Corp. (Bradshaw State Jail),Management & Training Corp. (Bradshaw State Jail),,"Henderson, Rusk",172,2025-06-20,2025-08-31,,2026-09-02T05:08:44.856399Z
+8dfaa4e417db2b92,TX,Management & Training Corp. (Billy Moore Correctional Center),Management & Training Corp. (Billy Moore Correctional Center),,"Overton, Rusk",109,2025-06-20,2025-08-31,,2026-09-02T05:08:44.856399Z
+9ae05d06dedea708,TX,"Encino Energy, LLC",Encino Energy,,"Houston, Harris",121,2025-06-18,2025-08-17,,2026-09-02T05:08:44.856399Z
+1dbfb8d1484f4331,TX,Tyson Foods (Fort Worth Distribution Center),Tyson Foods (Fort Worth Distribution Center),,"Fort Worth, Tarrant",275,2025-06-18,2025-08-15,,2026-09-02T05:08:44.856399Z
+0d07eabe7e30f8a1,TX,"Khoros, LLC.",Khoros,,"Austin, Travis",116,2025-06-18,2025-08-19,,2026-09-02T05:08:44.856399Z
+1ef38d22294640b3,TX,Lockheed Martin Corp. -Fort Bliss ATMP,Lockheed Martin Corp. -Fort Bliss ATMP,,"Fort Bliss, El Paso",17,2025-06-17,2025-06-30,,2026-09-02T05:08:44.856399Z
+ccf1a1bd5a26b345,TX,Tom Thumb Store #3645 Plano,Tom Thumb Store #3645 Plano,,"Plano, Collin",75,2025-06-11,2025-07-26,,2026-09-02T05:08:44.856399Z
+c48e501ba636583e,TX,Randalls Store #1041,Randalls,,"Houston, Harris",102,2025-06-11,2025-08-16,,2026-09-02T05:08:44.856399Z
+4eed52373d2d7d65,TX,Movate Inc. (The Genesis Project),Movate Inc. (The Genesis Project),,"Temple, Bell",26,2025-06-11,2025-08-08,,2026-09-02T05:08:44.856399Z
+e0a27cd720ef0477,TX,XiFin,XiFin,,"Austin, Travis",87,2025-06-04,2025-05-29,,2026-09-02T05:08:44.856399Z
+85578ad71f9d950e,TX,Eckerd Connects (David Carrasco Job Corps),Eckerd Connects (David Carrasco Job Corps),,"El Paso, El Paso",77,2025-06-04,2025-06-13,,2026-09-02T05:08:44.856399Z
+5279d54a9b67007f,TX,Sunnova Energy Corporation,Sunnova Energy,,"Houston, Harris",,2025-06-03,2025-05-30,,2026-09-02T05:08:44.856399Z
+34c395832974851f,TX,JC Penney (Allaince Supply Chain),JC Penney (Allaince Supply Chain),,"Haslet, Tarrant",296,2025-06-03,2025-08-01,,2026-09-02T05:08:44.856399Z
+ec44e780a5e6af8d,TX,Texana Center Aqua Vista Group,Texana Center Aqua Vista Group,,"Rosenberg, Fort Bend",4,2025-05-28,2025-05-21,,2026-09-02T05:08:44.856399Z
+da5430af458aeddb,TX,Texana Center (Building B) Airport Service Center,Texana Center (Building B) Airport Service Center,,"Rosenberg, Fort Bend",25,2025-05-28,2025-05-21,,2026-09-02T05:08:44.856399Z
+cbcf3bf05fce1b3d,TX,Texana Center Russeff Filed Home,Texana Center Russeff Filed Home,,"Rosenberg, Fort Bend",5,2025-05-28,2025-05-21,,2026-09-02T05:08:44.856399Z
+c6d6e6935e8b39a9,TX,Texana Center North Street Group Home,Texana Center North Street Group Home,,"Rosenberg, Fort Bend",7,2025-05-28,2025-05-21,,2026-09-02T05:08:44.856399Z
+a0d9aa4e6e6b356f,TX,Texana Center Camden Landing Group Home,Texana Center Camden Landing Group Home,,"Rosenberg, Fort Bend",5,2025-05-28,2025-05-21,,2026-09-02T05:08:44.856399Z
+9c668a227b8ae36b,TX,Texana Center El Campo Learning Center,Texana Center El Campo Learning Center,,"El Campo, Wharton",9,2025-05-28,2025-05-21,,2026-09-02T05:08:44.856399Z
+82aa4c871e518683,TX,Texana Center Dovecoft Group Home,Texana Center Dovecoft Group Home,,"Rosenberg, Fort Bend",6,2025-05-28,2025-05-21,,2026-09-02T05:08:44.856399Z
+7c5b72be21100b6b,TX,Texana Center (Building A) Airport Service Center,Texana Center (Building A) Airport Service Center,,"Rosenberg, Fort Bend",27,2025-05-28,2025-05-21,,2026-09-02T05:08:44.856399Z
+7a0a28e097be7be5,TX,Texana Center Sunset Group Home,Texana Center Sunset Group Home,,"Wharton, Wharton",8,2025-05-28,2025-05-21,,2026-09-02T05:08:44.856399Z
+78b13d07c1a083c7,TX,Texana Center Willowbend Group Home,Texana Center Willowbend Group Home,,"Wharton, Wharton",6,2025-05-28,2025-05-21,,2026-09-02T05:08:44.856399Z
+628ede69acdbff77,TX,Texana Center University Group Home,Texana Center University Group Home,,"Wharton, Wharton",5,2025-05-28,2025-05-21,,2026-09-02T05:08:44.856399Z
+1b671154ef76fad8,TX,Texana Center Maude Group Home,Texana Center Maude Group Home,,"Wharton, Wharton",4,2025-05-28,2025-05-21,,2026-09-02T05:08:44.856399Z
+001df53c2abb487c,TX,Texana Center Glenn Lakes Group Home,Texana Center Glenn Lakes Group Home,,"Missouri City, Fort Bend",7,2025-05-28,2025-05-21,,2026-09-02T05:08:44.856399Z
+dd670cbbf9e5bcc9,TX,LACROIX,Lacroix,,"El Paso, El Paso",7,2025-05-27,2025-07-01,,2026-09-02T05:08:44.856399Z
+fc3ceac8dd3add44,TX,F&S Produce West LLC,F&S Produce West,,"Houston, Harris",225,2025-05-21,2025-07-20,,2026-09-02T05:08:44.856399Z
+b61b2f31626b4a19,TX,Child Care Associates,Child Care Associates,,"Ft. Worth, Tarrant",93,2025-05-21,2025-06-30,,2026-09-02T05:08:44.856399Z
+ae7c5c520fa09c01,TX,Child Care Associates (Everman),Child Care Associates (Everman),,"Fort Worth, Tarrant",9,2025-05-21,2025-06-30,,2026-09-02T05:08:44.856399Z
+9913998a2165e69d,TX,Child Care Associates (Reagan),Child Care Associates (Reagan),,"Fort Worth, Tarrant",14,2025-05-21,2025-06-30,,2026-09-02T05:08:44.856399Z
+84839bcffe0c52c6,TX,Child Care Associates (Morris Foundation),Child Care Associates (Morris Foundation),,"Fort Worth, Tarrant",17,2025-05-21,2025-06-30,,2026-09-02T05:08:44.856399Z
+83ee9ab0423b568a,TX,Child Care Associates (Meachum),Child Care Associates (Meachum),,"Fort Worth, Tarrant",15,2025-05-21,2025-06-30,,2026-09-02T05:08:44.856399Z
+820e479ee61d581a,TX,Child Care Associates (Linda Kay),Child Care Associates (Linda Kay),,"Hurst, Tarrant",15,2025-05-21,2025-06-30,,2026-09-02T05:08:44.856399Z
+7cec82c4899fe917,TX,Child Care Associates(North Fort Worth),Child Care Associates(North Fort Worth),,"Fort Worth, Tarrant",16,2025-05-21,2025-06-30,,2026-09-02T05:08:44.856399Z
+49f0cd24eaff7417,TX,Child Care Associates (Tucker),Child Care Associates (Tucker),,"Arlington, Tarrant",7,2025-05-21,2025-06-30,,2026-09-02T05:08:44.856399Z
+4355868274ff562a,TX,Child Care Associates (Arlington 2),Child Care Associates (Arlington 2),,"Arlington, Tarrant",22,2025-05-21,2025-06-30,,2026-09-02T05:08:44.856399Z
+3f9124df6a81a98a,TX,Child Care Associates (Blanche),Child Care Associates (Blanche),,"Fort Worth, Tarrant",17,2025-05-21,2025-06-30,,2026-09-02T05:08:44.856399Z
+3d3b0c1a89942faf,TX,Child Care Associates (Rosedale V),Child Care Associates (Rosedale V),,"Fort Worth, Tarrant",16,2025-05-21,2025-06-30,,2026-09-02T05:08:44.856399Z
+2d42857425ccf604,TX,Child Care Associates (JA Hargrave),Child Care Associates (JA Hargrave),,"Fort Worth, Tarrant",19,2025-05-21,2025-06-30,,2026-09-02T05:08:44.856399Z
+2abd1fefaa534c10,TX,Child Care Associates (Mansfield),Child Care Associates (Mansfield),,"Mansfield, Tarrant",15,2025-05-21,2025-06-30,,2026-09-02T05:08:44.856399Z
+2664fd2eb937e31c,TX,Child Care Associates (Carson),Child Care Associates (Carson),,"Fort Worth, Tarrant",14,2025-05-21,2025-05-21,,2026-09-02T05:08:44.856399Z
+21653fcd1af520a4,TX,Child Care Associates (Diamond Road),Child Care Associates (Diamond Road),,"Fort Worth, Tarrant",13,2025-05-21,2025-06-30,,2026-09-02T05:08:44.856399Z
+10206103ef2e8edb,TX,Sodexo (International Leadership TX),Sodexo (International Leadership TX),,"Irving, Dallas",165,2025-05-21,2025-06-30,,2026-09-02T05:08:44.856399Z
+9e2982e32a2d9b74,TX,FedEx Supply Chain Logistics & Electronics (Ft. Worth),FedEx Supply Chain Logistics & Electronics (Ft. Worth),,"Fort Worth, Tarrant",305,2025-05-20,2025-07-06,,2026-09-02T05:08:44.856399Z
+ff0620a53c037676,TX,Chevron (N. FM 1788),Chevron (N. FM 1788),,"Midland, Midland",14,2025-05-16,2025-07-15,,2026-09-02T05:08:44.856399Z
+a22ecb700bb94da8,TX,Chevron (S. County Rd.),Chevron (S. County Rd.),,"Midland, Midland",1,2025-05-16,2025-07-15,,2026-09-02T05:08:44.856399Z
+6ac3217a1e1a2084,TX,Chevron (Deauville Blvd),Chevron (Deauville Blvd),,"Midland, Midland",185,2025-05-16,2025-07-15,,2026-09-02T05:08:44.856399Z
+e28b56f96b851540,TX,International Paper Company(Edinburg),International Paper Company(Edinburg),,"Edinburg, Hidalgo",63,2025-05-14,2025-05-09,,2026-09-02T05:08:44.856399Z
+c5a145f145be8d9a,TX,Atria Wealth Solutions,Atria Wealth Solutions,,"Houston, Fort Bend",55,2025-05-14,2025-07-04,,2026-09-02T05:08:44.856399Z
+aef8ce00e646c3ef,TX,International Paper Company (McAllen),International Paper Company (McAllen),,"McAllen, Hidalgo",5,2025-05-14,2025-05-09,,2026-09-02T05:08:44.856399Z
+54a0345b5883d8de,TX,International Paper Company (Edinburg W. Chapin),International Paper Company (Edinburg W. Chapin),,"Edinburg, Hidalgo",64,2025-05-14,2025-05-09,,2026-09-02T05:08:44.856399Z
+6244c78c6566d8fe,TX,Museum of Ice Cream,Museum of Ice Cream,,"Austin, Travis",38,2025-05-08,2025-07-10,,2026-09-02T05:08:44.856399Z
+5567b4b4fbae5b29,TX,WSS (Foot Locker),WSS (Foot Locker),,"Houston, Harris",57,2025-05-08,2025-07-07,,2026-09-02T05:08:44.856399Z
+2aa251329fe69812,TX,TRIGO (Tesla),TRIGO (Tesla),,"Austin, Travis",50,2025-05-07,2025-04-28,,2026-09-02T05:08:44.856399Z
+615e4bd03fcc21f3,TX,Tom Thumb Store #3579,Tom Thumb,,"Allen, Collin",75,2025-05-06,,,2026-09-02T05:08:44.856399Z
+56122dd3e5786900,TX,Smurfikt Westrock Facility (ForneyTexas),Smurfikt Westrock Facility (ForneyTexas),,"Forney, Kaufman",200,2025-05-06,2025-06-30,,2026-09-02T05:08:44.856399Z
+11dd2678a3737406,TX,Chick-Fil-A (N. Collins St. Plant),Chick-Fil-A (N. Collins St. Plant),,"Arlington, Tarrant",10,2025-05-01,2025-06-07,,2026-09-02T05:08:44.856399Z
+f6cb6f41546c53b7,TX,Texas Central School Bus (Purnell),Texas Central School Bus (Purnell),,"Lewisville, Denton",174,2025-04-30,2025-07-17,,2026-09-02T05:08:44.856399Z
+dfa5b2acbdf981ea,TX,PULAU Corporation,Pulau,,"Killeen, Bell",64,2025-04-30,2025-06-30,,2026-09-02T05:08:44.856399Z
+b3ebf9c6860f30ea,TX,Texas Central School Bus (Mill),Texas Central School Bus (Mill),,"Lewisville, Denton",131,2025-04-30,2025-07-15,,2026-09-02T05:08:44.856399Z
+801b8194c3fa227d,TX,Texas Central School Bus (Cougar Alley),Texas Central School Bus (Cougar Alley),,"The Colony, Denton",155,2025-04-30,2025-07-15,,2026-09-02T05:08:44.856399Z
+a9e3f25676f10bd7,TX,"Graphic Solutions, Inc (Welch Rd)","Graphic Solutions, Inc (Welch Rd)",,"Dallas, Dallas",2,2025-04-23,2025-06-13,,2026-09-02T05:08:44.856399Z
+64ceed278abfeb35,TX,"Graphic Solutions, Inc. (Spring Valley)","Graphic Solutions, Inc. (Spring Valley)",,"Dallas, Dallas",64,2025-04-23,2025-06-13,,2026-09-02T05:08:44.856399Z
+45b6a224c39276c6,TX,Graphic Solutuions Inc. (Farmers Branch),Graphic Solutuions Inc. (Farmers Branch),,"Farmers Branch, Dallas",5,2025-04-23,2025-06-13,,2026-09-02T05:08:44.856399Z
+8c8fa5509184d766,TX,Virtex Enterprises LP,Virtex Enterprises,,"Austin, Travis",84,2025-04-16,2025-06-14,,2026-09-02T05:08:44.856399Z
+41e14d28a3f03d09,TX,MedStar Mobile Healthcare,MedStar Mobile Healthcare,,"Fort Worth, Tarrant",589,2025-04-16,2025-07-01,,2026-09-02T05:08:44.856399Z
+fdd174eb4eda488a,TX,Catholic Charities Archdiocese Of Galveston-Houston (Cabrini CFLA)Louisiana Street,Catholic Charities Archdiocese Of Galveston-Houston (Cabrini CFLA)Louisiana Street,,"Houston, Harris",6,2025-04-08,,,2026-09-02T05:08:44.856399Z
+d032211b938ac745,TX,US Cellular Corporation,US Cellular,,"Wichita Falls, Archer",1,2025-04-08,2025-06-02,,2026-09-02T05:08:44.856399Z
+a9c3e534659420b2,TX,Raices (April 2025),Raices (April 2025),,"San Antonio, Bexar",159,2025-04-08,2025-04-02,,2026-09-02T05:08:44.856399Z
+98cfe46603a89820,TX,Catholic Charities Archdiocese Of Galveston-Houston (Cabrini CFLA)San Felipe,Catholic Charities Archdiocese Of Galveston-Houston (Cabrini CFLA)San Felipe,,"Houston, Harris",36,2025-04-08,2025-03-31,,2026-09-02T05:08:44.856399Z
+24281c827b8dceb8,TX,Catholic Charities Archdiocese Of Galveston-Houston (Cabrini CFLA)South Loop West,Catholic Charities Archdiocese Of Galveston-Houston (Cabrini CFLA)South Loop West,,"Houston, Harris",1,2025-04-08,2025-03-31,,2026-09-02T05:08:44.856399Z
+09c10d6e87743a81,TX,"Movate, Inc.",Movate,,"Temple, Bell",51,2025-04-08,2025-05-31,,2026-09-02T05:08:44.856399Z
+00a026bb41e7abcb,TX,Catholic Charities Archdiocese Of Galveston-Houston (Cabrini CFLA)Collins Road,Catholic Charities Archdiocese Of Galveston-Houston (Cabrini CFLA)Collins Road,,"Richmond, Fort Bend",2,2025-04-08,2025-03-31,,2026-09-02T05:08:44.856399Z
+b90cbbe6a824ff2b,TX,Envision Physician Services LLC,Envision Physician Services,,"San Antonio, Bexar",120,2025-04-02,2025-05-31,,2026-09-02T05:08:44.856399Z
+a81ea61c40616cf7,TX,Denali,Denali,,"Plano, Collin",28,2025-04-02,2025-06-02,,2026-09-02T05:08:44.856399Z
+124e047e3b9522f8,TX,Southeast Service Corporation Services for Education (Georgetown ISD),Southeast Service Corporation Services for Education (Georgetown ISD),,"Georgetown, Williamson",60,2025-04-02,2025-05-31,,2026-09-02T05:08:44.856399Z
+f30e86f628795978,TX,Durhan School Services-Wichita Falls,Durhan School Services-Wichita Falls,,"Wichita Falls, Archer",1,2025-03-26,2025-06-30,,2026-09-02T05:08:44.856399Z
+bf09443bff5e6a3b,TX,Waco Family Medicine (Meyer Center),Waco Family Medicine (Meyer Center),,"Waco, McLennan",52,2025-03-26,2025-03-21,,2026-09-02T05:08:44.856399Z
+a0f7221f9a5d06ee,TX,Waco Family Medicine (Bell's Hill),Waco Family Medicine (Bell's Hill),,"Waco, McLennan",52,2025-03-26,2025-03-21,,2026-09-02T05:08:44.856399Z
+9ca871fe35cace77,TX,VF's Dickies Headquarters,VF's Dickies Headquarters,,"Fort Worth, Tarrant",125,2025-03-26,2025-05-30,,2026-09-02T05:08:44.856399Z
+97b79a45a83e06a9,TX,Waco Familly Medicine (MCC),Waco Familly Medicine (MCC),,"Waco, McLennan",52,2025-03-26,2025-03-21,,2026-09-02T05:08:44.856399Z
+88d3f841f8c1576e,TX,American Bar Association (ProBAR),American Bar Association (ProBAR),,"Harlingen, Cameron",191,2025-03-26,2025-05-19,,2026-09-02T05:08:44.856399Z
+13d00906c169c187,TX,SouthState Bank,SouthState Bank,,"McKinney, Collin",141,2025-03-26,2025-05-31,,2026-09-02T05:08:44.856399Z
+a99da93be8ca4f6a,TX,"BH Security, LLC DBA Brinks Home",BH Security,Brinks Home,"Dallas, Dallas",61,2025-03-19,2025-06-30,,2026-09-02T05:08:44.856399Z
+03c2680e8832281d,TX,"Church World Service, Inc.",Church World Service,,"Houston, Harris",63,2025-03-18,2025-02-03,,2026-09-02T05:08:44.856399Z
+db072b8c2aa1c889,TX,"C&S Family of Companies (GSC Wholesale, LLC)","C&S Family of Companies (GSC Wholesale, LLC)",,"Houston, Harris",21,2025-03-17,2025-03-14,,2026-09-02T05:08:44.856399Z
+d3162e8a36cc3286,TX,Country Pure Foods,Country Pure Foods,,"Houston, Harris",60,2025-03-12,2025-05-09,,2026-09-02T05:08:44.856399Z
+cedeabf1dc30431c,TX,Constellis LLC (Laredo Border Station),Constellis LLC (Laredo Border Station),,"Laredo, Webb",121,2025-03-12,2025-03-07,,2026-09-02T05:08:44.856399Z
+c12091d08bb694ca,TX,Constellis LLC (Laredo #2),Constellis LLC (Laredo #2),,"Laredo, Webb",30,2025-03-12,2025-03-07,,2026-09-02T05:08:44.856399Z
+bd946cfdfef810f8,TX,"De La Paz Cleaning and Rental Services, LLC (Laredo)","De La Paz Cleaning and Rental Services, LLC (Laredo)",,"Laredo, Webb",142,2025-03-12,2025-03-07,,2026-09-02T05:08:44.856399Z
+5daea43772a011e3,TX,Chewy Inc. Fullfillment Center,Chewy Inc. Fullfillment Center,,"Dallas, Dallas",674,2025-03-12,2025-05-10,,2026-09-02T05:08:44.856399Z
+226b744ba9b99985,TX,Grocery Delivery E Services USA DBA Hello Fresh (Tarrant),Grocery Delivery E Services,Hello Fresh (Tarrant,"Grand Prairie, Tarrant",273,2025-03-12,2025-05-13,,2026-09-02T05:08:44.856399Z
+7d8c67d59f56b454,TX,Interfaith Ministries Of Greater Houston (Refugee Services Program),Interfaith Ministries Of Greater Houston (Refugee Services Program),,"Houston, Harris",101,2025-03-11,2025-03-14,,2026-09-02T05:08:44.856399Z
+73a5e4fe35b94155,TX,"De La Paz Cleaning and Rental Services, LLC (Donna)","De La Paz Cleaning and Rental Services, LLC (Donna)",,"Donna, Hidalgo",125,2025-03-11,2025-03-07,,2026-09-02T05:08:44.856399Z
+42e7aa37e8e4dfea,TX,"De La Paz Cleaning and Rental Services, LLC (North Eagle Pass)","De La Paz Cleaning and Rental Services, LLC (North Eagle Pass)",,"Eagle Pass, Maverick",60,2025-03-11,2025-03-03,,2026-09-02T05:08:44.856399Z
+2f8921ff07d79773,TX,"Centerra (Constellis, LLC)","Centerra (Constellis, LLC)",,"McAllen, Hidalgo",23,2025-03-11,2025-03-07,,2026-09-02T05:08:44.856399Z
+1eeffee8b977bc76,TX,"Catholic Charities, Diocese of Fort Worth, INC","Catholic Charities, Diocese of Fort Worth",,"Fort Worth, Tarrant",169,2025-03-10,2025-03-14,,2026-09-02T05:08:44.856399Z
+a70ad38aa0a0b122,TX,Ryder -Hutchins,Ryder -Hutchins,,"Hutchins, Dallas",110,2025-03-06,2025-05-10,,2026-09-02T05:08:44.856399Z
+76c6ffa47416c641,TX,"Hatco, Inc",Hatco,,"Longview, Gregg",68,2025-03-06,2025-02-27,,2026-09-02T05:08:44.856399Z
+ae3d6173a6890aec,TX,Pure Safety Group Inc. DBA Guardian Fall,Pure Safety Group,Guardian Fall,"Houston, Harris",59,2025-03-05,2025-03-20,,2026-09-02T05:08:44.856399Z
+755d22141332edb9,TX,"LUKE Holdings, Inc. (Del Rio)","LUKE Holdings, Inc. (Del Rio)",,"Del Rio, Val Verde",36,2025-03-05,2025-02-28,,2026-09-02T05:08:44.856399Z
+615775a16b1902ee,TX,"LUKE Holdings, Inc (Eagle Pass)","LUKE Holdings, Inc (Eagle Pass)",,"Eagle Pass, Maverick",129,2025-03-05,2025-02-28,,2026-09-02T05:08:44.856399Z
+011ecb2f1e1ced7a,TX,"LUKE Holdings, Inc. (Donna)","LUKE Holdings, Inc. (Donna)",,"Donna, Hidalgo",201,2025-03-05,2025-02-28,,2026-09-02T05:08:44.856399Z
+b05af24630c4e19d,TX,"LUKE Holdings, Inc. (El Paso)","LUKE Holdings, Inc. (El Paso)",,"El Paso, El Paso",227,2025-03-03,2025-02-28,,2026-09-02T05:08:44.856399Z
+3752a8942c54af82,TX,"LUKE Holdings, Inc.(Laredo)","LUKE Holdings, Inc.(Laredo)",,"Laredo, Webb",73,2025-03-03,2025-02-28,,2026-09-02T05:08:44.856399Z
+09481f64bd99147f,TX,JELD -WEN -Coppell,JELD -WEN -Coppell,,"Coppell, Dallas",56,2025-03-03,2025-04-28,,2026-09-02T05:08:44.856399Z
+cf63751b1e0ce972,TX,MVM,MVM,,"El Paso, El Paso",247,2025-02-26,2025-03-18,,2026-09-02T05:08:44.856399Z
+64f80b5d56fa7d0c,TX,"MVM, Inc. (McAllen)","MVM, Inc. (McAllen)",,"McAllen, Hidalgo",132,2025-02-26,2025-03-18,,2026-09-02T05:08:44.856399Z
+c3b0979f60d84e02,TX,Houston Refining LP (2025),Houston Refining,,"Houston, Harris",345,2025-02-25,2025-04-17,,2026-09-02T05:08:44.856399Z
+66df70971be78790,TX,L3Harris Technologies (JAVA MAN Program),L3Harris Technologies (JAVA MAN Program),,"Rockwall, Rockwall",179,2025-02-24,2025-04-22,,2026-09-02T05:08:44.856399Z
+50fecc06c5eb01af,TX,Christus Health Santa Rosa Medical Center,Christus Health Santa Rosa Medical Center,,"San Antonio, Bexar",479,2025-02-24,2025-04-25,,2026-09-02T05:08:44.856399Z
+cab8367896c68cef,TX,Neiman Marcus-One Marcus Square,Neiman Marcus-One Marcus Square,,"Dallas, Dallas",1,2025-02-19,2025-03-31,,2026-09-02T05:08:44.856399Z
+5c114e3873ab8fd8,TX,Southwest - Dallas Lovefield Airport,Southwest - Dallas Lovefield Airport,,"Dallas, Dallas",626,2025-02-19,2025-04-22,,2026-09-02T05:08:44.856399Z
+cea1ebb4b71fd003,TX,Raices,Raices,,"San Antonio, Bexar",61,2025-02-18,2025-02-12,,2026-09-02T05:08:44.856399Z
+c2443d06963b97b8,TX,Catholic Charities of Dallas (Refuge Resettlement Program),Catholic Charities of Dallas (Refuge Resettlement Program),,"Dallas, Dallas",63,2025-02-11,2025-02-11,,2026-09-02T05:08:44.856399Z
+8460dd89e8721ebf,TX,Propio Language Services,Propio Language Services,,"San Antonio, Bexar",40,2025-02-11,2025-02-11,,2026-09-02T05:08:44.856399Z
+544d67b2aca7a067,TX,Animal Supply Co. LLC,Animal Supply,,"Grand Prairie, Tarrant",145,2025-02-11,2025-02-21,,2026-09-02T05:08:44.856399Z
+6857e17cf1eb1bb1,TX,Catholic Charities Archdiocese Of Galveston-Houston (Smith Street),Catholic Charities Archdiocese Of Galveston-Houston (Smith Street),,"Houston, Harris",43,2025-02-10,2025-02-07,,2026-09-02T05:08:44.856399Z
+0ff83f6636eaaf4f,TX,Catholic Charities Archdiocese Of Galveston-Houston (Louisiana Street),Catholic Charities Archdiocese Of Galveston-Houston (Louisiana Street),,"Houston, Harris",11,2025-02-10,2025-02-07,,2026-09-02T05:08:44.856399Z
+0c09a2ae69e743de,TX,Catholic Charities Archdiocese Of Galveston-Houston (Bering Drive),Catholic Charities Archdiocese Of Galveston-Houston (Bering Drive),,"Houston, Harris",58,2025-02-10,2025-02-07,,2026-09-02T05:08:44.856399Z
+07adeaad73984d96,TX,Catholic Charities Archdiocese Of Galveston-Houston (San Felipe),Catholic Charities Archdiocese Of Galveston-Houston (San Felipe),,"Houston, Harris",8,2025-02-10,2025-02-07,,2026-09-02T05:08:44.856399Z
+e75ae525843c6678,TX,Hll Mission Technologies(Administrative Office of the US Courts (AOUSC),Hll Mission Technologies(Administrative Office of the US Courts (AOUSC),,"San Antonio, Bexar",56,2025-02-05,2025-03-31,,2026-09-02T05:08:44.856399Z
+491b977a88ef6867,TX,Syzygy Plasmonics,Syzygy Plasmonics,,"Houston, Harris",58,2025-02-05,2025-03-31,,2026-09-02T05:08:44.856399Z
+3d737d9d8caef2e6,TX,Pathlight Property Management (OPVHHJV LLC),Pathlight Property Management (OPVHHJV LLC),,"Plano, Collin",192,2025-02-05,2025-03-31,,2026-09-02T05:08:44.856399Z
+155b99c5837e111f,TX,"LX Pantos America, Inc.",LX Pantos America,,"Fort Worth, Tarrant",131,2025-02-05,2025-04-04,,2026-09-02T05:08:44.856399Z
+0c963859e6e35551,TX,Syzygy Plasmonics (Kirby),Syzygy Plasmonics (Kirby),,"Houston, Harris",10,2025-02-05,2025-03-31,,2026-09-02T05:08:44.856399Z
+57089fe74c6a6810,TX,One TouchPoint,One TouchPoint,,"Austin, Travis",43,2025-01-30,2025-01-31,,2026-09-02T05:08:44.856399Z
+6a3a2d6daadaede5,TX,Allied Aviation-Southlake,Allied Aviation-Southlake,,"Southlake, Tarrant",362,2025-01-29,2025-03-31,,2026-09-02T05:08:44.856399Z
+6451d118bcae5ac8,TX,S & B Engineers and Constructors (Eastman),S & B Engineers and Constructors (Eastman),,"Longview, Gregg",43,2025-01-29,2025-03-28,,2026-09-02T05:08:44.856399Z
+1332c7ddf3a03f46,TX,Manpower Group (Irving),Manpower Group (Irving),,"Irving, Dallas",173,2025-01-29,2025-03-28,,2026-09-02T05:08:44.856399Z
+877f88e321d147ad,TX,"Construction Specialties Platforn Holdings, LLC",Construction Specialties Platforn Holdings,,"Denton, Denton",89,2025-01-27,2025-03-31,,2026-09-02T05:08:44.856399Z
+97aa94ceab9224dc,TX,"Chalk Mountain Services of Texas of Texas, LLC (Pleasanton)","Chalk Mountain Services of Texas of Texas, LLC (Pleasanton)",,"Pleasanton, Atascosa",1,2025-01-21,2025-02-02,,2026-09-02T05:08:44.856399Z
+fbe83b5663aae4ea,TX,Macy's - Houston (Almeda),Macy's - Houston (Almeda),,"Houston, Harris",72,2025-01-15,2025-03-18,,2026-09-02T05:08:44.856399Z
+92a0aaecd5041ebd,TX,RR Donnelley,RR Donnelley,,"Nacogdoches, Nacogdoches",88,2025-01-14,2025-03-15,,2026-09-02T05:08:44.856399Z
+8dcd4b011258ede9,TX,"COSMAX NBT USA, INC #1",Cosmax NBT,,"Garland, Dallas",80,2025-01-14,2025-02-28,,2026-09-02T05:08:44.856399Z
+5d987a3e55483ade,TX,"Scentsy, Inc.",Scentsy,,"Coppell, Dallas",94,2025-01-09,2025-03-01,,2026-09-02T05:08:44.856399Z
+84bb492c2ee43ad3,TX,Commanche Peak Nuclear Power Plant,Commanche Peak Nuclear Power Plant,,"Glen Rose, Somervell",86,2025-01-08,2025-01-31,,2026-09-02T05:08:44.856399Z
+6f0c2e40110c4bc8,TX,Crothall Healthcare-Houston,Crothall Healthcare-Houston,,"Houston, Harris",69,2025-01-08,2024-12-15,,2026-09-02T05:08:44.856399Z
+fab0b102dcbcc137,TX,"ICON Technology, Inc.",ICON Technology,,"Austin, Travis",114,2025-01-07,2025-03-08,,2026-09-02T05:08:44.856399Z
+cd8801fef8900be2,TX,"Tenneco, Inc.",Tenneco,,"El Paso, El Paso",140,2024-12-27,2025-02-15,,2026-09-02T05:08:44.856399Z
+20d636b9455f9c39,TX,Stealth Monitoring,Stealth Monitoring,,"Addison, Collin",29,2024-12-18,2025-02-11,,2026-09-02T05:08:44.856399Z
+a6156e7bdc6ec19c,TX,DallasNews Corporation,DallasNews,,"Plano, Collin",75,2024-12-11,2025-02-01,,2026-09-02T05:08:44.856399Z
+183ca614bf0b3670,TX,"Get Fresh Produce, LLC",Get Fresh Produce,,"Houston, Harris",44,2024-12-11,2025-01-19,,2026-09-02T05:08:44.856399Z
+149cfafa5147f199,TX,United Language Group,United Language Group,,"San Antonio, Bexar",60,2024-12-11,2025-02-07,,2026-09-02T05:08:44.856399Z
+8730eba2047ed591,TX,TTEC Government Solutions,TTEC Government Solutions,,"Austin, Travis",650,2024-12-04,2025-02-07,,2026-09-02T05:08:44.856399Z
+e474ac8f6edfbb8f,TX,"SDH Service East, LLC",SDH Service East,,"San Antonio, Bexar",166,2024-11-25,2024-01-23,,2026-09-02T05:08:44.856399Z
+47f13a8fe1f396c8,TX,Exxon Mobil Corporation (Big Lake) #1,Exxon Mobil Corporation (Big Lake),,"Big Lake, Reagan",1,2024-11-25,2024-12-31,,2026-09-02T05:08:44.856399Z
+333c123fca36cc0c,TX,Exxon Mobil Corporation (Big Lake) #2,Exxon Mobil Corporation (Big Lake),,"Big Lake, Reagan",2,2024-11-25,2025-03-31,,2026-09-02T05:08:44.856399Z
+f4d0da7f6bb731c2,TX,Advanced Auto Parts # 8046 (Spring),Advanced Auto Parts # 8046 (Spring),,"Spring, Montgomery",11,2024-11-19,2025-02-15,,2026-09-02T05:08:44.856399Z
+b282c0ec76027804,TX,Advanced Auto Parts (Carroll Avenue),Advanced Auto Parts (Carroll Avenue),,"Dallas, Dallas",8,2024-11-19,2025-02-10,,2026-09-02T05:08:44.856399Z
+b1aad3b21f956fb3,TX,Advanced Auto Parts # 8169 (Houston),Advanced Auto Parts # 8169 (Houston),,"Houston, Harris",8,2024-11-19,2025-02-13,,2026-09-02T05:08:44.856399Z
+b18dcbf95ff1631f,TX,Advanced Auto Parts # 8054 (Cypress),Advanced Auto Parts # 8054 (Cypress),,"Cypress, Harris",12,2024-11-19,2025-02-15,,2026-09-02T05:08:44.856399Z
+b0a2424cf7a16ff8,TX,Advanced Auto Parts (Mccart Ave.),Advanced Auto Parts (Mccart Ave.),,"Fort Worth, Tarrant",9,2024-11-19,2025-02-11,,2026-09-02T05:08:44.856399Z
+a641c0ab7331a2f3,TX,Advanced Auto Parts (Garland),Advanced Auto Parts (Garland),,"Garland, Dallas",10,2024-11-19,2025-02-12,,2026-09-02T05:08:44.856399Z
+8a66b18483c2ca71,TX,Advanced Auto Parts # 8489 (Houston II),Advanced Auto Parts # 8489 (Houston II),,"Houston, Harris",7,2024-11-19,2025-01-27,,2026-09-02T05:08:44.856399Z
+7926112dbbdd4774,TX,Advanced Auto Parts (Grand Prairie),Advanced Auto Parts (Grand Prairie),,"Grand Prairie, Dallas",10,2024-11-19,2025-02-14,,2026-09-02T05:08:44.856399Z
+7233277010bb4e5b,TX,Advanced Auto Parts (Josey Ln),Advanced Auto Parts (Josey Ln),,"Dallas, Dallas",10,2024-11-19,2025-02-10,,2026-09-02T05:08:44.856399Z
+5ee34edfdcb8ea57,TX,Advanced Auto Parts (Camp Bowie),Advanced Auto Parts (Camp Bowie),,"Fort Worth, Tarrant",11,2024-11-19,2025-02-09,,2026-09-02T05:08:44.856399Z
+38a7c3922dc00718,TX,Advanced Auto Parts (Forest Hill),Advanced Auto Parts (Forest Hill),,"Forest Hill, Tarrant",9,2024-11-19,2025-02-11,,2026-09-02T05:08:44.856399Z
+2eb23729d7a99abe,TX,Advanced Auto Parts # 7993 (Conroe),Advanced Auto Parts # 7993 (Conroe),,"Conroe, Montgomery",6,2024-11-19,2025-01-29,,2026-09-02T05:08:44.856399Z
+2222976aeeeca5ae,TX,Advanced Auto Parts #6855 (Pearland),Advanced Auto Parts #6855 (Pearland),,"Pearland, Brazoria",10,2024-11-19,2025-02-15,,2026-09-02T05:08:44.856399Z
+c54534d58681186b,TX,Advanced Auto Parts# 7776 (Plano),Advanced Auto Parts# 7776 (Plano),,"Plano, Collin",12,2024-11-18,2025-02-15,,2026-09-02T05:08:44.856399Z
+8d12e94980945ca6,TX,Advanced Auto Parts# 7734 (Burleson),Advanced Auto Parts# 7734 (Burleson),,"Burleson, Johnson",1,2024-11-18,2024-02-12,,2026-09-02T05:08:44.856399Z
+863743bd4465c660,TX,Advanced Auto Parts #7912 (Plano),Advanced Auto Parts #7912 (Plano),,"Plano, Collin",10,2024-11-18,2025-02-12,,2026-09-02T05:08:44.856399Z
+e94db88298beb7e5,TX,Kuehne + Nagel (KN),Kuehne + Nagel (KN),,"Lewisville, Denton",68,2024-11-12,2024-12-13,,2026-09-02T05:08:44.856399Z
+af653e1156cda06d,TX,Exxon Mobil (Midland #3),Exxon Mobil (Midland #3),,"Midland, Midland",9,2024-11-12,2024-12-31,,2026-09-02T05:08:44.856399Z
+67720eee57db8d7e,TX,Exxon Mobile (Las Colinas Office),Exxon Mobile (Las Colinas Office),,"Irving, Dallas",376,2024-11-12,2024-12-31,,2026-09-02T05:08:44.856399Z
+4839d850c109f05c,TX,Exxon Mobil (Midland #1),Exxon Mobil (Midland #1),,"Midland, Midland",9,2024-11-12,2024-12-31,,2026-09-02T05:08:44.856399Z
+923630a57e534156,TX,"Paragon Industries, Inc.",Paragon Industries,,"Stephenville, Erath",70,2024-11-05,2025-01-10,,2026-09-02T05:08:44.856399Z
+25cded970e8049b7,TX,"WIT Services Co., LLC",WIT Services,,"Stephenville, Erath",15,2024-11-05,2024-12-27,,2026-09-02T05:08:44.856399Z
+78ac456dc8441ec3,TX,Alcom LLC,Alcom,,"Waco, McLennan",83,2024-10-30,2024-12-16,,2026-09-02T05:08:44.856399Z
+d297009914d3c266,TX,Marathon Oil Corporation,Marathon Oil,,"Houston, Harris",500,2024-10-29,2024-05-28,,2026-09-02T05:08:44.856399Z
+79313b035cb40536,TX,DHL Supply Chain (Sugar Land 2024),DHL Supply Chain (Sugar Land 2024),,"Sugar Land, Fort Bend",10,2024-10-29,2025-01-13,,2026-09-02T05:08:44.856399Z
+1fa573040b52866c,TX,DHL Supply Chain (Missouri City 2024),DHL Supply Chain (Missouri City 2024),,"Missouri City, Fort Bend",43,2024-10-29,2025-01-13,,2026-09-02T05:08:44.856399Z
+0836b13d0fc09fbb,TX,Sodexo (Alcon Labs),Sodexo (Alcon Labs),,"Fort Worth, Tarrant",70,2024-10-24,2024-12-24,,2026-09-02T05:08:44.856399Z
+8bc41a293ea04a42,TX,"True Value Company, L.L.C.",True Value,,"Corsicana, Navarro",107,2024-10-23,2024-12-14,,2026-09-02T05:08:44.856399Z
+5487282a63432865,TX,Wolfspeed,Wolfspeed,,"Farmers Branch, Dallas",73,2024-10-23,2024-11-23,,2026-09-02T05:08:44.856399Z
+7fea7b0ba6b8815b,TX,DENNIS Uniform,DENNIS Uniform,,"Fort Worth, Tarrant",139,2024-10-22,2024-10-19,,2026-09-02T05:08:44.856399Z
+dced35503295928c,TX,Intel Corporation,Intel,,"Austin, Travis",251,2024-10-16,2024-11-15,,2026-09-02T05:08:44.856399Z
+d68e71312b5ac58b,TX,MP2 Energy LLC (Shell Energy),MP2 Energy LLC (Shell Energy),,"Houston, Harris",103,2024-10-16,2024-12-13,,2026-09-02T05:08:44.856399Z
+23e9ea8490e58061,TX,"National Fire & Safety, Inc",National Fire & Safety,,"Dallas, Dallas",99,2024-10-16,2024-12-16,,2026-09-02T05:08:44.856399Z
+5100e4129479439c,TX,International Paper Company San Antonio,International Paper Company San Antonio,,"San Antonio, Bexar",89,2024-10-10,2024-11-18,,2026-09-02T05:08:44.856399Z
+31ff407bde4561b5,TX,"Jabil, Inc.",Jabil,,"Richardson, Collin",136,2024-10-10,2024-12-06,,2026-09-02T05:08:44.856399Z
+b79acd5349948166,TX,Cygnus Home Services LLC. (San Antonio) Yelloh,Cygnus Home Services LLC. (San Antonio) Yelloh,,"San Antonio, Bexar",11,2024-09-23,2024-11-22,,2026-09-02T05:08:44.856399Z
+369d3a97c710153d,TX,Cygnus Home Services LLC. (Lewisville) Yelloh,Cygnus Home Services LLC. (Lewisville) Yelloh,,"Lewisville, Denton",25,2024-09-23,2024-11-22,,2026-09-02T05:08:44.856399Z
+7663274da526b0e2,TX,Expedia Group Inc. (Austin),Expedia Group Inc. (Austin),,"Austin, Travis",57,2024-09-19,2024-11-18,,2026-09-02T05:08:44.856399Z
+074774e6244321a9,TX,Laboratory Corporation of America Holdings,Laboratory Corporation of America Holdings,,"Houston, Harris",132,2024-09-16,2024-11-22,,2026-09-02T05:08:44.856399Z
+d62f7382cc34cad2,TX,Compass Group / Fresh & Ready Foods,Compass Group / Fresh & Ready Foods,,"Dallas, Dallas",,2024-09-13,,,2026-09-02T05:08:44.856399Z
+2370e5aaecfcca3e,TX,Southwest Key Program (Casa Trail House),Southwest Key Program (Casa Trail House),,"El Paso, El Paso",666,2024-09-12,2024-11-09,,2026-09-02T05:08:44.856399Z
+fe7441724ef52385,TX,Southwestern Health Resources,Southwestern Health Resources,,"Farmers Branch, Dallas",129,2024-09-11,2024-09-10,,2026-09-02T05:08:44.856399Z
+3daca8501044872e,TX,Management & Training Corp. - MTC Medical LLC (Giles W. Dalby Facility),Management & Training Corp. - MTC Medical LLC (Giles W. Dalby Facility),,"Post, Garza",218,2024-09-10,2024-09-30,,2026-09-02T05:08:44.856399Z
+ad9b8490451402b5,TX,"Steward Medical Group, Inc.",Steward Medical Group,,"Richardson, Dallas",40,2024-09-06,2024-10-29,,2026-09-02T05:08:44.856399Z
+3ca7b4a3d42453df,TX,"Basler Plastics, LLC",Basler Plastics,,"San Marcos, Hays",41,2024-09-04,2024-12-31,,2026-09-02T05:08:44.856399Z
+081d9305559704c0,TX,Steward Health Care System,Steward Health Care System,,"Texarkana, Bowie",43,2024-09-04,2024-11-02,,2026-09-02T05:08:44.856399Z
+5a75d0c68dc62ee6,TX,"HCL America, Inc. (HCL Tech)","HCL America, Inc. (HCL Tech)",,"Frisco, Collin",43,2024-08-30,2024-11-01,,2026-09-02T05:08:44.856399Z
+edd71f1d5f14e828,TX,Signify North America Corporation-Genlyte Thomas LLC (Updated),Signify North America Corporation-Genlyte Thomas LLC (Updated),,"San Marcos, Hays",109,2024-08-28,2024-08-02,,2026-09-02T05:08:44.856399Z
+242705841f122145,TX,Callaway Golf Interactive Inc,Callaway Golf Interactive,,"Austin, Travis",28,2024-08-27,2024-10-28,,2026-09-02T05:08:44.856399Z
+5c6c1e285b97f5c2,TX,VSPOne Dallas (VSP Optical Group),VSPOne Dallas (VSP Optical Group),,"Lewisville, Denton",69,2024-08-21,2024-10-18,,2026-09-02T05:08:44.856399Z
+164aaf9b5460d073,TX,Conn's HomePlus (Grand Prairie),Conn's HomePlus (Grand Prairie),,"Grand Prairie, Dallas",16,2024-08-14,2024-10-07,,2026-09-02T05:08:44.856399Z
+ff0a7408d274d041,TX,"Arbor E & T, LLC Equus Workforce Solutions Taylor Satellite Office","Arbor E & T, LLC Equus Workforce Solutions Taylor Satellite Office",,"Taylor, Williamson",1,2024-08-12,2024-09-30,,2026-09-02T05:08:44.856399Z
+ce67cb9b7450dd41,TX,"Arbor E & T, LLC Equus Workforce Solutions La Grange Office","Arbor E & T, LLC Equus Workforce Solutions La Grange Office",,"La Grange, Fayette",1,2024-08-12,2024-09-30,,2026-09-02T05:08:44.856399Z
+c24685b2b0101bee,TX,Landshark Bar & Grill,Landshark Bar & Grill,,"San Antonio, Bexar",18,2024-08-12,2024-08-17,,2026-09-02T05:08:44.856399Z
+8ed4ffe5edc6b09a,TX,"INVISTA (Orange) Nylon Chemicals Americas, LLC",INVISTA (Orange) Nylon Chemicals Americas,,"Orange, Orange",75,2024-08-12,2024-09-16,,2026-09-02T05:08:44.856399Z
+61a5ee7d96ed8ea6,TX,"Arbor E & T, LLC Equus Workforce Solutions San Marcos Office","Arbor E & T, LLC Equus Workforce Solutions San Marcos Office",,"San Marcos, Hays",17,2024-08-12,2024-09-30,,2026-09-02T05:08:44.856399Z
+5f2aa4513873af4f,TX,"Arbor E & T, LLC Equus Workforce Solutions Burnet","Arbor E & T, LLC Equus Workforce Solutions Burnet",,"Burnet, Burnet",6,2024-08-12,2024-09-30,,2026-09-02T05:08:44.856399Z
+5d05b005c900d5f6,TX,"Arbor E&T, LLC Equus Workforce Solutions Round Rock","Arbor E&T, LLC Equus Workforce Solutions Round Rock",,"Round Rock, Williamson",26,2024-08-12,2024-09-30,,2026-09-02T05:08:44.856399Z
+456a69bd9070a12e,TX,"Arbor E & T, LLC Equus Workforce Solutions Giddings Office","Arbor E & T, LLC Equus Workforce Solutions Giddings Office",,"Giddings, Lee",3,2024-08-12,2024-09-30,,2026-09-02T05:08:44.856399Z
+3c81082953b86eaa,TX,"Arbor E & T, LLC Equus Workforce Solutions Bartlett Satellite Office","Arbor E & T, LLC Equus Workforce Solutions Bartlett Satellite Office",,"Bartlett, Williamson",1,2024-08-12,2024-09-30,,2026-09-02T05:08:44.856399Z
+2c1a847019f8803c,TX,"Arbor E & T, LLC Equus Workforce Solutions Lockhart Office","Arbor E & T, LLC Equus Workforce Solutions Lockhart Office",,"Lockhart, Caldwell",3,2024-08-12,2024-09-30,,2026-09-02T05:08:44.856399Z
+21bb1b22e36e20a9,TX,"Arbor E & T, LLC Equus Workforce Solutions Bastrop Office","Arbor E & T, LLC Equus Workforce Solutions Bastrop Office",,"Bastrop, Bastrop",8,2024-08-12,2024-09-30,,2026-09-02T05:08:44.856399Z
+143fd33bc4e93246,TX,"Arbor E & T, LLC Equus Workforce Solutions Llano Satellite Office","Arbor E & T, LLC Equus Workforce Solutions Llano Satellite Office",,"Llano, Llano",1,2024-08-12,2024-09-30,,2026-09-02T05:08:44.856399Z
+13a555214e5427a1,TX,"Arbor E & T, LLC Equus Workforce Solutions Johnson City Satellite Office","Arbor E & T, LLC Equus Workforce Solutions Johnson City Satellite Office",,"Johnson City, Blanco",1,2024-08-12,2024-09-30,,2026-09-02T05:08:44.856399Z
+e738106985db4e6b,TX,Seton Medical Center Hays,Seton Medical Center Hays,,"Kyle, Hays",16,2024-08-08,2024-10-01,,2026-09-02T05:08:44.856399Z
+d85d0f9ddd353739,TX,ABM Texas (TCC Southeast),ABM Texas (TCC Southeast),,"Arlington, Tarrant",23,2024-08-08,2024-08-31,,2026-09-02T05:08:44.856399Z
+c3646ac69d1d5671,TX,ABM Texas (TCC Northwest),ABM Texas (TCC Northwest),,"Fort Worth, Tarrant",23,2024-08-08,2024-08-31,,2026-09-02T05:08:44.856399Z
+c323fc1456330956,TX,Texas Children's Hosptal (Texas Medical Center),Texas Children's Hosptal (Texas Medical Center),,"Houston, Harris",997,2024-08-08,2024-10-02,,2026-09-02T05:08:44.856399Z
+94b06fc9736c2e65,TX,Seton Highland Lakes Hospital,Seton Highland Lakes Hospital,,"Burnet, Burnet",15,2024-08-08,2024-10-01,,2026-09-02T05:08:44.856399Z
+6a511fd6ef1a2dc1,TX,Seton Northwest Hospital,Seton Northwest Hospital,,"Austin, Travis",16,2024-08-08,2024-10-01,,2026-09-02T05:08:44.856399Z
+5603c984b1493d59,TX,ABM Texas (TCC Northeast),ABM Texas (TCC Northeast),,"Hurst, Tarrant",23,2024-08-08,2024-08-31,,2026-09-02T05:08:44.856399Z
+4a396c455a678e8e,TX,Seton Southwest Medical Center,Seton Southwest Medical Center,,"Austin, Travis",15,2024-08-08,2024-10-01,,2026-09-02T05:08:44.856399Z
+4842ea266063bd8c,TX,Seton Medical Center,Seton Medical Center,,"Austin, Travis",15,2024-08-08,2024-10-01,,2026-09-02T05:08:44.856399Z
+406fceffbfb59b41,TX,ABM Texas (TCC South),ABM Texas (TCC South),,"Fort Worth, Tarrant",23,2024-08-08,2024-08-31,,2026-09-02T05:08:44.856399Z
+38b8e0a31fb88f55,TX,ABM Texas (TCC Trinity),ABM Texas (TCC Trinity),,"Fort Worth, Tarrant",23,2024-08-08,2024-08-31,,2026-09-02T05:08:44.856399Z
+116c8c890072e88b,TX,Seton Medical Center Williams,Seton Medical Center Williams,,"Round Rock, Williamson",15,2024-08-08,2024-10-01,,2026-09-02T05:08:44.856399Z
+fb317c92a07befb9,TX,Conn's Appliances (Beaumont Site),Conn's Appliances (Beaumont Site),,"Beaumont, Jefferson",32,2024-08-07,2024-09-23,,2026-09-02T05:08:44.856399Z
+f56eb24449c2b199,TX,Conn's Appliances (San Antonio),Conn's Appliances (San Antonio),,"San Antonio, Bexar",36,2024-08-07,2024-09-23,,2026-09-02T05:08:44.856399Z
+eeb640364994cac6,TX,"Fleco Industries, LLC",Fleco Industries,,"Carrollton, Dallas",174,2024-08-07,2024-09-29,,2026-09-02T05:08:44.856399Z
+dd57cc15a17674ff,TX,The Gunter Hotel San Antonio,Gunter Hotel San Antonio,,"San Antonio, Bexar",75,2024-08-07,2024-10-01,,2026-09-02T05:08:44.856399Z
+13a9f16c40211720,TX,Conn's Appliances (Woodlands Site),Conn's Appliances (Woodlands Site),,"Beaumont, Jefferson",183,2024-08-07,2024-09-23,,2026-09-02T05:08:44.856399Z
+8b91bf25150298ea,TX,MII Technologies (AOUSC),MII Technologies (AOUSC),,"San Antonio, Bexar",57,2024-08-06,2024-10-31,,2026-09-02T05:08:44.856399Z
+d19a6d47edcf9be9,TX,Exxon Mobil (Midland #3),Exxon Mobil (Midland #3),,"Midland, Midland",10,2024-08-05,2024-09-30,,2026-09-02T05:08:44.856399Z
+bc3815fc148b8688,TX,Exxon Mobil (Midland #1),Exxon Mobil (Midland #1),,"Midland, Midland",1,2024-08-05,2024-09-30,,2026-09-02T05:08:44.856399Z
+aa621f1cf3d020ab,TX,Exxon Mobil (Midland #2),Exxon Mobil (Midland #2),,"Midland, Midland",7,2024-08-05,2024-09-30,,2026-09-02T05:08:44.856399Z
+feba211cf82c9413,TX,Exxon Mobile (Las Colinas Office),Exxon Mobile (Las Colinas Office),,"Irving, Dallas",39,2024-08-01,2024-09-30,,2026-09-02T05:08:44.856399Z
+a009594dceb433b2,TX,Exxon Mobil (Big Lake),Exxon Mobil (Big Lake),,"Big Lake, Reagan",2,2024-08-01,2024-09-30,,2026-09-02T05:08:44.856399Z
+d085bba589719b38,TX,SunPower Corporation (Waterford),SunPower Corporation (Waterford),,"Austin, Travis",6,2024-07-29,2024-09-24,,2026-09-02T05:08:44.856399Z
+e3f4e6486a227ecf,TX,"BIMBO Bakeries USA, Inc.",BIMBO Bakeries,,"San Antonio, Bexar",138,2024-07-26,2024-10-05,,2026-09-02T05:08:44.856399Z
+b3c4950511ffbd27,TX,Holiday Inn Club Vacations Incorporated,Holiday Inn Club Vacations,,"Galveston, Galveston",54,2024-07-26,2024-07-29,,2026-09-02T05:08:44.856399Z
+f08babf2bf325c86,TX,"GEODIS Logistics, LLC (Casestack)","GEODIS Logistics, LLC (Casestack)",,"Grand Prairie, Tarrant",76,2024-07-25,2024-09-17,,2026-09-02T05:08:44.856399Z
+c5d98edf2494ff05,TX,Quality Custom Distribution,Quality Custom Distribution,,"Schertz, Bexar",57,2024-07-25,2024-09-27,,2026-09-02T05:08:44.856399Z
+fe3892d5c634b989,TX,Pitney Bowes Inc.(Austin),Pitney Bowes Inc.(Austin),,"Austin, Travis",12,2024-07-23,2024-09-17,,2026-09-02T05:08:44.856399Z
+2e6c2c7fd60b6ba4,TX,Pitney Bowes Inc.(Irving),Pitney Bowes Inc.(Irving),,"Irving, Dallas",2,2024-07-23,2024-09-17,,2026-09-02T05:08:44.856399Z
+cdbd512714db9278,TX,Master WoodCraft Cabinetry (Marshall),Master WoodCraft Cabinetry (Marshall),,"Marshall, Harrison",298,2024-07-18,2024-09-13,,2026-09-02T05:08:44.856399Z
+c15445c092d8b3aa,TX,Master WoodCraft Cabinetry (Jefferson),Master WoodCraft Cabinetry (Jefferson),,"Jefferson, Marion",76,2024-07-18,2024-09-13,,2026-09-02T05:08:44.856399Z
+bdbfbf8fa824ec26,TX,Golden Pass LNG Export Terminal (Sunbelt Rentals),Golden Pass LNG Export Terminal (Sunbelt Rentals),,"Port Arthur, Jefferson",277,2024-07-18,2024-05-21,,2026-09-02T05:08:44.856399Z
+08c10af212b81487,TX,"STG International, Inc.",STG International,,"Dilley, Frio",107,2024-07-18,2024-07-31,,2026-09-02T05:08:44.856399Z
+e17b42f54d8f680b,TX,DHL Supply Chain (Carrollton),DHL Supply Chain (Carrollton),,"Carrollton, Dallas",104,2024-07-17,2024-09-14,,2026-09-02T05:08:44.856399Z
+68a3b96184324a31,TX,Vectrus Systems Corporation(V2X) Sheppard Air Force Base,Vectrus Systems Corporation(V2X) Sheppard Air Force Base,,"Wichita Falls, Archer",123,2024-07-17,2024-09-30,,2026-09-02T05:08:44.856399Z
+4aa782b823078d92,TX,"RXO Last Mile, Inc. (Greens Parkway)","RXO Last Mile, Inc. (Greens Parkway)",,"Houston, Harris",27,2024-07-17,2024-09-16,,2026-09-02T05:08:44.856399Z
+de12d65718d74422,TX,ShipBob Inc. (Dallas Hub),ShipBob Inc. (Dallas Hub),,"Dallas, Dallas",3,2024-07-05,2024-09-19,,2026-09-02T05:08:44.856399Z
+8f6c61192e7040f2,TX,ShipBob Inc. (Grapevine),ShipBob Inc. (Grapevine),,"Grapevine, Dallas",48,2024-07-05,2024-09-19,,2026-09-02T05:08:44.856399Z
+e054fd02d7d894a9,TX,"ISS Action, Inc.",ISS Action,,"Harlingen, Cameron",197,2024-07-03,2024-08-31,,2026-09-02T05:08:44.856399Z
+e5cfad7777d1a87f,TX,"Zachry Industrial, Inc. (Beaumont) Updated","Zachry Industrial, Inc. (Beaumont) Updated",,"Beaumont, Jefferson",33,2024-06-30,2024-08-31,,2026-09-02T05:08:44.856399Z
+8bcb1d84684673e8,TX,"Zachry Industrial, Inc. (Baytown) Updated","Zachry Industrial, Inc. (Baytown) Updated",,"Baytown, Chambers",28,2024-06-30,2024-08-31,,2026-09-02T05:08:44.856399Z
+09bb4b21738b6061,TX,"Zachry Industrial, Inc. (Orange) Updated","Zachry Industrial, Inc. (Orange) Updated",,"Orange, Orange",32,2024-06-30,2024-06-30,,2026-09-02T05:08:44.856399Z
+03dfea9b65d31b52,TX,"Zachry Industrial, Inc. (Sabine Pass) Updated","Zachry Industrial, Inc. (Sabine Pass) Updated",,"Sabine Pass, Jefferson",33,2024-06-30,2024-08-31,,2026-09-02T05:08:44.856399Z
+006a18595847b07e,TX,New Options Sports,New Options Sports,,"Farmers Branch, Dallas",45,2024-06-27,2024-08-26,,2026-09-02T05:08:44.856399Z
+6d1076444e18e25e,TX,Southeast Service Corporation Services For Education,Southeast Service Corporation Services For Education,,"Kingsville, Kleberg",95,2024-06-25,2024-08-02,,2026-09-02T05:08:44.856399Z
+d545a06054cc3f32,TX,"Ardagh Glass Packaging, Inc.",Ardagh Glass Packaging,,"Houston, Harris",220,2024-06-24,2024-07-01,,2026-09-02T05:08:44.856399Z
+337a4ec0d6f4d97b,TX,HII Mission Technologies (HII Defense and Federal Solutions),HII Mission Technologies (HII Defense and Federal Solutions),,"San Antonio, Bexar",57,2024-06-20,2024-07-31,,2026-09-02T05:08:44.856399Z
+80ec22fd9feebd82,TX,Compass Group / Fresh & Ready Foods,Compass Group / Fresh & Ready Foods,,"Dallas, Dallas",65,2024-06-17,2024-08-30,,2026-09-02T05:08:44.856399Z
+6d6a9c7bef4aff9b,TX,Charter Communications (Austin),Charter Communications (Austin),,"Austin, Travis",230,2024-06-14,2024-08-15,,2026-09-02T05:08:44.856399Z
+19ad18f46d65a30d,TX,CoreCivic (South Texas Family Residential Center),CoreCivic (South Texas Family Residential Center),,"Dilley, Frio",433,2024-06-14,2024-08-13,,2026-09-02T05:08:44.856399Z
+25d1aea383592f48,TX,Target Hospitality (Dilley South Texas Family Residential Center),Target Hospitality (Dilley South Texas Family Residential Center),,"Dilley, Frio",95,2024-06-13,2024-08-12,,2026-09-02T05:08:44.856399Z
+f729bc76fe87661b,TX,Coach USA (Kerrvile Bus Company),Coach USA (Kerrvile Bus Company),,"San Antonio, Bexar",50,2024-06-12,2024-09-03,,2026-09-02T05:08:44.856399Z
+eadcd7301bcebc3b,TX,Hunter Douglas Fabrication Company (Custom Brands Group) Updated,Hunter Douglas Fabrication Company (Custom Brands Group) Updated,,"McKinney, Collin",53,2024-06-11,2024-09-13,,2026-09-02T05:08:44.856399Z
+11a5bc620d89195f,TX,"Intrepid U.S.A., Inc.",Intrepid U.S.A,,"Dallas, Dallas",102,2024-06-10,2024-08-05,,2026-09-02T05:08:44.856399Z
+e6e33689735d522f,TX,99 Cents Only Stores - Houston - 4,99 Cents Only Stores - Houston - 4,,"Houston, Harris",20,2024-06-04,2024-06-03,,2026-09-02T05:08:44.856399Z
+d4ecf1f10362e253,TX,99 Cents Only Stores - San Antonio,99 Cents Only Stores - San Antonio,,"San Antonio, Bexar",20,2024-06-04,2024-06-03,,2026-09-02T05:08:44.856399Z
+9e9e8a8127e115e6,TX,Kaiser Aluminum - Sherman,Kaiser Aluminum - Sherman,,"Sherman, Grayson",75,2024-06-04,2024-07-11,,2026-09-02T05:08:44.856399Z
+9b8b458704e77a5a,TX,99 Cents Only Store LLC (Rosenberg),99 Cents Only Store LLC (Rosenberg),,"Rosenberg, Fort Bend",20,2024-06-04,2024-06-03,,2026-09-02T05:08:44.856399Z
+8a083f773f7fa76c,TX,99 Cents Only Store LLC (Waco),99 Cents Only Store LLC (Waco),,"Waco, McLennan",20,2024-06-04,2024-06-03,,2026-09-02T05:08:44.856399Z
+757383f1203ec6ff,TX,99 Cents Only Store LLC (Katy#2),99 Cents Only Store LLC (Katy#2),,"Katy, Harris",20,2024-06-04,2024-06-03,,2026-09-02T05:08:44.856399Z
+353f2502073c74aa,TX,99 Cents Only Store LLC (Mcallen),99 Cents Only Store LLC (Mcallen),,"McAllen, Hidalgo",20,2024-06-04,2024-06-03,,2026-09-02T05:08:44.856399Z
+11d3fe341ea09ab3,TX,99 Cents Only Store LLC (Walzem),99 Cents Only Store LLC (Walzem),,"San Antonio, Bexar",20,2024-06-04,2024-06-03,,2026-09-02T05:08:44.856399Z
+086bfb7b6a00155d,TX,99 Cents Only Store LLC (Pasadena),99 Cents Only Store LLC (Pasadena),,"Pasadena, Harris",20,2024-06-04,2024-06-03,,2026-09-02T05:08:44.856399Z
+c52b4247ba767156,TX,"Zachry Industrial, Inc. (Baytown)","Zachry Industrial, Inc. (Baytown)",,"Baytown, Harris",307,2024-06-03,2024-05-21,,2026-09-02T05:08:44.856399Z
+ab51bccaf7d2d49c,TX,99 Cents Only Store LLC (Katy),99 Cents Only Store LLC (Katy),,"Katy, Harris",20,2024-06-03,2024-06-03,,2026-09-02T05:08:44.856399Z
+8a81de508d7c0e7a,TX,99 Cents Only Store LLC (El Paso),99 Cents Only Store LLC (El Paso),,"El Paso, El Paso",20,2024-06-03,2024-06-03,,2026-09-02T05:08:44.856399Z
+60922b516b57134d,TX,99 Cents Only Store LLC. (Conroe),99 Cents Only Store LLC. (Conroe),,"Conroe, Montgomery",20,2024-06-03,2024-06-03,,2026-09-02T05:08:44.856399Z
+567649c970cd78d6,TX,"Zachry Industrial, Inc.(Beaumont)","Zachry Industrial, Inc.(Beaumont)",,"Beaumont, Jefferson",15,2024-06-03,2024-05-21,,2026-09-02T05:08:44.856399Z
+4371baa4b78d279f,TX,"Zachry Industrial, Inc. (Sabine Pass)","Zachry Industrial, Inc. (Sabine Pass)",,"Sabine Pass, Jefferson",4072,2024-06-03,2024-05-21,,2026-09-02T05:08:44.856399Z
+3c4e0d53fc0a306a,TX,"Zachry Industrial, Inc.(Orange)","Zachry Industrial, Inc.(Orange)",,"Orange, Orange",16,2024-06-03,2024-05-21,,2026-09-02T05:08:44.856399Z
+34ca5a0aa3b1cd84,TX,Southwest Airlines (Terminal Rd),Southwest Airlines (Terminal Rd),,"Houston, Harris",97,2024-05-31,2024-08-04,,2026-09-02T05:08:44.856399Z
+fe3055e8ea75c684,TX,Dallas Morning News North Plant,Dallas Morning News North Plant,,"Plano, Collin",85,2024-05-30,2025-01-01,,2026-09-02T05:08:44.856399Z
+9f9e72c0a4c3eedf,TX,Unleashed Brands (Towson),Unleashed Brands (Towson),,"Bedford, Tarrant",48,2024-05-23,2024-05-21,,2026-09-02T05:08:44.856399Z
+372c89680228ea9c,TX,Walmart (Carrollton),Walmart (Carrollton),,"Carrollton, Dallas",206,2024-05-21,2024-08-09,,2026-09-02T05:08:44.856399Z
+03dc18217a998ad4,TX,Walmart (Munger Blvd.),Walmart (Munger Blvd.),,"Dallas, Dallas",1266,2024-05-20,2024-08-09,,2026-09-02T05:08:44.856399Z
+a3084326875f76be,TX,VSPOne Dallas,VSPOne Dallas,,"Lewisville, Denton",14,2024-05-17,2024-07-18,,2026-09-02T05:08:44.856399Z
+8d7d47cb150cea40,TX,GoldStar Transit (Waco ISD),GoldStar Transit (Waco ISD),,"Waco, McLennan",94,2024-05-15,2024-06-01,,2026-09-02T05:08:44.856399Z
+fb72ac6a6404e36d,TX,"Rarefied Atmosphere, Inc",Rarefied Atmosphere,,"Austin, Travis",106,2024-05-14,2024-07-12,,2026-09-02T05:08:44.856399Z
+0a0c6d88caa0ccb5,TX,"Arkane Studios, LLC.",Arkane Studios,,"Austin, Travis",96,2024-05-07,2024-07-06,,2026-09-02T05:08:44.856399Z
+b59e9a163cbe832e,TX,Allied Universal Security Services (Wadsworth),Allied Universal Security Services (Wadsworth),,"Wadsworth, Matagorda",173,2024-05-03,2024-06-03,,2026-09-02T05:08:44.856399Z
+fe71adf8d6b7178b,TX,"Careismatic Brands, Inc.",Careismatic Brands,,"Dallas, Dallas",202,2024-05-02,2024-05-31,,2026-09-02T05:08:44.856399Z
+fc296599ad4eb9bb,TX,TATA Consultancy Services Limited 2024(Austin),TATA Consultancy Services Limited 2024(Austin),,"Austin, Williamson",21,2024-05-02,2024-04-15,,2026-09-02T05:08:44.856399Z
+f3a60b0fda23ba1f,TX,TATA Consultancy Services Limited 2024,TATA Consultancy Services Limited 2024,,"Irving, Dallas",94,2024-05-02,2024-05-06,,2026-09-02T05:08:44.856399Z
+e41761c52e330e74,TX,Aramark Baylor (2100 River Street),Aramark Baylor (2100 River Street),,"Waco, McLennan",64,2024-05-02,2024-05-31,,2026-09-02T05:08:44.856399Z
+ddc0cab080d086c3,TX,E4D Technologies,E4D Technologies,,"Richardson, Collin",67,2024-05-02,2024-05-01,,2026-09-02T05:08:44.856399Z
+d3d3264087a2042d,TX,Select Specialty Hospital Longview-Select Medical Corporation,Select Specialty Hospital Longview-Select Medical,,"Longview, Gregg",94,2024-05-02,2024-06-30,,2026-09-02T05:08:44.856399Z
+b6f4342a84d05277,TX,Baylor Scott & White Institute for Rehabilitation-Home Health,Baylor Scott & White Institute for Rehabilitation-Home Health,,"Flower Mound, Denton",81,2024-05-02,2024-06-30,,2026-09-02T05:08:44.856399Z
+8f772f70ecd764d9,TX,Denbury Inc.,Denbury,,"Plano, Collin",3,2024-05-02,2024-06-30,,2026-09-02T05:08:44.856399Z
+7675423d76898afe,TX,Aramark Baylor(1919 S.First Street),Aramark Baylor(1919 S.First Street),,"Waco, McLennan",691,2024-05-02,2024-05-31,,2026-09-02T05:08:44.856399Z
+617714f33d2609f0,TX,GoldStar Transit(Robinson Independent School District),GoldStar Transit(Robinson Independent School District),,"Robinson, McLennan",500,2024-05-02,2024-06-01,,2026-09-02T05:08:44.856399Z
+53215371d391ef7f,TX,Westlake Royal Building Products,Westlake Royal Building Products,,"Carrollton, Dallas",260,2024-05-02,2024-05-04,,2026-09-02T05:08:44.856399Z
+4f08cd22d36384d2,TX,"Arnold Transportation Services, Inc",Arnold Transportation Services,,"Grand Prairie, Dallas",157,2024-04-30,2024-04-30,,2026-09-02T05:08:44.856399Z
+2f460759677edd5d,TX,"Soil Organic, Inc.",Soil Organic,,"Rice, Navarro",61,2024-04-25,2024-09-13,,2026-09-02T05:08:44.856399Z
+bacec914147ef073,TX,Expedia Group Inc. (Austin),Expedia Group Inc. (Austin),,"Austin, Travis",84,2024-04-23,2024-06-21,,2026-09-02T05:08:44.856399Z
+0d14f813e83e2d0f,TX,Tesla,Tesla,,"Austin, Travis",2688,2024-04-23,2024-04-19,,2026-09-02T05:08:44.856399Z
+8ea329eb144ddcad,TX,Joyson Safety Systems,Joyson Safety Systems,,"San Antonio, Bexar",108,2024-04-17,2024-06-01,,2026-09-02T05:08:44.856399Z
+c823f8aa70b975a3,TX,Kohler Co.,Kohler,,"Brownwood, Brown",93,2024-04-16,2024-06-14,,2026-09-02T05:08:44.856399Z
+e28bc9d6a567413e,TX,"Rooster Teeth Productions, LLC II","Rooster Teeth Productions, LLC II",,"Austin, Travis",6,2024-04-04,2024-06-08,,2026-09-02T05:08:44.856399Z
+8219537ef13f5826,TX,"Nosco, Inc.",Nosco,,"Carrollton, Dallas",51,2024-04-03,2024-06-02,,2026-09-02T05:08:44.856399Z
+c0fb662cd93f44f9,TX,Davies UC LLC,Davies UC,,"Austin, Travis",3,2024-03-28,2024-05-26,,2026-09-02T05:08:44.856399Z
+af89dacfba65d31d,TX,Kroger Fulfillment Network LLC-San Antonio,Kroger Fulfillment Network LLC-San Antonio,,"San Antonio, Bexar",73,2024-03-27,2024-03-25,,2026-09-02T05:08:44.856399Z
+ad9351438dbb8920,TX,Kroger Fulfillment Network LLC-Austin,Kroger Fulfillment Network LLC-Austin,,"Austin, Travis",52,2024-03-26,2024-05-25,,2026-09-02T05:08:44.856399Z
+e9f3bee28dc80a7b,TX,Stanley Black and Decker,Stanley Black and Decker,,"Mission, Hidalgo",127,2024-03-14,2024-05-10,,2026-09-02T05:08:44.856399Z
+0409f13ad3a78e5d,TX,Signify North America Corporation - Genlyte Thomas LLC,Signify North America Corporation - Genlyte Thomas,,"San Marcos, Hays",109,2024-03-14,2024-05-16,,2026-09-02T05:08:44.856399Z
+92f120307a42ebd6,TX,"Rooster Teeth Production, LLC",Rooster Teeth Production,,"Austin, Travis",133,2024-03-11,2024-05-11,,2026-09-02T05:08:44.856399Z
+ff1e3ef129e39703,TX,"Tramontina USA, Inc.",Tramontina,,"Sugar Land, Fort Bend",62,2024-03-08,2024-03-08,,2026-09-02T05:08:44.856399Z
+624ad728775d197f,TX,Phoenix Assurance,Phoenix Assurance,,"Fort Worth, Tarrant",25,2024-03-06,2024-04-30,,2026-09-02T05:08:44.856399Z
+34943b9f9b9e2a40,TX,Artic Slope Mission Services',Artic Slope Mission Services,,"El Paso, El Paso",70,2024-03-06,2024-03-06,,2026-09-02T05:08:44.856399Z
+612e1d969f2dd3f1,TX,"Gulf Stevedoring Services, LLC",Gulf Stevedoring Services,,"Galveston, Galveston",29,2024-03-04,2024-04-30,,2026-09-02T05:08:44.856399Z
+7dff44fcba92061d,TX,Denbury Inc,Denbury,,"Plano, Collin",111,2024-02-29,2024-04-30,,2026-09-02T05:08:44.856399Z
+2fdf9047934f550c,TX,"Ironhorse Funding, LLC.",Ironhorse Funding,,"Irving, Dallas",9,2024-02-29,2024-03-08,,2026-09-02T05:08:44.856399Z
+0bbf8d0058f0e6e3,TX,Expedia Group Inc. (Austin),Expedia Group Inc. (Austin),,"Austin, Travis",64,2024-02-27,2024-05-01,,2026-09-02T05:08:44.856399Z
+bf2b4dd1ea074ce9,TX,Daifuku Services America Corp.,Daifuku Services America,,"Carrollton, Dallas",38,2024-02-26,2024-04-22,,2026-09-02T05:08:44.856399Z
+1064960198378581,TX,Frontpoint LLC. (Primary Home Health Care),Frontpoint LLC. (Primary Home Health Care),,"Arlington, Tarrant",53,2024-02-26,2024-03-11,,2026-09-02T05:08:44.856399Z
+b085f4698ad42a0d,TX,Oldcastle Infrastructure,Oldcastle Infrastructure,,"Kennedale, Tarrant",64,2024-02-23,2024-04-22,,2026-09-02T05:08:44.856399Z
+5912029e44faf629,TX,Rio Grande Valley Sugar Growers 2024,Rio Grande Valley Sugar Growers 2024,,"Santa Rosa, Cameron",435,2024-02-22,2024-04-29,,2026-09-02T05:08:44.856399Z
+42e6a8d5d6b3b619,TX,"Kasasa, LTD",Kasasa,,"Austin, Travis",59,2024-02-22,2024-02-21,,2026-09-02T05:08:44.856399Z
+5c7b23ce73120e08,TX,NexTier Completion Solutions Inc. - San Angelo II,NexTier Completion Solutions Inc. - San Angelo II,,"San Angelo, Tom Green",104,2024-02-15,2024-04-17,,2026-09-02T05:08:44.856399Z
+7ec3b508bd1a1089,TX,"WFS Express, Inc. Kelley Field","WFS Express, Inc. Kelley Field",,"San Antonio, Bexar",65,2024-02-12,2024-04-10,,2026-09-02T05:08:44.856399Z
+aac383365f6a2484,TX,Shearer's Foods LLC,Shearer's Foods,,"Lubbock, Lubbock",176,2024-02-02,2024-03-31,,2026-09-02T05:08:44.856399Z
+9a66dd26d99a6e7d,TX,"Mattison Pathology, LLP dba Avero Diagnotics",Mattison Pathology,Avero Diagnotics,"Irving, Dallas",103,2024-02-01,2024-12-08,,2026-09-02T05:08:44.856399Z
+9dc10afb858cc70b,TX,American Airlines-SRO,American Airlines-SRO,,"Ft. Worth, Tarrant",321,2024-01-30,2024-03-30,,2026-09-02T05:08:44.856399Z
+cc14093fdfe836ef,TX,Hollingsworth LLC,Hollingsworth,,"Fort Worth, Tarrant",153,2024-01-25,2024-03-31,,2026-09-02T05:08:44.856399Z
+a799a9c3eaf422fa,TX,Vroom-Meadows Place #2,Vroom-Meadows Place,,"Stafford, Fort Bend",54,2024-01-25,2024-03-23,,2026-09-02T05:08:44.856399Z
+5c3cca981db67f69,TX,Vroom-Stafford,Vroom-Stafford,,"Stafford, Harris",283,2024-01-25,2024-03-23,,2026-09-02T05:08:44.856399Z
+e253e08da52d2891,TX,Longwood Elastomers,Longwood Elastomers,,"Brenham, Washington",52,2024-01-24,2024-04-01,,2026-09-02T05:08:44.856399Z
+6b3603cea81a94b9,TX,"Panera, LLC Fresh Dough Facility","Panera, LLC Fresh Dough Facility",,"Houston, Harris",84,2024-01-24,2024-03-24,,2026-09-02T05:08:44.856399Z
+41045b04e87d3f0f,TX,Vroom-Sam Houston Parkway,Vroom-Sam Houston Parkway,,"Houston, Harris",178,2024-01-23,2024-03-23,,2026-09-02T05:08:44.856399Z
+657bb5201b938ae9,TX,Horton Automatics,Horton Automatics,,"Corpus Christi, Nueces",63,2024-01-22,2024-03-18,,2026-09-02T05:08:44.856399Z
+27af2f5ad1359bce,TX,HMS Host-DFW Airport,HMS Host-DFW Airport,,"Grapevine, Tarrant",334,2024-01-19,2024-01-14,,2026-09-02T05:08:44.856399Z
+5ed984fedb964d5f,TX,Versum Materials US LLC,Versum Materials US,,"Austin, Travis",51,2024-01-18,2024-02-02,,2026-09-02T05:08:44.856399Z
+a7cd4d53f0fceb8b,TX,Jumbo Beverages,Jumbo Beverages,,"Grapevine, Tarrant",109,2024-01-17,2024-02-29,,2026-09-02T05:08:44.856399Z
+8fa4fcfd0346a2c8,TX,"WWL Vehicle Services Americas, Inc.",WWL Vehicle Services Americas,,"Houston, Harris",63,2024-01-16,2024-03-18,,2026-09-02T05:08:44.856399Z
+7e0ae6bdfd495e02,TX,GDI Services Dallas,GDI Services Dallas,,"Dallas, Dallas",44,2024-01-12,2024-01-04,,2026-09-02T05:08:44.856399Z
+6e98c4b9604bd148,TX,Unity Technologies-Austin,Unity Technologies-Austin,,"Austin, Travis",92,2024-01-12,2024-01-09,,2026-09-02T05:08:44.856399Z
+38950a71fd7ff8b0,TX,GDI Services - Coppell,GDI Services - Coppell,,"Coppell, Dallas",44,2024-01-12,2024-01-04,,2026-09-02T05:08:44.856399Z
+d30caa9afe8deebd,TX,"ABM Industries, Inc. Flowers Baking Company","ABM Industries, Inc. Flowers Baking",,"San Antonio, Bexar",176,2024-01-09,2024-03-02,,2026-09-02T05:08:44.856399Z
+9af20ca0cfcc90fd,TX,Tom Thumb Store #3854,Tom Thumb,,"Grapevine, Tarrant",71,2024-01-09,2024-02-17,,2026-09-02T05:08:44.856399Z
+623cfd29d5945980,TX,Masonite Corporation (Greenville),Masonite Corporation (Greenville),,"Greenville, Hunt",75,2024-01-08,2023-12-06,,2026-09-02T05:08:44.856399Z
+42b24eb21604f738,TX,"Packers Sanitation Services, Inc. (PSSI) Friona","Packers Sanitation Services, Inc. (PSSI) Friona",,"Friona, Parmer",103,2024-01-08,2024-01-11,,2026-09-02T05:08:44.856399Z
+4bbe288e57bf897d,TX,Genpact US Services LLC,Genpact US Services,,"Richardson, Collin",365,2024-01-05,2024-02-28,,2026-09-02T05:08:44.856399Z
+13f886fd8f7900b7,TX,Technica Corporation,Technica,,"San Antonio, Bexar",60,2024-01-05,2024-02-15,,2026-09-02T05:08:44.856399Z
+9a09e22991cf869d,TX,Randalls #2490,Randalls,,"Austin, Travis",76,2024-01-04,2024-02-10,,2026-09-02T05:08:44.856399Z

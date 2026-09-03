@@ -5,8 +5,8 @@ need US WARN Act layoff notices in a script, dashboard, spreadsheet or LLM
 agent, you can treat these raw URLs as a read-only API. No API key, no rate
 paperwork, CC BY 4.0 (credit "WARN Feed", link this repo).
 
-**Freshness contract:** data refreshes daily; the free tier is 48h-delayed and
-covers 2024-present. Zero-delay + full 1988+ history are the
+**Freshness contract:** data refreshes daily; the free tier carries no delay and
+covers 2024-present. Per-customer WARN Watch alerts + full 1988+ history are the
 [paid tiers](#zero-delay--full-history) that fund the pipeline.
 
 ## Endpoints (stable raw URLs)
@@ -26,8 +26,8 @@ covers 2024-present. Zero-delay + full 1988+ history are the
 
 `latest.json` carries `count` and `generated_at`, so an alerting script can poll
 it daily and act only when `count` changes — the cheapest possible "new layoff
-notices" trigger. It is empty when no rows cleared the 48h delay window in the
-last 7 days (the paid real-time tier has no delay).
+notices" trigger. It is empty when no new notices were published in the
+last 7 days.
 
 Schema for every record is documented in the [README](README.md#schema) and in
 machine-readable form in [`datapackage.json`](datapackage.json).
@@ -94,10 +94,9 @@ pass any extra shields parameters (`&style=flat-square`, `&logo=github`, …).
 
 ## Zero-delay & full history
 
-If layoff notices are a sales/recruiting trigger for you, the 48h delay is the
-expensive part:
+The free files carry no delay. If you only care about certain employers or states:
 
-- **[Real-time feed — $49/mo](https://approj.gumroad.com/l/warn-realtime)** — zero delay, refreshed every
-  pipeline run, delivered as a private GitHub repo you can pull or watch.
+- **[WARN Watch — $49/year](https://apventureengine.github.io/warn-act-notices/watch.html)** — up to 25 employer terms + whole-state
+  watches matched on every refresh for a year; private alert page + RSS, no login.
 - **[Full historical archive — $199 one-time](https://approj.gumroad.com/l/warn-archive)** — every notice back
   to 1988, all covered states, CSV + JSON.

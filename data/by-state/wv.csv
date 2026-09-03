@@ -1,0 +1,39 @@
+id,state,company,company_canonical,company_dba,location,employees_affected,notice_date,effective_date,notice_type,first_seen
+08400b9e9308de01,WV,ECM Energy Services,ECM Energy Services,,,,2026-08-19,,,2026-09-02T05:08:44.856399Z
+c4b9ff483e4ff72b,WV,Eagle Horizon Resources,Eagle Horizon Resources,,,,2026-08-01,,,2026-09-02T05:08:44.856399Z
+f53099b81872d735,WV,Greenbrier Minerals,Greenbrier Minerals,,,,2026-07-01,,,2026-09-02T05:08:44.856399Z
+c3d9f71f3cf36bf2,WV,Felman Productions,Felman Productions,,,,2026-07-01,,,2026-09-02T05:08:44.856399Z
+2cb264542d3fb75e,WV,West Virginia Conduent,West Virginia Conduent,,,,2026-07-01,,,2026-09-02T05:08:44.856399Z
+1d6eddfe13d0b8c6,WV,JeniusBank,JeniusBank,,,,2026-06-04,,,2026-09-02T05:08:44.856399Z
+64df5aca08d7f198,WV,Mettiki,Mettiki,,,,2026-04-01,,Update,2026-09-02T05:08:44.856399Z
+62788491abf0e96c,WV,Greenbrier Minerals,Greenbrier Minerals,,,,2026-02-13,,,2026-09-02T05:08:44.856399Z
+8be2d34165a2b0ab,WV,Mettitki Coal,Mettitki Coal,,,,2026-01-29,,,2026-09-02T05:08:44.856399Z
+1520403bf1a7fb71,WV,WVU Research Corporation,WVU Research,,,,2025-08-21,,,2026-09-02T05:08:44.856399Z
+6feb4a596bc671fe,WV,Parkhurst Dining,Parkhurst Dining,,,,2025-06-24,,,2026-09-02T05:08:44.856399Z
+e8b985b86a37552e,WV,CV2 Prep Plant,CV2 Prep Plant,,,,2025-06-04,,Update,2026-09-02T05:08:44.856399Z
+e247327686ba3492,WV,Page Loadout,Page Loadout,,,,2025-06-04,,Update,2026-09-02T05:08:44.856399Z
+be20f9cc22470a39,WV,Beckley Mechanic Shop,Beckley Mechanic Shop,,,,2025-06-04,,Update,2026-09-02T05:08:44.856399Z
+bad971277c3ca775,WV,Pine Creek Facility,Pine Creek Facility,,,,2025-06-04,,Update,2026-09-02T05:08:44.856399Z
+a988832ac646b34b,WV,Delbarton Prep Plant,Delbarton Prep Plant,,,,2025-06-04,,Update,2026-09-02T05:08:44.856399Z
+97ee723f4638b022,WV,CV2 Facility,CV2 Facility,,,,2025-06-04,,Update,2026-09-02T05:08:44.856399Z
+9170e63db772b04c,WV,Eagle Energy,Eagle Energy,,,,2025-06-04,,Update,2026-09-02T05:08:44.856399Z
+7790e4fc33f4566e,WV,Falcon Facility,Falcon Facility,,,,2025-06-04,,Update,2026-09-02T05:08:44.856399Z
+706e06cf91bf0aab,WV,Stella Facility,Stella Facility,,,,2025-06-04,,Update,2026-09-02T05:08:44.856399Z
+58f20f625b4edaaf,WV,Management & Training Corporations,Management & Training Corporations,,,,2025-06-03,,,2026-09-02T05:08:44.856399Z
+fa63b4097765cf53,WV,Itmann Mining Company,Itmann Mining,,,,2025-06-02,,,2026-09-02T05:08:44.856399Z
+45c58a336372c995,WV,Coalmac,Coalmac,,,,2025-05-15,,,2026-09-02T05:08:44.856399Z
+1d94aa398b504796,WV,Sodexo,Sodexo,,,,2025-05-12,,,2026-09-02T05:08:44.856399Z
+367d18ee0023f3f2,WV,Greenbrier Minerals,Greenbrier Minerals,,,,2025-04-28,,,2026-09-02T05:08:44.856399Z
+f7555f5070d518a0,WV,Novelis- Fairmont,Novelis- Fairmont,,,,2025-03-31,,,2026-09-02T05:08:44.856399Z
+2b4173009da5d3fc,WV,USCellular,USCellular,,,,2025-03-26,,,2026-09-02T05:08:44.856399Z
+cf462596001d28e9,WV,Brinks Home,Brinks Home,,,,2025-03-17,,,2026-09-02T05:08:44.856399Z
+08f17651f6896438,WV,Clarvida,Clarvida,,,,2025-02-25,,,2026-09-02T05:08:44.856399Z
+31fbd01f33df5862,WV,Behavioral Health Link,Behavioral Health Link,,,,2025-02-19,,,2026-09-02T05:08:44.856399Z
+4d692b1149d55882,WV,"Vimo, Inc. dba GetInsured",Vimo,GetInsured,Wetzel,1,2024-12-20,2024-12-06,Terminations,2026-09-02T05:08:44.856399Z
+310a66af0eae61d5,WV,Elk Run Coal Company,Elk Run Coal,,Boone,66,2024-10-17,2024-12-06,Idling,2026-09-02T05:08:44.856399Z
+8041e2e176d337fc,WV,"Cygnus Home Servies, LLC, d/b/a Yelloh",Cygnus Home Servies,Yelloh,"Raleigh, Wood, Harrison, Jefferson, and Mineral",54,2024-09-23,2024-11-22,Layoff,2026-09-02T05:08:44.856399Z
+bdeb90b6b2b4d927,WV,"Stone Brook Community Services, LLC",Stone Brook Community Services,,Berkeley,52,2024-07-31,2024-11-01,Closing,2026-09-02T05:08:44.856399Z
+0b430aa6d5947ab9,WV,"Cygnus Home Servies, LLC, d/b/a Yelloh",Cygnus Home Servies,Yelloh,Raleigh,1,2024-07-16,2024-09-14,Layoff,2026-09-02T05:08:44.856399Z
+b4d3c9fe6945a784,WV,Packers Sanitation Services,Packers Sanitation Services,,Hardy,88,2024-04-23,2024-05-10,Layoff,2026-09-02T05:08:44.856399Z
+69d0731564fd53e2,WV,Novelis ALR Rolled Products,Novelis ALR Rolled Products,,Upshur,79,2024-03-15,2024-06-13,Closure,2026-09-02T05:08:44.856399Z
+44078b58c2ebd25f,WV,"Cleveland Cliffs, Inc.",Cleveland Cliffs,,Hancock,885,2024-02-15,2024-04-15,Indefinite Idle,2026-09-02T05:08:44.856399Z

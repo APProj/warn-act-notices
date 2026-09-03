@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-02T18:45:14.612156Z",
+  "generated_at": "2026-09-03T00:56:24.782481Z",
   "total_rows": 45755,
-  "free_rows": 8112,
+  "free_rows": 9423,
   "free_window_start": "2024-01-01",
-  "new_ids_this_run": 8,
-  "delay_hours": 48,
+  "new_ids_this_run": 0,
+  "delay_hours": 0,
   "states": {
     "AK": {
       "rows": 66,
@@ -281,27 +281,10 @@
     }
   },
   "delay_gap": {
-    "count": 83,
-    "workers": 7894,
-    "states": [
-      "AL",
-      "CA",
-      "DC",
-      "DE",
-      "GA",
-      "IA",
-      "LA",
-      "MD",
-      "ME",
-      "NC",
-      "NJ",
-      "OR",
-      "PA",
-      "SC",
-      "WA",
-      "WV"
-    ],
+    "count": 0,
+    "workers": 0,
+    "states": [],
     "window_days": 45,
-    "note": "Notices dated within the last 45 days that are in the real-time feed but not yet in this repo's free files; each appears here after its 48h delay expires."
+    "note": "Notices dated within the last 45 days that are in the real-time feed but not yet in this repo's free files; should be empty: the free tier carries no delay."
   }
 }
