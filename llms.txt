@@ -2,7 +2,7 @@
 
 > Free, no-login dataset of US WARN Act layoff notices from official state
 > labor department listings, normalized into one schema across 39 states and
-> refreshed daily. Free tier covers 2024-present, 48 hours delayed. Fields:
+> refreshed daily. Free tier covers 2024-present with no delay. Fields:
 > state, company (raw + canonicalized), location, employees_affected,
 > notice_date, effective_date, notice_type, first_seen. License: CC BY 4.0
 > (credit "WARN Feed").
@@ -25,5 +25,5 @@
 
 ## Commercial tiers
 
-- [Real-time feed, $49/mo](https://approj.gumroad.com/l/warn-realtime): the same dataset with zero delay, private GitHub repo delivery
+- [WARN Watch, $49/year](https://apventureengine.github.io/warn-act-notices/watch.html): your employers + states matched on every daily refresh, private alert page + RSS, no login (free 30-day trial: https://approj.gumroad.com/l/warn-free-watch)
 - [Full historical archive, $199](https://approj.gumroad.com/l/warn-archive): every notice back to 1988, all covered states, CSV + JSON

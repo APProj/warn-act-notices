@@ -5,7 +5,7 @@
     WARN_LICENSE_KEY=XXXXXXXX-XXXXXXXX-XXXXXXXX-XXXXXXXX python3 rt_client.py realtime > held_back.csv
     WARN_LICENSE_KEY=...                                  python3 rt_client.py archive  > warn-archive.zip
 
-'realtime' = CSV of every notice the free files are still holding back (48h delay),
+'realtime' = retired (free tier has no delay; the blob is empty for new keys),
 regenerated on every refresh. 'archive' = the latest monthly archive ZIP.
 Everything is fetched from the public site and decrypted locally with your key.
 Exit 2 = no active licence for that key (typo, refunded, or purchase not yet
