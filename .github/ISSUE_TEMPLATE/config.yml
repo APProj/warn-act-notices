@@ -1,8 +1,8 @@
 blank_issues_enabled: true
 contact_links:
-  - name: Real-time feed (no 48h delay) — $49/mo
-    url: https://approj.gumroad.com/l/warn-realtime
-    about: The free dataset here is 48h-delayed. Zero-delay feed for recruiters and sales teams.
+  - name: WARN Watch — daily alerts for the employers/states you pick — $49/year
+    url: https://approj.gumroad.com/l/warn-watch
+    about: This dataset is 48h-delayed and you have to come look at it. WARN Watch gives you a private alert page + RSS feed that updates on every daily refresh with only the notices matching your list. Free 30-day version available (up to 3 employers or one state, no card).
   - name: Full historical archive (1988–present) — $199
     url: https://approj.gumroad.com/l/warn-archive
     about: 40,000+ notices, 39 states, one normalized CSV/JSON. Free tier covers 2024–present only.
