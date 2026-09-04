@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-04T07:26:08Z",
+ "generated_at": "2026-09-04T12:12:18Z",
  "month": "2026-09",
  "realtime": {
   "rows_ahead_of_free_tier": 0,
@@ -7,7 +7,7 @@
   "states": []
  },
  "archive": {
-  "zip_bytes": 3867969,
-  "zip_sha256": "3564b05bf22ff592c5725e589702ce1c60e54a8c4d5cdf15ada8e685c3dbedee"
+  "zip_bytes": 3869560,
+  "zip_sha256": "c28d611b14d019329943fed66f4fdff57ac00524f16f252069fea23907bd79a3"
  }
 }
