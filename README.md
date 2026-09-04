@@ -146,6 +146,7 @@ _Grouped per notice (a phased notice with several layoff dates counts once, work
 
 | Month | Notices | Workers affected |
 |---|---:|---:|
+| 2025-09 | 250 | 29,309 |
 | 2025-10 | 412 | 42,952 |
 | 2025-11 | 282 | 24,820 |
 | 2025-12 | 133 | 11,787 |
@@ -157,7 +158,7 @@ _Grouped per notice (a phased notice with several layoff dates counts once, work
 | 2026-06 | 332 | 18,544 |
 | 2026-07 | 205 | 17,769 |
 | 2026-08 | 223 | 20,264 |
-| 2026-09 | 23 | 2,852 |
+| 2026-09 _(month to date, 4 days)_ | 23 | 2,852 |
 
 Machine-readable trends (per-state monthly notices + workers affected, last 24
 months): [`data/trends.json`](data/trends.json) — stable raw URL for embedding
