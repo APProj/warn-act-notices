@@ -1,4 +1,6 @@
 id,state,company,company_canonical,company_dba,location,employees_affected,notice_date,effective_date,notice_type,first_seen
+fc8a03a80a422a9b,IL,"Fulton Troika, LLC",Fulton Troika,,"Chicago, 4501 W 42ND Pl",109,2026-09-02,,State,2026-09-04T00:09:40.386632Z
+947d7eb47d7c45be,IL,"Uber Technologies, Inc.",Uber Technologies,,"Chicago, 433 West Van Buren St.",363,2026-09-02,,State,2026-09-04T00:09:40.386632Z
 73eafab685a7f4ee,IL,MAT HOLDINGS INC.,Mat Holdings,,"Romeoville, 821 W Bluff Rd",97,2026-08-25,,State,2026-08-30T21:43:41.512264Z
 07561c6c9e857e15,IL,"BFG Supply Company, LLC",BFG Supply,,"Danville, 70 Eastgate Dr.",35,2026-08-24,,State,2026-08-30T21:43:41.512264Z
 7dedf639c52aa6f8,IL,Fortrex (at Tyson Foods),Fortrex (at Tyson Foods),,"Hillsdale, 28424 38TH Ave. North",103,2026-08-14,,State,2026-08-30T21:43:41.512264Z

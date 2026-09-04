@@ -31,17 +31,28 @@ ac5cee9b91951989,PA,"Transform Warehouse Operations, LLC",Transform Warehouse Op
 37c4a7abb28d1916,MI,"SK Siltron CSS, LLC",SK Siltron CSS,,Bay,130,,2026-09-15,Facility closure,2026-08-30T22:16:36.831610Z
 c18643df422ff146,MI,Fifth Third Bank,Fifth Third Bank,,Oakland,234,,2026-09-11,Mass layoff,2026-08-30T22:16:36.831610Z
 f6d6f5d4ff18c221,MI,"Trystar, LLC",Trystar,,Oakland,71,,2026-09-04,Facility closure,2026-08-30T22:16:36.831610Z
+aa6080e05d6e0eb0,WA,"Gilbert Orchards, Inc.",Gilbert Orchards,,"Yakima, Franklin and Grant Counties",518,2026-09-03,2026-11-22,Layoff,2026-09-04T00:09:40.386632Z
+fc8a03a80a422a9b,IL,"Fulton Troika, LLC",Fulton Troika,,"Chicago, 4501 W 42ND Pl",109,2026-09-02,,State,2026-09-04T00:09:40.386632Z
 f23fddb537b8c745,WA,Uber Technologies Inc,Uber Technologies,,Seattle,93,2026-09-02,2026-11-02,Layoff,2026-09-03T18:18:18.916999Z
 ca0a004668c9c61c,TN,"Kilgore Flares Company, LLC",Kilgore Flares,,Hardeman,127,2026-09-02,2026-10-31,,2026-09-03T18:18:18.916999Z
+947d7eb47d7c45be,IL,"Uber Technologies, Inc.",Uber Technologies,,"Chicago, 433 West Van Buren St.",363,2026-09-02,,State,2026-09-04T00:09:40.386632Z
+89bf1834a1289c22,CA,Foundation for California Community Colleges,Foundation for California Community Colleges,,Sacramento County,178,2026-09-02,2026-10-30,Layoff Permanent,2026-09-04T00:09:40.386632Z
 5b45c0947adbbdb6,WA,Qualtrics LLC,Qualtrics,,Seattle,117,2026-09-02,2026-10-18,Layoff,2026-09-03T18:18:18.916999Z
+06715aaaffda5819,IN,PMG Indiana,PMG Indiana,,Columbus,150,2026-09-02,2026-12-31,CL,2026-09-04T00:09:40.386632Z
 013c082af884ac22,WA,"Sundquist Fruit, LLC",Sundquist Fruit,,Yakima and Franklin Counties,243,2026-09-02,2026-11-15,Layoff,2026-09-03T18:18:18.916999Z
+f0f2e936564400f8,CA,Clarmil Manufacturing Corporation,Clarmil Manufacturing,,Alameda County,108,2026-09-01,2026-10-30,Closure Permanent,2026-09-04T00:09:40.386632Z
+ec275f875ecd53a8,CA,Renewal by Andersen LLC,Renewal by Andersen,,Orange County,79,2026-09-01,2026-11-02,Layoff Permanent,2026-09-04T00:09:40.386632Z
 c9babd2aa7bdfda4,NJ,UBS,UBS,,Weehawken,41,2026-09-01,2026-11-25,,2026-09-02T18:45:14.612156Z
 c42b1289d9f5c4ea,OR,Tualatin Oregon Facility,Tualatin Oregon Facility,,Tualatin,60,2026-09-01,2027-02-28,Permanent closure,2026-09-02T05:08:44.856399Z
 b7e99a13df089fbc,OR,Tualatin Oregon Facility,Tualatin Oregon Facility,,Tualatin,9,2026-09-01,2027-03-31,Permanent closure,2026-09-02T05:08:44.856399Z
 a2da5edc4d954994,OR,Tualatin Oregon Facility,Tualatin Oregon Facility,,Tualatin,5,2026-09-01,2026-10-31,Permanent closure,2026-09-02T05:08:44.856399Z
 9bdd877aba8be75b,WA,Georgia-Pacific Gypsum LLC,Georgia-Pacific Gypsum,,Tacoma,120,2026-09-01,2026-10-30,Closure,2026-09-02T18:45:14.612156Z
 8daff93bbc762538,IA,Wells Fargo,Wells Fargo,,West Des Moines,5,2026-09-01,2026-10-31,Amendment - Additional Employees,2026-09-02T18:45:14.612156Z
+7f3f861c0879dcde,CA,Renewal by Andersen LLC,Renewal by Andersen,,Los Angeles County,153,2026-09-01,2026-11-02,Layoff Permanent,2026-09-04T00:09:40.386632Z
+53f71e6a5e8a7853,CA,Renewal by Andersen LLC,Renewal by Andersen,,Orange County,52,2026-09-01,2026-11-02,Layoff Permanent,2026-09-04T00:09:40.386632Z
 5209a12b59500c1e,OR,Tualatin Oregon Facility,Tualatin Oregon Facility,,Tualatin,2,2026-09-01,2026-12-31,Permanent closure,2026-09-02T05:08:44.856399Z
+4e54543c698fbfba,CA,"Arsenal Biosciences, Inc.",Arsenal Biosciences,,San Mateo County,58,2026-09-01,2026-10-29,Layoff Permanent,2026-09-04T00:09:40.386632Z
+2e246402295bd199,CA,PayPal,PayPal,,Santa Clara County,251,2026-09-01,2026-10-30,Layoff Permanent,2026-09-04T00:09:40.386632Z
 1e897dcfb5ec1108,OR,Tualatin Oregon Facility,Tualatin Oregon Facility,,Tualatin,11,2026-09-01,2026-11-30,Permanent closure,2026-09-02T05:08:44.856399Z
 f005da91ed062f2d,GA,"FPL Food, LLC",FPL Food,,"New Savannah Rd Augusta, Richmond County",179,2026-08-31,2026-10-31,Permanent Layoff / Reduction in Force,2026-08-31T19:18:38.989451Z
 e53b5aab10b15d4f,IA,Independence Premium Foods,Independence Premium Foods,,Independence,5,2026-08-31,2026-08-31,Amendment - Additional Employees,2026-09-01T22:27:50.881651Z
@@ -53,6 +64,7 @@ a25aa3ebb4958418,MD,"ThriftBooks Global, LLC",ThriftBooks Global,,"4734 Trident 
 8d90a1e927161c46,CA,"24Hr Homecare, LLC",24Hr Homecare,,Los Angeles County,738,2026-08-31,2026-09-15,Layoff Permanent,2026-09-01T22:27:50.881651Z
 7c34a08376cf04f9,WA,Amazon,Amazon,,"Seattle, Bellevue, Sumner",121,2026-08-31,2026-10-01,Layoff,2026-08-31T17:18:44.066418Z
 79f90c2757656ba8,CA,Amazon - SF019,Amazon - SF019,,San Francisco County,78,2026-08-31,2026-10-20,Layoff Permanent,2026-09-01T22:27:50.881651Z
+5cce30b6f88358d9,IN,Packaging Corporation of America,Packaging Corporation of America,,Gas City,72,2026-08-31,2026-11-02,CL,2026-09-04T00:09:40.386632Z
 51f6f22b550197c1,PA,"GEODIS Logistics, LLC",GEODIS Logistics,,"Carlisle, Cumberland",185,,2026-08-31,Closure,2026-09-02T05:08:44.856399Z
 3ef2998a291ecd26,WA,Maverick Washington LLC / Riverside Casino,Maverick Washington LLC / Riverside Casino,,Tukwila,142,2026-08-31,2026-11-01,Closure,2026-09-01T07:22:46.114190Z
 34e8535b63634ae5,CA,Astrion,Astrion,,Kern County,28,2026-08-31,2026-09-30,Layoff Permanent,2026-09-01T22:27:50.881651Z
@@ -2178,7 +2190,7 @@ abb6b19e3dbc92c6,CA,Amazon,Amazon,,Santa Clara County,11,2026-01-30,2026-04-28,L
 6652e00754e8083c,CA,Amazon (LAX78),Amazon (LAX78),,Los Angeles County,45,2026-01-30,2026-04-28,Layoff Permanent,2026-08-30T21:43:41.512264Z
 638cfc7fc98e06c4,CA,Amazon - SAN 13,Amazon - SAN 13,,San Diego County,38,2026-01-30,2026-04-28,Layoff Permanent,2026-08-30T21:43:41.512264Z
 61e7995414798cec,IL,"T-Mobile USA, Inc.",T-Mobile,,"Schaumburg, 50 Commerce Dr., Suite 130",172,2026-01-30,,State,2026-08-30T21:43:41.512264Z
-6198f7ef7f06c3a5,KS,"Vornado Air, LLC.",Vornado Air,,Andover,72,2026-01-30,,WARN,2026-08-30T22:16:36.831610Z
+6198f7ef7f06c3a5,KS,"Vornado Air, LLC.",Vornado Air,,"Andover, 415 E. 13th ; Andover, Kansas 67002",72,2026-01-30,,WARN,2026-08-30T22:16:36.831610Z
 60157117cfe466e4,CA,"Chan Zuckerberg Biohub, Inc.",Chan Zuckerberg Biohub,,San Francisco County,1,2026-01-30,2026-03-30,Layoff Permanent,2026-08-30T21:43:41.512264Z
 5e3830b96719a3ad,CA,Amazon (SJC25),Amazon (SJC25),,Santa Clara County,43,2026-01-30,2026-04-28,Layoff Permanent,2026-08-30T21:43:41.512264Z
 56e18b577e5057e4,CA,Amazon - SAN 15,Amazon - SAN 15,,San Diego County,1,2026-01-30,2026-04-28,Layoff Permanent,2026-08-30T21:43:41.512264Z
@@ -4190,7 +4202,7 @@ a03ae15100b7ae18,MD,"Science Systems and Applications, Inc. (SSAI)","Science Sys
 899bea7dcd3027ec,FL,Sofgen Pharmaceuticals LLC,Sofgen Pharmaceuticals,,"RIVIERA BEACH, FL, 34761",45,2025-07-07,2025-09-11,,2026-08-31T10:29:52.309603Z
 874043a9ae6f01cc,AZ,Intel Corporation,Intel,,Chandler,696,2025-07-07,,WARN,2026-08-30T21:43:41.512264Z
 69c06e952578d7ae,AZ,"QB Intermediate Holdings, LLC, AKA Quality Built, LLC",QB Intermediate Holdings,"Quality Built, LLC",Fort Lauderdale,8,2025-07-07,,WARN,2026-08-30T21:43:41.512264Z
-667d2142cdca8303,DE,Quality Built LLC,Quality Built,,Fort Lauderdale,2,2025-07-07,,WARN,2026-09-02T05:08:44.856399Z
+667d2142cdca8303,DE,Quality Built LLC,Quality Built,,"Fort Lauderdale, 633 S. Andrews Ave; Fort Lauderdale, Florida 33301",2,2025-07-07,,WARN,2026-09-02T05:08:44.856399Z
 5d603749f1815c61,WA,"Quality Built, LLC",Quality Built,,Not Provided,1,2025-07-07,2025-07-03,Closure,2026-08-30T21:43:41.512264Z
 4038ca9c104a3c19,FL,"QB Intermediate Holdings, LLC, Quality Built, LLC, Foresite Technology Solutions, LLC (f/k/a QB Technology Co., LLC), SMC Systems LLC (d/b/a SkyeTec), SkyeTec Engineering Services, LLC, and DuctTesters, Inc.","QB Intermediate Holdings, LLC, Quality Built, LLC, Foresite Technology Solutions, LLC (f/k/a QB Technology Co., LLC), SMC Systems","SkyeTec), SkyeTec Engineering Services, LLC, and DuctTesters, Inc","JACKSONVILLE, FL, 32225",20,2025-07-07,2025-07-03,,2026-08-31T10:29:52.309603Z
 366d2b494d33b730,FL,"QB Intermediate Holdings, LLC, Quality Built, LLC, Foresite Technology Solutions, LLC (f/k/a QB Technology Co., LLC), SMC Systems LLC (d/b/a SkyeTec), SkyeTec Engineering Services, LLC, and DuctTesters, Inc.","QB Intermediate Holdings, LLC, Quality Built, LLC, Foresite Technology Solutions, LLC (f/k/a QB Technology Co., LLC), SMC Systems","SkyeTec), SkyeTec Engineering Services, LLC, and DuctTesters, Inc","FORT LAUDERDALE, FL, 33301",50,2025-07-07,2025-07-03,,2026-08-31T10:29:52.309603Z
@@ -4718,7 +4730,7 @@ a22ecb700bb94da8,TX,Chevron (S. County Rd.),Chevron (S. County Rd.),,"Midland, M
 4539aefb5c548ca6,AZ,Florence Immigrant & Refugee Rights Project,Florence Immigrant & Refugee Rights Project,,Phoenix,47,2025-05-16,,WARN,2026-08-30T21:43:41.512264Z
 44e68197af031bec,CT,"Feeney Brothers Excavation, LLC (Update to 4/16/2025 and 5/2/2025 notices)","Feeney Brothers Excavation, LLC (Update to 4/16/2025 and 5/2/2025 notices)",,Waterbury,6,2025-05-16,2025-05-16,,2025-05-16T00:00:00Z
 2bf1411b4929ef49,LA,Sodexo,Sodexo,,"1500 Sugar Bowl Drive New Orleans, LA 70112",881,2025-05-16,2025-07-14,,2026-08-31T10:29:52.309603Z
-191547ce5e06f015,KS,"Veyer, LLC",Veyer,,Edwardsville,77,2025-05-16,,WARN,2026-08-30T22:16:36.831610Z
+191547ce5e06f015,KS,"Veyer, LLC",Veyer,,"Edwardsville, 2401 Midpoint Drive; Edwardsville, Kansas 66111",77,2025-05-16,,WARN,2026-08-30T22:16:36.831610Z
 ffbd673546a06776,GA,WIOSS Atlanta LP,WIOSS Atlanta,,"Anvil Block Rd Forest Park, Clayton County",53,2025-05-15,2025-07-19,Permanent Layoff / Reduction in Force,2026-08-31T03:32:57.915961Z
 fb6d27a2da7ffbd3,CA,UPS,UPS,,Yolo County,355,2025-05-15,2025-07-14,Layoff Permanent,2026-08-30T21:43:41.512264Z
 fa6da888d9e1ab9a,FL,Bahama Breeze,Bahama Breeze,,"NAPLES, FL, 34102",68,2025-05-15,2025-05-15,,2026-08-31T10:29:52.309603Z
@@ -5150,7 +5162,7 @@ d40a5079a79a1a16,WA,United States Cellular Corporation,United States Cellular,,V
 8446118d4e0f13c5,CA,Federal Express Corporation,Federal Express,,Alameda County,95,2025-04-07,2025-06-02,Closure Permanent,2026-08-30T21:43:41.512264Z
 697be0292fb16c05,LA,IDEA Public Schools (IDEA Innovation & IDEA Bridge),IDEA Public Schools (IDEA Innovation & IDEA Bridge),,"7800 Innovation Park Drive & 1500 N. Airway Drive Baton Rouge, LA",212,2025-04-07,2025-05-24,,2026-08-31T10:29:52.309603Z
 5b4465c42a6158f6,GA,United States Cellular Corporation,United States Cellular,,Courtyards Dr Norcross,4100,2025-04-07,2025-06-02,Permanent Layoff / Reduction in Force,2026-08-31T03:32:57.915961Z
-52ed392a4fd72c6e,ME,US Cellular,US Cellular,,Washington,20,2025-04-07,,WARN,2026-09-02T05:08:44.856399Z
+52ed392a4fd72c6e,ME,US Cellular,US Cellular,,"Washington, 4058 Minnesota Ave, NE, Ste 3001; Washington, District Of Columbia 20019",20,2025-04-07,,WARN,2026-09-02T05:08:44.856399Z
 40538f185719ae98,CA,Federal Express Corporation,Federal Express,,Alameda County,79,2025-04-07,2025-06-02,Closure Permanent,2026-08-30T21:43:41.512264Z
 3a52171a04466eac,IL,"Acero Charter Schools, Inc. (at Sor Juana Ines de la Cruz K-12)","Acero Charter Schools, Inc. (at Sor Juana Ines de la Cruz K-12)",,"Chicago, 7416 N Ridge Blvd.",58,2025-04-07,,State,2026-08-30T21:43:41.512264Z
 36871c3aa8bd3923,LA,IDEA Southern Louisiana Idea Innovation,IDEA Southern Louisiana Idea Innovation,,"(7800 Innovation Park Drive, Baton Rouge, LA 70820) Idea Bridge (1500 N. Airway Drive, Baton Rouge, LA 70815)",212,2025-04-07,2025-05-24,,2026-08-31T10:29:52.309603Z
@@ -5879,7 +5891,7 @@ e4fb079b1f3d79d7,CA,"Fast Ride Moto, LLC",Fast Ride Moto,,San Diego County,1,202
 8141422dcd94e2c3,TN,Perdue Farms,Perdue Farms,,Putnam,433,2025-01-21,2025-03-28,,2026-08-30T21:43:41.512264Z
 222f6c0435268b3e,CA,"Del Monte Foods, Inc.",Del Monte Foods,,Kings County,378,2025-01-21,2025-03-28,Closure Permanent,2026-08-30T21:43:41.512264Z
 abb3405ec593b51b,MI,United Parcel Service (UPS),United Parcel Service (UPS),,"Wyoming, Michigan, Kent",67,,2025-01-20,Layoff,2026-08-30T22:16:36.831610Z
-20d5f6857963c101,KS,S&S Activewear,S&S Activewear,,"Edwardsville, 9525 Woodend Road; Edwardsville, Kansas 66111",86,2025-01-20,,WARN,2026-08-30T22:16:36.831610Z
+20d5f6857963c101,KS,S&S Activewear,S&S Activewear,,Edwardsville,86,2025-01-20,,WARN,2026-08-30T22:16:36.831610Z
 cf73d5702295f062,PA,Boeing Company,Boeing,,"Smithfield, Delaware and Fayette",101,,2025-01-17,Layoff,2026-09-02T05:08:44.856399Z
 674a700a0233f9a7,CT,CVS Health,CVS Health,,Hartford,13,2025-01-17,2025-03-09,,2025-01-17T00:00:00Z
 5b947a0183a89160,CA,ECAMSECURE,Ecamsecure,,Los Angeles County,21,2025-01-17,2025-03-17,Layoff Permanent,2026-08-30T21:43:41.512264Z

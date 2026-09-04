@@ -1,4 +1,5 @@
 id,state,company,company_canonical,company_dba,location,employees_affected,notice_date,effective_date,notice_type,first_seen
+aa6080e05d6e0eb0,WA,"Gilbert Orchards, Inc.",Gilbert Orchards,,"Yakima, Franklin and Grant Counties",518,2026-09-03,2026-11-22,Layoff,2026-09-04T00:09:40.386632Z
 f23fddb537b8c745,WA,Uber Technologies Inc,Uber Technologies,,Seattle,93,2026-09-02,2026-11-02,Layoff,2026-09-03T18:18:18.916999Z
 5b45c0947adbbdb6,WA,Qualtrics LLC,Qualtrics,,Seattle,117,2026-09-02,2026-10-18,Layoff,2026-09-03T18:18:18.916999Z
 013c082af884ac22,WA,"Sundquist Fruit, LLC",Sundquist Fruit,,Yakima and Franklin Counties,243,2026-09-02,2026-11-15,Layoff,2026-09-03T18:18:18.916999Z

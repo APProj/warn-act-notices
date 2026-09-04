@@ -1,8 +1,8 @@
 {
- "checked": "2026-09-03",
+ "checked": "2026-09-04",
  "stale": [
   {
-   "age_days": 67,
+   "age_days": 68,
    "kind": "stale-notices",
    "latest_notice_date": "2026-06-28",
    "limit_days": 60,
@@ -11,7 +11,7 @@
    "verified_quiet": "2026-09-02"
   },
   {
-   "age_days": 125,
+   "age_days": 126,
    "kind": "stale-notices",
    "latest_notice_date": "2026-05-01",
    "limit_days": 60,
@@ -20,7 +20,7 @@
    "verified_quiet": "2026-09-02"
   },
   {
-   "age_days": 66,
+   "age_days": 67,
    "kind": "stale-notices",
    "latest_notice_date": "2026-06-29",
    "limit_days": 60,
@@ -29,7 +29,7 @@
    "verified_quiet": "2026-09-02"
   },
   {
-   "age_days": 66,
+   "age_days": 67,
    "kind": "stale-notices",
    "latest_notice_date": "2026-06-29",
    "limit_days": 60,
@@ -38,7 +38,7 @@
    "verified_quiet": "2026-09-02"
   },
   {
-   "age_days": 78,
+   "age_days": 79,
    "kind": "stale-notices",
    "latest_notice_date": "2026-06-17",
    "limit_days": 60,

@@ -1,4 +1,6 @@
 id,state,company,company_canonical,company_dba,location,employees_affected,notice_date,effective_date,notice_type,first_seen
+06715aaaffda5819,IN,PMG Indiana,PMG Indiana,,Columbus,150,2026-09-02,2026-12-31,CL,2026-09-04T00:09:40.386632Z
+5cce30b6f88358d9,IN,Packaging Corporation of America,Packaging Corporation of America,,Gas City,72,2026-08-31,2026-11-02,CL,2026-09-04T00:09:40.386632Z
 4837064cfb328c8c,IN,Postal Center International Inc,Postal Center International,,Brownsburg,151,2026-08-13,2026-08-13,CL,2026-08-30T21:43:41.512264Z
 3760e2e00b20710e,IN,Owens Corning,Owens Corning,,Walkerton,130,2026-07-21,2026-09-19,CL,2026-08-30T21:43:41.512264Z
 c3af09eece6a42f0,IN,"Forest River, Inc.",Forest River,,Bristol,105,2026-07-17,2026-09-17,CL,2026-08-30T21:43:41.512264Z

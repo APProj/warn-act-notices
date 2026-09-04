@@ -1,4 +1,11 @@
 id,state,company,company_canonical,company_dba,location,employees_affected,notice_date,effective_date,notice_type,first_seen
+89bf1834a1289c22,CA,Foundation for California Community Colleges,Foundation for California Community Colleges,,Sacramento County,178,2026-09-02,2026-10-30,Layoff Permanent,2026-09-04T00:09:40.386632Z
+f0f2e936564400f8,CA,Clarmil Manufacturing Corporation,Clarmil Manufacturing,,Alameda County,108,2026-09-01,2026-10-30,Closure Permanent,2026-09-04T00:09:40.386632Z
+ec275f875ecd53a8,CA,Renewal by Andersen LLC,Renewal by Andersen,,Orange County,79,2026-09-01,2026-11-02,Layoff Permanent,2026-09-04T00:09:40.386632Z
+7f3f861c0879dcde,CA,Renewal by Andersen LLC,Renewal by Andersen,,Los Angeles County,153,2026-09-01,2026-11-02,Layoff Permanent,2026-09-04T00:09:40.386632Z
+53f71e6a5e8a7853,CA,Renewal by Andersen LLC,Renewal by Andersen,,Orange County,52,2026-09-01,2026-11-02,Layoff Permanent,2026-09-04T00:09:40.386632Z
+4e54543c698fbfba,CA,"Arsenal Biosciences, Inc.",Arsenal Biosciences,,San Mateo County,58,2026-09-01,2026-10-29,Layoff Permanent,2026-09-04T00:09:40.386632Z
+2e246402295bd199,CA,PayPal,PayPal,,Santa Clara County,251,2026-09-01,2026-10-30,Layoff Permanent,2026-09-04T00:09:40.386632Z
 bd2b730263c7d520,CA,"Synopsys, Inc.",Synopsys,,Santa Clara County,128,2026-08-31,2026-12-16,Layoff Permanent,2026-09-01T22:27:50.881651Z
 b3d6bf5eaf1179a0,CA,Amazon - SJC13,Amazon - SJC13,,Santa Clara County,70,2026-08-31,2026-10-20,Layoff Permanent,2026-09-01T22:27:50.881651Z
 8d90a1e927161c46,CA,"24Hr Homecare, LLC",24Hr Homecare,,Los Angeles County,738,2026-08-31,2026-09-15,Layoff Permanent,2026-09-01T22:27:50.881651Z
