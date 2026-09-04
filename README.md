@@ -1,8 +1,12 @@
 # US WARN Act Layoff Notices — normalized, daily-updated dataset
 
-[![US WARN layoffs 2026](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FAPVentureEngine%2Fwarn-act-notices%2Fmain%2Fdata%2Fbadge.json)](https://apventureengine.github.io/warn-act-notices/yearly/) [![data updated](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FAPVentureEngine%2Fwarn-act-notices%2Fmain%2Fdata%2Fbadge-updated.json)](https://github.com/APVentureEngine/warn-act-notices/commits/main) — live, embeddable: [get these badges](API.md#live-badges)
+[![US WARN layoffs 2026](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FAPVentureEngine%2Fwarn-act-notices%2Fmain%2Fdata%2Fbadge.json)](https://approjects-warn-act-notices.static.hf.space/yearly/index.html) [![data updated](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FAPVentureEngine%2Fwarn-act-notices%2Fmain%2Fdata%2Fbadge-updated.json)](https://github.com/APVentureEngine/warn-act-notices/commits/main) — live, embeddable: [get these badges](API.md#live-badges)
 
 **9,440 layoff notices since 2024 · 39 states · one clean schema · CSV + JSON · updated 2026-09-04**
+
+**Browse it:** [live site, search + per-state pages](https://approjects-warn-act-notices.static.hf.space/index.html) · **Machine-readable:**
+[`data/warn_notices.csv`](data/warn_notices.csv) · **Hugging Face:**
+[APProjects/us-warn-act-layoffs-daily](https://huggingface.co/datasets/APProjects/us-warn-act-layoffs-daily)
 
 Every US state publishes WARN Act layoff notices differently — different sites,
 formats, column names, and date conventions. This repo normalizes them into one
@@ -17,15 +21,15 @@ on Wikipedia.
 - Coverage/freshness metadata: [`data/coverage.json`](data/coverage.json)
 - Per-state CSVs: [`data/by-state/`](data/by-state/) — see table below
 - **Newly added in the last 7 days:** [`data/latest.csv`](data/latest.csv) / [`data/latest.json`](data/latest.json) — stable raw URLs for "new WARN notices" alerting and dashboards (no delay)
-- Stats page: https://apventureengine.github.io/warn-act-notices/
-- RSS feed of newly-published notices: https://apventureengine.github.io/warn-act-notices/feed.xml (no delay)
-- Per-state RSS feeds (one state per feed — pipe a single state into Slack/Feedly/Zapier): OPML bundle https://apventureengine.github.io/warn-act-notices/feeds/feeds.opml, or `feeds/<state>.xml`, e.g. https://apventureengine.github.io/warn-act-notices/feeds/california.xml
-- Weekly summaries (biggest layoffs, per-state totals, one page per week): https://apventureengine.github.io/warn-act-notices/weekly/
-- Monthly summaries (current month updates daily): https://apventureengine.github.io/warn-act-notices/monthly/
-- Yearly totals (current year is a running total, updated daily): https://apventureengine.github.io/warn-act-notices/yearly/
-- Browse layoffs by employer: https://apventureengine.github.io/warn-act-notices/employers/
-- Instant employer search (free tier): https://apventureengine.github.io/warn-act-notices/search.html
-- How this compares to WARNTracker, Intellizence, warn-scraper & state portals: https://apventureengine.github.io/warn-act-notices/compare.html
+- Stats page: https://approjects-warn-act-notices.static.hf.space/index.html
+- RSS feed of newly-published notices: https://approjects-warn-act-notices.static.hf.space/feed.xml (no delay)
+- Per-state RSS feeds (one state per feed — pipe a single state into Slack/Feedly/Zapier): OPML bundle https://approjects-warn-act-notices.static.hf.space/feeds/feeds.opml, or `feeds/<state>.xml`, e.g. https://approjects-warn-act-notices.static.hf.space/feeds/california.xml
+- Weekly summaries (biggest layoffs, per-state totals, one page per week): https://approjects-warn-act-notices.static.hf.space/weekly/index.html
+- Monthly summaries (current month updates daily): https://approjects-warn-act-notices.static.hf.space/monthly/index.html
+- Yearly totals (current year is a running total, updated daily): https://approjects-warn-act-notices.static.hf.space/yearly/index.html
+- Browse layoffs by employer: https://approjects-warn-act-notices.static.hf.space/employers/index.html
+- Instant employer search (free tier): https://approjects-warn-act-notices.static.hf.space/search.html
+- How this compares to WARNTracker, Intellizence, warn-scraper & state portals: https://approjects-warn-act-notices.static.hf.space/compare.html
 - Use it as a free layoffs API (stable raw URLs, curl/pandas/Sheets examples): [API.md](API.md)
 - Hugging Face mirror (same free tier, `load_dataset` / pandas ready, re-uploaded every refresh): [APProjects/us-warn-act-layoffs-daily](https://huggingface.co/datasets/APProjects/us-warn-act-layoffs-daily)
 - Live explorer on Hugging Face Spaces (search employers, newest notices, per-state freshness; reads this repo directly): [APProjects/us-layoff-notices-explorer](https://huggingface.co/spaces/APProjects/us-layoff-notices-explorer)
@@ -56,45 +60,45 @@ that fund the pipeline.
 
 | State | Rows, full archive (1988→, paid) | Rows in free files (2024→, no delay) | CSV | Source last scraped | Newest notice on file | Source status |
 |---|---:|---:|---|---|---|---|
-| [Alaska](https://apventureengine.github.io/warn-act-notices/states/alaska.html) (AK) | 66 | 4 | [ak.csv](data/by-state/ak.csv) | 2026-09-04 00:03 UTC | 2026-07-06 | current |
-| [Alabama](https://apventureengine.github.io/warn-act-notices/states/alabama.html) (AL) | 1,061 | 77 | [al.csv](data/by-state/al.csv) | 2026-09-04 00:03 UTC | 2026-08-31 | current |
-| [Arizona](https://apventureengine.github.io/warn-act-notices/states/arizona.html) (AZ) | 636 | 121 | [az.csv](data/by-state/az.csv) | 2026-09-04 00:03 UTC | 2026-08-21 | current |
-| [California](https://apventureengine.github.io/warn-act-notices/states/california.html) (CA) | 16,563 | 4,028 | [ca.csv](data/by-state/ca.csv) | 2026-09-04 00:06 UTC | 2026-09-02 | current |
-| [Colorado](https://apventureengine.github.io/warn-act-notices/states/colorado.html) (CO) | 835 | 177 | [co.csv](data/by-state/co.csv) | 2026-09-04 00:04 UTC | 2026-08-14 | current |
-| [Connecticut](https://apventureengine.github.io/warn-act-notices/states/connecticut.html) (CT) | 871 | 76 | [ct.csv](data/by-state/ct.csv) | 2026-09-04 00:04 UTC | 2026-06-28 | quiet: agency portal checked by hand 2026-09-02, nothing newer published |
-| [District of Columbia](https://apventureengine.github.io/warn-act-notices/states/district-of-columbia.html) (DC) | 143 | 56 | [dc.csv](data/by-state/dc.csv) | 2026-09-04 00:04 UTC | 2026-07-27 | current |
-| [Delaware](https://apventureengine.github.io/warn-act-notices/states/delaware.html) (DE) | 100 | 5 | [de.csv](data/by-state/de.csv) | 2026-09-04 00:04 UTC | 2026-08-10 | current |
-| [Florida](https://apventureengine.github.io/warn-act-notices/states/florida.html) (FL) | 3,115 | 746 | [fl.csv](data/by-state/fl.csv) | 2026-09-04 00:09 UTC | 2026-08-28 | current |
-| [Georgia](https://apventureengine.github.io/warn-act-notices/states/georgia.html) (GA) | 282 | 226 | [ga.csv](data/by-state/ga.csv) | 2026-09-04 00:07 UTC | 2026-08-31 | current |
-| [Iowa](https://apventureengine.github.io/warn-act-notices/states/iowa.html) (IA) | 417 | 81 | [ia.csv](data/by-state/ia.csv) | 2026-09-04 00:04 UTC | 2026-09-01 | current |
-| [Illinois](https://apventureengine.github.io/warn-act-notices/states/illinois.html) (IL) | 4,844 | 348 | [il.csv](data/by-state/il.csv) | 2026-09-04 00:04 UTC | 2026-09-02 | current |
-| [Indiana](https://apventureengine.github.io/warn-act-notices/states/indiana.html) (IN) | 1,182 | 262 | [in.csv](data/by-state/in.csv) | 2026-09-04 00:04 UTC | 2026-09-02 | current |
-| [Kansas](https://apventureengine.github.io/warn-act-notices/states/kansas.html) (KS) | 791 | 34 | [ks.csv](data/by-state/ks.csv) | 2026-09-04 00:05 UTC | 2026-05-01 | quiet: agency portal checked by hand 2026-09-02, nothing newer published |
-| [Kentucky](https://apventureengine.github.io/warn-act-notices/states/kentucky.html) (KY) | 804 | 38 | [ky.csv](data/by-state/ky.csv) | 2026-09-04 00:05 UTC | 2026-08-10 | current |
-| [Louisiana](https://apventureengine.github.io/warn-act-notices/states/louisiana.html) (LA) | 38 | 38 | [la.csv](data/by-state/la.csv) | 2026-09-04 00:07 UTC | 2026-08-26 | current |
-| [Maryland](https://apventureengine.github.io/warn-act-notices/states/maryland.html) (MD) | 1,274 | 329 | [md.csv](data/by-state/md.csv) | 2026-09-04 00:05 UTC | 2026-08-31 | current |
-| [Maine](https://apventureengine.github.io/warn-act-notices/states/maine.html) (ME) | 85 | 17 | [me.csv](data/by-state/me.csv) | 2026-09-04 00:05 UTC | 2026-08-04 | current |
-| [Michigan](https://apventureengine.github.io/warn-act-notices/states/michigan.html) (MI) | 112 | 112 | [mi.csv](data/by-state/mi.csv) | 2026-09-04 00:05 UTC | 2026-09-04 | current |
-| [Mississippi](https://apventureengine.github.io/warn-act-notices/states/mississippi.html) (MS) | 136 | 43 | [ms.csv](data/by-state/ms.csv) | 2026-09-04 00:09 UTC | 2026-05-11 | current; agency posts in batches (see state page) |
-| [Montana](https://apventureengine.github.io/warn-act-notices/states/montana.html) (MT) | 46 | 18 | [mt.csv](data/by-state/mt.csv) | 2026-09-04 00:05 UTC | 2026-07-21 | current |
-| [North Carolina](https://apventureengine.github.io/warn-act-notices/states/north-carolina.html) (NC) | 294 | 185 | [nc.csv](data/by-state/nc.csv) | 2026-09-04 00:09 UTC | 2026-08-13 | current |
-| [Nebraska](https://apventureengine.github.io/warn-act-notices/states/nebraska.html) (NE) | 845 | 29 | [ne.csv](data/by-state/ne.csv) | 2026-09-04 00:05 UTC | 2026-08-26 | current |
-| [New Jersey](https://apventureengine.github.io/warn-act-notices/states/new-jersey.html) (NJ) | 2,322 | 314 | [nj.csv](data/by-state/nj.csv) | 2026-09-04 00:05 UTC | 2026-09-01 | current |
-| [New Mexico](https://apventureengine.github.io/warn-act-notices/states/new-mexico.html) (NM) | 116 | 12 | [nm.csv](data/by-state/nm.csv) | 2026-09-04 00:05 UTC | 2026-06-29 | quiet: agency portal checked by hand 2026-09-02, nothing newer published |
-| [New York](https://apventureengine.github.io/warn-act-notices/states/new-york.html) (NY) | 141 | 141 | [ny.csv](data/by-state/ny.csv) | 2026-09-04 00:05 UTC | 2026-08-04 | current |
-| [Oklahoma](https://apventureengine.github.io/warn-act-notices/states/oklahoma.html) (OK) | 219 | 29 | [ok.csv](data/by-state/ok.csv) | 2026-09-04 00:05 UTC | 2026-08-17 | current |
-| [Oregon](https://apventureengine.github.io/warn-act-notices/states/oregon.html) (OR) | 1,369 | 202 | [or.csv](data/by-state/or.csv) | 2026-09-04 00:05 UTC | 2026-09-01 | current |
-| [Pennsylvania](https://apventureengine.github.io/warn-act-notices/states/pennsylvania.html) (PA) | 309 | 256 | [pa.csv](data/by-state/pa.csv) | 2026-09-04 00:05 UTC | 2026-08-31 | current |
-| [Rhode Island](https://apventureengine.github.io/warn-act-notices/states/rhode-island.html) (RI) | 126 | 27 | [ri.csv](data/by-state/ri.csv) | 2026-09-04 00:05 UTC | 2026-06-29 | quiet: agency portal checked by hand 2026-09-02, nothing newer published |
-| [South Carolina](https://apventureengine.github.io/warn-act-notices/states/south-carolina.html) (SC) | 604 | 135 | [sc.csv](data/by-state/sc.csv) | 2026-09-04 00:06 UTC | 2026-08-28 | current |
-| [South Dakota](https://apventureengine.github.io/warn-act-notices/states/south-dakota.html) (SD) | 80 | 16 | [sd.csv](data/by-state/sd.csv) | 2026-09-04 00:06 UTC | 2026-08-10 | current |
-| [Tennessee](https://apventureengine.github.io/warn-act-notices/states/tennessee.html) (TN) | 1,061 | 98 | [tn.csv](data/by-state/tn.csv) | 2026-09-04 00:06 UTC | 2026-09-02 | current |
-| [Texas](https://apventureengine.github.io/warn-act-notices/states/texas.html) (TX) | 2,358 | 573 | [tx.csv](data/by-state/tx.csv) | 2026-09-04 00:09 UTC | 2026-06-23 | current; agency posts in batches (see state page) |
-| [Utah](https://apventureengine.github.io/warn-act-notices/states/utah.html) (UT) | 282 | 51 | [ut.csv](data/by-state/ut.csv) | 2026-09-04 00:06 UTC | 2026-08-13 | current |
-| [Vermont](https://apventureengine.github.io/warn-act-notices/states/vermont.html) (VT) | 70 | 16 | [vt.csv](data/by-state/vt.csv) | 2026-09-04 00:06 UTC | 2026-06-17 | quiet: agency portal checked by hand 2026-09-02, nothing newer published |
-| [Washington](https://apventureengine.github.io/warn-act-notices/states/washington.html) (WA) | 1,500 | 281 | [wa.csv](data/by-state/wa.csv) | 2026-09-04 00:06 UTC | 2026-09-03 | current |
-| [Wisconsin](https://apventureengine.github.io/warn-act-notices/states/wisconsin.html) (WI) | 617 | 201 | [wi.csv](data/by-state/wi.csv) | 2026-09-04 00:06 UTC | 2026-08-24 | current |
-| [West Virginia](https://apventureengine.github.io/warn-act-notices/states/west-virginia.html) (WV) | 58 | 38 | [wv.csv](data/by-state/wv.csv) | 2026-09-04 00:09 UTC | 2026-08-19 | current |
+| [Alaska](https://approjects-warn-act-notices.static.hf.space/states/alaska.html) (AK) | 66 | 4 | [ak.csv](data/by-state/ak.csv) | 2026-09-04 00:03 UTC | 2026-07-06 | current |
+| [Alabama](https://approjects-warn-act-notices.static.hf.space/states/alabama.html) (AL) | 1,061 | 77 | [al.csv](data/by-state/al.csv) | 2026-09-04 00:03 UTC | 2026-08-31 | current |
+| [Arizona](https://approjects-warn-act-notices.static.hf.space/states/arizona.html) (AZ) | 636 | 121 | [az.csv](data/by-state/az.csv) | 2026-09-04 00:03 UTC | 2026-08-21 | current |
+| [California](https://approjects-warn-act-notices.static.hf.space/states/california.html) (CA) | 16,563 | 4,028 | [ca.csv](data/by-state/ca.csv) | 2026-09-04 00:06 UTC | 2026-09-02 | current |
+| [Colorado](https://approjects-warn-act-notices.static.hf.space/states/colorado.html) (CO) | 835 | 177 | [co.csv](data/by-state/co.csv) | 2026-09-04 00:04 UTC | 2026-08-14 | current |
+| [Connecticut](https://approjects-warn-act-notices.static.hf.space/states/connecticut.html) (CT) | 871 | 76 | [ct.csv](data/by-state/ct.csv) | 2026-09-04 00:04 UTC | 2026-06-28 | quiet: agency portal checked by hand 2026-09-02, nothing newer published |
+| [District of Columbia](https://approjects-warn-act-notices.static.hf.space/states/district-of-columbia.html) (DC) | 143 | 56 | [dc.csv](data/by-state/dc.csv) | 2026-09-04 00:04 UTC | 2026-07-27 | current |
+| [Delaware](https://approjects-warn-act-notices.static.hf.space/states/delaware.html) (DE) | 100 | 5 | [de.csv](data/by-state/de.csv) | 2026-09-04 00:04 UTC | 2026-08-10 | current |
+| [Florida](https://approjects-warn-act-notices.static.hf.space/states/florida.html) (FL) | 3,115 | 746 | [fl.csv](data/by-state/fl.csv) | 2026-09-04 00:09 UTC | 2026-08-28 | current |
+| [Georgia](https://approjects-warn-act-notices.static.hf.space/states/georgia.html) (GA) | 282 | 226 | [ga.csv](data/by-state/ga.csv) | 2026-09-04 00:07 UTC | 2026-08-31 | current |
+| [Iowa](https://approjects-warn-act-notices.static.hf.space/states/iowa.html) (IA) | 417 | 81 | [ia.csv](data/by-state/ia.csv) | 2026-09-04 00:04 UTC | 2026-09-01 | current |
+| [Illinois](https://approjects-warn-act-notices.static.hf.space/states/illinois.html) (IL) | 4,844 | 348 | [il.csv](data/by-state/il.csv) | 2026-09-04 00:04 UTC | 2026-09-02 | current |
+| [Indiana](https://approjects-warn-act-notices.static.hf.space/states/indiana.html) (IN) | 1,182 | 262 | [in.csv](data/by-state/in.csv) | 2026-09-04 00:04 UTC | 2026-09-02 | current |
+| [Kansas](https://approjects-warn-act-notices.static.hf.space/states/kansas.html) (KS) | 791 | 34 | [ks.csv](data/by-state/ks.csv) | 2026-09-04 00:05 UTC | 2026-05-01 | quiet: agency portal checked by hand 2026-09-02, nothing newer published |
+| [Kentucky](https://approjects-warn-act-notices.static.hf.space/states/kentucky.html) (KY) | 804 | 38 | [ky.csv](data/by-state/ky.csv) | 2026-09-04 00:05 UTC | 2026-08-10 | current |
+| [Louisiana](https://approjects-warn-act-notices.static.hf.space/states/louisiana.html) (LA) | 38 | 38 | [la.csv](data/by-state/la.csv) | 2026-09-04 00:07 UTC | 2026-08-26 | current |
+| [Maryland](https://approjects-warn-act-notices.static.hf.space/states/maryland.html) (MD) | 1,274 | 329 | [md.csv](data/by-state/md.csv) | 2026-09-04 00:05 UTC | 2026-08-31 | current |
+| [Maine](https://approjects-warn-act-notices.static.hf.space/states/maine.html) (ME) | 85 | 17 | [me.csv](data/by-state/me.csv) | 2026-09-04 00:05 UTC | 2026-08-04 | current |
+| [Michigan](https://approjects-warn-act-notices.static.hf.space/states/michigan.html) (MI) | 112 | 112 | [mi.csv](data/by-state/mi.csv) | 2026-09-04 00:05 UTC | 2026-09-04 | current |
+| [Mississippi](https://approjects-warn-act-notices.static.hf.space/states/mississippi.html) (MS) | 136 | 43 | [ms.csv](data/by-state/ms.csv) | 2026-09-04 00:09 UTC | 2026-05-11 | current; agency posts in batches (see state page) |
+| [Montana](https://approjects-warn-act-notices.static.hf.space/states/montana.html) (MT) | 46 | 18 | [mt.csv](data/by-state/mt.csv) | 2026-09-04 00:05 UTC | 2026-07-21 | current |
+| [North Carolina](https://approjects-warn-act-notices.static.hf.space/states/north-carolina.html) (NC) | 294 | 185 | [nc.csv](data/by-state/nc.csv) | 2026-09-04 00:09 UTC | 2026-08-13 | current |
+| [Nebraska](https://approjects-warn-act-notices.static.hf.space/states/nebraska.html) (NE) | 845 | 29 | [ne.csv](data/by-state/ne.csv) | 2026-09-04 00:05 UTC | 2026-08-26 | current |
+| [New Jersey](https://approjects-warn-act-notices.static.hf.space/states/new-jersey.html) (NJ) | 2,322 | 314 | [nj.csv](data/by-state/nj.csv) | 2026-09-04 00:05 UTC | 2026-09-01 | current |
+| [New Mexico](https://approjects-warn-act-notices.static.hf.space/states/new-mexico.html) (NM) | 116 | 12 | [nm.csv](data/by-state/nm.csv) | 2026-09-04 00:05 UTC | 2026-06-29 | quiet: agency portal checked by hand 2026-09-02, nothing newer published |
+| [New York](https://approjects-warn-act-notices.static.hf.space/states/new-york.html) (NY) | 141 | 141 | [ny.csv](data/by-state/ny.csv) | 2026-09-04 00:05 UTC | 2026-08-04 | current |
+| [Oklahoma](https://approjects-warn-act-notices.static.hf.space/states/oklahoma.html) (OK) | 219 | 29 | [ok.csv](data/by-state/ok.csv) | 2026-09-04 00:05 UTC | 2026-08-17 | current |
+| [Oregon](https://approjects-warn-act-notices.static.hf.space/states/oregon.html) (OR) | 1,369 | 202 | [or.csv](data/by-state/or.csv) | 2026-09-04 00:05 UTC | 2026-09-01 | current |
+| [Pennsylvania](https://approjects-warn-act-notices.static.hf.space/states/pennsylvania.html) (PA) | 309 | 256 | [pa.csv](data/by-state/pa.csv) | 2026-09-04 00:05 UTC | 2026-08-31 | current |
+| [Rhode Island](https://approjects-warn-act-notices.static.hf.space/states/rhode-island.html) (RI) | 126 | 27 | [ri.csv](data/by-state/ri.csv) | 2026-09-04 00:05 UTC | 2026-06-29 | quiet: agency portal checked by hand 2026-09-02, nothing newer published |
+| [South Carolina](https://approjects-warn-act-notices.static.hf.space/states/south-carolina.html) (SC) | 604 | 135 | [sc.csv](data/by-state/sc.csv) | 2026-09-04 00:06 UTC | 2026-08-28 | current |
+| [South Dakota](https://approjects-warn-act-notices.static.hf.space/states/south-dakota.html) (SD) | 80 | 16 | [sd.csv](data/by-state/sd.csv) | 2026-09-04 00:06 UTC | 2026-08-10 | current |
+| [Tennessee](https://approjects-warn-act-notices.static.hf.space/states/tennessee.html) (TN) | 1,061 | 98 | [tn.csv](data/by-state/tn.csv) | 2026-09-04 00:06 UTC | 2026-09-02 | current |
+| [Texas](https://approjects-warn-act-notices.static.hf.space/states/texas.html) (TX) | 2,358 | 573 | [tx.csv](data/by-state/tx.csv) | 2026-09-04 00:09 UTC | 2026-06-23 | current; agency posts in batches (see state page) |
+| [Utah](https://approjects-warn-act-notices.static.hf.space/states/utah.html) (UT) | 282 | 51 | [ut.csv](data/by-state/ut.csv) | 2026-09-04 00:06 UTC | 2026-08-13 | current |
+| [Vermont](https://approjects-warn-act-notices.static.hf.space/states/vermont.html) (VT) | 70 | 16 | [vt.csv](data/by-state/vt.csv) | 2026-09-04 00:06 UTC | 2026-06-17 | quiet: agency portal checked by hand 2026-09-02, nothing newer published |
+| [Washington](https://approjects-warn-act-notices.static.hf.space/states/washington.html) (WA) | 1,500 | 281 | [wa.csv](data/by-state/wa.csv) | 2026-09-04 00:06 UTC | 2026-09-03 | current |
+| [Wisconsin](https://approjects-warn-act-notices.static.hf.space/states/wisconsin.html) (WI) | 617 | 201 | [wi.csv](data/by-state/wi.csv) | 2026-09-04 00:06 UTC | 2026-08-24 | current |
+| [West Virginia](https://approjects-warn-act-notices.static.hf.space/states/west-virginia.html) (WV) | 58 | 38 | [wv.csv](data/by-state/wv.csv) | 2026-09-04 00:09 UTC | 2026-08-19 | current |
 
 **Not covered (12 states):** [Arkansas](https://dws.arkansas.gov/workforce-services/employers/dislocated-worker-services/) (agency site blocks automated access), [Hawaii](https://labor.hawaii.gov/wdc/real-time-warn-updates/) (agency page unparseable (obfuscated links)), [Idaho](https://www.labor.idaho.gov/businesses/layoff-assistance/) (agency PDF is corrupt), [Massachusetts](https://www.mass.gov/info-details/worker-adjustment-and-retraining-notification-act-warn-layoff-and-closure-updates) (agency site blocks automated access), [Minnesota](https://mn.gov/deed/programs-services/dislocated-worker/dislocated-worker/news/) (agency site blocks automated access), [Missouri](https://jobs.mo.gov/employer/warn) (agency site blocks automated access), [Nevada](https://detr.nv.gov/Page/WARN) (agency site blocks automated access), [New Hampshire](https://www.nhes.nh.gov/employers/business-compliance) (agency site blocks automated access), [North Dakota](https://www.jobsnd.com/documents) (no public WARN listing located), [Ohio](https://jfs.ohio.gov/job-workforce-services/job-programs-and-services/submit-a-warn-notice/current-public-notices-of-layoffs-and-closures) (listing is a browser-only app, no data endpoint), [Virginia](https://www.vec.virginia.gov/warn-notices) (listing is a browser-only app, no data endpoint), Wyoming (WARN filings are non-public by state statute). We do not guess or
 backfill these from third parties; if a state opens a public listing it is added.
@@ -173,10 +177,10 @@ the latest revised headcount.
 The free files above are complete and carry no delay. What they cannot do is
 watch YOUR list every morning. Commercial options:
 
-- **[WARN Watch — $49/year, one payment](https://apventureengine.github.io/warn-act-notices/watch.html)** — up to 25 employer
+- **[WARN Watch — $49/year, one payment](https://approjects-warn-act-notices.static.hf.space/watch.html)** — up to 25 employer
   terms plus whole-state watches across all 39 covered states, matched on
   every daily refresh for 365 days; hits land on a private alert page + RSS feed
-  (no login). [What it checks and its limits](https://apventureengine.github.io/warn-act-notices/watch.html) · [buy](https://approj.gumroad.com/l/warn-watch).
+  (no login). [What it checks and its limits](https://approjects-warn-act-notices.static.hf.space/watch.html) · [buy](https://approj.gumroad.com/l/warn-watch).
 - **[Full historical archive — $199 one-time](https://approj.gumroad.com/l/warn-archive)** — every notice
   we have back to 1988 (45,772 rows, all 39 states), CSV + JSON.
 
