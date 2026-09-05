@@ -20,7 +20,8 @@ covers 2024-present. Per-customer WARN Watch alerts + full 1988+ history are the
 | Monthly trends, last 24 months | `https://raw.githubusercontent.com/APVentureEngine/warn-act-notices/main/data/trends.json` |
 | Newly added, last 7 days (CSV) | `https://raw.githubusercontent.com/APVentureEngine/warn-act-notices/main/data/latest.csv` |
 | Newly added, last 7 days (JSON + metadata) | `https://raw.githubusercontent.com/APVentureEngine/warn-act-notices/main/data/latest.json` |
-| New-notice RSS feed | `https://apventureengine.github.io/warn-act-notices/feed.xml` |
+| Daily snapshot as a GitHub Release (always the newest; same files, versioned by date) | `https://github.com/APVentureEngine/warn-act-notices/releases/latest/download/warn_notices.csv` — also `warn_notices.json`, `latest.csv`, `coverage.json`; every release lists the biggest notices of the fortnight in its notes |
+| New-notice RSS feed | `https://approjects-warn-act-notices.static.hf.space/feed.xml` |
 | Live badge: current-year layoffs (shields.io endpoint) | `https://raw.githubusercontent.com/APVentureEngine/warn-act-notices/main/data/badge.json` |
 | Live badge: data freshness (shields.io endpoint) | `https://raw.githubusercontent.com/APVentureEngine/warn-act-notices/main/data/badge-updated.json` |
 
@@ -58,7 +59,26 @@ print(recent.groupby("state").employees_affected.sum().sort_values(ascending=Fal
 
 **Watch for new notices (RSS):** point any feed reader or automation
 (Slack RSS app, Zapier, n8n) at
-`https://apventureengine.github.io/warn-act-notices/feed.xml`.
+`https://approjects-warn-act-notices.static.hf.space/feed.xml`.
+
+**Watch `latest.csv` for a specific employer or state (cron + curl, no dependencies):**
+
+```bash
+# Runs once a day; prints only rows that are new since the last run AND match your terms.
+# Edit TERMS (regex, case-insensitive) — employer names, or a state code like ',TX,'.
+TERMS='amazon|tesla|,TX,'
+URL=https://raw.githubusercontent.com/APVentureEngine/warn-act-notices/main/data/latest.csv
+curl -s "$URL" -o /tmp/warn_latest.csv
+touch /tmp/warn_seen.csv
+grep -iE "$TERMS" /tmp/warn_latest.csv | grep -vxFf /tmp/warn_seen.csv \
+  | tee -a /tmp/warn_seen.csv \
+  | cut -d, -f2-4,6,8    # state, company, canonical name, employees, notice date
+```
+
+Put that in `crontab -e` as `15 9 * * * /path/to/warn_watch.sh | mail -s "WARN hits" you@example.com`
+and you have a free alerting loop. If you would rather not run cron, [WARN Watch](https://approjects-warn-act-notices.static.hf.space/watch.html)
+does exactly this match on every refresh and pushes hits to a private page, RSS, and a
+Slack / Discord / Teams webhook — [30-day free trial, 3 employers or 1 state, no card](https://approj.gumroad.com/l/warn-free-watch).
 
 ## Live badges
 
@@ -68,7 +88,7 @@ fed by this repo's data files, so they re-render automatically after every
 daily refresh — no code on your side.
 
 **Current-year running total** (notices + workers affected, matches
-[yearly](https://apventureengine.github.io/warn-act-notices/yearly/)):
+[yearly](https://approjects-warn-act-notices.static.hf.space/yearly/index.html)):
 
 ```markdown
 [![US WARN layoffs](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FAPProj%2Fwarn-act-notices%2Fmain%2Fdata%2Fbadge.json)](https://github.com/APVentureEngine/warn-act-notices)
@@ -96,7 +116,7 @@ pass any extra shields parameters (`&style=flat-square`, `&logo=github`, …).
 
 The free files carry no delay. If you only care about certain employers or states:
 
-- **[WARN Watch — $49/year](https://apventureengine.github.io/warn-act-notices/watch.html)** — up to 25 employer terms + whole-state
+- **[WARN Watch — $49/year](https://approjects-warn-act-notices.static.hf.space/watch.html)** — up to 25 employer terms + whole-state
   watches matched on every refresh for a year; private alert page + RSS, no login.
 - **[Full historical archive — $199 one-time](https://approj.gumroad.com/l/warn-archive)** — every notice back
   to 1988, all covered states, CSV + JSON.

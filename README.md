@@ -29,6 +29,7 @@ your Slack / Discord / Teams webhook — no login, no account here.
 - Coverage/freshness metadata: [`data/coverage.json`](data/coverage.json)
 - Per-state CSVs: [`data/by-state/`](data/by-state/) — see table below
 - **Newly added in the last 7 days:** [`data/latest.csv`](data/latest.csv) / [`data/latest.json`](data/latest.json) — stable raw URLs for "new WARN notices" alerting and dashboards (no delay)
+- **Daily GitHub Release** (versioned snapshot, biggest notices of the fortnight in the notes): [releases](https://github.com/APVentureEngine/warn-act-notices/releases) · stable alias `https://github.com/APVentureEngine/warn-act-notices/releases/latest/download/warn_notices.csv`
 - Stats page: https://approjects-warn-act-notices.static.hf.space/index.html
 - RSS feed of newly-published notices: https://approjects-warn-act-notices.static.hf.space/feed.xml (no delay)
 - Per-state RSS feeds (one state per feed — pipe a single state into Slack/Feedly/Zapier): OPML bundle https://approjects-warn-act-notices.static.hf.space/feeds/feeds.opml, or `feeds/<state>.xml`, e.g. https://approjects-warn-act-notices.static.hf.space/feeds/california.xml
