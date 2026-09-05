@@ -14,6 +14,21 @@ deduplicated dataset, refreshed daily. Background on the law itself: the
 [Worker Adjustment and Retraining Notification Act of 1988](https://en.wikipedia.org/wiki/Worker_Adjustment_and_Retraining_Notification_Act_of_1988)
 on Wikipedia.
 
+**Using this dataset? Two free things that take five seconds.** They cost you
+nothing and they are the only thing keeping this pipeline funded and findable:
+
+- [**Star the repo**](https://github.com/APVentureEngine/warn-act-notices) — stars are how the next person who was about
+  to write their own 39-state WARN scraper finds this instead of rebuilding it.
+- [**Watch → Custom → Releases**](https://github.com/APVentureEngine/warn-act-notices/subscription) — GitHub then notifies
+  you each day the snapshot is republished. The release notes carry the row
+  counts and the per-state freshness table, so a new state or a changed field
+  reaches you on the day it lands. No signup here, no mailing list, and no email
+  address for us to hold.
+
+Found a bug in a row, or need a state we do not cover?
+[Open an issue](https://github.com/APVentureEngine/warn-act-notices/issues) — the last reader's README fix shipped the
+same day.
+
 **Need to be told when a name on your list files?** The files below are yours to
 poll. WARN Watch does the polling: your employer terms and states are matched on
 every daily refresh and hits are pushed to a private alert page, an RSS feed, and
