@@ -1,5 +1,7 @@
 id,state,company,company_canonical,company_dba,location,employees_affected,notice_date,effective_date,notice_type,first_seen
+d96bbc6990e2d858,MI,Rugged Liner,Rugged Liner,,Shiawassee,90,,2027-03-19,Company closure,2026-09-05T00:23:47.508206Z
 926cfe22156a5df6,MI,"General Motors, LLC -- Lansing Region",General Motors,,"Eaton, Ingham",350,,2027-01-14,Mass layoff,2026-08-30T22:16:36.831610Z
+e0221928c0d1ae0e,MI,Trinity Health Corp.,Trinity Health,,Wayne,557,,2026-10-25,Permanent layoff,2026-09-05T00:23:47.508206Z
 2cd1c9c2d387600c,MI,SMBC MANUBANK,Smbc Manubank,,Remote,1,,2026-10-09,Mass permanent layoff,2026-08-30T22:16:36.831610Z
 e28833477764a02b,MI,Kroger,Kroger,,Genesee,68,,2026-09-30,Facility closure,2026-08-30T22:16:36.831610Z
 ef0db169b33e6621,MI,"Compass Group USA, Inc. / Morrison Healthcare","Compass Group USA, Inc. / Morrison Healthcare",,"Cheboygan, Emmett, Genessee, Ingham, Lapeer",168,,2026-09-25,Layoff,2026-08-30T22:16:36.831610Z

@@ -1,6 +1,6 @@
 id,state,company,company_canonical,company_dba,location,employees_affected,notice_date,effective_date,notice_type,first_seen
 4ec1e0490ff13ee2,SC,"Electrolux Consumer Products, Inc.",Electrolux Consumer Products,,Anderson,10,,2026-12-22,,2026-08-30T21:43:41.512264Z
-c2786d718f4121bb,SC,The Westin Hilton Head Island Resort & Spa,Westin Hilton Head Island Resort & Spa,,Beaufort,219,,2026-11-03,,2026-08-30T21:43:41.512264Z
+0e60ae40835f8f1a,SC,The Westin Hilton Head Island Resort & Spa,Westin Hilton Head Island Resort & Spa,,Beaufort,157,,2026-11-03,,2026-09-05T00:23:47.508206Z
 39c761f67e84efec,SC,KPR US LLC,KPR US,,Kershaw,3,,2026-11-01,,2026-08-30T21:43:41.512264Z
 483d0a6e1c27502c,SC,DP World,DP World,,Spartanburg,205,,2026-10-31,,2026-09-02T18:45:14.612156Z
 3002c68dd1ff4dcd,SC,PepsiCo Beverages Sales LLC,PepsiCo Beverages Sales,,Richland,105,,2026-10-18,,2026-08-30T21:43:41.512264Z

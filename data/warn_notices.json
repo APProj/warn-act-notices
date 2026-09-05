@@ -1,5 +1,18 @@
 [
 {
+"company": "Rugged Liner",
+"location": "Shiawassee",
+"employees_affected": 90,
+"notice_date": "",
+"effective_date": "2027-03-19",
+"notice_type": "Company closure",
+"state": "MI",
+"company_canonical": "Rugged Liner",
+"company_dba": "",
+"id": "d96bbc6990e2d858",
+"first_seen": "2026-09-05T00:23:47.508206Z"
+},
+{
 "company": "General Motors, LLC -- Lansing Region",
 "location": "Eaton, Ingham",
 "employees_affected": 350,
@@ -41,15 +54,15 @@
 {
 "company": "The Westin Hilton Head Island Resort & Spa",
 "location": "Beaufort",
-"employees_affected": 219,
+"employees_affected": 157,
 "notice_date": "",
 "effective_date": "2026-11-03",
 "notice_type": "",
 "state": "SC",
 "company_canonical": "Westin Hilton Head Island Resort & Spa",
 "company_dba": "",
-"id": "c2786d718f4121bb",
-"first_seen": "2026-08-30T21:43:41.512264Z"
+"id": "0e60ae40835f8f1a",
+"first_seen": "2026-09-05T00:23:47.508206Z"
 },
 {
 "company": "KPR US LLC",
@@ -141,6 +154,19 @@
 "company_dba": "",
 "id": "94c22416f6362f38",
 "first_seen": "2026-09-02T05:08:44.856399Z"
+},
+{
+"company": "Trinity Health Corp.",
+"location": "Wayne",
+"employees_affected": 557,
+"notice_date": "",
+"effective_date": "2026-10-25",
+"notice_type": "Permanent layoff",
+"state": "MI",
+"company_canonical": "Trinity Health",
+"company_dba": "",
+"id": "e0221928c0d1ae0e",
+"first_seen": "2026-09-05T00:23:47.508206Z"
 },
 {
 "company": "PepsiCo Beverages Sales LLC",
@@ -416,6 +442,19 @@
 "first_seen": "2026-08-30T22:16:36.831610Z"
 },
 {
+"company": "Amentum",
+"location": "E Hospital Rd Augusta",
+"employees_affected": 77,
+"notice_date": "2026-09-04",
+"effective_date": "2026-10-31",
+"notice_type": "Permanent Layoff / Reduction in Force",
+"state": "GA",
+"company_canonical": "Amentum",
+"company_dba": "",
+"id": "5d1c51b404d53a63",
+"first_seen": "2026-09-05T00:23:47.508206Z"
+},
+{
 "company": "Gilbert Orchards, Inc.",
 "location": "Yakima, Franklin and Grant Counties",
 "employees_affected": 518,
@@ -557,6 +596,19 @@
 "company_dba": "",
 "id": "ec275f875ecd53a8",
 "first_seen": "2026-09-04T00:09:40.386632Z"
+},
+{
+"company": "Ametek (Lavezzi Precision, Inc.)",
+"location": "Bloomingdale, 250 Madsen Dr",
+"employees_affected": 63,
+"notice_date": "2026-09-01",
+"effective_date": "",
+"notice_type": "State",
+"state": "IL",
+"company_canonical": "Ametek (Lavezzi Precision, Inc.)",
+"company_dba": "",
+"id": "da0cf5d0ca38ea50",
+"first_seen": "2026-09-05T00:23:47.508206Z"
 },
 {
 "company": "UBS",
@@ -2900,7 +2952,7 @@
 },
 {
 "company": "JeniusBank",
-"location": "New York, 277 Park Ave; New York, New York 10172",
+"location": "New York",
 "employees_affected": 106,
 "notice_date": "2026-08-10",
 "effective_date": "",
@@ -4418,6 +4470,19 @@
 "company_dba": "",
 "id": "b764fe8124cb3d70",
 "first_seen": "2026-08-30T21:43:41.512264Z"
+},
+{
+"company": "BuzzFeed Media Enterprises Inc",
+"location": "New York",
+"employees_affected": 84,
+"notice_date": "2026-07-27",
+"effective_date": "2026-07-27",
+"notice_type": "Layoff",
+"state": "NY",
+"company_canonical": "BuzzFeed Media Enterprises",
+"company_dba": "",
+"id": "a1a876481bc7f451",
+"first_seen": "2026-09-05T00:23:47.508206Z"
 },
 {
 "company": "Intel Corporation - SC-12",
@@ -28484,7 +28549,7 @@
 },
 {
 "company": "Vornado Air, LLC.",
-"location": "Andover, 415 E. 13th ; Andover, Kansas 67002",
+"location": "Andover",
 "employees_affected": 72,
 "notice_date": "2026-01-30",
 "effective_date": "",
@@ -52118,7 +52183,7 @@
 },
 {
 "company": "Unrivaled Teamwear",
-"location": "Manhattan",
+"location": "Manhattan, 520 McCall Rd; Manhattan, Kansas 66502",
 "employees_affected": 72,
 "notice_date": "2025-07-29",
 "effective_date": "",
@@ -76597,7 +76662,7 @@
 },
 {
 "company": "S&S Activewear",
-"location": "Edwardsville",
+"location": "Edwardsville, 9525 Woodend Road; Edwardsville, Kansas 66111",
 "employees_affected": 86,
 "notice_date": "2025-01-20",
 "effective_date": "",

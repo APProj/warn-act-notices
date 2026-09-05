@@ -1,5 +1,6 @@
 id,state,company,company_canonical,company_dba,location,employees_affected,notice_date,effective_date,notice_type,first_seen
 30a7bc8f7ed7cd0c,NY,"Sky Chefs, LLC",Sky Chefs,,Queens,471,2026-08-04,2026-10-07,Layoff,2026-08-30T21:43:41.512264Z
+a1a876481bc7f451,NY,BuzzFeed Media Enterprises Inc,BuzzFeed Media Enterprises,,New York,84,2026-07-27,2026-07-27,Layoff,2026-09-05T00:23:47.508206Z
 1ed516fe0fca5280,NY,Novanta Corporation,Novanta,,Onondaga,49,2026-07-21,2027-03-31,Closure,2026-08-30T21:43:41.512264Z
 ca44dcdd5972d26b,NY,Buffalo Newspress Inc. d/b/a BNP Empowered Print,Buffalo Newspress,BNP Empowered Print,Erie,81,2026-07-09,2026-07-09,Closure,2026-08-30T21:43:41.512264Z
 278a765f5bb515d5,NY,"Pomonok Home Services, Inc.",Pomonok Home Services,,Queens,226,2026-07-09,2026-10-08,Closure,2026-08-30T21:43:41.512264Z

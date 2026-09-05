@@ -1,4 +1,10 @@
 id,state,company,company_canonical,company_dba,location,employees_affected,notice_date,effective_date,notice_type,first_seen
+d96bbc6990e2d858,MI,Rugged Liner,Rugged Liner,,Shiawassee,90,,2027-03-19,Company closure,2026-09-05T00:23:47.508206Z
+0e60ae40835f8f1a,SC,The Westin Hilton Head Island Resort & Spa,Westin Hilton Head Island Resort & Spa,,Beaufort,157,,2026-11-03,,2026-09-05T00:23:47.508206Z
+e0221928c0d1ae0e,MI,Trinity Health Corp.,Trinity Health,,Wayne,557,,2026-10-25,Permanent layoff,2026-09-05T00:23:47.508206Z
+5d1c51b404d53a63,GA,Amentum,Amentum,,E Hospital Rd Augusta,77,2026-09-04,2026-10-31,Permanent Layoff / Reduction in Force,2026-09-05T00:23:47.508206Z
+da0cf5d0ca38ea50,IL,"Ametek (Lavezzi Precision, Inc.)","Ametek (Lavezzi Precision, Inc.)",,"Bloomingdale, 250 Madsen Dr",63,2026-09-01,,State,2026-09-05T00:23:47.508206Z
+a1a876481bc7f451,NY,BuzzFeed Media Enterprises Inc,BuzzFeed Media Enterprises,,New York,84,2026-07-27,2026-07-27,Layoff,2026-09-05T00:23:47.508206Z
 aa6080e05d6e0eb0,WA,"Gilbert Orchards, Inc.",Gilbert Orchards,,"Yakima, Franklin and Grant Counties",518,2026-09-03,2026-11-22,Layoff,2026-09-04T00:09:40.386632Z
 fc8a03a80a422a9b,IL,"Fulton Troika, LLC",Fulton Troika,,"Chicago, 4501 W 42ND Pl",109,2026-09-02,,State,2026-09-04T00:09:40.386632Z
 947d7eb47d7c45be,IL,"Uber Technologies, Inc.",Uber Technologies,,"Chicago, 433 West Van Buren St.",363,2026-09-02,,State,2026-09-04T00:09:40.386632Z
@@ -63,7 +69,7 @@ a9cb5edb72f6afbc,AL,Flagstone Foods,Flagstone Foods,,Dothan,98,2026-08-20,2026-1
 08400b9e9308de01,WV,ECM Energy Services,ECM Energy Services,,,,2026-08-19,,,2026-09-02T05:08:44.856399Z
 bd9209c01e2e59a5,PA,JBS Souderton,JBS Souderton,,"Souderton, Montgomery",1485,,2026-08-14,Closure,2026-09-02T05:08:44.856399Z
 b5a00caf7d48900f,NC,Ryder,Ryder,,"Fayetteville, Cumberland County",73,2026-08-13,2026-10-12,Layoff,2026-09-02T05:08:44.856399Z
-574b0ddedc811a9d,DE,JeniusBank,JeniusBank,,"New York, 277 Park Ave; New York, New York 10172",106,2026-08-10,,WARN,2026-09-02T05:08:44.856399Z
+574b0ddedc811a9d,DE,JeniusBank,JeniusBank,,New York,106,2026-08-10,,WARN,2026-09-02T05:08:44.856399Z
 d76497908ac8ef52,PA,"WILX Logistics, LLC",WILX Logistics,,"Mount Joy, Lancaster",70,,2026-08-09,Closure,2026-09-02T05:08:44.856399Z
 3be34dc1eed962bb,AL,Fluor Enterprises Inc.,Fluor Enterprises,,Bay Minette,66,2026-08-06,2026-07-31,Layoff,2026-09-02T05:08:44.856399Z
 b351a67c82c57ac3,ME,"Host International, Inc.",Host International,,"Portland, 1001 Westbrook St; Portland, Maine 04102",102,2026-08-04,,WARN,2026-09-02T05:08:44.856399Z
