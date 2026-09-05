@@ -1,5 +1,9 @@
 # US WARN Act Layoff Notices — normalized, daily-updated dataset
 
+<!-- frozen-notice -->
+> **⚠ No longer updated (since 2026-09-05).** This dataset was maintained daily until 2026-09-05 and is now frozen; the last refresh is the one you see below. The files stay online and the license is unchanged. For a maintained free superset (46 states, 1988–present, MIT) see [kadoa-org/layoffs-tracker](https://github.com/kadoa-org/layoffs-tracker).
+
+
 [![US WARN layoffs 2026](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FAPVentureEngine%2Fwarn-act-notices%2Fmain%2Fdata%2Fbadge.json)](https://approjects-warn-act-notices.static.hf.space/yearly/index.html) [![data updated](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FAPVentureEngine%2Fwarn-act-notices%2Fmain%2Fdata%2Fbadge-updated.json)](https://github.com/APVentureEngine/warn-act-notices/commits/main) — live, embeddable: [get these badges](API.md#live-badges)
 
 **9,445 layoff notices since 2024 · 39 states · one clean schema · CSV + JSON · updated 2026-09-05**
