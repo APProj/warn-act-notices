@@ -14,6 +14,14 @@ deduplicated dataset, refreshed daily. Background on the law itself: the
 [Worker Adjustment and Retraining Notification Act of 1988](https://en.wikipedia.org/wiki/Worker_Adjustment_and_Retraining_Notification_Act_of_1988)
 on Wikipedia.
 
+**Need to be told when a name on your list files?** The files below are yours to
+poll. WARN Watch does the polling: your employer terms and states are matched on
+every daily refresh and hits are pushed to a private alert page, an RSS feed, and
+your Slack / Discord / Teams webhook — no login, no account here.
+[Start the free 30-day trial](https://approj.gumroad.com/l/warn-free-watch) (3 employers or 1 state, no card) ·
+[WARN Watch — $49/year](https://approj.gumroad.com/l/warn-watch) ·
+[Full 1988+ archive — $199](https://approj.gumroad.com/l/warn-archive) (45,777 rows)
+
 ## Get the data
 
 - CSV: [`data/warn_notices.csv`](data/warn_notices.csv)
@@ -181,7 +189,9 @@ watch YOUR list every morning. Commercial options:
 - **[WARN Watch — $49/year, one payment](https://approjects-warn-act-notices.static.hf.space/watch.html)** — up to 25 employer
   terms plus whole-state watches across all 39 covered states, matched on
   every daily refresh for 365 days; hits land on a private alert page + RSS feed
-  (no login). [What it checks and its limits](https://approjects-warn-act-notices.static.hf.space/watch.html) · [buy](https://approj.gumroad.com/l/warn-watch).
+  and, if you paste a webhook URL at checkout, your Slack / Discord / Teams
+  channel (no login, no email required).
+  [What it checks and its limits](https://approjects-warn-act-notices.static.hf.space/watch.html) · [free 30-day trial](https://approj.gumroad.com/l/warn-free-watch) · [buy](https://approj.gumroad.com/l/warn-watch).
 - **[Full historical archive — $199 one-time](https://approj.gumroad.com/l/warn-archive)** — every notice
   we have back to 1988 (45,777 rows, all 39 states), CSV + JSON.
 
